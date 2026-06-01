@@ -65,7 +65,13 @@ Page({
     const name = this.data.inputValue.trim()
     if (!name) return
 
-    const player = validatePlayer(name, this.data.allPlayers)
+    let player = validatePlayer(name, this.data.allPlayers)
+
+    // If no exact match but we have suggestions, use the first one
+    if (!player && this.data.suggestions.length > 0) {
+      player = this.data.suggestions[0]
+    }
+
     if (!player) {
       wx.showToast({ title: '请输入有效的球员名', icon: 'none' })
       return

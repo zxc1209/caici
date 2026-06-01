@@ -32,7 +32,12 @@ function matchScore(query, player) {
 function validatePlayer(name, players) {
   if (!name) return null
   const lower = name.trim().toLowerCase()
-  return players.find(p => p.name_en.toLowerCase() === lower) || null
+  // Try exact match against English name, Chinese name, or id
+  return players.find(p =>
+    p.name_en.toLowerCase() === lower ||
+    (p.name && p.name.toLowerCase() === lower) ||
+    p.id.toLowerCase() === lower
+  ) || null
 }
 
 module.exports = { searchPlayers, validatePlayer }
