@@ -1,0 +1,42 @@
+<view class="container">
+  <view class="header">
+    <text class="logo">🏀</text>
+    <text class="title">NBA 猜词</text>
+    <text class="subtitle">猜猜今天的 NBA 球员是谁？</text>
+  </view>
+
+  <view class="mode-section">
+    <view class="mode-card {{mode === 'daily' ? 'active' : ''}}" bindtap="selectMode" data-mode="daily">
+      <text class="mode-icon">📅</text>
+      <text class="mode-title">每日挑战</text>
+      <text class="mode-desc">每天一个球员，大家都猜同一个</text>
+    </view>
+    <view class="mode-card {{mode === 'unlimited' ? 'active' : ''}}" bindtap="selectMode" data-mode="unlimited">
+      <text class="mode-icon">♾️</text>
+      <text class="mode-title">无限模式</text>
+      <text class="mode-desc">随机球员，猜完继续下一局</text>
+    </view>
+  </view>
+
+  <view class="difficulty-section">
+    <text class="section-label">难度选择</text>
+    <view class="difficulty-row">
+      <view class="diff-btn {{difficulty === 1 ? 'active' : ''}}" bindtap="selectDifficulty" data-level="1">
+        <text>⭐</text>
+        <text>球星</text>
+      </view>
+      <view class="diff-btn {{difficulty === 2 ? 'active' : ''}}" bindtap="selectDifficulty" data-level="2">
+        <text>⭐⭐</text>
+        <text>知名</text>
+      </view>
+      <view class="diff-btn {{difficulty === 3 ? 'active' : ''}}" bindtap="selectDifficulty" data-level="3">
+        <text>⭐⭐⭐</text>
+        <text>全部</text>
+      </view>
+    </view>
+  </view>
+
+  <view class="start-btn" bindtap="startGame">
+    <text>开始游戏</text>
+  </view>
+</view>
