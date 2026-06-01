@@ -1,0 +1,62 @@
+<view class="container">
+  <view class="result-header">
+    <text class="result-emoji">🎉</text>
+    <text class="result-title">猜对了！</text>
+  </view>
+
+  <view class="player-card">
+    <text class="player-name">{{player.name}}</text>
+    <text class="player-en">{{player.name_en}}</text>
+
+    <view class="info-grid">
+      <view class="info-item">
+        <text class="info-label">位置</text>
+        <text class="info-value">{{player.position}}</text>
+      </view>
+      <view class="info-item">
+        <text class="info-label">身高/体重</text>
+        <text class="info-value">{{player.height}}cm / {{player.weight}}kg</text>
+      </view>
+      <view class="info-item">
+        <text class="info-label">选秀</text>
+        <text class="info-value">{{player.draft_year}}年 第{{player.draft_pick}}顺位</text>
+      </view>
+      <view class="info-item">
+        <text class="info-label">国籍</text>
+        <text class="info-value">{{player.nationality}}</text>
+      </view>
+    </view>
+
+    <view class="honors-section" wx:if="{{player.honors}}">
+      <text class="section-title">荣誉</text>
+      <view class="honor-tags">
+        <text class="honor-tag" wx:if="{{player.honors.mvp > 0}}">MVP ×{{player.honors.mvp}}</text>
+        <text class="honor-tag" wx:if="{{player.honors.championships > 0}}">🏆 ×{{player.honors.championships}}</text>
+        <text class="honor-tag" wx:if="{{player.honors.all_star > 0}}">全明星 ×{{player.honors.all_star}}</text>
+        <text class="honor-tag" wx:if="{{player.honors.hall_of_fame}}">名人堂</text>
+      </view>
+    </view>
+
+    <view class="stats-section" wx:if="{{player.career_stats}}">
+      <text class="section-title">生涯场均</text>
+      <view class="stats-row">
+        <text>{{player.career_stats.ppg}} 分</text>
+        <text>{{player.career_stats.rpg}} 板</text>
+        <text>{{player.career_stats.apg}} 助</text>
+      </view>
+    </view>
+  </view>
+
+  <view class="guess-summary">
+    <text>共猜测 {{guessCount}} 次</text>
+  </view>
+
+  <view class="action-btns">
+    <view class="btn-primary" bindtap="onNewGame">
+      <text>再来一局</text>
+    </view>
+    <view class="btn-secondary" bindtap="onBackHome">
+      <text>返回首页</text>
+    </view>
+  </view>
+</view>

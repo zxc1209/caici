@@ -1,0 +1,67 @@
+.result-header {
+  text-align: center;
+  padding: 60rpx 0 40rpx;
+}
+
+.result-emoji { font-size: 80rpx; display: block; }
+.result-title { font-size: 40rpx; font-weight: 700; display: block; margin-top: 10rpx; }
+
+.player-card {
+  background-color: #16213e;
+  border-radius: 16rpx;
+  padding: 30rpx;
+  margin-bottom: 30rpx;
+}
+
+.player-name { font-size: 40rpx; font-weight: 700; display: block; }
+.player-en { font-size: 28rpx; color: #888; display: block; margin: 6rpx 0 24rpx; }
+
+.info-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16rpx;
+}
+
+.info-item {
+  flex: 0 0 calc(50% - 8rpx);
+  background-color: #0f0f1a;
+  border-radius: 8rpx;
+  padding: 16rpx;
+}
+
+.info-label { font-size: 22rpx; color: #666; display: block; }
+.info-value { font-size: 28rpx; font-weight: 500; display: block; margin-top: 4rpx; }
+
+.section-title {
+  font-size: 24rpx;
+  color: #888;
+  margin: 24rpx 0 12rpx;
+  display: block;
+}
+
+.honor-tags { display: flex; flex-wrap: wrap; gap: 10rpx; }
+.honor-tag {
+  background-color: #e94560;
+  color: white;
+  font-size: 24rpx;
+  padding: 8rpx 16rpx;
+  border-radius: 20rpx;
+}
+
+.stats-row {
+  display: flex;
+  gap: 30rpx;
+  font-size: 28rpx;
+  font-weight: 600;
+}
+
+.guess-summary {
+  text-align: center;
+  color: #888;
+  font-size: 28rpx;
+  margin: 20rpx 0;
+}
+
+.action-btns {
+  margin-top: 40rpx;
+}
