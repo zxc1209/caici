@@ -124,9 +124,17 @@ function nationalityCollegeScore(nat1, col1, nat2, col2) {
   return Math.min(1.0, score / count)
 }
 
+function allStarLevel(count) {
+  const safe = count ?? 0
+  if (safe === 0) return 0
+  if (safe <= 3) return 1
+  if (safe <= 7) return 2
+  return 3
+}
+
 function allStarLevelScore(as1, as2) {
-  const level1 = as1 === 0 ? 0 : as1 <= 3 ? 1 : as1 <= 7 ? 2 : 3
-  const level2 = as2 === 0 ? 0 : as2 <= 3 ? 1 : as2 <= 7 ? 2 : 3
+  const level1 = allStarLevel(as1)
+  const level2 = allStarLevel(as2)
   if (level1 === level2) return 1.0
   if (Math.abs(level1 - level2) === 1) return 0.6
   return 0.2
@@ -253,6 +261,10 @@ function generateHint(guess, answer, scores) {
 }
 
 function calculateSimilarity(guess, answer) {
+  if (!guess || !answer) {
+    return { score: 0, hint: '数据错误', details: {} }
+  }
+
   if (guess.id === answer.id) {
     return { score: 100.0, hint: '这就是正确答案！', details: {} }
   }
@@ -281,6 +293,12 @@ function calculateSimilarity(guess, answer) {
   }
 
   const percentage = Math.round(total * 1000) / 10
+
+  // Guard against NaN from bad data
+  if (isNaN(percentage)) {
+    return { score: 0, hint: '数据异常', details: scores }
+  }
+
   const hint = generateHint(guess, answer, scores)
 
   return { score: percentage, hint, details: scores }
