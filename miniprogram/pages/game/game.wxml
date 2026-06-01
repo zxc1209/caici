@@ -1,0 +1,77 @@
+<view class="container">
+  <view class="top-bar">
+    <text class="mode-badge">{{mode === 'daily' ? '📅 每日挑战' : '♾️ 无限模式'}}</text>
+    <text class="diff-badge">{{difficultyStars}}</text>
+  </view>
+
+  <view class="input-section" wx:if="{{!gameOver}}">
+    <view class="input-wrapper">
+      <input
+        class="player-input"
+        placeholder="输入球员姓名..."
+        value="{{inputValue}}"
+        bindinput="onInput"
+        bindconfirm="onSubmit"
+        focus="{{true}}"
+        placeholder-style="color: #555"
+      />
+    </view>
+
+    <view class="suggestions" wx:if="{{suggestions.length > 0}}">
+      <view
+        class="suggestion-item"
+        wx:for="{{suggestions}}"
+        wx:key="id"
+        bindtap="onSelectSuggestion"
+        data-name="{{item.name_en}}"
+      >
+        <text>{{item.name}}</text>
+        <text class="suggestion-en">{{item.name_en}} · {{item.position}}</text>
+      </view>
+    </view>
+
+    <view class="submit-btn {{inputValue ? 'active' : ''}}" bindtap="onSubmit">
+      <text>提交猜测</text>
+    </view>
+  </view>
+
+  <view class="success-banner" wx:if="{{gameOver}}">
+    <text class="success-emoji">🎉</text>
+    <text class="success-text">猜对了！</text>
+    <text class="success-player">{{answerName}}</text>
+    <text class="success-count">共猜测 {{guesses.length}} 次</text>
+    <view class="new-game-btn" bindtap="onNewGame">
+      <text>再来一局</text>
+    </view>
+    <view class="back-btn" bindtap="onBackHome">
+      <text>返回首页</text>
+    </view>
+  </view>
+
+  <view class="history-section">
+    <text class="history-title">历史猜测</text>
+    <view class="guess-list" wx:if="{{guesses.length > 0}}">
+      <view class="guess-item" wx:for="{{guesses}}" wx:key="id">
+        <view class="guess-rank">
+          <text class="rank-num">#{{index + 1}}</text>
+        </view>
+        <view class="guess-info">
+          <text class="guess-name">{{item.player.name}}</text>
+          <text class="guess-hint">💡 {{item.hint}}</text>
+        </view>
+        <view class="guess-score">
+          <text class="score-value {{item.score > 70 ? 'score-hot' : item.score > 40 ? 'score-warm' : 'score-cool'}}">
+            {{item.score}}%
+          </text>
+        </view>
+      </view>
+    </view>
+    <view class="empty-hint" wx:else>
+      <text>输入球员名开始猜测</text>
+    </view>
+  </view>
+
+  <view class="footer" wx:if="{{!gameOver}}">
+    <text>已猜 {{guesses.length}} 次</text>
+  </view>
+</view>

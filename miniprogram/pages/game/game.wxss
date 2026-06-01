@@ -1,0 +1,180 @@
+.top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20rpx 0;
+  margin-bottom: 30rpx;
+}
+
+.mode-badge, .diff-badge {
+  font-size: 26rpx;
+  color: #aaa;
+}
+
+.input-section {
+  margin-bottom: 30rpx;
+}
+
+.input-wrapper {
+  background-color: #16213e;
+  border: 2rpx solid #2a2a4a;
+  border-radius: 12rpx;
+  padding: 0 24rpx;
+}
+
+.player-input {
+  height: 88rpx;
+  font-size: 32rpx;
+  color: #fff;
+  width: 100%;
+}
+
+.suggestions {
+  background-color: #16213e;
+  border: 2rpx solid #2a2a4a;
+  border-top: none;
+  border-radius: 0 0 12rpx 12rpx;
+  overflow: hidden;
+}
+
+.suggestion-item {
+  padding: 20rpx 24rpx;
+  border-bottom: 1rpx solid #2a2a4a;
+  display: flex;
+  justify-content: space-between;
+  font-size: 28rpx;
+}
+
+.suggestion-item:last-child {
+  border-bottom: none;
+}
+
+.suggestion-en {
+  color: #8888aa;
+  font-size: 24rpx;
+}
+
+.submit-btn {
+  background-color: #333355;
+  color: #888;
+  border-radius: 12rpx;
+  padding: 24rpx 0;
+  text-align: center;
+  font-size: 32rpx;
+  font-weight: 600;
+  margin-top: 20rpx;
+  transition: all 0.2s;
+}
+
+.submit-btn.active {
+  background-color: #e94560;
+  color: white;
+}
+
+.success-banner {
+  text-align: center;
+  padding: 40rpx 0;
+  background-color: #16213e;
+  border-radius: 16rpx;
+  margin-bottom: 30rpx;
+  border: 2rpx solid #e94560;
+}
+
+.success-emoji { font-size: 64rpx; display: block; }
+.success-text { font-size: 32rpx; color: #e94560; display: block; margin: 10rpx 0; }
+.success-player { font-size: 40rpx; font-weight: 700; display: block; }
+.success-count { font-size: 26rpx; color: #888; display: block; margin-top: 10rpx; }
+
+.new-game-btn {
+  background-color: #e94560;
+  color: white;
+  border-radius: 12rpx;
+  padding: 20rpx 0;
+  margin: 24rpx 40rpx 10rpx;
+  font-size: 30rpx;
+  font-weight: 600;
+}
+
+.back-btn {
+  background-color: transparent;
+  color: #888;
+  border: 2rpx solid #2a2a4a;
+  border-radius: 12rpx;
+  padding: 20rpx 0;
+  margin: 10rpx 40rpx;
+  font-size: 28rpx;
+}
+
+.history-section {
+  flex: 1;
+}
+
+.history-title {
+  font-size: 28rpx;
+  color: #888;
+  margin-bottom: 16rpx;
+  display: block;
+}
+
+.empty-hint {
+  text-align: center;
+  color: #555;
+  font-size: 28rpx;
+  padding: 60rpx 0;
+}
+
+.guess-item {
+  background-color: #16213e;
+  border-radius: 12rpx;
+  padding: 24rpx;
+  margin-bottom: 12rpx;
+  display: flex;
+  align-items: center;
+  border: 1rpx solid #2a2a4a;
+}
+
+.guess-rank {
+  width: 60rpx;
+}
+
+.rank-num {
+  font-size: 28rpx;
+  color: #666;
+  font-weight: 600;
+}
+
+.guess-info {
+  flex: 1;
+}
+
+.guess-name {
+  font-size: 30rpx;
+  font-weight: 500;
+  display: block;
+  margin-bottom: 4rpx;
+}
+
+.guess-hint {
+  font-size: 24rpx;
+  color: #8888aa;
+}
+
+.guess-score {
+  margin-left: 16rpx;
+}
+
+.score-value {
+  font-size: 32rpx;
+  font-weight: 700;
+}
+
+.score-hot { color: #e94560; }
+.score-warm { color: #f0a050; }
+.score-cool { color: #6666aa; }
+
+.footer {
+  text-align: center;
+  padding: 30rpx 0;
+  color: #555;
+  font-size: 26rpx;
+}
