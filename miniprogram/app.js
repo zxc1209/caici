@@ -6,7 +6,7 @@ App({
 
   onLaunch() {
     try {
-      const players = require('./data/players.json')
+      const players = require('./data/players.js')
       this.globalData.players = players
       players.forEach(p => {
         if (p.name_en) {

@@ -1,5 +1,5 @@
 const { searchPlayers, validatePlayer } = require('../miniprogram/utils/autocomplete.js')
-const players = require('../miniprogram/data/players.json')
+const players = require('../miniprogram/data/players.js')
 
 function testChineseSearch() {
   const results = searchPlayers('詹', players)

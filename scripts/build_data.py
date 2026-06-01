@@ -94,12 +94,19 @@ def validate_all(players):
 
 
 def main():
-    input_path = Path("miniprogram/data/players.json")
+    input_path = Path("miniprogram/data/players.js")
     if not input_path.exists():
         print(f"[ERROR] Input file not found: {input_path}")
         sys.exit(1)
     with open(input_path, "r", encoding="utf-8") as f:
-        players = json.load(f)
+        content = f.read()
+    # Strip JS module wrapper: "module.exports = ...;"
+    content = content.strip()
+    if content.startswith("module.exports"):
+        content = content.split("=", 1)[1].strip()
+    if content.endswith(";"):
+        content = content[:-1].strip()
+    players = json.loads(content)
     print(f"Loaded {len(players)} players")
     errors = validate_all(players)
     if errors:

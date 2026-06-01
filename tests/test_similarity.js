@@ -2,7 +2,7 @@
 // Run with: node tests/test_similarity.js
 
 const { calculateSimilarity } = require('../miniprogram/utils/similarity.js')
-const players = require('../miniprogram/data/players.json')
+const players = require('../miniprogram/data/players.js')
 const byName = {}
 players.forEach(p => { byName[p.name_en] = p })
 

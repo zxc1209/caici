@@ -1,4 +1,4 @@
-[
+module.exports = [
   {
     "id": "lebron-james",
     "name": "勒布朗·詹姆斯",
@@ -541,4 +541,4 @@
     ],
     "difficulty_tier": 3
   }
-]
+];
