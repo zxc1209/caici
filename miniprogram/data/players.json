@@ -25,6 +25,7 @@
     "notable_relations": [
       { "player_id": "dwyane-wade", "relation": "队友" },
       { "player_id": "kyrie-irving", "relation": "队友" },
+      { "player_id": "alex-caruso", "relation": "队友" },
       { "player_id": "stephen-curry", "relation": "宿敌" }
     ],
     "difficulty_tier": 1
@@ -53,7 +54,8 @@
     "play_style": "得分后卫",
     "career_stats": { "ppg": 22.0, "rpg": 4.7, "apg": 5.4 },
     "notable_relations": [
-      { "player_id": "lebron-james", "relation": "队友" }
+      { "player_id": "lebron-james", "relation": "队友" },
+      { "player_id": "shaquille-oneal", "relation": "队友" }
     ],
     "difficulty_tier": 1
   },
@@ -131,6 +133,8 @@
     "career_stats": { "ppg": 27.3, "rpg": 7.0, "apg": 4.4 },
     "notable_relations": [
       { "player_id": "stephen-curry", "relation": "队友" },
+      { "player_id": "james-harden", "relation": "队友" },
+      { "player_id": "russell-westbrook", "relation": "队友" },
       { "player_id": "lebron-james", "relation": "宿敌" }
     ],
     "difficulty_tier": 1
@@ -260,7 +264,8 @@
     "career_stats": { "ppg": 19.0, "rpg": 10.8, "apg": 3.0 },
     "notable_relations": [
       { "player_id": "tony-parker", "relation": "队友" },
-      { "player_id": "manu-ginobili", "relation": "队友" }
+      { "player_id": "manu-ginobili", "relation": "队友" },
+      { "player_id": "kawhi-leonard", "relation": "队友" }
     ],
     "difficulty_tier": 1
   },
@@ -370,7 +375,8 @@
     "play_style": "持球大核心",
     "career_stats": { "ppg": 24.1, "rpg": 5.6, "apg": 7.1 },
     "notable_relations": [
-      { "player_id": "kevin-durant", "relation": "队友" }
+      { "player_id": "kevin-durant", "relation": "队友" },
+      { "player_id": "russell-westbrook", "relation": "队友" }
     ],
     "difficulty_tier": 1
   },
