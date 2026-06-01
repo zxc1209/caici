@@ -1,0 +1,5 @@
+miniprogram/data/players.json
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/

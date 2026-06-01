@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/game/game",
+    "pages/result/result"
+  ],
+  "window": {
+    "navigationBarTitleText": "NBA 猜词",
+    "navigationBarBackgroundColor": "#1a1a2e",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#0f0f1a"
+  },
+  "sitemapLocation": "sitemap.json"
+}
