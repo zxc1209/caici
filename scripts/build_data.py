@@ -27,13 +27,13 @@ def validate_player(p):
             errors.append(f"Missing required field: {field}")
     if errors:
         return errors
-    if p["position"] not in VALID_POSITIONS:
+    if p["position"] is not None and p["position"] not in VALID_POSITIONS:
         errors.append(f"Invalid position: {p['position']}")
     if not (150 <= p["height"] <= 250):
         errors.append(f"Height out of range: {p['height']}cm")
     if not (60 <= p["weight"] <= 200):
         errors.append(f"Weight out of range: {p['weight']}kg")
-    if not (1947 <= p["draft_year"] <= 2026):
+    if p["draft_year"] is not None and not (1947 <= p["draft_year"] <= 2026):
         errors.append(f"Draft year out of range: {p['draft_year']}")
     if p["career_end"] is not None and p["career_start"] > p["career_end"]:
         errors.append("Career start after career end")
@@ -44,6 +44,8 @@ def validate_player(p):
         if sf not in p.get("career_stats", {}):
             errors.append(f"career_stats missing field: {sf}")
     for i, t in enumerate(p.get("teams", [])):
+        if isinstance(t, str):
+            continue  # String format is valid: ["ATL", "BOS"]
         for tf in TEAM_FIELDS:
             if tf not in t:
                 errors.append(f"teams[{i}] missing field: {tf}")

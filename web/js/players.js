@@ -89,7 +89,7 @@ export default [
   },
   {
     "id": "george-lynch",
-    "name": "George Lynch",
+    "name": "乔治·林奇",
     "name_en": "George Lynch",
     "position": "SF",
     "height": 203,
@@ -131,7 +131,7 @@ export default [
   },
   {
     "id": "george-mccloud",
-    "name": "George McCloud",
+    "name": "乔治·Mccloud",
     "name_en": "George McCloud",
     "position": "SF",
     "height": 203,
@@ -171,7 +171,7 @@ export default [
   },
   {
     "id": "george-zidek",
-    "name": "George Zidek",
+    "name": "乔治·Zidek",
     "name_en": "George Zidek",
     "position": "C",
     "height": 213,
@@ -209,7 +209,7 @@ export default [
   },
   {
     "id": "gerald-wilkins",
-    "name": "Gerald Wilkins",
+    "name": "杰拉德·威尔金斯",
     "name_en": "Gerald Wilkins",
     "position": "SG",
     "height": 198,
@@ -283,7 +283,7 @@ export default [
   },
   {
     "id": "glen-rice",
-    "name": "Glen Rice",
+    "name": "Glen·赖斯",
     "name_en": "Glen Rice",
     "position": "SF",
     "height": 198,
@@ -329,7 +329,7 @@ export default [
   },
   {
     "id": "glenn-robinson",
-    "name": "Glenn Robinson",
+    "name": "Glenn·罗宾逊",
     "name_en": "Glenn Robinson",
     "position": "SF",
     "height": 201,
@@ -371,7 +371,7 @@ export default [
   },
   {
     "id": "grant-hill",
-    "name": "Grant Hill",
+    "name": "Grant·希尔",
     "name_en": "Grant Hill",
     "position": "SF",
     "height": 203,
@@ -413,7 +413,7 @@ export default [
   },
   {
     "id": "gary-trent",
-    "name": "Gary Trent",
+    "name": "加里·特伦特",
     "name_en": "Gary Trent",
     "position": "SF",
     "height": 203,
@@ -455,7 +455,7 @@ export default [
   },
   {
     "id": "grant-long",
-    "name": "Grant Long",
+    "name": "Grant·朗",
     "name_en": "Grant Long",
     "position": "SF",
     "height": 206,
@@ -621,7 +621,7 @@ export default [
   },
   {
     "id": "greg-graham",
-    "name": "Greg Graham",
+    "name": "Greg·格雷厄姆",
     "name_en": "Greg Graham",
     "position": "SG",
     "height": 193,
@@ -733,7 +733,7 @@ export default [
   },
   {
     "id": "hakeem-olajuwon",
-    "name": "Hakeem Olajuwon",
+    "name": "哈基姆·Olajuwon",
     "name_en": "Hakeem Olajuwon",
     "position": "C",
     "height": 213,
@@ -771,7 +771,7 @@ export default [
   },
   {
     "id": "harvey-grant",
-    "name": "Harvey Grant",
+    "name": "Harvey·格兰特",
     "name_en": "Harvey Grant",
     "position": "SF",
     "height": 206,
@@ -849,7 +849,7 @@ export default [
   },
   {
     "id": "greg-anderson",
-    "name": "Greg Anderson",
+    "name": "Greg·安德森",
     "name_en": "Greg Anderson",
     "position": "PF",
     "height": 208,
@@ -887,7 +887,7 @@ export default [
   },
   {
     "id": "gary-payton",
-    "name": "Gary Payton",
+    "name": "加里·佩顿",
     "name_en": "Gary Payton",
     "position": "SG",
     "height": 193,
@@ -931,7 +931,7 @@ export default [
   },
   {
     "id": "gary-grant",
-    "name": "Gary Grant",
+    "name": "加里·格兰特",
     "name_en": "Gary Grant",
     "position": "SG",
     "height": 190,
@@ -969,7 +969,7 @@ export default [
   },
   {
     "id": "fred-roberts",
-    "name": "Fred Roberts",
+    "name": "弗雷德·罗伯茨",
     "name_en": "Fred Roberts",
     "position": "SF",
     "height": 208,
@@ -1159,7 +1159,7 @@ export default [
   },
   {
     "id": "emanual-davis",
-    "name": "Emanual Davis",
+    "name": "Emanual·戴维斯",
     "name_en": "Emanual Davis",
     "position": "PG",
     "height": 196,
@@ -1235,7 +1235,7 @@ export default [
   },
   {
     "id": "eric-leckner",
-    "name": "Eric Leckner",
+    "name": "埃里克·Leckner",
     "name_en": "Eric Leckner",
     "position": "C",
     "height": 211,
@@ -1271,7 +1271,7 @@ export default [
   },
   {
     "id": "eric-mobley",
-    "name": "Eric Mobley",
+    "name": "埃里克·莫布利",
     "name_en": "Eric Mobley",
     "position": "C",
     "height": 211,
@@ -1307,7 +1307,7 @@ export default [
   },
   {
     "id": "eric-montross",
-    "name": "Eric Montross",
+    "name": "埃里克·Montross",
     "name_en": "Eric Montross",
     "position": "C",
     "height": 213,
@@ -1347,7 +1347,7 @@ export default [
   },
   {
     "id": "eric-murdock",
-    "name": "Eric Murdock",
+    "name": "埃里克·Murdock",
     "name_en": "Eric Murdock",
     "position": "PG",
     "height": 185,
@@ -1389,7 +1389,7 @@ export default [
   },
   {
     "id": "eric-piatkowski",
-    "name": "Eric Piatkowski",
+    "name": "埃里克·Piatkowski",
     "name_en": "Eric Piatkowski",
     "position": "SG",
     "height": 201,
@@ -1431,7 +1431,7 @@ export default [
   },
   {
     "id": "eric-snow",
-    "name": "Eric Snow",
+    "name": "埃里克·Snow",
     "name_en": "Eric Snow",
     "position": "SG",
     "height": 190,
@@ -1471,7 +1471,7 @@ export default [
   },
   {
     "id": "eric-williams",
-    "name": "Eric Williams",
+    "name": "埃里克·威廉姆斯",
     "name_en": "Eric Williams",
     "position": "SF",
     "height": 203,
@@ -1559,7 +1559,7 @@ export default [
   },
   {
     "id": "erick-strickland",
-    "name": "Erick Strickland",
+    "name": "Erick·斯特里克兰",
     "name_en": "Erick Strickland",
     "position": "SG",
     "height": 190,
@@ -1603,7 +1603,7 @@ export default [
   },
   {
     "id": "ervin-johnson",
-    "name": "Ervin Johnson",
+    "name": "Ervin·约翰逊",
     "name_en": "Ervin Johnson",
     "position": "C",
     "height": 211,
@@ -1643,7 +1643,7 @@ export default [
   },
   {
     "id": "evric-gray",
-    "name": "Evric Gray",
+    "name": "Evric·格雷",
     "name_en": "Evric Gray",
     "position": "SF",
     "height": 201,
@@ -1755,7 +1755,7 @@ export default [
   },
   {
     "id": "frankie-king",
-    "name": "Frankie King",
+    "name": "Frankie·金",
     "name_en": "Frankie King",
     "position": "PG",
     "height": 185,
@@ -1791,7 +1791,7 @@ export default [
   },
   {
     "id": "fred-hoiberg",
-    "name": "Fred Hoiberg",
+    "name": "弗雷德·Hoiberg",
     "name_en": "Fred Hoiberg",
     "position": "SG",
     "height": 196,
@@ -1831,7 +1831,7 @@ export default [
   },
   {
     "id": "henry-james",
-    "name": "Henry James",
+    "name": "Henry·詹姆斯",
     "name_en": "Henry James",
     "position": "SF",
     "height": 203,
@@ -1869,7 +1869,7 @@ export default [
   },
   {
     "id": "elden-campbell",
-    "name": "Elden Campbell",
+    "name": "Elden·坎贝尔",
     "name_en": "Elden Campbell",
     "position": "PF",
     "height": 213,
@@ -1911,7 +1911,7 @@ export default [
   },
   {
     "id": "herb-williams",
-    "name": "Herb Williams",
+    "name": "Herb·威廉姆斯",
     "name_en": "Herb Williams",
     "position": "C",
     "height": 211,
@@ -1947,7 +1947,7 @@ export default [
   },
   {
     "id": "horace-grant",
-    "name": "Horace Grant",
+    "name": "Horace·格兰特",
     "name_en": "Horace Grant",
     "position": "C",
     "height": 208,
@@ -1987,7 +1987,7 @@ export default [
   },
   {
     "id": "jerome-williams",
-    "name": "Jerome Williams",
+    "name": "Jerome·威廉姆斯",
     "name_en": "Jerome Williams",
     "position": "PF",
     "height": 206,
@@ -2079,7 +2079,7 @@ export default [
   },
   {
     "id": "jim-jackson",
-    "name": "Jim Jackson",
+    "name": "Jim·杰克逊",
     "name_en": "Jim Jackson",
     "position": "SF",
     "height": 198,
@@ -2171,7 +2171,7 @@ export default [
   },
   {
     "id": "jimmy-carruth",
-    "name": "Jimmy Carruth",
+    "name": "吉米·Carruth",
     "name_en": "Jimmy Carruth",
     "position": "SF",
     "height": 208,
@@ -2207,7 +2207,7 @@ export default [
   },
   {
     "id": "jimmy-king",
-    "name": "Jimmy King",
+    "name": "吉米·金",
     "name_en": "Jimmy King",
     "position": "PG",
     "height": 196,
@@ -2243,7 +2243,7 @@ export default [
   },
   {
     "id": "jimmy-oliver",
-    "name": "Jimmy Oliver",
+    "name": "吉米·奥利弗",
     "name_en": "Jimmy Oliver",
     "position": "PG",
     "height": 196,
@@ -2283,7 +2283,7 @@ export default [
   },
   {
     "id": "joe-courtney",
-    "name": "Joe Courtney",
+    "name": "乔·Courtney",
     "name_en": "Joe Courtney",
     "position": "SF",
     "height": 203,
@@ -2319,7 +2319,7 @@ export default [
   },
   {
     "id": "joe-dumars",
-    "name": "Joe Dumars",
+    "name": "乔·Dumars",
     "name_en": "Joe Dumars",
     "position": "PG",
     "height": 190,
@@ -2397,7 +2397,7 @@ export default [
   },
   {
     "id": "joe-kleine",
-    "name": "Joe Kleine",
+    "name": "乔·Kleine",
     "name_en": "Joe Kleine",
     "position": "C",
     "height": 211,
@@ -2439,7 +2439,7 @@ export default [
   },
   {
     "id": "joe-stephens",
-    "name": "Joe Stephens",
+    "name": "乔·Stephens",
     "name_en": "Joe Stephens",
     "position": "SF",
     "height": 201,
@@ -2477,7 +2477,7 @@ export default [
   },
   {
     "id": "joe-wolf",
-    "name": "Joe Wolf",
+    "name": "乔·Wolf",
     "name_en": "Joe Wolf",
     "position": "PF",
     "height": 211,
@@ -2517,7 +2517,7 @@ export default [
   },
   {
     "id": "john-crotty",
-    "name": "John Crotty",
+    "name": "约翰·Crotty",
     "name_en": "John Crotty",
     "position": "SG",
     "height": 185,
@@ -2563,7 +2563,7 @@ export default [
   },
   {
     "id": "john-long",
-    "name": "John Long",
+    "name": "约翰·朗",
     "name_en": "John Long",
     "position": "SG",
     "height": 196,
@@ -2599,7 +2599,7 @@ export default [
   },
   {
     "id": "john-starks",
-    "name": "John Starks",
+    "name": "约翰·Starks",
     "name_en": "John Starks",
     "position": "PG",
     "height": 196,
@@ -2641,7 +2641,7 @@ export default [
   },
   {
     "id": "john-stockton",
-    "name": "John Stockton",
+    "name": "约翰·Stockton",
     "name_en": "John Stockton",
     "position": "SG",
     "height": 185,
@@ -2677,7 +2677,7 @@ export default [
   },
   {
     "id": "john-wallace",
-    "name": "John Wallace",
+    "name": "约翰·华莱士",
     "name_en": "John Wallace",
     "position": "SF",
     "height": 206,
@@ -2721,7 +2721,7 @@ export default [
   },
   {
     "id": "johnny-newman",
-    "name": "Johnny Newman",
+    "name": "Johnny·纽曼",
     "name_en": "Johnny Newman",
     "position": "SF",
     "height": 201,
@@ -2811,7 +2811,7 @@ export default [
   },
   {
     "id": "joe-smith",
-    "name": "Joe Smith",
+    "name": "乔·史密斯",
     "name_en": "Joe Smith",
     "position": "PF",
     "height": 208,
@@ -2897,7 +2897,7 @@ export default [
   },
   {
     "id": "jermaine-oneal",
-    "name": "Jermaine O'Neal",
+    "name": "Jermaine·奥尼尔",
     "name_en": "Jermaine O'Neal",
     "position": "PF",
     "height": 211,
@@ -2943,7 +2943,7 @@ export default [
   },
   {
     "id": "jeff-mcinnis",
-    "name": "Jeff McInnis",
+    "name": "杰夫·Mcinnis",
     "name_en": "Jeff McInnis",
     "position": "PG",
     "height": 193,
@@ -3027,7 +3027,7 @@ export default [
   },
   {
     "id": "hot-rod-williams",
-    "name": "Hot Rod Williams",
+    "name": "Hot·威廉姆斯",
     "name_en": "Hot Rod Williams",
     "position": "C",
     "height": 211,
@@ -3109,7 +3109,7 @@ export default [
   },
   {
     "id": "hubert-davis",
-    "name": "Hubert Davis",
+    "name": "Hubert·戴维斯",
     "name_en": "Hubert Davis",
     "position": "PG",
     "height": 196,
@@ -3199,7 +3199,7 @@ export default [
   },
   {
     "id": "isaiah-rider",
-    "name": "Isaiah Rider",
+    "name": "以赛亚·Rider",
     "name_en": "Isaiah Rider",
     "position": "PG",
     "height": 196,
@@ -3315,7 +3315,7 @@ export default [
   },
   {
     "id": "jalen-rose",
-    "name": "Jalen Rose",
+    "name": "贾伦·罗斯",
     "name_en": "Jalen Rose",
     "position": "SG",
     "height": 203,
@@ -3359,7 +3359,7 @@ export default [
   },
   {
     "id": "jamal-mashburn",
-    "name": "Jamal Mashburn",
+    "name": "贾马尔·Mashburn",
     "name_en": "Jamal Mashburn",
     "position": "SF",
     "height": 203,
@@ -3399,7 +3399,7 @@ export default [
   },
   {
     "id": "james-robinson",
-    "name": "James Robinson",
+    "name": "詹姆斯·罗宾逊",
     "name_en": "James Robinson",
     "position": "PG",
     "height": 188,
@@ -3439,7 +3439,7 @@ export default [
   },
   {
     "id": "james-scott",
-    "name": "James Scott",
+    "name": "詹姆斯·Scott",
     "name_en": "James Scott",
     "position": "SF",
     "height": 198,
@@ -3515,7 +3515,7 @@ export default [
   },
   {
     "id": "jamie-watson",
-    "name": "Jamie Watson",
+    "name": "Jamie·沃森",
     "name_en": "Jamie Watson",
     "position": "SF",
     "height": 201,
@@ -3553,7 +3553,7 @@ export default [
   },
   {
     "id": "jaren-jackson",
-    "name": "Jaren Jackson",
+    "name": "Jaren·杰克逊",
     "name_en": "Jaren Jackson",
     "position": "SG",
     "height": 198,
@@ -3593,7 +3593,7 @@ export default [
   },
   {
     "id": "jason-caffey",
-    "name": "Jason Caffey",
+    "name": "杰森·Caffey",
     "name_en": "Jason Caffey",
     "position": "SF",
     "height": 203,
@@ -3633,7 +3633,7 @@ export default [
   },
   {
     "id": "jason-kidd",
-    "name": "Jason Kidd",
+    "name": "杰森·基德",
     "name_en": "Jason Kidd",
     "position": "PG",
     "height": 193,
@@ -3675,7 +3675,7 @@ export default [
   },
   {
     "id": "jason-sasser",
-    "name": "Jason Sasser",
+    "name": "杰森·Sasser",
     "name_en": "Jason Sasser",
     "position": "SF",
     "height": 201,
@@ -3713,7 +3713,7 @@ export default [
   },
   {
     "id": "jayson-williams",
-    "name": "Jayson Williams",
+    "name": "杰森·威廉姆斯",
     "name_en": "Jayson Williams",
     "position": "PF",
     "height": 206,
@@ -3749,7 +3749,7 @@ export default [
   },
   {
     "id": "jeff-grayer",
-    "name": "Jeff Grayer",
+    "name": "杰夫·Grayer",
     "name_en": "Jeff Grayer",
     "position": "SG",
     "height": 196,
@@ -3787,7 +3787,7 @@ export default [
   },
   {
     "id": "jeff-hornacek",
-    "name": "Jeff Hornacek",
+    "name": "杰夫·Hornacek",
     "name_en": "Jeff Hornacek",
     "position": "PG",
     "height": 193,
@@ -3823,7 +3823,7 @@ export default [
   },
   {
     "id": "hersey-hawkins",
-    "name": "Hersey Hawkins",
+    "name": "Hersey·霍金斯",
     "name_en": "Hersey Hawkins",
     "position": "PG",
     "height": 190,
@@ -3863,7 +3863,7 @@ export default [
   },
   {
     "id": "eddie-jones",
-    "name": "Eddie Jones",
+    "name": "Eddie·琼斯",
     "name_en": "Eddie Jones",
     "position": "SG",
     "height": 198,
@@ -3907,7 +3907,7 @@ export default [
   },
   {
     "id": "eddie-johnson",
-    "name": "Eddie Johnson",
+    "name": "Eddie·约翰逊",
     "name_en": "Eddie Johnson",
     "position": "PG",
     "height": 201,
@@ -3979,7 +3979,7 @@ export default [
   },
   {
     "id": "chris-jent",
-    "name": "Chris Jent",
+    "name": "克里斯·Jent",
     "name_en": "Chris Jent",
     "position": "SF",
     "height": 201,
@@ -4015,7 +4015,7 @@ export default [
   },
   {
     "id": "chris-mills",
-    "name": "Chris Mills",
+    "name": "克里斯·米尔斯",
     "name_en": "Chris Mills",
     "position": "SF",
     "height": 201,
@@ -4055,7 +4055,7 @@ export default [
   },
   {
     "id": "chris-morris",
-    "name": "Chris Morris",
+    "name": "克里斯·莫里斯",
     "name_en": "Chris Morris",
     "position": "SF",
     "height": 203,
@@ -4093,7 +4093,7 @@ export default [
   },
   {
     "id": "chris-mullin",
-    "name": "Chris Mullin",
+    "name": "克里斯·Mullin",
     "name_en": "Chris Mullin",
     "position": "SF",
     "height": 198,
@@ -4131,7 +4131,7 @@ export default [
   },
   {
     "id": "chris-robinson",
-    "name": "Chris Robinson",
+    "name": "克里斯·罗宾逊",
     "name_en": "Chris Robinson",
     "position": "SG",
     "height": 196,
@@ -4169,7 +4169,7 @@ export default [
   },
   {
     "id": "chris-webber",
-    "name": "Chris Webber",
+    "name": "克里斯·Webber",
     "name_en": "Chris Webber",
     "position": "PF",
     "height": 208,
@@ -4213,7 +4213,7 @@ export default [
   },
   {
     "id": "chris-whitney",
-    "name": "Chris Whitney",
+    "name": "克里斯·惠特尼",
     "name_en": "Chris Whitney",
     "position": "PG",
     "height": 183,
@@ -4293,7 +4293,7 @@ export default [
   },
   {
     "id": "chucky-brown",
-    "name": "Chucky Brown",
+    "name": "Chucky·布朗",
     "name_en": "Chucky Brown",
     "position": "SF",
     "height": 203,
@@ -4337,7 +4337,7 @@ export default [
   },
   {
     "id": "chris-gatling",
-    "name": "Chris Gatling",
+    "name": "克里斯·Gatling",
     "name_en": "Chris Gatling",
     "position": "PF",
     "height": 208,
@@ -4427,7 +4427,7 @@ export default [
   },
   {
     "id": "clifford-rozier",
-    "name": "Clifford Rozier",
+    "name": "Clifford·罗齐尔",
     "name_en": "Clifford Rozier",
     "position": "PF",
     "height": 211,
@@ -4465,7 +4465,7 @@ export default [
   },
   {
     "id": "clyde-drexler",
-    "name": "Clyde Drexler",
+    "name": "克莱德·Drexler",
     "name_en": "Clyde Drexler",
     "position": "PG",
     "height": 201,
@@ -4549,7 +4549,7 @@ export default [
   },
   {
     "id": "corliss-williamson",
-    "name": "Corliss Williamson",
+    "name": "Corliss·威廉森",
     "name_en": "Corliss Williamson",
     "position": "SF",
     "height": 201,
@@ -4587,7 +4587,7 @@ export default [
   },
   {
     "id": "cory-alexander",
-    "name": "Cory Alexander",
+    "name": "科里·Alexander",
     "name_en": "Cory Alexander",
     "position": "SG",
     "height": 185,
@@ -4665,7 +4665,7 @@ export default [
   },
   {
     "id": "cuonzo-martin",
-    "name": "Cuonzo Martin",
+    "name": "Cuonzo·马丁",
     "name_en": "Cuonzo Martin",
     "position": "SG",
     "height": 196,
@@ -4701,7 +4701,7 @@ export default [
   },
   {
     "id": "dale-davis",
-    "name": "Dale Davis",
+    "name": "Dale·戴维斯",
     "name_en": "Dale Davis",
     "position": "PF",
     "height": 211,
@@ -4741,7 +4741,7 @@ export default [
   },
   {
     "id": "dale-ellis",
-    "name": "Dale Ellis",
+    "name": "Dale·埃利斯",
     "name_en": "Dale Ellis",
     "position": "SG",
     "height": 201,
@@ -4781,7 +4781,7 @@ export default [
   },
   {
     "id": "clifford-robinson",
-    "name": "Clifford Robinson",
+    "name": "Clifford·罗宾逊",
     "name_en": "Clifford Robinson",
     "position": "PF",
     "height": 208,
@@ -4825,7 +4825,7 @@ export default [
   },
   {
     "id": "chris-dudley",
-    "name": "Chris Dudley",
+    "name": "克里斯·Dudley",
     "name_en": "Chris Dudley",
     "position": "C",
     "height": 211,
@@ -4865,7 +4865,7 @@ export default [
   },
   {
     "id": "chris-childs",
-    "name": "Chris Childs",
+    "name": "克里斯·Childs",
     "name_en": "Chris Childs",
     "position": "PG",
     "height": 190,
@@ -4905,7 +4905,7 @@ export default [
   },
   {
     "id": "chris-carr",
-    "name": "Chris Carr",
+    "name": "克里斯·Carr",
     "name_en": "Chris Carr",
     "position": "SG",
     "height": 198,
@@ -4947,7 +4947,7 @@ export default [
   },
   {
     "id": "brian-evans",
-    "name": "Brian Evans",
+    "name": "Brian·埃文斯",
     "name_en": "Brian Evans",
     "position": "SF",
     "height": 203,
@@ -4987,7 +4987,7 @@ export default [
   },
   {
     "id": "brian-grant",
-    "name": "Brian Grant",
+    "name": "Brian·格兰特",
     "name_en": "Brian Grant",
     "position": "PF",
     "height": 206,
@@ -5031,7 +5031,7 @@ export default [
   },
   {
     "id": "brian-shaw",
-    "name": "Brian Shaw",
+    "name": "Brian·肖",
     "name_en": "Brian Shaw",
     "position": "SG",
     "height": 198,
@@ -5073,7 +5073,7 @@ export default [
   },
   {
     "id": "brooks-thompson",
-    "name": "Brooks Thompson",
+    "name": "Brooks·汤普森",
     "name_en": "Brooks Thompson",
     "position": "SG",
     "height": 193,
@@ -5227,7 +5227,7 @@ export default [
   },
   {
     "id": "bryon-russell",
-    "name": "Bryon Russell",
+    "name": "Bryon·拉塞尔",
     "name_en": "Bryon Russell",
     "position": "SG",
     "height": 201,
@@ -5269,7 +5269,7 @@ export default [
   },
   {
     "id": "buck-williams",
-    "name": "Buck Williams",
+    "name": "Buck·威廉姆斯",
     "name_en": "Buck Williams",
     "position": "SF",
     "height": 203,
@@ -5423,7 +5423,7 @@ export default [
   },
   {
     "id": "carl-thomas",
-    "name": "Carl Thomas",
+    "name": "Carl·托马斯",
     "name_en": "Carl Thomas",
     "position": "SG",
     "height": 193,
@@ -5459,7 +5459,7 @@ export default [
   },
   {
     "id": "carlos-rogers",
-    "name": "Carlos Rogers",
+    "name": "Carlos·罗杰斯",
     "name_en": "Carlos Rogers",
     "position": "PF",
     "height": 211,
@@ -5541,7 +5541,7 @@ export default [
   },
   {
     "id": "charles-barkley",
-    "name": "Charles Barkley",
+    "name": "查尔斯·Barkley",
     "name_en": "Charles Barkley",
     "position": "SF",
     "height": 198,
@@ -5577,7 +5577,7 @@ export default [
   },
   {
     "id": "charles-jones",
-    "name": "Charles Jones",
+    "name": "查尔斯·琼斯",
     "name_en": "Charles Jones",
     "position": "PF",
     "height": 206,
@@ -5613,7 +5613,7 @@ export default [
   },
   {
     "id": "charles-oakley",
-    "name": "Charles Oakley",
+    "name": "查尔斯·Oakley",
     "name_en": "Charles Oakley",
     "position": "SF",
     "height": 206,
@@ -5657,7 +5657,7 @@ export default [
   },
   {
     "id": "charles-smith",
-    "name": "Charles Smith",
+    "name": "查尔斯·史密斯",
     "name_en": "Charles Smith",
     "position": "SF",
     "height": 193,
@@ -5739,7 +5739,7 @@ export default [
   },
   {
     "id": "cherokee-parks",
-    "name": "Cherokee Parks",
+    "name": "Cherokee·帕克斯",
     "name_en": "Cherokee Parks",
     "position": "PF",
     "height": 211,
@@ -6091,7 +6091,7 @@ export default [
   },
   {
     "id": "dominique-wilkins",
-    "name": "Dominique Wilkins",
+    "name": "多米尼克·威尔金斯",
     "name_en": "Dominique Wilkins",
     "position": "SF",
     "height": 203,
@@ -6173,7 +6173,7 @@ export default [
   },
   {
     "id": "don-reid",
-    "name": "Don Reid",
+    "name": "Don·里德",
     "name_en": "Don Reid",
     "position": "SF",
     "height": 203,
@@ -6323,7 +6323,7 @@ export default [
   },
   {
     "id": "donny-marshall",
-    "name": "Donny Marshall",
+    "name": "Donny·马歇尔",
     "name_en": "Donny Marshall",
     "position": "SF",
     "height": 201,
@@ -6397,7 +6397,7 @@ export default [
   },
   {
     "id": "donyell-marshall",
-    "name": "Donyell Marshall",
+    "name": "Donyell·马歇尔",
     "name_en": "Donyell Marshall",
     "position": "SF",
     "height": 206,
@@ -6445,7 +6445,7 @@ export default [
   },
   {
     "id": "doug-christie",
-    "name": "Doug Christie",
+    "name": "道格·Christie",
     "name_en": "Doug Christie",
     "position": "SG",
     "height": 198,
@@ -6489,7 +6489,7 @@ export default [
   },
   {
     "id": "doug-overton",
-    "name": "Doug Overton",
+    "name": "道格·Overton",
     "name_en": "Doug Overton",
     "position": "SG",
     "height": 190,
@@ -6531,7 +6531,7 @@ export default [
   },
   {
     "id": "doug-west",
-    "name": "Doug West",
+    "name": "道格·韦斯特",
     "name_en": "Doug West",
     "position": "SG",
     "height": 198,
@@ -6755,7 +6755,7 @@ export default [
   },
   {
     "id": "devin-gray",
-    "name": "Devin Gray",
+    "name": "德文·格雷",
     "name_en": "Devin Gray",
     "position": "SF",
     "height": 201,
@@ -6871,7 +6871,7 @@ export default [
   },
   {
     "id": "derrick-coleman",
-    "name": "Derrick Coleman",
+    "name": "德里克·科尔曼",
     "name_en": "Derrick Coleman",
     "position": "PF",
     "height": 208,
@@ -6949,7 +6949,7 @@ export default [
   },
   {
     "id": "danny-manning",
-    "name": "Danny Manning",
+    "name": "Danny·曼宁",
     "name_en": "Danny Manning",
     "position": "PF",
     "height": 208,
@@ -7037,7 +7037,7 @@ export default [
   },
   {
     "id": "darrick-martin",
-    "name": "Darrick Martin",
+    "name": "Darrick·马丁",
     "name_en": "Darrick Martin",
     "position": "SG",
     "height": 180,
@@ -7161,7 +7161,7 @@ export default [
   },
   {
     "id": "david-robinson",
-    "name": "David Robinson",
+    "name": "大卫·罗宾逊",
     "name_en": "David Robinson",
     "position": "C",
     "height": 216,
@@ -7197,7 +7197,7 @@ export default [
   },
   {
     "id": "david-vaughn",
-    "name": "David Vaughn",
+    "name": "大卫·沃恩",
     "name_en": "David Vaughn",
     "position": "SF",
     "height": 206,
@@ -7235,7 +7235,7 @@ export default [
   },
   {
     "id": "david-wesley",
-    "name": "David Wesley",
+    "name": "大卫·Wesley",
     "name_en": "David Wesley",
     "position": "PG",
     "height": 185,
@@ -7279,7 +7279,7 @@ export default [
   },
   {
     "id": "david-wingate",
-    "name": "David Wingate",
+    "name": "大卫·Wingate",
     "name_en": "David Wingate",
     "position": "SG",
     "height": 196,
@@ -7317,7 +7317,7 @@ export default [
   },
   {
     "id": "david-wood",
-    "name": "David Wood",
+    "name": "大卫·伍德",
     "name_en": "David Wood",
     "position": "SF",
     "height": 206,
@@ -7353,7 +7353,7 @@ export default [
   },
   {
     "id": "dean-garrett",
-    "name": "Dean Garrett",
+    "name": "迪恩·加勒特",
     "name_en": "Dean Garrett",
     "position": "C",
     "height": 211,
@@ -7393,7 +7393,7 @@ export default [
   },
   {
     "id": "dee-brown",
-    "name": "Dee Brown",
+    "name": "Dee·布朗",
     "name_en": "Dee Brown",
     "position": "PG",
     "height": 183,
@@ -7437,7 +7437,7 @@ export default [
   },
   {
     "id": "dell-curry",
-    "name": "Dell Curry",
+    "name": "Dell·库里",
     "name_en": "Dell Curry",
     "position": "SG",
     "height": 196,
@@ -7513,7 +7513,7 @@ export default [
   },
   {
     "id": "dennis-rodman",
-    "name": "Dennis Rodman",
+    "name": "丹尼斯·Rodman",
     "name_en": "Dennis Rodman",
     "position": "SF",
     "height": 201,
@@ -7553,7 +7553,7 @@ export default [
   },
   {
     "id": "dennis-scott",
-    "name": "Dennis Scott",
+    "name": "丹尼斯·Scott",
     "name_en": "Dennis Scott",
     "position": "SF",
     "height": 203,
@@ -7595,7 +7595,7 @@ export default [
   },
   {
     "id": "derek-fisher",
-    "name": "Derek Fisher",
+    "name": "德里克·费舍尔",
     "name_en": "Derek Fisher",
     "position": "PG",
     "height": 185,
@@ -7637,7 +7637,7 @@ export default [
   },
   {
     "id": "derek-harper",
-    "name": "Derek Harper",
+    "name": "德里克·哈珀",
     "name_en": "Derek Harper",
     "position": "SG",
     "height": 193,
@@ -7677,7 +7677,7 @@ export default [
   },
   {
     "id": "derek-strong",
-    "name": "Derek Strong",
+    "name": "德里克·Strong",
     "name_en": "Derek Strong",
     "position": "SF",
     "height": 206,
@@ -7715,7 +7715,7 @@ export default [
   },
   {
     "id": "derrick-alston",
-    "name": "Derrick Alston",
+    "name": "德里克·Alston",
     "name_en": "Derrick Alston",
     "position": "SF",
     "height": 211,
@@ -7751,7 +7751,7 @@ export default [
   },
   {
     "id": "derrick-mckey",
-    "name": "Derrick McKey",
+    "name": "德里克·Mckey",
     "name_en": "Derrick McKey",
     "position": "SF",
     "height": 208,
@@ -7825,7 +7825,7 @@ export default [
   },
   {
     "id": "juwan-howard",
-    "name": "Juwan Howard",
+    "name": "Juwan·霍华德",
     "name_en": "Juwan Howard",
     "position": "SF",
     "height": 206,
@@ -7953,7 +7953,7 @@ export default [
   },
   {
     "id": "scott-williams",
-    "name": "Scott Williams",
+    "name": "Scott·威廉姆斯",
     "name_en": "Scott Williams",
     "position": "PF",
     "height": 208,
@@ -7999,7 +7999,7 @@ export default [
   },
   {
     "id": "scottie-pippen",
-    "name": "Scottie Pippen",
+    "name": "斯科蒂·Pippen",
     "name_en": "Scottie Pippen",
     "position": "SF",
     "height": 203,
@@ -8039,7 +8039,7 @@ export default [
   },
   {
     "id": "sean-elliott",
-    "name": "Sean Elliott",
+    "name": "Sean·埃利奥特",
     "name_en": "Sean Elliott",
     "position": "SF",
     "height": 203,
@@ -8153,7 +8153,7 @@ export default [
   },
   {
     "id": "shandon-anderson",
-    "name": "Shandon Anderson",
+    "name": "Shandon·安德森",
     "name_en": "Shandon Anderson",
     "position": "SG",
     "height": 198,
@@ -8233,7 +8233,7 @@ export default [
   },
   {
     "id": "shaquille-oneal",
-    "name": "Shaquille O'Neal",
+    "name": "沙奎尔·奥尼尔",
     "name_en": "Shaquille O'Neal",
     "position": "C",
     "height": 216,
@@ -8277,7 +8277,7 @@ export default [
   },
   {
     "id": "scott-brooks",
-    "name": "Scott Brooks",
+    "name": "Scott·布鲁克斯",
     "name_en": "Scott Brooks",
     "position": "SG",
     "height": 180,
@@ -8357,7 +8357,7 @@ export default [
   },
   {
     "id": "shawn-bradley",
-    "name": "Shawn Bradley",
+    "name": "Shawn·布拉德利",
     "name_en": "Shawn Bradley",
     "position": "C",
     "height": 229,
@@ -8515,7 +8515,7 @@ export default [
   },
   {
     "id": "sherman-douglas",
-    "name": "Sherman Douglas",
+    "name": "Sherman·道格拉斯",
     "name_en": "Sherman Douglas",
     "position": "SG",
     "height": 183,
@@ -8597,7 +8597,7 @@ export default [
   },
   {
     "id": "stacey-king",
-    "name": "Stacey King",
+    "name": "Stacey·金",
     "name_en": "Stacey King",
     "position": "PF",
     "height": 211,
@@ -8633,7 +8633,7 @@ export default [
   },
   {
     "id": "stanley-roberts",
-    "name": "Stanley Roberts",
+    "name": "Stanley·罗伯茨",
     "name_en": "Stanley Roberts",
     "position": "C",
     "height": 213,
@@ -8675,7 +8675,7 @@ export default [
   },
   {
     "id": "stephen-howard",
-    "name": "Stephen Howard",
+    "name": "斯蒂芬·霍华德",
     "name_en": "Stephen Howard",
     "position": "SF",
     "height": 206,
@@ -8713,7 +8713,7 @@ export default [
   },
   {
     "id": "sharone-wright",
-    "name": "Sharone Wright",
+    "name": "Sharone·赖特",
     "name_en": "Sharone Wright",
     "position": "C",
     "height": 211,
@@ -8821,7 +8821,7 @@ export default [
   },
   {
     "id": "samaki-walker",
-    "name": "Samaki Walker",
+    "name": "Samaki·沃克",
     "name_en": "Samaki Walker",
     "position": "SF",
     "height": 206,
@@ -8905,7 +8905,7 @@ export default [
   },
   {
     "id": "richard-manning",
-    "name": "Richard Manning",
+    "name": "Richard·曼宁",
     "name_en": "Richard Manning",
     "position": "C",
     "height": 211,
@@ -8941,7 +8941,7 @@ export default [
   },
   {
     "id": "rick-fox",
-    "name": "Rick Fox",
+    "name": "Rick·福克斯",
     "name_en": "Rick Fox",
     "position": "SF",
     "height": 201,
@@ -9017,7 +9017,7 @@ export default [
   },
   {
     "id": "ricky-pierce",
-    "name": "Ricky Pierce",
+    "name": "里基·皮尔斯",
     "name_en": "Ricky Pierce",
     "position": "SG",
     "height": 193,
@@ -9091,7 +9091,7 @@ export default [
   },
   {
     "id": "robert-horry",
-    "name": "Robert Horry",
+    "name": "罗伯特·Horry",
     "name_en": "Robert Horry",
     "position": "PF",
     "height": 208,
@@ -9129,7 +9129,7 @@ export default [
   },
   {
     "id": "robert-pack",
-    "name": "Robert Pack",
+    "name": "罗伯特·Pack",
     "name_en": "Robert Pack",
     "position": "SG",
     "height": 188,
@@ -9173,7 +9173,7 @@ export default [
   },
   {
     "id": "robert-parish",
-    "name": "Robert Parish",
+    "name": "罗伯特·Parish",
     "name_en": "Robert Parish",
     "position": "C",
     "height": 216,
@@ -9209,7 +9209,7 @@ export default [
   },
   {
     "id": "robert-werdann",
-    "name": "Robert Werdann",
+    "name": "罗伯特·Werdann",
     "name_en": "Robert Werdann",
     "position": "C",
     "height": 211,
@@ -9245,7 +9245,7 @@ export default [
   },
   {
     "id": "rod-strickland",
-    "name": "Rod Strickland",
+    "name": "Rod·斯特里克兰",
     "name_en": "Rod Strickland",
     "position": "PG",
     "height": 190,
@@ -9291,7 +9291,7 @@ export default [
   },
   {
     "id": "rodney-rogers",
-    "name": "Rodney Rogers",
+    "name": "Rodney·罗杰斯",
     "name_en": "Rodney Rogers",
     "position": "SF",
     "height": 201,
@@ -9335,7 +9335,7 @@ export default [
   },
   {
     "id": "ron-harper",
-    "name": "Ron Harper",
+    "name": "Ron·哈珀",
     "name_en": "Ron Harper",
     "position": "PG",
     "height": 198,
@@ -9411,7 +9411,7 @@ export default [
   },
   {
     "id": "roy-rogers",
-    "name": "Roy Rogers",
+    "name": "Roy·罗杰斯",
     "name_en": "Roy Rogers",
     "position": "SF",
     "height": 208,
@@ -9487,7 +9487,7 @@ export default [
   },
   {
     "id": "rumeal-robinson",
-    "name": "Rumeal Robinson",
+    "name": "Rumeal·罗宾逊",
     "name_en": "Rumeal Robinson",
     "position": "PG",
     "height": 188,
@@ -9523,7 +9523,7 @@ export default [
   },
   {
     "id": "sam-cassell",
-    "name": "Sam Cassell",
+    "name": "萨姆·Cassell",
     "name_en": "Sam Cassell",
     "position": "SG",
     "height": 190,
@@ -9567,7 +9567,7 @@ export default [
   },
   {
     "id": "sam-mack",
-    "name": "Sam Mack",
+    "name": "萨姆·麦克",
     "name_en": "Sam Mack",
     "position": "SG",
     "height": 201,
@@ -9609,7 +9609,7 @@ export default [
   },
   {
     "id": "sam-mitchell",
-    "name": "Sam Mitchell",
+    "name": "萨姆·米切尔",
     "name_en": "Sam Mitchell",
     "position": "SF",
     "height": 201,
@@ -9645,7 +9645,7 @@ export default [
   },
   {
     "id": "sam-perkins",
-    "name": "Sam Perkins",
+    "name": "萨姆·Perkins",
     "name_en": "Sam Perkins",
     "position": "PF",
     "height": 206,
@@ -9727,7 +9727,7 @@ export default [
   },
   {
     "id": "rex-chapman",
-    "name": "Rex Chapman",
+    "name": "Rex·查普曼",
     "name_en": "Rex Chapman",
     "position": "SG",
     "height": 193,
@@ -9839,7 +9839,7 @@ export default [
   },
   {
     "id": "willie-anderson",
-    "name": "Willie Anderson",
+    "name": "Willie·安德森",
     "name_en": "Willie Anderson",
     "position": "SG",
     "height": 203,
@@ -10037,7 +10037,7 @@ export default [
   },
   {
     "id": "walt-williams",
-    "name": "Walt Williams",
+    "name": "Walt·威廉姆斯",
     "name_en": "Walt Williams",
     "position": "SF",
     "height": 203,
@@ -10203,7 +10203,7 @@ export default [
   },
   {
     "id": "willie-burton",
-    "name": "Willie Burton",
+    "name": "Willie·伯顿",
     "name_en": "Willie Burton",
     "position": "SF",
     "height": 203,
@@ -10283,7 +10283,7 @@ export default [
   },
   {
     "id": "vin-baker",
-    "name": "Vin Baker",
+    "name": "Vin·贝克",
     "name_en": "Vin Baker",
     "position": "SF",
     "height": 211,
@@ -10329,7 +10329,7 @@ export default [
   },
   {
     "id": "vernon-maxwell",
-    "name": "Vernon Maxwell",
+    "name": "Vernon·马克斯韦尔",
     "name_en": "Vernon Maxwell",
     "position": "SG",
     "height": 193,
@@ -10373,7 +10373,7 @@ export default [
   },
   {
     "id": "tyus-edney",
-    "name": "Tyus Edney",
+    "name": "泰厄斯·Edney",
     "name_en": "Tyus Edney",
     "position": "SG",
     "height": 178,
@@ -10413,7 +10413,7 @@ export default [
   },
   {
     "id": "tyrone-hill",
-    "name": "Tyrone Hill",
+    "name": "Tyrone·希尔",
     "name_en": "Tyrone Hill",
     "position": "SF",
     "height": 206,
@@ -10495,7 +10495,7 @@ export default [
   },
   {
     "id": "travis-knight",
-    "name": "Travis Knight",
+    "name": "Travis·奈特",
     "name_en": "Travis Knight",
     "position": "C",
     "height": 213,
@@ -10579,7 +10579,7 @@ export default [
   },
   {
     "id": "tracy-murray",
-    "name": "Tracy Murray",
+    "name": "特雷西·穆雷",
     "name_en": "Tracy Murray",
     "position": "SF",
     "height": 201,
@@ -10621,7 +10621,7 @@ export default [
   },
   {
     "id": "tracy-moore",
-    "name": "Tracy Moore",
+    "name": "特雷西·摩尔",
     "name_en": "Tracy Moore",
     "position": "PG",
     "height": 193,
@@ -10843,7 +10843,7 @@ export default [
   },
   {
     "id": "steven-smith",
-    "name": "Steven Smith",
+    "name": "史蒂文·史密斯",
     "name_en": "Steven Smith",
     "position": "SG",
     "height": 206,
@@ -10889,7 +10889,7 @@ export default [
   },
   {
     "id": "stevin-smith",
-    "name": "Stevin Smith",
+    "name": "Stevin·史密斯",
     "name_en": "Stevin Smith",
     "position": "SG",
     "height": 188,
@@ -11003,7 +11003,7 @@ export default [
   },
   {
     "id": "terry-cummings",
-    "name": "Terry Cummings",
+    "name": "特里·Cummings",
     "name_en": "Terry Cummings",
     "position": "SF",
     "height": 206,
@@ -11043,7 +11043,7 @@ export default [
   },
   {
     "id": "terry-dehere",
-    "name": "Terry Dehere",
+    "name": "特里·Dehere",
     "name_en": "Terry Dehere",
     "position": "PG",
     "height": 193,
@@ -11083,7 +11083,7 @@ export default [
   },
   {
     "id": "terry-mills",
-    "name": "Terry Mills",
+    "name": "特里·米尔斯",
     "name_en": "Terry Mills",
     "position": "PF",
     "height": 208,
@@ -11123,7 +11123,7 @@ export default [
   },
   {
     "id": "terry-porter",
-    "name": "Terry Porter",
+    "name": "特里·波特",
     "name_en": "Terry Porter",
     "position": "PG",
     "height": 190,
@@ -11163,7 +11163,7 @@ export default [
   },
   {
     "id": "theo-ratliff",
-    "name": "Theo Ratliff",
+    "name": "西奥·Ratliff",
     "name_en": "Theo Ratliff",
     "position": "C",
     "height": 208,
@@ -11211,7 +11211,7 @@ export default [
   },
   {
     "id": "tim-hardaway",
-    "name": "Tim Hardaway",
+    "name": "蒂姆·哈达威",
     "name_en": "Tim Hardaway",
     "position": "SG",
     "height": 183,
@@ -11251,7 +11251,7 @@ export default [
   },
   {
     "id": "tim-kempton",
-    "name": "Tim Kempton",
+    "name": "蒂姆·Kempton",
     "name_en": "Tim Kempton",
     "position": "C",
     "height": 208,
@@ -11289,7 +11289,7 @@ export default [
   },
   {
     "id": "tim-legler",
-    "name": "Tim Legler",
+    "name": "蒂姆·Legler",
     "name_en": "Tim Legler",
     "position": "SG",
     "height": 193,
@@ -11369,7 +11369,7 @@ export default [
   },
   {
     "id": "todd-fuller",
-    "name": "Todd Fuller",
+    "name": "Todd·富勒",
     "name_en": "Todd Fuller",
     "position": "C",
     "height": 211,
@@ -11411,7 +11411,7 @@ export default [
   },
   {
     "id": "tom-chambers",
-    "name": "Tom Chambers",
+    "name": "Tom·钱伯斯",
     "name_en": "Tom Chambers",
     "position": "SF",
     "height": 208,
@@ -11571,7 +11571,7 @@ export default [
   },
   {
     "id": "tony-delk",
-    "name": "Tony Delk",
+    "name": "托尼·Delk",
     "name_en": "Tony Delk",
     "position": "SG",
     "height": 188,
@@ -11621,7 +11621,7 @@ export default [
   },
   {
     "id": "tony-dumas",
-    "name": "Tony Dumas",
+    "name": "托尼·Dumas",
     "name_en": "Tony Dumas",
     "position": "PG",
     "height": 198,
@@ -11699,7 +11699,7 @@ export default [
   },
   {
     "id": "reggie-williams",
-    "name": "Reggie Williams",
+    "name": "雷吉·威廉姆斯",
     "name_en": "Reggie Williams",
     "position": "SF",
     "height": 201,
@@ -11745,7 +11745,7 @@ export default [
   },
   {
     "id": "reggie-slater",
-    "name": "Reggie Slater",
+    "name": "雷吉·Slater",
     "name_en": "Reggie Slater",
     "position": "SF",
     "height": 201,
@@ -11785,7 +11785,7 @@ export default [
   },
   {
     "id": "reggie-miller",
-    "name": "Reggie Miller",
+    "name": "雷吉·米勒",
     "name_en": "Reggie Miller",
     "position": "PG",
     "height": 201,
@@ -11821,7 +11821,7 @@ export default [
   },
   {
     "id": "lindsey-hunter",
-    "name": "Lindsey Hunter",
+    "name": "Lindsey·亨特",
     "name_en": "Lindsey Hunter",
     "position": "SG",
     "height": 188,
@@ -11865,7 +11865,7 @@ export default [
   },
   {
     "id": "lionel-simmons",
-    "name": "Lionel Simmons",
+    "name": "Lionel·西蒙斯",
     "name_en": "Lionel Simmons",
     "position": "SF",
     "height": 201,
@@ -11901,7 +11901,7 @@ export default [
   },
   {
     "id": "litterial-green",
-    "name": "Litterial Green",
+    "name": "Litterial·格林",
     "name_en": "Litterial Green",
     "position": "PG",
     "height": 185,
@@ -11941,7 +11941,7 @@ export default [
   },
   {
     "id": "tony-smith",
-    "name": "Tony Smith",
+    "name": "托尼·史密斯",
     "name_en": "Tony Smith",
     "position": "PG",
     "height": 190,
@@ -11981,7 +11981,7 @@ export default [
   },
   {
     "id": "loren-meyer",
-    "name": "Loren Meyer",
+    "name": "Loren·迈耶",
     "name_en": "Loren Meyer",
     "position": "PF",
     "height": 208,
@@ -12019,7 +12019,7 @@ export default [
   },
   {
     "id": "lorenzen-wright",
-    "name": "Lorenzen Wright",
+    "name": "Lorenzen·赖特",
     "name_en": "Lorenzen Wright",
     "position": "PF",
     "height": 211,
@@ -12063,7 +12063,7 @@ export default [
   },
   {
     "id": "lorenzo-williams",
-    "name": "Lorenzo Williams",
+    "name": "Lorenzo·威廉姆斯",
     "name_en": "Lorenzo Williams",
     "position": "PF",
     "height": 206,
@@ -12289,7 +12289,7 @@ export default [
   },
   {
     "id": "malik-rose",
-    "name": "Malik Rose",
+    "name": "马利克·罗斯",
     "name_en": "Malik Rose",
     "position": "SF",
     "height": 201,
@@ -12331,7 +12331,7 @@ export default [
   },
   {
     "id": "malik-sealy",
-    "name": "Malik Sealy",
+    "name": "马利克·Sealy",
     "name_en": "Malik Sealy",
     "position": "SG",
     "height": 203,
@@ -12371,7 +12371,7 @@ export default [
   },
   {
     "id": "marcus-brown",
-    "name": "Marcus Brown",
+    "name": "马库斯·布朗",
     "name_en": "Marcus Brown",
     "position": "SG",
     "height": 190,
@@ -12409,7 +12409,7 @@ export default [
   },
   {
     "id": "marcus-camby",
-    "name": "Marcus Camby",
+    "name": "马库斯·Camby",
     "name_en": "Marcus Camby",
     "position": "PF",
     "height": 211,
@@ -12495,7 +12495,7 @@ export default [
   },
   {
     "id": "mark-bradtke",
-    "name": "Mark Bradtke",
+    "name": "马克·Bradtke",
     "name_en": "Mark Bradtke",
     "position": "C",
     "height": 208,
@@ -12531,7 +12531,7 @@ export default [
   },
   {
     "id": "mark-bryant",
-    "name": "Mark Bryant",
+    "name": "马克·布莱恩特",
     "name_en": "Mark Bryant",
     "position": "SF",
     "height": 206,
@@ -12577,7 +12577,7 @@ export default [
   },
   {
     "id": "mark-davis",
-    "name": "Mark Davis",
+    "name": "马克·戴维斯",
     "name_en": "Mark Davis",
     "position": "SG",
     "height": 201,
@@ -12617,7 +12617,7 @@ export default [
   },
   {
     "id": "lucious-harris",
-    "name": "Lucious Harris",
+    "name": "Lucious·哈里斯",
     "name_en": "Lucious Harris",
     "position": "SG",
     "height": 196,
@@ -12735,7 +12735,7 @@ export default [
   },
   {
     "id": "larry-stewart",
-    "name": "Larry Stewart",
+    "name": "拉里·斯图尔特",
     "name_en": "Larry Stewart",
     "position": "SF",
     "height": 203,
@@ -12887,7 +12887,7 @@ export default [
   },
   {
     "id": "kenny-anderson",
-    "name": "Kenny Anderson",
+    "name": "Kenny·安德森",
     "name_en": "Kenny Anderson",
     "position": "SG",
     "height": 185,
@@ -12931,7 +12931,7 @@ export default [
   },
   {
     "id": "kenny-smith",
-    "name": "Kenny Smith",
+    "name": "Kenny·史密斯",
     "name_en": "Kenny Smith",
     "position": "SG",
     "height": 190,
@@ -13005,7 +13005,7 @@ export default [
   },
   {
     "id": "kevin-duckworth",
-    "name": "Kevin Duckworth",
+    "name": "凯文·Duckworth",
     "name_en": "Kevin Duckworth",
     "position": "C",
     "height": 213,
@@ -13041,7 +13041,7 @@ export default [
   },
   {
     "id": "kevin-edwards",
-    "name": "Kevin Edwards",
+    "name": "凯文·爱德华兹",
     "name_en": "Kevin Edwards",
     "position": "SG",
     "height": 190,
@@ -13081,7 +13081,7 @@ export default [
   },
   {
     "id": "kevin-gamble",
-    "name": "Kevin Gamble",
+    "name": "凯文·Gamble",
     "name_en": "Kevin Gamble",
     "position": "SG",
     "height": 196,
@@ -13117,7 +13117,7 @@ export default [
   },
   {
     "id": "kevin-garnett",
-    "name": "Kevin Garnett",
+    "name": "凯文·Garnett",
     "name_en": "Kevin Garnett",
     "position": "SF",
     "height": 211,
@@ -13157,7 +13157,7 @@ export default [
   },
   {
     "id": "kevin-johnson",
-    "name": "Kevin Johnson",
+    "name": "凯文·约翰逊",
     "name_en": "Kevin Johnson",
     "position": "PG",
     "height": 185,
@@ -13193,7 +13193,7 @@ export default [
   },
   {
     "id": "kevin-salvadori",
-    "name": "Kevin Salvadori",
+    "name": "凯文·Salvadori",
     "name_en": "Kevin Salvadori",
     "position": "C",
     "height": 213,
@@ -13229,7 +13229,7 @@ export default [
   },
   {
     "id": "kevin-willis",
-    "name": "Kevin Willis",
+    "name": "凯文·威利斯",
     "name_en": "Kevin Willis",
     "position": "PF",
     "height": 213,
@@ -13315,7 +13315,7 @@ export default [
   },
   {
     "id": "kobe-bryant",
-    "name": "Kobe Bryant",
+    "name": "科比·布莱恩特",
     "name_en": "Kobe Bryant",
     "position": "SF",
     "height": 198,
@@ -13351,7 +13351,7 @@ export default [
   },
   {
     "id": "kurt-thomas",
-    "name": "Kurt Thomas",
+    "name": "Kurt·托马斯",
     "name_en": "Kurt Thomas",
     "position": "PF",
     "height": 206,
@@ -13401,7 +13401,7 @@ export default [
   },
   {
     "id": "laphonso-ellis",
-    "name": "LaPhonso Ellis",
+    "name": "Laphonso·埃利斯",
     "name_en": "LaPhonso Ellis",
     "position": "SF",
     "height": 203,
@@ -13443,7 +13443,7 @@ export default [
   },
   {
     "id": "lasalle-thompson",
-    "name": "LaSalle Thompson",
+    "name": "Lasalle·汤普森",
     "name_en": "LaSalle Thompson",
     "position": "PF",
     "height": 208,
@@ -13479,7 +13479,7 @@ export default [
   },
   {
     "id": "lamond-murray",
-    "name": "Lamond Murray",
+    "name": "Lamond·穆雷",
     "name_en": "Lamond Murray",
     "position": "SF",
     "height": 201,
@@ -13521,7 +13521,7 @@ export default [
   },
   {
     "id": "larry-johnson",
-    "name": "Larry Johnson",
+    "name": "拉里·约翰逊",
     "name_en": "Larry Johnson",
     "position": "SF",
     "height": 201,
@@ -13557,7 +13557,7 @@ export default [
   },
   {
     "id": "larry-krystkowiak",
-    "name": "Larry Krystkowiak",
+    "name": "拉里·Krystkowiak",
     "name_en": "Larry Krystkowiak",
     "position": "SF",
     "height": 206,
@@ -13593,7 +13593,7 @@ export default [
   },
   {
     "id": "mark-hendrickson",
-    "name": "Mark Hendrickson",
+    "name": "马克·Hendrickson",
     "name_en": "Mark Hendrickson",
     "position": "SF",
     "height": 206,
@@ -13633,7 +13633,7 @@ export default [
   },
   {
     "id": "mark-jackson",
-    "name": "Mark Jackson",
+    "name": "马克·杰克逊",
     "name_en": "Mark Jackson",
     "position": "PG",
     "height": 190,
@@ -13675,7 +13675,7 @@ export default [
   },
   {
     "id": "mark-price",
-    "name": "Mark Price",
+    "name": "马克·Price",
     "name_en": "Mark Price",
     "position": "SG",
     "height": 183,
@@ -13713,7 +13713,7 @@ export default [
   },
   {
     "id": "mark-strickland",
-    "name": "Mark Strickland",
+    "name": "马克·斯特里克兰",
     "name_en": "Mark Strickland",
     "position": "SF",
     "height": 208,
@@ -13755,7 +13755,7 @@ export default [
   },
   {
     "id": "nick-anderson",
-    "name": "Nick Anderson",
+    "name": "尼克·安德森",
     "name_en": "Nick Anderson",
     "position": "SF",
     "height": 198,
@@ -13795,7 +13795,7 @@ export default [
   },
   {
     "id": "nick-van-exel",
-    "name": "Nick Van Exel",
+    "name": "尼克·Exel",
     "name_en": "Nick Van Exel",
     "position": "SG",
     "height": 185,
@@ -13883,7 +13883,7 @@ export default [
   },
   {
     "id": "oliver-miller",
-    "name": "Oliver Miller",
+    "name": "Oliver·米勒",
     "name_en": "Oliver Miller",
     "position": "C",
     "height": 206,
@@ -13925,7 +13925,7 @@ export default [
   },
   {
     "id": "othella-harrington",
-    "name": "Othella Harrington",
+    "name": "Othella·哈林顿",
     "name_en": "Othella Harrington",
     "position": "PF",
     "height": 206,
@@ -14013,7 +14013,7 @@ export default [
   },
   {
     "id": "pj-brown",
-    "name": "P.J. Brown",
+    "name": "P.J·布朗",
     "name_en": "P.J. Brown",
     "position": "PF",
     "height": 211,
@@ -14059,7 +14059,7 @@ export default [
   },
   {
     "id": "patrick-ewing",
-    "name": "Patrick Ewing",
+    "name": "帕特里克·Ewing",
     "name_en": "Patrick Ewing",
     "position": "C",
     "height": 203,
@@ -14177,7 +14177,7 @@ export default [
   },
   {
     "id": "pooh-richardson",
-    "name": "Pooh Richardson",
+    "name": "Pooh·理查德森",
     "name_en": "Pooh Richardson",
     "position": "SG",
     "height": 185,
@@ -14213,7 +14213,7 @@ export default [
   },
   {
     "id": "popeye-jones",
-    "name": "Popeye Jones",
+    "name": "Popeye·琼斯",
     "name_en": "Popeye Jones",
     "position": "SF",
     "height": 203,
@@ -14369,7 +14369,7 @@ export default [
   },
   {
     "id": "randy-brown",
-    "name": "Randy Brown",
+    "name": "Randy·布朗",
     "name_en": "Randy Brown",
     "position": "PG",
     "height": 188,
@@ -14409,7 +14409,7 @@ export default [
   },
   {
     "id": "rasheed-wallace",
-    "name": "Rasheed Wallace",
+    "name": "Rasheed·华莱士",
     "name_en": "Rasheed Wallace",
     "position": "PF",
     "height": 211,
@@ -14451,7 +14451,7 @@ export default [
   },
   {
     "id": "ray-allen",
-    "name": "Ray Allen",
+    "name": "雷·Allen",
     "name_en": "Ray Allen",
     "position": "PG",
     "height": 196,
@@ -14493,7 +14493,7 @@ export default [
   },
   {
     "id": "ray-owes",
-    "name": "Ray Owes",
+    "name": "雷·Owes",
     "name_en": "Ray Owes",
     "position": "SF",
     "height": 206,
@@ -14529,7 +14529,7 @@ export default [
   },
   {
     "id": "reggie-geary",
-    "name": "Reggie Geary",
+    "name": "雷吉·Geary",
     "name_en": "Reggie Geary",
     "position": "SG",
     "height": 188,
@@ -14567,7 +14567,7 @@ export default [
   },
   {
     "id": "reggie-jordan",
-    "name": "Reggie Jordan",
+    "name": "雷吉·乔丹",
     "name_en": "Reggie Jordan",
     "position": "SG",
     "height": 193,
@@ -14641,7 +14641,7 @@ export default [
   },
   {
     "id": "karl-malone",
-    "name": "Karl Malone",
+    "name": "Karl·马龙",
     "name_en": "Karl Malone",
     "position": "SF",
     "height": 206,
@@ -14753,7 +14753,7 @@ export default [
   },
   {
     "id": "mark-west",
-    "name": "Mark West",
+    "name": "马克·韦斯特",
     "name_en": "Mark West",
     "position": "C",
     "height": 208,
@@ -14795,7 +14795,7 @@ export default [
   },
   {
     "id": "martin-lewis",
-    "name": "Martin Lewis",
+    "name": "Martin·刘易斯",
     "name_en": "Martin Lewis",
     "position": "SF",
     "height": 198,
@@ -15095,7 +15095,7 @@ export default [
   },
   {
     "id": "melvin-booker",
-    "name": "Melvin Booker",
+    "name": "Melvin·布克",
     "name_en": "Melvin Booker",
     "position": "PG",
     "height": 188,
@@ -15131,7 +15131,7 @@ export default [
   },
   {
     "id": "michael-cage",
-    "name": "Michael Cage",
+    "name": "迈克尔·Cage",
     "name_en": "Michael Cage",
     "position": "PF",
     "height": 206,
@@ -15169,7 +15169,7 @@ export default [
   },
   {
     "id": "michael-curry",
-    "name": "Michael Curry",
+    "name": "迈克尔·库里",
     "name_en": "Michael Curry",
     "position": "SF",
     "height": 196,
@@ -15211,7 +15211,7 @@ export default [
   },
   {
     "id": "michael-finley",
-    "name": "Michael Finley",
+    "name": "迈克尔·Finley",
     "name_en": "Michael Finley",
     "position": "SG",
     "height": 201,
@@ -15251,7 +15251,7 @@ export default [
   },
   {
     "id": "michael-hawkins",
-    "name": "Michael Hawkins",
+    "name": "迈克尔·霍金斯",
     "name_en": "Michael Hawkins",
     "position": "SG",
     "height": 183,
@@ -15293,7 +15293,7 @@ export default [
   },
   {
     "id": "michael-jordan",
-    "name": "Michael Jordan",
+    "name": "迈克尔·乔丹",
     "name_en": "Michael Jordan",
     "position": "SG",
     "height": 198,
@@ -15331,7 +15331,7 @@ export default [
   },
   {
     "id": "michael-smith",
-    "name": "Michael Smith",
+    "name": "迈克尔·史密斯",
     "name_en": "Michael Smith",
     "position": "SF",
     "height": 203,
@@ -15371,7 +15371,7 @@ export default [
   },
   {
     "id": "mike-brown",
-    "name": "Mike Brown",
+    "name": "Mike·布朗",
     "name_en": "Mike Brown",
     "position": "PF",
     "height": 208,
@@ -15447,7 +15447,7 @@ export default [
   },
   {
     "id": "mitchell-butler",
-    "name": "Mitchell Butler",
+    "name": "Mitchell·巴特勒",
     "name_en": "Mitchell Butler",
     "position": "SG",
     "height": 196,
@@ -15487,7 +15487,7 @@ export default [
   },
   {
     "id": "monty-williams",
-    "name": "Monty Williams",
+    "name": "Monty·威廉姆斯",
     "name_en": "Monty Williams",
     "position": "SF",
     "height": 203,
@@ -15529,7 +15529,7 @@ export default [
   },
   {
     "id": "moochie-norris",
-    "name": "Moochie Norris",
+    "name": "Moochie·诺里斯",
     "name_en": "Moochie Norris",
     "position": "SG",
     "height": 185,
@@ -15649,7 +15649,7 @@ export default [
   },
   {
     "id": "lloyd-daniels",
-    "name": "Lloyd Daniels",
+    "name": "Lloyd·丹尼尔斯",
     "name_en": "Lloyd Daniels",
     "position": "PG",
     "height": 201,
@@ -15687,7 +15687,7 @@ export default [
   },
   {
     "id": "tony-massenburg",
-    "name": "Tony Massenburg",
+    "name": "托尼·Massenburg",
     "name_en": "Tony Massenburg",
     "position": "PF",
     "height": 206,
@@ -15815,7 +15815,7 @@ export default [
   },
   {
     "id": "arvydas-sabonis",
-    "name": "Arvydas Sabonis",
+    "name": "Arvydas·萨博尼斯",
     "name_en": "Arvydas Sabonis",
     "position": "C",
     "height": 221,
@@ -15887,7 +15887,7 @@ export default [
   },
   {
     "id": "avery-johnson",
-    "name": "Avery Johnson",
+    "name": "Avery·约翰逊",
     "name_en": "Avery Johnson",
     "position": "SG",
     "height": 180,
@@ -15969,7 +15969,7 @@ export default [
   },
   {
     "id": "ben-davis",
-    "name": "Ben Davis",
+    "name": "Ben·戴维斯",
     "name_en": "Ben Davis",
     "position": "SF",
     "height": 206,
@@ -16007,7 +16007,7 @@ export default [
   },
   {
     "id": "ben-wallace",
-    "name": "Ben Wallace",
+    "name": "Ben·华莱士",
     "name_en": "Ben Wallace",
     "position": "PF",
     "height": 206,
@@ -16251,7 +16251,7 @@ export default [
   },
   {
     "id": "blue-edwards",
-    "name": "Blue Edwards",
+    "name": "Blue·爱德华兹",
     "name_en": "Blue Edwards",
     "position": "SG",
     "height": 193,
@@ -16373,7 +16373,7 @@ export default [
   },
   {
     "id": "bobby-hurley",
-    "name": "Bobby Hurley",
+    "name": "博比·Hurley",
     "name_en": "Bobby Hurley",
     "position": "SG",
     "height": 183,
@@ -16411,7 +16411,7 @@ export default [
   },
   {
     "id": "bobby-phills",
-    "name": "Bobby Phills",
+    "name": "博比·Phills",
     "name_en": "Bobby Phills",
     "position": "PG",
     "height": 196,
@@ -16527,7 +16527,7 @@ export default [
   },
   {
     "id": "billy-owens",
-    "name": "Billy Owens",
+    "name": "Billy·欧文斯",
     "name_en": "Billy Owens",
     "position": "SF",
     "height": 203,
@@ -16569,7 +16569,7 @@ export default [
   },
   {
     "id": "antonio-harvey",
-    "name": "Antonio Harvey",
+    "name": "Antonio·哈维",
     "name_en": "Antonio Harvey",
     "position": "PF",
     "height": 211,
@@ -16655,7 +16655,7 @@ export default [
   },
   {
     "id": "antoine-walker",
-    "name": "Antoine Walker",
+    "name": "Antoine·沃克",
     "name_en": "Antoine Walker",
     "position": "SF",
     "height": 206,
@@ -16697,7 +16697,7 @@ export default [
   },
   {
     "id": "ac-green",
-    "name": "A.C. Green",
+    "name": "A.C·格林",
     "name_en": "A.C. Green",
     "position": "SF",
     "height": 206,
@@ -16737,7 +16737,7 @@ export default [
   },
   {
     "id": "aaron-mckie",
-    "name": "Aaron McKie",
+    "name": "阿龙·Mckie",
     "name_en": "Aaron McKie",
     "position": "SG",
     "height": 196,
@@ -16777,7 +16777,7 @@ export default [
   },
   {
     "id": "aaron-williams",
-    "name": "Aaron Williams",
+    "name": "阿龙·威廉姆斯",
     "name_en": "Aaron Williams",
     "position": "PF",
     "height": 206,
@@ -16937,7 +16937,7 @@ export default [
   },
   {
     "id": "antonio-davis",
-    "name": "Antonio Davis",
+    "name": "Antonio·戴维斯",
     "name_en": "Antonio Davis",
     "position": "PF",
     "height": 206,
@@ -17013,7 +17013,7 @@ export default [
   },
   {
     "id": "allan-houston",
-    "name": "Allan Houston",
+    "name": "Allan·休斯顿",
     "name_en": "Allan Houston",
     "position": "PG",
     "height": 198,
@@ -17049,7 +17049,7 @@ export default [
   },
   {
     "id": "allen-iverson",
-    "name": "Allen Iverson",
+    "name": "阿伦·Iverson",
     "name_en": "Allen Iverson",
     "position": "SG",
     "height": 183,
@@ -17209,7 +17209,7 @@ export default [
   },
   {
     "id": "alonzo-mourning",
-    "name": "Alonzo Mourning",
+    "name": "阿隆佐·Mourning",
     "name_en": "Alonzo Mourning",
     "position": "C",
     "height": 208,
@@ -17247,7 +17247,7 @@ export default [
   },
   {
     "id": "anthony-miller",
-    "name": "Anthony Miller",
+    "name": "安东尼·米勒",
     "name_en": "Anthony Miller",
     "position": "SF",
     "height": 206,
@@ -17287,7 +17287,7 @@ export default [
   },
   {
     "id": "anthony-mason",
-    "name": "Anthony Mason",
+    "name": "安东尼·梅森",
     "name_en": "Anthony Mason",
     "position": "SF",
     "height": 203,
@@ -17327,7 +17327,7 @@ export default [
   },
   {
     "id": "anthony-goldwire",
-    "name": "Anthony Goldwire",
+    "name": "安东尼·Goldwire",
     "name_en": "Anthony Goldwire",
     "position": "PG",
     "height": 188,
@@ -17371,7 +17371,7 @@ export default [
   },
   {
     "id": "anthony-peeler",
-    "name": "Anthony Peeler",
+    "name": "安东尼·Peeler",
     "name_en": "Anthony Peeler",
     "position": "SG",
     "height": 193,
@@ -17537,7 +17537,7 @@ export default [
   },
   {
     "id": "anfernee-hardaway",
-    "name": "Anfernee Hardaway",
+    "name": "Anfernee·哈达威",
     "name_en": "Anfernee Hardaway",
     "position": "SG",
     "height": 201,
@@ -17579,7 +17579,7 @@ export default [
   },
   {
     "id": "micheal-williams",
-    "name": "Micheal Williams",
+    "name": "Micheal·威廉姆斯",
     "name_en": "Micheal Williams",
     "position": "PG",
     "height": 188,
@@ -17617,7 +17617,7 @@ export default [
   },
   {
     "id": "michael-mcdonald",
-    "name": "Michael McDonald",
+    "name": "迈克尔·麦克唐纳",
     "name_en": "Michael McDonald",
     "position": "C",
     "height": 208,
@@ -17653,7 +17653,7 @@ export default [
   },
   {
     "id": "maurice-taylor",
-    "name": "Maurice Taylor",
+    "name": "Maurice·泰勒",
     "name_en": "Maurice Taylor",
     "position": "SF",
     "height": 206,
@@ -17695,7 +17695,7 @@ export default [
   },
   {
     "id": "michael-stewart",
-    "name": "Michael Stewart",
+    "name": "迈克尔·斯图尔特",
     "name_en": "Michael Stewart",
     "position": "C",
     "height": 208,
@@ -17739,7 +17739,7 @@ export default [
   },
   {
     "id": "rick-brunson",
-    "name": "Rick Brunson",
+    "name": "Rick·布伦森",
     "name_en": "Rick Brunson",
     "position": "SG",
     "height": 193,
@@ -17783,7 +17783,7 @@ export default [
   },
   {
     "id": "reggie-hanson",
-    "name": "Reggie Hanson",
+    "name": "雷吉·Hanson",
     "name_en": "Reggie Hanson",
     "position": "SF",
     "height": 203,
@@ -17819,7 +17819,7 @@ export default [
   },
   {
     "id": "pete-myers",
-    "name": "Pete Myers",
+    "name": "Pete·迈尔斯",
     "name_en": "Pete Myers",
     "position": "SG",
     "height": 198,
@@ -17855,7 +17855,7 @@ export default [
   },
   {
     "id": "larry-robinson",
-    "name": "Larry Robinson",
+    "name": "拉里·罗宾逊",
     "name_en": "Larry Robinson",
     "position": "PG",
     "height": 190,
@@ -17933,7 +17933,7 @@ export default [
   },
   {
     "id": "kevin-ollie",
-    "name": "Kevin Ollie",
+    "name": "凯文·Ollie",
     "name_en": "Kevin Ollie",
     "position": "SG",
     "height": 188,
@@ -18177,7 +18177,7 @@ export default [
   },
   {
     "id": "mark-pope",
-    "name": "Mark Pope",
+    "name": "马克·波普",
     "name_en": "Mark Pope",
     "position": "PF",
     "height": 208,
@@ -18293,7 +18293,7 @@ export default [
   },
   {
     "id": "sean-higgins",
-    "name": "Sean Higgins",
+    "name": "Sean·希金斯",
     "name_en": "Sean Higgins",
     "position": "SG",
     "height": 206,
@@ -18329,7 +18329,7 @@ export default [
   },
   {
     "id": "tracy-mcgrady",
-    "name": "Tracy McGrady",
+    "name": "特雷西·Mcgrady",
     "name_en": "Tracy McGrady",
     "position": "SG",
     "height": 203,
@@ -18375,7 +18375,7 @@ export default [
   },
   {
     "id": "tony-farmer",
-    "name": "Tony Farmer",
+    "name": "托尼·Farmer",
     "name_en": "Tony Farmer",
     "position": "SF",
     "height": 206,
@@ -18413,7 +18413,7 @@ export default [
   },
   {
     "id": "tony-battie",
-    "name": "Tony Battie",
+    "name": "托尼·Battie",
     "name_en": "Tony Battie",
     "position": "C",
     "height": 211,
@@ -18459,7 +18459,7 @@ export default [
   },
   {
     "id": "tim-thomas",
-    "name": "Tim Thomas",
+    "name": "蒂姆·托马斯",
     "name_en": "Tim Thomas",
     "position": "SF",
     "height": 208,
@@ -18507,7 +18507,7 @@ export default [
   },
   {
     "id": "tim-duncan",
-    "name": "Tim Duncan",
+    "name": "蒂姆·邓肯",
     "name_en": "Tim Duncan",
     "position": "PF",
     "height": 211,
@@ -18543,7 +18543,7 @@ export default [
   },
   {
     "id": "tim-breaux",
-    "name": "Tim Breaux",
+    "name": "蒂姆·Breaux",
     "name_en": "Tim Breaux",
     "position": "SF",
     "height": 201,
@@ -18579,7 +18579,7 @@ export default [
   },
   {
     "id": "travis-williams",
-    "name": "Travis Williams",
+    "name": "Travis·威廉姆斯",
     "name_en": "Travis Williams",
     "position": "SF",
     "height": 198,
@@ -18615,7 +18615,7 @@ export default [
   },
   {
     "id": "troy-hudson",
-    "name": "Troy Hudson",
+    "name": "Troy·哈德森",
     "name_en": "Troy Hudson",
     "position": "PG",
     "height": 185,
@@ -18737,7 +18737,7 @@ export default [
   },
   {
     "id": "william-cunningham",
-    "name": "William Cunningham",
+    "name": "威廉·坎宁安",
     "name_en": "William Cunningham",
     "position": "C",
     "height": 211,
@@ -18941,7 +18941,7 @@ export default [
   },
   {
     "id": "rodrick-rhodes",
-    "name": "Rodrick Rhodes",
+    "name": "Rodrick·罗兹",
     "name_en": "Rodrick Rhodes",
     "position": "SG",
     "height": 198,
@@ -18981,7 +18981,7 @@ export default [
   },
   {
     "id": "terry-davis",
-    "name": "Terry Davis",
+    "name": "特里·戴维斯",
     "name_en": "Terry Davis",
     "position": "PF",
     "height": 208,
@@ -19095,7 +19095,7 @@ export default [
   },
   {
     "id": "spud-webb",
-    "name": "Spud Webb",
+    "name": "Spud·韦伯",
     "name_en": "Spud Webb",
     "position": "PG",
     "height": 168,
@@ -19205,7 +19205,7 @@ export default [
   },
   {
     "id": "alvin-williams",
-    "name": "Alvin Williams",
+    "name": "Alvin·威廉姆斯",
     "name_en": "Alvin Williams",
     "position": "SG",
     "height": 196,
@@ -19243,7 +19243,7 @@ export default [
   },
   {
     "id": "anthony-bowie",
-    "name": "Anthony Bowie",
+    "name": "安东尼·Bowie",
     "name_en": "Anthony Bowie",
     "position": "PG",
     "height": 198,
@@ -19279,7 +19279,7 @@ export default [
   },
   {
     "id": "anthony-johnson",
-    "name": "Anthony Johnson",
+    "name": "安东尼·约翰逊",
     "name_en": "Anthony Johnson",
     "position": "SG",
     "height": 190,
@@ -19325,7 +19325,7 @@ export default [
   },
   {
     "id": "anthony-parker",
-    "name": "Anthony Parker",
+    "name": "安东尼·帕克",
     "name_en": "Anthony Parker",
     "position": "PG",
     "height": 198,
@@ -19367,7 +19367,7 @@ export default [
   },
   {
     "id": "antonio-daniels",
-    "name": "Antonio Daniels",
+    "name": "Antonio·丹尼尔斯",
     "name_en": "Antonio Daniels",
     "position": "SG",
     "height": 193,
@@ -19453,7 +19453,7 @@ export default [
   },
   {
     "id": "david-benoit",
-    "name": "David Benoit",
+    "name": "大卫·Benoit",
     "name_en": "David Benoit",
     "position": "SF",
     "height": 203,
@@ -19659,7 +19659,7 @@ export default [
   },
   {
     "id": "charles-obannon",
-    "name": "Charles O'Bannon",
+    "name": "查尔斯·O'Bannon",
     "name_en": "Charles O'Bannon",
     "position": "SG",
     "height": 196,
@@ -19733,7 +19733,7 @@ export default [
   },
   {
     "id": "brian-oliver",
-    "name": "Brian Oliver",
+    "name": "Brian·奥利弗",
     "name_en": "Brian Oliver",
     "position": "SG",
     "height": 193,
@@ -19769,7 +19769,7 @@ export default [
   },
   {
     "id": "brevin-knight",
-    "name": "Brevin Knight",
+    "name": "Brevin·奈特",
     "name_en": "Brevin Knight",
     "position": "SG",
     "height": 178,
@@ -19817,7 +19817,7 @@ export default [
   },
   {
     "id": "kebu-stewart",
-    "name": "Kebu Stewart",
+    "name": "Kebu·斯图尔特",
     "name_en": "Kebu Stewart",
     "position": "SF",
     "height": 203,
@@ -19889,7 +19889,7 @@ export default [
   },
   {
     "id": "chris-anstey",
-    "name": "Chris Anstey",
+    "name": "克里斯·Anstey",
     "name_en": "Chris Anstey",
     "position": "C",
     "height": 213,
@@ -20001,7 +20001,7 @@ export default [
   },
   {
     "id": "bobby-jackson",
-    "name": "Bobby Jackson",
+    "name": "博比·杰克逊",
     "name_en": "Bobby Jackson",
     "position": "SG",
     "height": 185,
@@ -20047,7 +20047,7 @@ export default [
   },
   {
     "id": "brandon-williams",
-    "name": "Brandon Williams",
+    "name": "布兰登·威廉姆斯",
     "name_en": "Brandon Williams",
     "position": "SF",
     "height": 188,
@@ -20089,7 +20089,7 @@ export default [
   },
   {
     "id": "chris-garner",
-    "name": "Chris Garner",
+    "name": "克里斯·Garner",
     "name_en": "Chris Garner",
     "position": "PG",
     "height": 178,
@@ -20127,7 +20127,7 @@ export default [
   },
   {
     "id": "chris-crawford",
-    "name": "Chris Crawford",
+    "name": "克里斯·克劳福德",
     "name_en": "Chris Crawford",
     "position": "SF",
     "height": 206,
@@ -20163,7 +20163,7 @@ export default [
   },
   {
     "id": "james-cotton",
-    "name": "James Cotton",
+    "name": "詹姆斯·Cotton",
     "name_en": "James Cotton",
     "position": "SG",
     "height": 196,
@@ -20199,7 +20199,7 @@ export default [
   },
   {
     "id": "james-collins",
-    "name": "James Collins",
+    "name": "詹姆斯·科林斯",
     "name_en": "James Collins",
     "position": "PG",
     "height": 193,
@@ -20235,7 +20235,7 @@ export default [
   },
   {
     "id": "jacque-vaughn",
-    "name": "Jacque Vaughn",
+    "name": "Jacque·沃恩",
     "name_en": "Jacque Vaughn",
     "position": "PG",
     "height": 185,
@@ -20279,7 +20279,7 @@ export default [
   },
   {
     "id": "jr-reid",
-    "name": "J.R. Reid",
+    "name": "J.R·里德",
     "name_en": "J.R. Reid",
     "position": "PF",
     "height": 206,
@@ -20321,7 +20321,7 @@ export default [
   },
   {
     "id": "harold-ellis",
-    "name": "Harold Ellis",
+    "name": "Harold·埃利斯",
     "name_en": "Harold Ellis",
     "position": "SF",
     "height": 196,
@@ -20357,7 +20357,7 @@ export default [
   },
   {
     "id": "jason-lawson",
-    "name": "Jason Lawson",
+    "name": "杰森·劳森",
     "name_en": "Jason Lawson",
     "position": "C",
     "height": 211,
@@ -20393,7 +20393,7 @@ export default [
   },
   {
     "id": "johnny-taylor",
-    "name": "Johnny Taylor",
+    "name": "Johnny·泰勒",
     "name_en": "Johnny Taylor",
     "position": "SF",
     "height": 206,
@@ -20431,7 +20431,7 @@ export default [
   },
   {
     "id": "john-thomas",
-    "name": "John Thomas",
+    "name": "约翰·托马斯",
     "name_en": "John Thomas",
     "position": "C",
     "height": 206,
@@ -20509,7 +20509,7 @@ export default [
   },
   {
     "id": "jeff-nordgaard",
-    "name": "Jeff Nordgaard",
+    "name": "杰夫·Nordgaard",
     "name_en": "Jeff Nordgaard",
     "position": "SF",
     "height": 201,
@@ -20545,7 +20545,7 @@ export default [
   },
   {
     "id": "ed-stokes",
-    "name": "Ed Stokes",
+    "name": "Ed·斯托克斯",
     "name_en": "Ed Stokes",
     "position": "C",
     "height": 213,
@@ -20581,7 +20581,7 @@ export default [
   },
   {
     "id": "ed-gray",
-    "name": "Ed Gray",
+    "name": "Ed·格雷",
     "name_en": "Ed Gray",
     "position": "PG",
     "height": 190,
@@ -20655,7 +20655,7 @@ export default [
   },
   {
     "id": "dontae-jones",
-    "name": "Dontae' Jones",
+    "name": "Dontae'·琼斯",
     "name_en": "Dontae' Jones",
     "position": "SF",
     "height": 203,
@@ -20691,7 +20691,7 @@ export default [
   },
   {
     "id": "derek-grimm",
-    "name": "Derek Grimm",
+    "name": "德里克·Grimm",
     "name_en": "Derek Grimm",
     "position": "SF",
     "height": 206,
@@ -20727,7 +20727,7 @@ export default [
   },
   {
     "id": "derek-anderson",
-    "name": "Derek Anderson",
+    "name": "德里克·安德森",
     "name_en": "Derek Anderson",
     "position": "PG",
     "height": 196,
@@ -20809,7 +20809,7 @@ export default [
   },
   {
     "id": "gerald-madkins",
-    "name": "Gerald Madkins",
+    "name": "杰拉德·Madkins",
     "name_en": "Gerald Madkins",
     "position": "SG",
     "height": 193,
@@ -20887,7 +20887,7 @@ export default [
   },
   {
     "id": "eric-riley",
-    "name": "Eric Riley",
+    "name": "埃里克·莱利",
     "name_en": "Eric Riley",
     "position": "C",
     "height": 213,
@@ -20925,7 +20925,7 @@ export default [
   },
   {
     "id": "eric-washington",
-    "name": "Eric Washington",
+    "name": "埃里克·华盛顿",
     "name_en": "Eric Washington",
     "position": "SF",
     "height": 193,
@@ -20961,7 +20961,7 @@ export default [
   },
   {
     "id": "dirk-nowitzki",
-    "name": "Dirk Nowitzki",
+    "name": "德克·诺维茨基",
     "name_en": "Dirk Nowitzki",
     "position": "SF",
     "height": 213,
@@ -21047,7 +21047,7 @@ export default [
   },
   {
     "id": "cory-carr",
-    "name": "Cory Carr",
+    "name": "科里·Carr",
     "name_en": "Cory Carr",
     "position": "PG",
     "height": 193,
@@ -21083,7 +21083,7 @@ export default [
   },
   {
     "id": "cuttino-mobley",
-    "name": "Cuttino Mobley",
+    "name": "Cuttino·莫布利",
     "name_en": "Cuttino Mobley",
     "position": "SG",
     "height": 193,
@@ -21123,7 +21123,7 @@ export default [
   },
   {
     "id": "damon-jones",
-    "name": "Damon Jones",
+    "name": "Damon·琼斯",
     "name_en": "Damon Jones",
     "position": "PG",
     "height": 190,
@@ -21173,7 +21173,7 @@ export default [
   },
   {
     "id": "gerard-king",
-    "name": "Gerard King",
+    "name": "Gerard·金",
     "name_en": "Gerard King",
     "position": "PF",
     "height": 206,
@@ -21247,7 +21247,7 @@ export default [
   },
   {
     "id": "gerald-brown",
-    "name": "Gerald Brown",
+    "name": "杰拉德·布朗",
     "name_en": "Gerald Brown",
     "position": "SG",
     "height": 193,
@@ -21283,7 +21283,7 @@ export default [
   },
   {
     "id": "felipe-lopez",
-    "name": "Felipe Lopez",
+    "name": "Felipe·洛佩兹",
     "name_en": "Felipe Lopez",
     "position": "SG",
     "height": 196,
@@ -21359,7 +21359,7 @@ export default [
   },
   {
     "id": "adonis-jordan",
-    "name": "Adonis Jordan",
+    "name": "Adonis·乔丹",
     "name_en": "Adonis Jordan",
     "position": "PG",
     "height": 180,
@@ -21395,7 +21395,7 @@ export default [
   },
   {
     "id": "al-harrington",
-    "name": "Al Harrington",
+    "name": "阿尔·哈林顿",
     "name_en": "Al Harrington",
     "position": "SF",
     "height": 206,
@@ -21443,7 +21443,7 @@ export default [
   },
   {
     "id": "alvin-sims",
-    "name": "Alvin Sims",
+    "name": "Alvin·西姆斯",
     "name_en": "Alvin Sims",
     "position": "SG",
     "height": 193,
@@ -21479,7 +21479,7 @@ export default [
   },
   {
     "id": "andrae-patterson",
-    "name": "Andrae Patterson",
+    "name": "Andrae·帕特森",
     "name_en": "Andrae Patterson",
     "position": "SF",
     "height": 206,
@@ -21597,7 +21597,7 @@ export default [
   },
   {
     "id": "anthony-avent",
-    "name": "Anthony Avent",
+    "name": "安东尼·Avent",
     "name_en": "Anthony Avent",
     "position": "C",
     "height": 206,
@@ -21679,7 +21679,7 @@ export default [
   },
   {
     "id": "brad-miller",
-    "name": "Brad Miller",
+    "name": "Brad·米勒",
     "name_en": "Brad Miller",
     "position": "PF",
     "height": 213,
@@ -21725,7 +21725,7 @@ export default [
   },
   {
     "id": "chris-king",
-    "name": "Chris King",
+    "name": "克里斯·金",
     "name_en": "Chris King",
     "position": "SF",
     "height": 203,
@@ -21761,7 +21761,7 @@ export default [
   },
   {
     "id": "charles-shackleford",
-    "name": "Charles Shackleford",
+    "name": "查尔斯·Shackleford",
     "name_en": "Charles Shackleford",
     "position": "C",
     "height": 211,
@@ -21797,7 +21797,7 @@ export default [
   },
   {
     "id": "charles-r-jones",
-    "name": "Charles R. Jones",
+    "name": "查尔斯·琼斯",
     "name_en": "Charles R. Jones",
     "position": "SG",
     "height": 190,
@@ -21885,7 +21885,7 @@ export default [
   },
   {
     "id": "bruno-sundov",
-    "name": "Bruno Sundov",
+    "name": "布鲁诺·Sundov",
     "name_en": "Bruno Sundov",
     "position": "C",
     "height": 218,
@@ -21969,7 +21969,7 @@ export default [
   },
   {
     "id": "casey-shaw",
-    "name": "Casey Shaw",
+    "name": "Casey·肖",
     "name_en": "Casey Shaw",
     "position": "C",
     "height": 211,
@@ -22005,7 +22005,7 @@ export default [
   },
   {
     "id": "jahidi-white",
-    "name": "Jahidi White",
+    "name": "Jahidi·怀特",
     "name_en": "Jahidi White",
     "position": "PF",
     "height": 206,
@@ -22083,7 +22083,7 @@ export default [
   },
   {
     "id": "ruben-patterson",
-    "name": "Ruben Patterson",
+    "name": "Ruben·帕特森",
     "name_en": "Ruben Patterson",
     "position": "SF",
     "height": 196,
@@ -22165,7 +22165,7 @@ export default [
   },
   {
     "id": "sam-jacobson",
-    "name": "Sam Jacobson",
+    "name": "萨姆·Jacobson",
     "name_en": "Sam Jacobson",
     "position": "SG",
     "height": 193,
@@ -22205,7 +22205,7 @@ export default [
   },
   {
     "id": "robert-traylor",
-    "name": "Robert Traylor",
+    "name": "罗伯特·Traylor",
     "name_en": "Robert Traylor",
     "position": "PF",
     "height": 203,
@@ -22293,7 +22293,7 @@ export default [
   },
   {
     "id": "pat-garrity",
-    "name": "Pat Garrity",
+    "name": "帕特·Garrity",
     "name_en": "Pat Garrity",
     "position": "SF",
     "height": 206,
@@ -22331,7 +22331,7 @@ export default [
   },
   {
     "id": "paul-grant",
-    "name": "Paul Grant",
+    "name": "保罗·格兰特",
     "name_en": "Paul Grant",
     "position": "C",
     "height": 213,
@@ -22369,7 +22369,7 @@ export default [
   },
   {
     "id": "paul-pierce",
-    "name": "Paul Pierce",
+    "name": "保罗·皮尔斯",
     "name_en": "Paul Pierce",
     "position": "SF",
     "height": 201,
@@ -22533,7 +22533,7 @@ export default [
   },
   {
     "id": "randell-jackson",
-    "name": "Randell Jackson",
+    "name": "Randell·杰克逊",
     "name_en": "Randell Jackson",
     "position": "SF",
     "height": 211,
@@ -22613,7 +22613,7 @@ export default [
   },
   {
     "id": "ricky-davis",
-    "name": "Ricky Davis",
+    "name": "里基·戴维斯",
     "name_en": "Ricky Davis",
     "position": "SF",
     "height": 201,
@@ -22659,7 +22659,7 @@ export default [
   },
   {
     "id": "rashard-lewis",
-    "name": "Rashard Lewis",
+    "name": "Rashard·刘易斯",
     "name_en": "Rashard Lewis",
     "position": "SF",
     "height": 208,
@@ -22819,7 +22819,7 @@ export default [
   },
   {
     "id": "tyson-wheeler",
-    "name": "Tyson Wheeler",
+    "name": "Tyson·惠勒",
     "name_en": "Tyson Wheeler",
     "position": "SG",
     "height": 178,
@@ -22897,7 +22897,7 @@ export default [
   },
   {
     "id": "vince-carter",
-    "name": "Vince Carter",
+    "name": "文斯·卡特",
     "name_en": "Vince Carter",
     "position": "SG",
     "height": 198,
@@ -23019,7 +23019,7 @@ export default [
   },
   {
     "id": "shammond-williams",
-    "name": "Shammond Williams",
+    "name": "Shammond·威廉姆斯",
     "name_en": "Shammond Williams",
     "position": "PG",
     "height": 185,
@@ -23063,7 +23063,7 @@ export default [
   },
   {
     "id": "jonathan-kerner",
-    "name": "Jonathan Kerner",
+    "name": "乔纳森·Kerner",
     "name_en": "Jonathan Kerner",
     "position": "C",
     "height": 211,
@@ -23135,7 +23135,7 @@ export default [
   },
   {
     "id": "keon-clark",
-    "name": "Keon Clark",
+    "name": "Keon·克拉克",
     "name_en": "Keon Clark",
     "position": "PF",
     "height": 211,
@@ -23177,7 +23177,7 @@ export default [
   },
   {
     "id": "korleone-young",
-    "name": "Korleone Young",
+    "name": "Korleone·杨",
     "name_en": "Korleone Young",
     "position": "SF",
     "height": 201,
@@ -23253,7 +23253,7 @@ export default [
   },
   {
     "id": "jason-williams",
-    "name": "Jason Williams",
+    "name": "杰森·威廉姆斯",
     "name_en": "Jason Williams",
     "position": "SG",
     "height": 185,
@@ -23295,7 +23295,7 @@ export default [
   },
   {
     "id": "john-coker",
-    "name": "John Coker",
+    "name": "约翰·Coker",
     "name_en": "John Coker",
     "position": "C",
     "height": 213,
@@ -23333,7 +23333,7 @@ export default [
   },
   {
     "id": "jeff-sheppard",
-    "name": "Jeff Sheppard",
+    "name": "杰夫·Sheppard",
     "name_en": "Jeff Sheppard",
     "position": "SG",
     "height": 190,
@@ -23369,7 +23369,7 @@ export default [
   },
   {
     "id": "jerome-james",
-    "name": "Jerome James",
+    "name": "Jerome·詹姆斯",
     "name_en": "Jerome James",
     "position": "C",
     "height": 216,
@@ -23409,7 +23409,7 @@ export default [
   },
   {
     "id": "jelani-mccoy",
-    "name": "Jelani McCoy",
+    "name": "Jelani·麦考伊",
     "name_en": "Jelani McCoy",
     "position": "SF",
     "height": 208,
@@ -23455,7 +23455,7 @@ export default [
   },
   {
     "id": "mikki-moore",
-    "name": "Mikki Moore",
+    "name": "Mikki·摩尔",
     "name_en": "Mikki Moore",
     "position": "PF",
     "height": 213,
@@ -23551,7 +23551,7 @@ export default [
   },
   {
     "id": "michael-olowokandi",
-    "name": "Michael Olowokandi",
+    "name": "迈克尔·Olowokandi",
     "name_en": "Michael Olowokandi",
     "position": "C",
     "height": 213,
@@ -23591,7 +23591,7 @@ export default [
   },
   {
     "id": "michael-doleac",
-    "name": "Michael Doleac",
+    "name": "迈克尔·Doleac",
     "name_en": "Michael Doleac",
     "position": "C",
     "height": 211,
@@ -23637,7 +23637,7 @@ export default [
   },
   {
     "id": "michael-dickerson",
-    "name": "Michael Dickerson",
+    "name": "迈克尔·Dickerson",
     "name_en": "Michael Dickerson",
     "position": "SG",
     "height": 196,
@@ -23755,7 +23755,7 @@ export default [
   },
   {
     "id": "mark-macon",
-    "name": "Mark Macon",
+    "name": "马克·Macon",
     "name_en": "Mark Macon",
     "position": "PG",
     "height": 193,
@@ -23791,7 +23791,7 @@ export default [
   },
   {
     "id": "miles-simon",
-    "name": "Miles Simon",
+    "name": "迈尔斯·Simon",
     "name_en": "Miles Simon",
     "position": "PG",
     "height": 190,
@@ -23827,7 +23827,7 @@ export default [
   },
   {
     "id": "larry-hughes",
-    "name": "Larry Hughes",
+    "name": "拉里·休斯",
     "name_en": "Larry Hughes",
     "position": "SG",
     "height": 196,
@@ -23927,7 +23927,7 @@ export default [
   },
   {
     "id": "negele-knight",
-    "name": "Negele Knight",
+    "name": "Negele·奈特",
     "name_en": "Negele Knight",
     "position": "PG",
     "height": 185,
@@ -23963,7 +23963,7 @@ export default [
   },
   {
     "id": "mark-baker",
-    "name": "Mark Baker",
+    "name": "马克·贝克",
     "name_en": "Mark Baker",
     "position": "SG",
     "height": 185,
@@ -23999,7 +23999,7 @@ export default [
   },
   {
     "id": "michael-ruffin",
-    "name": "Michael Ruffin",
+    "name": "迈克尔·Ruffin",
     "name_en": "Michael Ruffin",
     "position": "PF",
     "height": 203,
@@ -24215,7 +24215,7 @@ export default [
   },
   {
     "id": "jonathan-bender",
-    "name": "Jonathan Bender",
+    "name": "乔纳森·Bender",
     "name_en": "Jonathan Bender",
     "position": "SF",
     "height": 213,
@@ -24253,7 +24253,7 @@ export default [
   },
   {
     "id": "jumaine-jones",
-    "name": "Jumaine Jones",
+    "name": "Jumaine·琼斯",
     "name_en": "Jumaine Jones",
     "position": "SF",
     "height": 203,
@@ -24299,7 +24299,7 @@ export default [
   },
   {
     "id": "kenny-thomas",
-    "name": "Kenny Thomas",
+    "name": "Kenny·托马斯",
     "name_en": "Kenny Thomas",
     "position": "SF",
     "height": 201,
@@ -24339,7 +24339,7 @@ export default [
   },
   {
     "id": "john-amaechi",
-    "name": "John Amaechi",
+    "name": "约翰·Amaechi",
     "name_en": "John Amaechi",
     "position": "PF",
     "height": 208,
@@ -24377,7 +24377,7 @@ export default [
   },
   {
     "id": "john-celestand",
-    "name": "John Celestand",
+    "name": "约翰·Celestand",
     "name_en": "John Celestand",
     "position": "SG",
     "height": 193,
@@ -24413,7 +24413,7 @@ export default [
   },
   {
     "id": "john-salley",
-    "name": "John Salley",
+    "name": "约翰·Salley",
     "name_en": "John Salley",
     "position": "PF",
     "height": 211,
@@ -24603,7 +24603,7 @@ export default [
   },
   {
     "id": "jermaine-jackson",
-    "name": "Jermaine Jackson",
+    "name": "Jermaine·杰克逊",
     "name_en": "Jermaine Jackson",
     "position": "PG",
     "height": 196,
@@ -24685,7 +24685,7 @@ export default [
   },
   {
     "id": "tim-young",
-    "name": "Tim Young",
+    "name": "蒂姆·杨",
     "name_en": "Tim Young",
     "position": "C",
     "height": 218,
@@ -24721,7 +24721,7 @@ export default [
   },
   {
     "id": "tim-james",
-    "name": "Tim James",
+    "name": "蒂姆·詹姆斯",
     "name_en": "Tim James",
     "position": "SF",
     "height": 201,
@@ -24761,7 +24761,7 @@ export default [
   },
   {
     "id": "thomas-hamilton",
-    "name": "Thomas Hamilton",
+    "name": "托马斯·汉密尔顿",
     "name_en": "Thomas Hamilton",
     "position": "C",
     "height": 218,
@@ -24837,7 +24837,7 @@ export default [
   },
   {
     "id": "jeff-foster",
-    "name": "Jeff Foster",
+    "name": "杰夫·Foster",
     "name_en": "Jeff Foster",
     "position": "PF",
     "height": 211,
@@ -24873,7 +24873,7 @@ export default [
   },
   {
     "id": "william-avery",
-    "name": "William Avery",
+    "name": "威廉·Avery",
     "name_en": "William Avery",
     "position": "PG",
     "height": 188,
@@ -24909,7 +24909,7 @@ export default [
   },
   {
     "id": "wayne-turner",
-    "name": "Wayne Turner",
+    "name": "Wayne·特纳",
     "name_en": "Wayne Turner",
     "position": "SG",
     "height": 188,
@@ -25103,7 +25103,7 @@ export default [
   },
   {
     "id": "rick-hughes",
-    "name": "Rick Hughes",
+    "name": "Rick·休斯",
     "name_en": "Rick Hughes",
     "position": "SF",
     "height": 206,
@@ -25139,7 +25139,7 @@ export default [
   },
   {
     "id": "richard-hamilton",
-    "name": "Richard Hamilton",
+    "name": "Richard·汉密尔顿",
     "name_en": "Richard Hamilton",
     "position": "PG",
     "height": 201,
@@ -25223,7 +25223,7 @@ export default [
   },
   {
     "id": "quincy-lewis",
-    "name": "Quincy Lewis",
+    "name": "Quincy·刘易斯",
     "name_en": "Quincy Lewis",
     "position": "SG",
     "height": 201,
@@ -25347,7 +25347,7 @@ export default [
   },
   {
     "id": "ryan-robertson",
-    "name": "Ryan Robertson",
+    "name": "Ryan·罗伯特森",
     "name_en": "Ryan Robertson",
     "position": "SG",
     "height": 196,
@@ -25425,7 +25425,7 @@ export default [
   },
   {
     "id": "jason-miskiri",
-    "name": "Jason Miskiri",
+    "name": "杰森·Miskiri",
     "name_en": "Jason Miskiri",
     "position": "SG",
     "height": 188,
@@ -25637,7 +25637,7 @@ export default [
   },
   {
     "id": "chris-herren",
-    "name": "Chris Herren",
+    "name": "克里斯·Herren",
     "name_en": "Chris Herren",
     "position": "PG",
     "height": 188,
@@ -25675,7 +25675,7 @@ export default [
   },
   {
     "id": "anthony-carter",
-    "name": "Anthony Carter",
+    "name": "安东尼·卡特",
     "name_en": "Anthony Carter",
     "position": "SG",
     "height": 185,
@@ -25721,7 +25721,7 @@ export default [
   },
   {
     "id": "andre-miller",
-    "name": "Andre Miller",
+    "name": "安德烈·米勒",
     "name_en": "Andre Miller",
     "position": "SG",
     "height": 190,
@@ -25809,7 +25809,7 @@ export default [
   },
   {
     "id": "adrian-griffin",
-    "name": "Adrian Griffin",
+    "name": "Adrian·格里芬",
     "name_en": "Adrian Griffin",
     "position": "SG",
     "height": 196,
@@ -25889,7 +25889,7 @@ export default [
   },
   {
     "id": "baron-davis",
-    "name": "Baron Davis",
+    "name": "Baron·戴维斯",
     "name_en": "Baron Davis",
     "position": "PG",
     "height": 190,
@@ -25935,7 +25935,7 @@ export default [
   },
   {
     "id": "jason-terry",
-    "name": "Jason Terry",
+    "name": "杰森·Terry",
     "name_en": "Jason Terry",
     "position": "SG",
     "height": 188,
@@ -25981,7 +25981,7 @@ export default [
   },
   {
     "id": "fred-vinson",
-    "name": "Fred Vinson",
+    "name": "弗雷德·Vinson",
     "name_en": "Fred Vinson",
     "position": "PG",
     "height": 193,
@@ -26017,7 +26017,7 @@ export default [
   },
   {
     "id": "evan-eschmeyer",
-    "name": "Evan Eschmeyer",
+    "name": "埃文·Eschmeyer",
     "name_en": "Evan Eschmeyer",
     "position": "C",
     "height": 211,
@@ -26099,7 +26099,7 @@ export default [
   },
   {
     "id": "james-posey",
-    "name": "James Posey",
+    "name": "詹姆斯·Posey",
     "name_en": "James Posey",
     "position": "SF",
     "height": 203,
@@ -26267,7 +26267,7 @@ export default [
   },
   {
     "id": "derek-hood",
-    "name": "Derek Hood",
+    "name": "德里克·胡德",
     "name_en": "Derek Hood",
     "position": "SF",
     "height": 203,
@@ -26339,7 +26339,7 @@ export default [
   },
   {
     "id": "demarco-johnson",
-    "name": "DeMarco Johnson",
+    "name": "Demarco·约翰逊",
     "name_en": "DeMarco Johnson",
     "position": "SF",
     "height": 206,
@@ -26375,7 +26375,7 @@ export default [
   },
   {
     "id": "eddie-robinson",
-    "name": "Eddie Robinson",
+    "name": "Eddie·罗宾逊",
     "name_en": "Eddie Robinson",
     "position": "SF",
     "height": 206,
@@ -26413,7 +26413,7 @@ export default [
   },
   {
     "id": "devean-george",
-    "name": "Devean George",
+    "name": "Devean·乔治",
     "name_en": "Devean George",
     "position": "SF",
     "height": 203,
@@ -26493,7 +26493,7 @@ export default [
   },
   {
     "id": "derrick-dial",
-    "name": "Derrick Dial",
+    "name": "德里克·Dial",
     "name_en": "Derrick Dial",
     "position": "SG",
     "height": 193,
@@ -26533,7 +26533,7 @@ export default [
   },
   {
     "id": "jason-hart",
-    "name": "Jason Hart",
+    "name": "杰森·哈特",
     "name_en": "Jason Hart",
     "position": "PG",
     "height": 190,
@@ -26583,7 +26583,7 @@ export default [
   },
   {
     "id": "jason-collier",
-    "name": "Jason Collier",
+    "name": "杰森·Collier",
     "name_en": "Jason Collier",
     "position": "C",
     "height": 213,
@@ -26665,7 +26665,7 @@ export default [
   },
   {
     "id": "jamel-thomas",
-    "name": "Jamel Thomas",
+    "name": "Jamel·托马斯",
     "name_en": "Jamel Thomas",
     "position": "SF",
     "height": 198,
@@ -26701,7 +26701,7 @@ export default [
   },
   {
     "id": "joel-przybilla",
-    "name": "Joel Przybilla",
+    "name": "乔尔·Przybilla",
     "name_en": "Joel Przybilla",
     "position": "C",
     "height": 216,
@@ -26743,7 +26743,7 @@ export default [
   },
   {
     "id": "jamal-robinson",
-    "name": "Jamal Robinson",
+    "name": "贾马尔·罗宾逊",
     "name_en": "Jamal Robinson",
     "position": null,
     "height": 201,
@@ -26779,7 +26779,7 @@ export default [
   },
   {
     "id": "jamal-crawford",
-    "name": "Jamal Crawford",
+    "name": "贾马尔·克劳福德",
     "name_en": "Jamal Crawford",
     "position": "SG",
     "height": 196,
@@ -26831,7 +26831,7 @@ export default [
   },
   {
     "id": "garth-joseph",
-    "name": "Garth Joseph",
+    "name": "Garth·约瑟夫",
     "name_en": "Garth Joseph",
     "position": "C",
     "height": 218,
@@ -27043,7 +27043,7 @@ export default [
   },
   {
     "id": "jabari-smith",
-    "name": "Jabari Smith",
+    "name": "Jabari·史密斯",
     "name_en": "Jabari Smith",
     "position": "C",
     "height": 211,
@@ -27161,7 +27161,7 @@ export default [
   },
   {
     "id": "michael-redd",
-    "name": "Michael Redd",
+    "name": "迈克尔·Redd",
     "name_en": "Michael Redd",
     "position": "PG",
     "height": 198,
@@ -27241,7 +27241,7 @@ export default [
   },
   {
     "id": "mark-madsen",
-    "name": "Mark Madsen",
+    "name": "马克·Madsen",
     "name_en": "Mark Madsen",
     "position": "SF",
     "height": 206,
@@ -27317,7 +27317,7 @@ export default [
   },
   {
     "id": "morris-peterson",
-    "name": "Morris Peterson",
+    "name": "Morris·彼得森",
     "name_en": "Morris Peterson",
     "position": "PG",
     "height": 201,
@@ -27357,7 +27357,7 @@ export default [
   },
   {
     "id": "mike-smith",
-    "name": "Mike Smith",
+    "name": "Mike·史密斯",
     "name_en": "Mike Smith",
     "position": "SF",
     "height": 203,
@@ -27429,7 +27429,7 @@ export default [
   },
   {
     "id": "mike-miller",
-    "name": "Mike Miller",
+    "name": "Mike·米勒",
     "name_en": "Mike Miller",
     "position": "SG",
     "height": 203,
@@ -27477,7 +27477,7 @@ export default [
   },
   {
     "id": "mark-blount",
-    "name": "Mark Blount",
+    "name": "马克·Blount",
     "name_en": "Mark Blount",
     "position": "PF",
     "height": 213,
@@ -27553,7 +27553,7 @@ export default [
   },
   {
     "id": "kenyon-martin",
-    "name": "Kenyon Martin",
+    "name": "Kenyon·马丁",
     "name_en": "Kenyon Martin",
     "position": "SF",
     "height": 206,
@@ -27645,7 +27645,7 @@ export default [
   },
   {
     "id": "marcus-fizer",
-    "name": "Marcus Fizer",
+    "name": "马库斯·Fizer",
     "name_en": "Marcus Fizer",
     "position": "SF",
     "height": 203,
@@ -27685,7 +27685,7 @@ export default [
   },
   {
     "id": "marc-jackson",
-    "name": "Marc Jackson",
+    "name": "马克·杰克逊",
     "name_en": "Marc Jackson",
     "position": "SF",
     "height": 208,
@@ -27893,7 +27893,7 @@ export default [
   },
   {
     "id": "chris-mihm",
-    "name": "Chris Mihm",
+    "name": "克里斯·Mihm",
     "name_en": "Chris Mihm",
     "position": "C",
     "height": 213,
@@ -27933,7 +27933,7 @@ export default [
   },
   {
     "id": "chris-porter",
-    "name": "Chris Porter",
+    "name": "克里斯·波特",
     "name_en": "Chris Porter",
     "position": "SF",
     "height": 201,
@@ -28043,7 +28043,7 @@ export default [
   },
   {
     "id": "art-long",
-    "name": "Art Long",
+    "name": "Art·朗",
     "name_en": "Art Long",
     "position": "SF",
     "height": 206,
@@ -28083,7 +28083,7 @@ export default [
   },
   {
     "id": "donnell-harvey",
-    "name": "Donnell Harvey",
+    "name": "Donnell·哈维",
     "name_en": "Donnell Harvey",
     "position": "SF",
     "height": 203,
@@ -28161,7 +28161,7 @@ export default [
   },
   {
     "id": "desmond-mason",
-    "name": "Desmond Mason",
+    "name": "Desmond·梅森",
     "name_en": "Desmond Mason",
     "position": "SG",
     "height": 196,
@@ -28329,7 +28329,7 @@ export default [
   },
   {
     "id": "eddie-house",
-    "name": "Eddie House",
+    "name": "Eddie·豪斯",
     "name_en": "Eddie House",
     "position": "SG",
     "height": 185,
@@ -28377,7 +28377,7 @@ export default [
   },
   {
     "id": "dermarr-johnson",
-    "name": "DerMarr Johnson",
+    "name": "Dermarr·约翰逊",
     "name_en": "DerMarr Johnson",
     "position": "SF",
     "height": 206,
@@ -28569,7 +28569,7 @@ export default [
   },
   {
     "id": "daniel-santiago",
-    "name": "Daniel Santiago",
+    "name": "丹尼尔·Santiago",
     "name_en": "Daniel Santiago",
     "position": "C",
     "height": 216,
@@ -28653,7 +28653,7 @@ export default [
   },
   {
     "id": "david-vanterpool",
-    "name": "David Vanterpool",
+    "name": "大卫·Vanterpool",
     "name_en": "David Vanterpool",
     "position": "SG",
     "height": 196,
@@ -28731,7 +28731,7 @@ export default [
   },
   {
     "id": "terrance-roberson",
-    "name": "Terrance Roberson",
+    "name": "特伦斯·Roberson",
     "name_en": "Terrance Roberson",
     "position": null,
     "height": 201,
@@ -28849,7 +28849,7 @@ export default [
   },
   {
     "id": "zendon-hamilton",
-    "name": "Zendon Hamilton",
+    "name": "Zendon·汉密尔顿",
     "name_en": "Zendon Hamilton",
     "position": "C",
     "height": 211,
@@ -28893,7 +28893,7 @@ export default [
   },
   {
     "id": "wang-zhi-zhi",
-    "name": "Wang Zhi-zhi",
+    "name": "王·Zhi-Zhi",
     "name_en": "Wang Zhi-zhi",
     "position": "C",
     "height": 216,
@@ -28933,7 +28933,7 @@ export default [
   },
   {
     "id": "stephen-jackson",
-    "name": "Stephen Jackson",
+    "name": "斯蒂芬·杰克逊",
     "name_en": "Stephen Jackson",
     "position": "SF",
     "height": 203,
@@ -29057,7 +29057,7 @@ export default [
   },
   {
     "id": "quentin-richardson",
-    "name": "Quentin Richardson",
+    "name": "Quentin·理查德森",
     "name_en": "Quentin Richardson",
     "position": "SF",
     "height": 198,
@@ -29101,7 +29101,7 @@ export default [
   },
   {
     "id": "pepe-sanchez",
-    "name": "Pepe Sanchez",
+    "name": "Pepe·桑切斯",
     "name_en": "Pepe Sanchez",
     "position": "SG",
     "height": 193,
@@ -29139,7 +29139,7 @@ export default [
   },
   {
     "id": "paul-mcpherson",
-    "name": "Paul McPherson",
+    "name": "保罗·Mcpherson",
     "name_en": "Paul McPherson",
     "position": "SG",
     "height": 193,
@@ -29213,7 +29213,7 @@ export default [
   },
   {
     "id": "raja-bell",
-    "name": "Raja Bell",
+    "name": "Raja·贝尔",
     "name_en": "Raja Bell",
     "position": "PG",
     "height": 196,
@@ -29449,7 +29449,7 @@ export default [
   },
   {
     "id": "rodney-white",
-    "name": "Rodney White",
+    "name": "Rodney·怀特",
     "name_en": "Rodney White",
     "position": "SF",
     "height": 206,
@@ -29525,7 +29525,7 @@ export default [
   },
   {
     "id": "richard-jefferson",
-    "name": "Richard Jefferson",
+    "name": "Richard·杰弗森",
     "name_en": "Richard Jefferson",
     "position": "SF",
     "height": 201,
@@ -29575,7 +29575,7 @@ export default [
   },
   {
     "id": "pau-gasol",
-    "name": "Pau Gasol",
+    "name": "保罗·加索尔",
     "name_en": "Pau Gasol",
     "position": "PF",
     "height": 213,
@@ -29619,7 +29619,7 @@ export default [
   },
   {
     "id": "michael-bradley",
-    "name": "Michael Bradley",
+    "name": "迈克尔·布拉德利",
     "name_en": "Michael Bradley",
     "position": "SF",
     "height": 208,
@@ -29699,7 +29699,7 @@ export default [
   },
   {
     "id": "maurice-evans",
-    "name": "Maurice Evans",
+    "name": "Maurice·埃文斯",
     "name_en": "Maurice Evans",
     "position": "SG",
     "height": 196,
@@ -29747,7 +29747,7 @@ export default [
   },
   {
     "id": "mike-james",
-    "name": "Mike James",
+    "name": "Mike·詹姆斯",
     "name_en": "Mike James",
     "position": "SG",
     "height": 185,
@@ -29803,7 +29803,7 @@ export default [
   },
   {
     "id": "oscar-torres",
-    "name": "Oscar Torres",
+    "name": "Oscar·托雷斯",
     "name_en": "Oscar Torres",
     "position": "SG",
     "height": 198,
@@ -29841,7 +29841,7 @@ export default [
   },
   {
     "id": "norman-richardson",
-    "name": "Norman Richardson",
+    "name": "诺曼·理查德森",
     "name_en": "Norman Richardson",
     "position": "PG",
     "height": 196,
@@ -29877,7 +29877,7 @@ export default [
   },
   {
     "id": "troy-murphy",
-    "name": "Troy Murphy",
+    "name": "Troy·墨菲",
     "name_en": "Troy Murphy",
     "position": "PF",
     "height": 211,
@@ -30053,7 +30053,7 @@ export default [
   },
   {
     "id": "tony-parker",
-    "name": "Tony Parker",
+    "name": "托尼·帕克",
     "name_en": "Tony Parker",
     "position": "SG",
     "height": 188,
@@ -30167,7 +30167,7 @@ export default [
   },
   {
     "id": "zach-randolph",
-    "name": "Zach Randolph",
+    "name": "扎克·Randolph",
     "name_en": "Zach Randolph",
     "position": "SF",
     "height": 206,
@@ -30429,7 +30429,7 @@ export default [
   },
   {
     "id": "tierre-brown",
-    "name": "Tierre Brown",
+    "name": "Tierre·布朗",
     "name_en": "Tierre Brown",
     "position": "PG",
     "height": 188,
@@ -30471,7 +30471,7 @@ export default [
   },
   {
     "id": "terence-morris",
-    "name": "Terence Morris",
+    "name": "Terence·莫里斯",
     "name_en": "Terence Morris",
     "position": "SF",
     "height": 206,
@@ -30509,7 +30509,7 @@ export default [
   },
   {
     "id": "tang-hamilton",
-    "name": "Tang Hamilton",
+    "name": "Tang·汉密尔顿",
     "name_en": "Tang Hamilton",
     "position": "SF",
     "height": 203,
@@ -30545,7 +30545,7 @@ export default [
   },
   {
     "id": "steven-hunter",
-    "name": "Steven Hunter",
+    "name": "史蒂文·亨特",
     "name_en": "Steven Hunter",
     "position": "C",
     "height": 213,
@@ -30631,7 +30631,7 @@ export default [
   },
   {
     "id": "gerald-wallace",
-    "name": "Gerald Wallace",
+    "name": "杰拉德·华莱士",
     "name_en": "Gerald Wallace",
     "position": "SF",
     "height": 201,
@@ -30677,7 +30677,7 @@ export default [
   },
   {
     "id": "etan-thomas",
-    "name": "Etan Thomas",
+    "name": "Etan·托马斯",
     "name_en": "Etan Thomas",
     "position": "C",
     "height": 208,
@@ -30753,7 +30753,7 @@ export default [
   },
   {
     "id": "ernest-brown",
-    "name": "Ernest Brown",
+    "name": "Ernest·布朗",
     "name_en": "Ernest Brown",
     "position": "C",
     "height": 213,
@@ -30789,7 +30789,7 @@ export default [
   },
   {
     "id": "earl-watson",
-    "name": "Earl Watson",
+    "name": "Earl·沃森",
     "name_en": "Earl Watson",
     "position": "SG",
     "height": 185,
@@ -30835,7 +30835,7 @@ export default [
   },
   {
     "id": "eddy-curry",
-    "name": "Eddy Curry",
+    "name": "Eddy·库里",
     "name_en": "Eddy Curry",
     "position": "C",
     "height": 213,
@@ -30877,7 +30877,7 @@ export default [
   },
   {
     "id": "eddie-griffin",
-    "name": "Eddie Griffin",
+    "name": "Eddie·格里芬",
     "name_en": "Eddie Griffin",
     "position": "C",
     "height": 206,
@@ -30955,7 +30955,7 @@ export default [
   },
   {
     "id": "kwame-brown",
-    "name": "Kwame Brown",
+    "name": "Kwame·布朗",
     "name_en": "Kwame Brown",
     "position": "C",
     "height": 211,
@@ -31079,7 +31079,7 @@ export default [
   },
   {
     "id": "malik-allen",
-    "name": "Malik Allen",
+    "name": "马利克·Allen",
     "name_en": "Malik Allen",
     "position": "SF",
     "height": 208,
@@ -31169,7 +31169,7 @@ export default [
   },
   {
     "id": "leon-smith",
-    "name": "Leon Smith",
+    "name": "Leon·史密斯",
     "name_en": "Leon Smith",
     "position": "SF",
     "height": 208,
@@ -31207,7 +31207,7 @@ export default [
   },
   {
     "id": "kedrick-brown",
-    "name": "Kedrick Brown",
+    "name": "Kedrick·布朗",
     "name_en": "Kedrick Brown",
     "position": "SG",
     "height": 201,
@@ -31247,7 +31247,7 @@ export default [
   },
   {
     "id": "jeff-trepagnier",
-    "name": "Jeff Trepagnier",
+    "name": "杰夫·Trepagnier",
     "name_en": "Jeff Trepagnier",
     "position": "PG",
     "height": 193,
@@ -31285,7 +31285,7 @@ export default [
   },
   {
     "id": "jason-richardson",
-    "name": "Jason Richardson",
+    "name": "杰森·理查德森",
     "name_en": "Jason Richardson",
     "position": "SG",
     "height": 198,
@@ -31329,7 +31329,7 @@ export default [
   },
   {
     "id": "jason-collins",
-    "name": "Jason Collins",
+    "name": "杰森·科林斯",
     "name_en": "Jason Collins",
     "position": "C",
     "height": 213,
@@ -31375,7 +31375,7 @@ export default [
   },
   {
     "id": "jarron-collins",
-    "name": "Jarron Collins",
+    "name": "Jarron·科林斯",
     "name_en": "Jarron Collins",
     "position": "C",
     "height": 211,
@@ -31453,7 +31453,7 @@ export default [
   },
   {
     "id": "joseph-forte",
-    "name": "Joseph Forte",
+    "name": "约瑟夫·Forte",
     "name_en": "Joseph Forte",
     "position": "SG",
     "height": 193,
@@ -31491,7 +31491,7 @@ export default [
   },
   {
     "id": "joe-johnson",
-    "name": "Joe Johnson",
+    "name": "乔·约翰逊",
     "name_en": "Joe Johnson",
     "position": "SG",
     "height": 201,
@@ -31539,7 +31539,7 @@ export default [
   },
   {
     "id": "joe-crispin",
-    "name": "Joe Crispin",
+    "name": "乔·Crispin",
     "name_en": "Joe Crispin",
     "position": "SG",
     "height": 183,
@@ -31611,7 +31611,7 @@ export default [
   },
   {
     "id": "charlie-bell",
-    "name": "Charlie Bell",
+    "name": "Charlie·贝尔",
     "name_en": "Charlie Bell",
     "position": "PG",
     "height": 190,
@@ -31697,7 +31697,7 @@ export default [
   },
   {
     "id": "chris-andersen",
-    "name": "Chris Andersen",
+    "name": "克里斯·Andersen",
     "name_en": "Chris Andersen",
     "position": "PF",
     "height": 208,
@@ -31743,7 +31743,7 @@ export default [
   },
   {
     "id": "brandon-armstrong",
-    "name": "Brandon Armstrong",
+    "name": "布兰登·Armstrong",
     "name_en": "Brandon Armstrong",
     "position": "SG",
     "height": 196,
@@ -31861,7 +31861,7 @@ export default [
   },
   {
     "id": "dean-oliver",
-    "name": "Dean Oliver",
+    "name": "迪恩·奥利弗",
     "name_en": "Dean Oliver",
     "position": "PG",
     "height": 180,
@@ -31939,7 +31939,7 @@ export default [
   },
   {
     "id": "damone-brown",
-    "name": "Damone Brown",
+    "name": "Damone·布朗",
     "name_en": "Damone Brown",
     "position": "SG",
     "height": 203,
@@ -32021,7 +32021,7 @@ export default [
   },
   {
     "id": "alvin-jones",
-    "name": "Alvin Jones",
+    "name": "Alvin·琼斯",
     "name_en": "Alvin Jones",
     "position": "C",
     "height": 211,
@@ -32057,7 +32057,7 @@ export default [
   },
   {
     "id": "alton-ford",
-    "name": "Alton Ford",
+    "name": "Alton·福特",
     "name_en": "Alton Ford",
     "position": "SF",
     "height": 206,
@@ -32095,7 +32095,7 @@ export default [
   },
   {
     "id": "bobby-simmons",
-    "name": "Bobby Simmons",
+    "name": "博比·西蒙斯",
     "name_en": "Bobby Simmons",
     "position": "SF",
     "height": 198,
@@ -32499,7 +32499,7 @@ export default [
   },
   {
     "id": "paul-shirley",
-    "name": "Paul Shirley",
+    "name": "保罗·Shirley",
     "name_en": "Paul Shirley",
     "position": "SF",
     "height": 208,
@@ -32619,7 +32619,7 @@ export default [
   },
   {
     "id": "pat-burke",
-    "name": "Pat Burke",
+    "name": "帕特·伯克",
     "name_en": "Pat Burke",
     "position": "PF",
     "height": 211,
@@ -32693,7 +32693,7 @@ export default [
   },
   {
     "id": "marcus-haislip",
-    "name": "Marcus Haislip",
+    "name": "马库斯·Haislip",
     "name_en": "Marcus Haislip",
     "position": "SF",
     "height": 208,
@@ -32733,7 +32733,7 @@ export default [
   },
   {
     "id": "ken-johnson",
-    "name": "Ken Johnson",
+    "name": "Ken·约翰逊",
     "name_en": "Ken Johnson",
     "position": "PF",
     "height": 208,
@@ -32813,7 +32813,7 @@ export default [
   },
   {
     "id": "junior-harrington",
-    "name": "Junior Harrington",
+    "name": "Junior·哈林顿",
     "name_en": "Junior Harrington",
     "position": "PG",
     "height": 193,
@@ -32853,7 +32853,7 @@ export default [
   },
   {
     "id": "juaquin-hawkins",
-    "name": "Juaquin Hawkins",
+    "name": "Juaquin·霍金斯",
     "name_en": "Juaquin Hawkins",
     "position": "SF",
     "height": 201,
@@ -32889,7 +32889,7 @@ export default [
   },
   {
     "id": "juan-dixon",
-    "name": "Juan Dixon",
+    "name": "Juan·迪克森",
     "name_en": "Juan Dixon",
     "position": "PG",
     "height": 190,
@@ -32931,7 +32931,7 @@ export default [
   },
   {
     "id": "manu-ginobili",
-    "name": "Manu Ginobili",
+    "name": "马努·吉诺比利",
     "name_en": "Manu Ginobili",
     "position": "PG",
     "height": 198,
@@ -33085,7 +33085,7 @@ export default [
   },
   {
     "id": "smush-parker",
-    "name": "Smush Parker",
+    "name": "Smush·帕克",
     "name_en": "Smush Parker",
     "position": "SG",
     "height": 193,
@@ -33163,7 +33163,7 @@ export default [
   },
   {
     "id": "rasual-butler",
-    "name": "Rasual Butler",
+    "name": "Rasual·巴特勒",
     "name_en": "Rasual Butler",
     "position": "SF",
     "height": 201,
@@ -33215,7 +33215,7 @@ export default [
   },
   {
     "id": "reggie-evans",
-    "name": "Reggie Evans",
+    "name": "雷吉·埃文斯",
     "name_en": "Reggie Evans",
     "position": "PF",
     "height": 203,
@@ -33263,7 +33263,7 @@ export default [
   },
   {
     "id": "robert-archibald",
-    "name": "Robert Archibald",
+    "name": "罗伯特·Archibald",
     "name_en": "Robert Archibald",
     "position": "SF",
     "height": 211,
@@ -33301,7 +33301,7 @@ export default [
   },
   {
     "id": "roger-mason-jr",
-    "name": "Roger Mason Jr.",
+    "name": "Roger·二世",
     "name_en": "Roger Mason Jr.",
     "position": "SG",
     "height": 196,
@@ -33425,7 +33425,7 @@ export default [
   },
   {
     "id": "yao-ming",
-    "name": "Yao Ming",
+    "name": "姚·明",
     "name_en": "Yao Ming",
     "position": "C",
     "height": 229,
@@ -33499,7 +33499,7 @@ export default [
   },
   {
     "id": "tayshaun-prince",
-    "name": "Tayshaun Prince",
+    "name": "Tayshaun·普林斯",
     "name_en": "Tayshaun Prince",
     "position": "SF",
     "height": 206,
@@ -33575,7 +33575,7 @@ export default [
   },
   {
     "id": "john-salmons",
-    "name": "John Salmons",
+    "name": "约翰·Salmons",
     "name_en": "John Salmons",
     "position": "SF",
     "height": 198,
@@ -33621,7 +33621,7 @@ export default [
   },
   {
     "id": "chris-jefferies",
-    "name": "Chris Jefferies",
+    "name": "克里斯·Jefferies",
     "name_en": "Chris Jefferies",
     "position": "SF",
     "height": 203,
@@ -33699,7 +33699,7 @@ export default [
   },
   {
     "id": "caron-butler",
-    "name": "Caron Butler",
+    "name": "Caron·巴特勒",
     "name_en": "Caron Butler",
     "position": "SF",
     "height": 201,
@@ -33829,7 +33829,7 @@ export default [
   },
   {
     "id": "chris-owens",
-    "name": "Chris Owens",
+    "name": "克里斯·欧文斯",
     "name_en": "Chris Owens",
     "position": "SF",
     "height": 201,
@@ -33949,7 +33949,7 @@ export default [
   },
   {
     "id": "dajuan-wagner",
-    "name": "Dajuan Wagner",
+    "name": "Dajuan·瓦格纳",
     "name_en": "Dajuan Wagner",
     "position": "PG",
     "height": 190,
@@ -33987,7 +33987,7 @@ export default [
   },
   {
     "id": "chris-wilcox",
-    "name": "Chris Wilcox",
+    "name": "克里斯·威尔科克斯",
     "name_en": "Chris Wilcox",
     "position": "PF",
     "height": 208,
@@ -34073,7 +34073,7 @@ export default [
   },
   {
     "id": "adam-harrington",
-    "name": "Adam Harrington",
+    "name": "Adam·哈林顿",
     "name_en": "Adam Harrington",
     "position": "PG",
     "height": 196,
@@ -34185,7 +34185,7 @@ export default [
   },
   {
     "id": "jamal-sampson",
-    "name": "Jamal Sampson",
+    "name": "贾马尔·Sampson",
     "name_en": "Jamal Sampson",
     "position": "PF",
     "height": 211,
@@ -34469,7 +34469,7 @@ export default [
   },
   {
     "id": "jay-williams",
-    "name": "Jay Williams",
+    "name": "Jay·威廉姆斯",
     "name_en": "Jay Williams",
     "position": "PG",
     "height": 188,
@@ -34593,7 +34593,7 @@ export default [
   },
   {
     "id": "devin-brown",
-    "name": "Devin Brown",
+    "name": "德文·布朗",
     "name_en": "Devin Brown",
     "position": "PG",
     "height": 196,
@@ -34641,7 +34641,7 @@ export default [
   },
   {
     "id": "fred-jones",
-    "name": "Fred Jones",
+    "name": "弗雷德·琼斯",
     "name_en": "Fred Jones",
     "position": "PG",
     "height": 188,
@@ -34683,7 +34683,7 @@ export default [
   },
   {
     "id": "frank-williams",
-    "name": "Frank Williams",
+    "name": "Frank·威廉姆斯",
     "name_en": "Frank Williams",
     "position": "PG",
     "height": 190,
@@ -34721,7 +34721,7 @@ export default [
   },
   {
     "id": "flip-murray",
-    "name": "Flip Murray",
+    "name": "Flip·穆雷",
     "name_en": "Flip Murray",
     "position": "SG",
     "height": 190,
@@ -34803,7 +34803,7 @@ export default [
   },
   {
     "id": "chris-kaman",
-    "name": "Chris Kaman",
+    "name": "克里斯·Kaman",
     "name_en": "Chris Kaman",
     "position": "C",
     "height": 213,
@@ -34847,7 +34847,7 @@ export default [
   },
   {
     "id": "chris-bosh",
-    "name": "Chris Bosh",
+    "name": "克里斯·Bosh",
     "name_en": "Chris Bosh",
     "position": "SF",
     "height": 211,
@@ -34885,7 +34885,7 @@ export default [
   },
   {
     "id": "carmelo-anthony",
-    "name": "Carmelo Anthony",
+    "name": "卡梅隆·Anthony",
     "name_en": "Carmelo Anthony",
     "position": "SF",
     "height": 201,
@@ -35019,7 +35019,7 @@ export default [
   },
   {
     "id": "dahntay-jones",
-    "name": "Dahntay Jones",
+    "name": "Dahntay·琼斯",
     "name_en": "Dahntay Jones",
     "position": "SG",
     "height": 198,
@@ -35103,7 +35103,7 @@ export default [
   },
   {
     "id": "david-west",
-    "name": "David West",
+    "name": "大卫·韦斯特",
     "name_en": "David West",
     "position": "SF",
     "height": 206,
@@ -35227,7 +35227,7 @@ export default [
   },
   {
     "id": "brandon-hunter",
-    "name": "Brandon Hunter",
+    "name": "布兰登·亨特",
     "name_en": "Brandon Hunter",
     "position": "SF",
     "height": 201,
@@ -35309,7 +35309,7 @@ export default [
   },
   {
     "id": "alex-garcia",
-    "name": "Alex Garcia",
+    "name": "亚历克斯·加西亚",
     "name_en": "Alex Garcia",
     "position": "SG",
     "height": 190,
@@ -35385,7 +35385,7 @@ export default [
   },
   {
     "id": "jarvis-hayes",
-    "name": "Jarvis Hayes",
+    "name": "Jarvis·海耶斯",
     "name_en": "Jarvis Hayes",
     "position": "SF",
     "height": 203,
@@ -35425,7 +35425,7 @@ export default [
   },
   {
     "id": "james-jones",
-    "name": "James Jones",
+    "name": "詹姆斯·琼斯",
     "name_en": "James Jones",
     "position": "SG",
     "height": 203,
@@ -35513,7 +35513,7 @@ export default [
   },
   {
     "id": "jason-kapono",
-    "name": "Jason Kapono",
+    "name": "杰森·Kapono",
     "name_en": "Jason Kapono",
     "position": "SF",
     "height": 203,
@@ -35559,7 +35559,7 @@ export default [
   },
   {
     "id": "josh-howard",
-    "name": "Josh Howard",
+    "name": "约什·霍华德",
     "name_en": "Josh Howard",
     "position": "SF",
     "height": 201,
@@ -35601,7 +35601,7 @@ export default [
   },
   {
     "id": "josh-davis",
-    "name": "Josh Davis",
+    "name": "约什·戴维斯",
     "name_en": "Josh Davis",
     "position": "SF",
     "height": 203,
@@ -35719,7 +35719,7 @@ export default [
   },
   {
     "id": "hiram-fuller",
-    "name": "Hiram Fuller",
+    "name": "Hiram·富勒",
     "name_en": "Hiram Fuller",
     "position": "SF",
     "height": 206,
@@ -35755,7 +35755,7 @@ export default [
   },
   {
     "id": "dwyane-wade",
-    "name": "Dwyane Wade",
+    "name": "德怀恩·韦德",
     "name_en": "Dwyane Wade",
     "position": "SG",
     "height": 193,
@@ -35829,7 +35829,7 @@ export default [
   },
   {
     "id": "desmond-ferguson",
-    "name": "Desmond Ferguson",
+    "name": "Desmond·弗格森",
     "name_en": "Desmond Ferguson",
     "position": "SF",
     "height": 201,
@@ -36043,7 +36043,7 @@ export default [
   },
   {
     "id": "raul-lopez",
-    "name": "Raul Lopez",
+    "name": "劳尔·洛佩兹",
     "name_en": "Raul Lopez",
     "position": "SG",
     "height": 183,
@@ -36287,7 +36287,7 @@ export default [
   },
   {
     "id": "willie-green",
-    "name": "Willie Green",
+    "name": "Willie·格林",
     "name_en": "Willie Green",
     "position": "SG",
     "height": 190,
@@ -36451,7 +36451,7 @@ export default [
   },
   {
     "id": "troy-bell",
-    "name": "Troy Bell",
+    "name": "Troy·贝尔",
     "name_en": "Troy Bell",
     "position": "SG",
     "height": 185,
@@ -36487,7 +36487,7 @@ export default [
   },
   {
     "id": "tj-ford",
-    "name": "T.J. Ford",
+    "name": "T.J·福特",
     "name_en": "T.J. Ford",
     "position": "SG",
     "height": 183,
@@ -36529,7 +36529,7 @@ export default [
   },
   {
     "id": "theron-smith",
-    "name": "Theron Smith",
+    "name": "Theron·史密斯",
     "name_en": "Theron Smith",
     "position": "SF",
     "height": 203,
@@ -36605,7 +36605,7 @@ export default [
   },
   {
     "id": "travis-hansen",
-    "name": "Travis Hansen",
+    "name": "Travis·汉森",
     "name_en": "Travis Hansen",
     "position": "SG",
     "height": 198,
@@ -36767,7 +36767,7 @@ export default [
   },
   {
     "id": "luke-walton",
-    "name": "Luke Walton",
+    "name": "Luke·沃尔顿",
     "name_en": "Luke Walton",
     "position": "SF",
     "height": 203,
@@ -36845,7 +36845,7 @@ export default [
   },
   {
     "id": "marcus-banks",
-    "name": "Marcus Banks",
+    "name": "马库斯·Banks",
     "name_en": "Marcus Banks",
     "position": "SG",
     "height": 188,
@@ -36889,7 +36889,7 @@ export default [
   },
   {
     "id": "marquis-daniels",
-    "name": "Marquis Daniels",
+    "name": "Marquis·丹尼尔斯",
     "name_en": "Marquis Daniels",
     "position": "SF",
     "height": 198,
@@ -36931,7 +36931,7 @@ export default [
   },
   {
     "id": "linton-johnson",
-    "name": "Linton Johnson",
+    "name": "Linton·约翰逊",
     "name_en": "Linton Johnson",
     "position": "SF",
     "height": 203,
@@ -37015,7 +37015,7 @@ export default [
   },
   {
     "id": "matt-barnes",
-    "name": "Matt Barnes",
+    "name": "Matt·巴恩斯",
     "name_en": "Matt Barnes",
     "position": "SF",
     "height": 201,
@@ -37103,7 +37103,7 @@ export default [
   },
   {
     "id": "kyle-korver",
-    "name": "Kyle Korver",
+    "name": "凯尔·Korver",
     "name_en": "Kyle Korver",
     "position": "SG",
     "height": 201,
@@ -37149,7 +37149,7 @@ export default [
   },
   {
     "id": "lebron-james",
-    "name": "LeBron James",
+    "name": "勒布朗·詹姆斯",
     "name_en": "LeBron James",
     "position": "SF",
     "height": 206,
@@ -37271,7 +37271,7 @@ export default [
   },
   {
     "id": "matt-carroll",
-    "name": "Matt Carroll",
+    "name": "Matt·卡罗尔",
     "name_en": "Matt Carroll",
     "position": "PG",
     "height": 198,
@@ -37311,7 +37311,7 @@ export default [
   },
   {
     "id": "maurice-carter",
-    "name": "Maurice Carter",
+    "name": "Maurice·卡特",
     "name_en": "Maurice Carter",
     "position": "SG",
     "height": 196,
@@ -37421,7 +37421,7 @@ export default [
   },
   {
     "id": "michael-sweetney",
-    "name": "Michael Sweetney",
+    "name": "迈克尔·Sweetney",
     "name_en": "Michael Sweetney",
     "position": "SF",
     "height": 203,
@@ -37503,7 +37503,7 @@ export default [
   },
   {
     "id": "mo-williams",
-    "name": "Mo Williams",
+    "name": "莫·威廉姆斯",
     "name_en": "Mo Williams",
     "position": "PG",
     "height": 185,
@@ -37549,7 +37549,7 @@ export default [
   },
   {
     "id": "maurice-baker",
-    "name": "Maurice Baker",
+    "name": "Maurice·贝克",
     "name_en": "Maurice Baker",
     "position": "SG",
     "height": 188,
@@ -37661,7 +37661,7 @@ export default [
   },
   {
     "id": "mark-jones",
-    "name": "Mark Jones",
+    "name": "马克·琼斯",
     "name_en": "Mark Jones",
     "position": "SG",
     "height": 198,
@@ -37769,7 +37769,7 @@ export default [
   },
   {
     "id": "nick-collison",
-    "name": "Nick Collison",
+    "name": "尼克·Collison",
     "name_en": "Nick Collison",
     "position": "PF",
     "height": 208,
@@ -37937,7 +37937,7 @@ export default [
   },
   {
     "id": "kevin-martin",
-    "name": "Kevin Martin",
+    "name": "凯文·马丁",
     "name_en": "Kevin Martin",
     "position": "PG",
     "height": 201,
@@ -38025,7 +38025,7 @@ export default [
   },
   {
     "id": "luke-jackson",
-    "name": "Luke Jackson",
+    "name": "Luke·杰克逊",
     "name_en": "Luke Jackson",
     "position": "SF",
     "height": 201,
@@ -38065,7 +38065,7 @@ export default [
   },
   {
     "id": "luis-flores",
-    "name": "Luis Flores",
+    "name": "Luis·弗洛雷斯",
     "name_en": "Luis Flores",
     "position": "SG",
     "height": 188,
@@ -38173,7 +38173,7 @@ export default [
   },
   {
     "id": "peter-john-ramos",
-    "name": "Peter John Ramos",
+    "name": "Peter·拉莫斯",
     "name_en": "Peter John Ramos",
     "position": "C",
     "height": 221,
@@ -38209,7 +38209,7 @@ export default [
   },
   {
     "id": "tony-bobbitt",
-    "name": "Tony Bobbitt",
+    "name": "托尼·Bobbitt",
     "name_en": "Tony Bobbitt",
     "position": "SG",
     "height": 193,
@@ -38245,7 +38245,7 @@ export default [
   },
   {
     "id": "tony-allen",
-    "name": "Tony Allen",
+    "name": "托尼·Allen",
     "name_en": "Tony Allen",
     "position": "SG",
     "height": 193,
@@ -38409,7 +38409,7 @@ export default [
   },
   {
     "id": "robert-swift",
-    "name": "Robert Swift",
+    "name": "罗伯特·Swift",
     "name_en": "Robert Swift",
     "position": "C",
     "height": 216,
@@ -38527,7 +38527,7 @@ export default [
   },
   {
     "id": "shaun-livingston",
-    "name": "Shaun Livingston",
+    "name": "肖恩·Livingston",
     "name_en": "Shaun Livingston",
     "position": "SG",
     "height": 201,
@@ -38625,7 +38625,7 @@ export default [
   },
   {
     "id": "justin-reed",
-    "name": "Justin Reed",
+    "name": "Justin·里德",
     "name_en": "Justin Reed",
     "position": "SF",
     "height": 203,
@@ -38747,7 +38747,7 @@ export default [
   },
   {
     "id": "chris-duhon",
-    "name": "Chris Duhon",
+    "name": "克里斯·Duhon",
     "name_en": "Chris Duhon",
     "position": "PG",
     "height": 185,
@@ -38831,7 +38831,7 @@ export default [
   },
   {
     "id": "david-harrison",
-    "name": "David Harrison",
+    "name": "大卫·哈里森",
     "name_en": "David Harrison",
     "position": "C",
     "height": 213,
@@ -38867,7 +38867,7 @@ export default [
   },
   {
     "id": "damien-wilkins",
-    "name": "Damien Wilkins",
+    "name": "Damien·威尔金斯",
     "name_en": "Damien Wilkins",
     "position": "SG",
     "height": 198,
@@ -38955,7 +38955,7 @@ export default [
   },
   {
     "id": "corsley-edwards",
-    "name": "Corsley Edwards",
+    "name": "Corsley·爱德华兹",
     "name_en": "Corsley Edwards",
     "position": "SF",
     "height": 206,
@@ -39069,7 +39069,7 @@ export default [
   },
   {
     "id": "andre-iguodala",
-    "name": "Andre Iguodala",
+    "name": "安德烈·伊戈达拉",
     "name_en": "Andre Iguodala",
     "position": "SG",
     "height": 198,
@@ -39111,7 +39111,7 @@ export default [
   },
   {
     "id": "andre-emmett",
-    "name": "Andre Emmett",
+    "name": "安德烈·Emmett",
     "name_en": "Andre Emmett",
     "position": "PG",
     "height": 196,
@@ -39149,7 +39149,7 @@ export default [
   },
   {
     "id": "al-jefferson",
-    "name": "Al Jefferson",
+    "name": "阿尔·杰弗森",
     "name_en": "Al Jefferson",
     "position": "C",
     "height": 208,
@@ -39231,7 +39231,7 @@ export default [
   },
   {
     "id": "andre-barrett",
-    "name": "Andre Barrett",
+    "name": "安德烈·Barrett",
     "name_en": "Andre Barrett",
     "position": "SG",
     "height": 178,
@@ -39273,7 +39273,7 @@ export default [
   },
   {
     "id": "brandin-knight",
-    "name": "Brandin Knight",
+    "name": "Brandin·奈特",
     "name_en": "Brandin Knight",
     "position": "SG",
     "height": 183,
@@ -39309,7 +39309,7 @@ export default [
   },
   {
     "id": "billy-thomas",
-    "name": "Billy Thomas",
+    "name": "Billy·托马斯",
     "name_en": "Billy Thomas",
     "position": "PG",
     "height": 196,
@@ -39349,7 +39349,7 @@ export default [
   },
   {
     "id": "bernard-robinson",
-    "name": "Bernard Robinson",
+    "name": "Bernard·罗宾逊",
     "name_en": "Bernard Robinson",
     "position": "SG",
     "height": 198,
@@ -39433,7 +39433,7 @@ export default [
   },
   {
     "id": "ben-gordon",
-    "name": "Ben Gordon",
+    "name": "Ben·戈登",
     "name_en": "Ben Gordon",
     "position": "SG",
     "height": 190,
@@ -39515,7 +39515,7 @@ export default [
   },
   {
     "id": "antonio-burks",
-    "name": "Antonio Burks",
+    "name": "Antonio·伯克斯",
     "name_en": "Antonio Burks",
     "position": "SG",
     "height": 183,
@@ -39551,7 +39551,7 @@ export default [
   },
   {
     "id": "delonte-west",
-    "name": "Delonte West",
+    "name": "Delonte·韦斯特",
     "name_en": "Delonte West",
     "position": "SG",
     "height": 190,
@@ -39629,7 +39629,7 @@ export default [
   },
   {
     "id": "james-thomas",
-    "name": "James Thomas",
+    "name": "詹姆斯·托马斯",
     "name_en": "James Thomas",
     "position": "SF",
     "height": 206,
@@ -39667,7 +39667,7 @@ export default [
   },
   {
     "id": "jameer-nelson",
-    "name": "Jameer Nelson",
+    "name": "Jameer·尼尔森",
     "name_en": "Jameer Nelson",
     "position": "PG",
     "height": 183,
@@ -39745,7 +39745,7 @@ export default [
   },
   {
     "id": "jackie-butler",
-    "name": "Jackie Butler",
+    "name": "Jackie·巴特勒",
     "name_en": "Jackie Butler",
     "position": "C",
     "height": 208,
@@ -39783,7 +39783,7 @@ export default [
   },
   {
     "id": "jr-smith",
-    "name": "JR Smith",
+    "name": "Jr·史密斯",
     "name_en": "JR Smith",
     "position": "PG",
     "height": 198,
@@ -39829,7 +39829,7 @@ export default [
   },
   {
     "id": "josh-smith",
-    "name": "Josh Smith",
+    "name": "约什·史密斯",
     "name_en": "Josh Smith",
     "position": "SF",
     "height": 206,
@@ -39871,7 +39871,7 @@ export default [
   },
   {
     "id": "josh-childress",
-    "name": "Josh Childress",
+    "name": "约什·Childress",
     "name_en": "Josh Childress",
     "position": "SF",
     "height": 203,
@@ -39913,7 +39913,7 @@ export default [
   },
   {
     "id": "john-edwards",
-    "name": "John Edwards",
+    "name": "约翰·爱德华兹",
     "name_en": "John Edwards",
     "position": "C",
     "height": 213,
@@ -39987,7 +39987,7 @@ export default [
   },
   {
     "id": "dwight-howard",
-    "name": "Dwight Howard",
+    "name": "德怀特·霍华德",
     "name_en": "Dwight Howard",
     "position": "PF",
     "height": 208,
@@ -40071,7 +40071,7 @@ export default [
   },
   {
     "id": "devin-harris",
-    "name": "Devin Harris",
+    "name": "德文·哈里斯",
     "name_en": "Devin Harris",
     "position": "PG",
     "height": 190,
@@ -40115,7 +40115,7 @@ export default [
   },
   {
     "id": "donta-smith",
-    "name": "Donta Smith",
+    "name": "Donta·史密斯",
     "name_en": "Donta Smith",
     "position": "PG",
     "height": 201,
@@ -40265,7 +40265,7 @@ export default [
   },
   {
     "id": "erik-daniels",
-    "name": "Erik Daniels",
+    "name": "Erik·丹尼尔斯",
     "name_en": "Erik Daniels",
     "position": "SF",
     "height": 203,
@@ -40301,7 +40301,7 @@ export default [
   },
   {
     "id": "dorell-wright",
-    "name": "Dorell Wright",
+    "name": "Dorell·赖特",
     "name_en": "Dorell Wright",
     "position": "SF",
     "height": 206,
@@ -40591,7 +40591,7 @@ export default [
   },
   {
     "id": "sean-may",
-    "name": "Sean May",
+    "name": "Sean·梅",
     "name_en": "Sean May",
     "position": "PF",
     "height": 206,
@@ -40665,7 +40665,7 @@ export default [
   },
   {
     "id": "stephen-graham",
-    "name": "Stephen Graham",
+    "name": "斯蒂芬·格雷厄姆",
     "name_en": "Stephen Graham",
     "position": "SG",
     "height": 198,
@@ -40753,7 +40753,7 @@ export default [
   },
   {
     "id": "sharrod-ford",
-    "name": "Sharrod Ford",
+    "name": "Sharrod·福特",
     "name_en": "Sharrod Ford",
     "position": "SF",
     "height": 206,
@@ -40835,7 +40835,7 @@ export default [
   },
   {
     "id": "jason-maxiell",
-    "name": "Jason Maxiell",
+    "name": "杰森·Maxiell",
     "name_en": "Jason Maxiell",
     "position": "SF",
     "height": 201,
@@ -40875,7 +40875,7 @@ export default [
   },
   {
     "id": "jarrett-jack",
-    "name": "Jarrett Jack",
+    "name": "贾勒特·Jack",
     "name_en": "Jarrett Jack",
     "position": "SG",
     "height": 190,
@@ -40927,7 +40927,7 @@ export default [
   },
   {
     "id": "james-singleton",
-    "name": "James Singleton",
+    "name": "詹姆斯·辛格顿",
     "name_en": "James Singleton",
     "position": "SF",
     "height": 203,
@@ -41123,7 +41123,7 @@ export default [
   },
   {
     "id": "john-lucas-iii",
-    "name": "John Lucas III",
+    "name": "约翰·三世",
     "name_en": "John Lucas III",
     "position": "SG",
     "height": 180,
@@ -41211,7 +41211,7 @@ export default [
   },
   {
     "id": "joey-graham",
-    "name": "Joey Graham",
+    "name": "Joey·格雷厄姆",
     "name_en": "Joey Graham",
     "position": "SF",
     "height": 201,
@@ -41251,7 +41251,7 @@ export default [
   },
   {
     "id": "robert-whaley",
-    "name": "Robert Whaley",
+    "name": "罗伯特·Whaley",
     "name_en": "Robert Whaley",
     "position": "C",
     "height": 208,
@@ -41325,7 +41325,7 @@ export default [
   },
   {
     "id": "lou-williams",
-    "name": "Lou Williams",
+    "name": "Lou·威廉姆斯",
     "name_en": "Lou Williams",
     "position": "PG",
     "height": 188,
@@ -41409,7 +41409,7 @@ export default [
   },
   {
     "id": "lawrence-roberts",
-    "name": "Lawrence Roberts",
+    "name": "Lawrence·罗伯茨",
     "name_en": "Lawrence Roberts",
     "position": "SF",
     "height": 206,
@@ -41487,7 +41487,7 @@ export default [
   },
   {
     "id": "marvin-williams",
-    "name": "Marvin Williams",
+    "name": "Marvin·威廉姆斯",
     "name_en": "Marvin Williams",
     "position": "SF",
     "height": 203,
@@ -41565,7 +41565,7 @@ export default [
   },
   {
     "id": "martell-webster",
-    "name": "Martell Webster",
+    "name": "Martell·韦伯斯特",
     "name_en": "Martell Webster",
     "position": "SF",
     "height": 201,
@@ -41605,7 +41605,7 @@ export default [
   },
   {
     "id": "julius-hodge",
-    "name": "Julius Hodge",
+    "name": "朱利叶斯·Hodge",
     "name_en": "Julius Hodge",
     "position": "PG",
     "height": 201,
@@ -41689,7 +41689,7 @@ export default [
   },
   {
     "id": "josh-powell",
-    "name": "Josh Powell",
+    "name": "约什·鲍威尔",
     "name_en": "Josh Powell",
     "position": "SF",
     "height": 206,
@@ -41735,7 +41735,7 @@ export default [
   },
   {
     "id": "kevin-burleson",
-    "name": "Kevin Burleson",
+    "name": "凯文·Burleson",
     "name_en": "Kevin Burleson",
     "position": "PG",
     "height": 190,
@@ -41855,7 +41855,7 @@ export default [
   },
   {
     "id": "rawle-marshall",
-    "name": "Rawle Marshall",
+    "name": "Rawle·马歇尔",
     "name_en": "Rawle Marshall",
     "position": "SG",
     "height": 201,
@@ -42045,7 +42045,7 @@ export default [
   },
   {
     "id": "nate-robinson",
-    "name": "Nate Robinson",
+    "name": "Nate·罗宾逊",
     "name_en": "Nate Robinson",
     "position": "SG",
     "height": 175,
@@ -42093,7 +42093,7 @@ export default [
   },
   {
     "id": "monta-ellis",
-    "name": "Monta Ellis",
+    "name": "Monta·埃利斯",
     "name_en": "Monta Ellis",
     "position": "PG",
     "height": 190,
@@ -42171,7 +42171,7 @@ export default [
   },
   {
     "id": "brandon-bass",
-    "name": "Brandon Bass",
+    "name": "布兰登·Bass",
     "name_en": "Brandon Bass",
     "position": "SF",
     "height": 203,
@@ -42217,7 +42217,7 @@ export default [
   },
   {
     "id": "bracey-wright",
-    "name": "Bracey Wright",
+    "name": "Bracey·赖特",
     "name_en": "Bracey Wright",
     "position": "SG",
     "height": 190,
@@ -42461,7 +42461,7 @@ export default [
   },
   {
     "id": "amir-johnson",
-    "name": "Amir Johnson",
+    "name": "Amir·约翰逊",
     "name_en": "Amir Johnson",
     "position": "PF",
     "height": 206,
@@ -42503,7 +42503,7 @@ export default [
   },
   {
     "id": "alex-scales",
-    "name": "Alex Scales",
+    "name": "亚历克斯·Scales",
     "name_en": "Alex Scales",
     "position": "PG",
     "height": 193,
@@ -42539,7 +42539,7 @@ export default [
   },
   {
     "id": "alex-acker",
-    "name": "Alex Acker",
+    "name": "亚历克斯·Acker",
     "name_en": "Alex Acker",
     "position": "SG",
     "height": 196,
@@ -42615,7 +42615,7 @@ export default [
   },
   {
     "id": "aaron-miles",
-    "name": "Aaron Miles",
+    "name": "阿龙·Miles",
     "name_en": "Aaron Miles",
     "position": "SG",
     "height": 185,
@@ -42651,7 +42651,7 @@ export default [
   },
   {
     "id": "alan-anderson",
-    "name": "Alan Anderson",
+    "name": "Alan·安德森",
     "name_en": "Alan Anderson",
     "position": "SF",
     "height": 198,
@@ -42695,7 +42695,7 @@ export default [
   },
   {
     "id": "antoine-wright",
-    "name": "Antoine Wright",
+    "name": "Antoine·赖特",
     "name_en": "Antoine Wright",
     "position": "SF",
     "height": 201,
@@ -42737,7 +42737,7 @@ export default [
   },
   {
     "id": "anthony-roberson",
-    "name": "Anthony Roberson",
+    "name": "安东尼·Roberson",
     "name_en": "Anthony Roberson",
     "position": "PG",
     "height": 188,
@@ -42777,7 +42777,7 @@ export default [
   },
   {
     "id": "anthony-grundy",
-    "name": "Anthony Grundy",
+    "name": "安东尼·Grundy",
     "name_en": "Anthony Grundy",
     "position": "PG",
     "height": 190,
@@ -42935,7 +42935,7 @@ export default [
   },
   {
     "id": "andre-owens",
-    "name": "Andre Owens",
+    "name": "安德烈·欧文斯",
     "name_en": "Andre Owens",
     "position": "PG",
     "height": 193,
@@ -42973,7 +42973,7 @@ export default [
   },
   {
     "id": "chris-taft",
-    "name": "Chris Taft",
+    "name": "克里斯·Taft",
     "name_en": "Chris Taft",
     "position": "SF",
     "height": 208,
@@ -43045,7 +43045,7 @@ export default [
   },
   {
     "id": "dwayne-jones",
-    "name": "Dwayne Jones",
+    "name": "Dwayne·琼斯",
     "name_en": "Dwayne Jones",
     "position": "PF",
     "height": 208,
@@ -43131,7 +43131,7 @@ export default [
   },
   {
     "id": "chris-paul",
-    "name": "Chris Paul",
+    "name": "克里斯·保罗",
     "name_en": "Chris Paul",
     "position": "SG",
     "height": 183,
@@ -43177,7 +43177,7 @@ export default [
   },
   {
     "id": "gerald-green",
-    "name": "Gerald Green",
+    "name": "杰拉德·格林",
     "name_en": "Gerald Green",
     "position": "SG",
     "height": 201,
@@ -43225,7 +43225,7 @@ export default [
   },
   {
     "id": "gerald-fitch",
-    "name": "Gerald Fitch",
+    "name": "杰拉德·Fitch",
     "name_en": "Gerald Fitch",
     "position": "PG",
     "height": 190,
@@ -43261,7 +43261,7 @@ export default [
   },
   {
     "id": "francisco-garcia",
-    "name": "Francisco Garcia",
+    "name": "Francisco·加西亚",
     "name_en": "Francisco Garcia",
     "position": "SG",
     "height": 201,
@@ -43339,7 +43339,7 @@ export default [
   },
   {
     "id": "donell-taylor",
-    "name": "Donell Taylor",
+    "name": "Donell·泰勒",
     "name_en": "Donell Taylor",
     "position": "SG",
     "height": 196,
@@ -43411,7 +43411,7 @@ export default [
   },
   {
     "id": "dijon-thompson",
-    "name": "Dijon Thompson",
+    "name": "Dijon·汤普森",
     "name_en": "Dijon Thompson",
     "position": "SG",
     "height": 203,
@@ -43489,7 +43489,7 @@ export default [
   },
   {
     "id": "daniel-ewing",
-    "name": "Daniel Ewing",
+    "name": "丹尼尔·Ewing",
     "name_en": "Daniel Ewing",
     "position": "SG",
     "height": 190,
@@ -43525,7 +43525,7 @@ export default [
   },
   {
     "id": "chuck-hayes",
-    "name": "Chuck Hayes",
+    "name": "Chuck·海耶斯",
     "name_en": "Chuck Hayes",
     "position": "PF",
     "height": 198,
@@ -43567,7 +43567,7 @@ export default [
   },
   {
     "id": "devin-green",
-    "name": "Devin Green",
+    "name": "德文·格林",
     "name_en": "Devin Green",
     "position": "SG",
     "height": 201,
@@ -43603,7 +43603,7 @@ export default [
   },
   {
     "id": "derrick-zimmerman",
-    "name": "Derrick Zimmerman",
+    "name": "德里克·齐默尔曼",
     "name_en": "Derrick Zimmerman",
     "position": "PG",
     "height": 190,
@@ -43639,7 +43639,7 @@ export default [
   },
   {
     "id": "deron-williams",
-    "name": "Deron Williams",
+    "name": "Deron·威廉姆斯",
     "name_en": "Deron Williams",
     "position": "PG",
     "height": 190,
@@ -43719,7 +43719,7 @@ export default [
   },
   {
     "id": "david-lee",
-    "name": "David Lee",
+    "name": "大卫·李",
     "name_en": "David Lee",
     "position": "PF",
     "height": 206,
@@ -43761,7 +43761,7 @@ export default [
   },
   {
     "id": "chris-mccray",
-    "name": "Chris McCray",
+    "name": "克里斯·Mccray",
     "name_en": "Chris McCray",
     "position": "SG",
     "height": 196,
@@ -43797,7 +43797,7 @@ export default [
   },
   {
     "id": "chris-quinn",
-    "name": "Chris Quinn",
+    "name": "克里斯·奎因",
     "name_en": "Chris Quinn",
     "position": "SG",
     "height": 188,
@@ -43839,7 +43839,7 @@ export default [
   },
   {
     "id": "cedric-simmons",
-    "name": "Cedric Simmons",
+    "name": "Cedric·西蒙斯",
     "name_en": "Cedric Simmons",
     "position": "SF",
     "height": 206,
@@ -43915,7 +43915,7 @@ export default [
   },
   {
     "id": "david-noel",
-    "name": "David Noel",
+    "name": "大卫·诺埃尔",
     "name_en": "David Noel",
     "position": "SF",
     "height": 198,
@@ -43951,7 +43951,7 @@ export default [
   },
   {
     "id": "daniel-gibson",
-    "name": "Daniel Gibson",
+    "name": "丹尼尔·吉布森",
     "name_en": "Daniel Gibson",
     "position": "SG",
     "height": 188,
@@ -44023,7 +44023,7 @@ export default [
   },
   {
     "id": "craig-smith",
-    "name": "Craig Smith",
+    "name": "Craig·史密斯",
     "name_en": "Craig Smith",
     "position": "SF",
     "height": 201,
@@ -44139,7 +44139,7 @@ export default [
   },
   {
     "id": "andre-brown",
-    "name": "Andre Brown",
+    "name": "安德烈·布朗",
     "name_en": "Andre Brown",
     "position": "SF",
     "height": 206,
@@ -44215,7 +44215,7 @@ export default [
   },
   {
     "id": "alexander-johnson",
-    "name": "Alexander Johnson",
+    "name": "Alexander·约翰逊",
     "name_en": "Alexander Johnson",
     "position": "SF",
     "height": 206,
@@ -44291,7 +44291,7 @@ export default [
   },
   {
     "id": "brandon-roy",
-    "name": "Brandon Roy",
+    "name": "布兰登·Roy",
     "name_en": "Brandon Roy",
     "position": "SG",
     "height": 198,
@@ -44329,7 +44329,7 @@ export default [
   },
   {
     "id": "bobby-jones",
-    "name": "Bobby Jones",
+    "name": "博比·琼斯",
     "name_en": "Bobby Jones",
     "position": "SF",
     "height": 201,
@@ -44445,7 +44445,7 @@ export default [
   },
   {
     "id": "paul-millsap",
-    "name": "Paul Millsap",
+    "name": "保罗·Millsap",
     "name_en": "Paul Millsap",
     "position": "SF",
     "height": 201,
@@ -44487,7 +44487,7 @@ export default [
   },
   {
     "id": "paul-davis",
-    "name": "Paul Davis",
+    "name": "保罗·戴维斯",
     "name_en": "Paul Davis",
     "position": "C",
     "height": 211,
@@ -44525,7 +44525,7 @@ export default [
   },
   {
     "id": "patrick-obryant",
-    "name": "Patrick O'Bryant",
+    "name": "帕特里克·O'Bryant",
     "name_en": "Patrick O'Bryant",
     "position": "C",
     "height": 213,
@@ -44563,7 +44563,7 @@ export default [
   },
   {
     "id": "rajon-rondo",
-    "name": "Rajon Rondo",
+    "name": "拉简·Rondo",
     "name_en": "Rajon Rondo",
     "position": "SG",
     "height": 185,
@@ -44613,7 +44613,7 @@ export default [
   },
   {
     "id": "randolph-morris",
-    "name": "Randolph Morris",
+    "name": "Randolph·莫里斯",
     "name_en": "Randolph Morris",
     "position": "C",
     "height": 211,
@@ -44739,7 +44739,7 @@ export default [
   },
   {
     "id": "robert-hite",
-    "name": "Robert Hite",
+    "name": "罗伯特·Hite",
     "name_en": "Robert Hite",
     "position": "PG",
     "height": 188,
@@ -44849,7 +44849,7 @@ export default [
   },
   {
     "id": "roger-powell",
-    "name": "Roger Powell",
+    "name": "Roger·鲍威尔",
     "name_en": "Roger Powell",
     "position": "SF",
     "height": 198,
@@ -44885,7 +44885,7 @@ export default [
   },
   {
     "id": "pj-tucker",
-    "name": "PJ Tucker",
+    "name": "Pj·塔克",
     "name_en": "PJ Tucker",
     "position": "SF",
     "height": 198,
@@ -45075,7 +45075,7 @@ export default [
   },
   {
     "id": "mike-hall",
-    "name": "Mike Hall",
+    "name": "Mike·霍尔",
     "name_en": "Mike Hall",
     "position": "SF",
     "height": 203,
@@ -45193,7 +45193,7 @@ export default [
   },
   {
     "id": "tyrus-thomas",
-    "name": "Tyrus Thomas",
+    "name": "Tyrus·托马斯",
     "name_en": "Tyrus Thomas",
     "position": "SF",
     "height": 208,
@@ -45549,7 +45549,7 @@ export default [
   },
   {
     "id": "rudy-gay",
-    "name": "Rudy Gay",
+    "name": "鲁迪·盖伊",
     "name_en": "Rudy Gay",
     "position": "SF",
     "height": 203,
@@ -45593,7 +45593,7 @@ export default [
   },
   {
     "id": "sergio-rodriguez",
-    "name": "Sergio Rodriguez",
+    "name": "Sergio·罗德里格斯",
     "name_en": "Sergio Rodriguez",
     "position": "SG",
     "height": 190,
@@ -45633,7 +45633,7 @@ export default [
   },
   {
     "id": "shannon-brown",
-    "name": "Shannon Brown",
+    "name": "Shannon·布朗",
     "name_en": "Shannon Brown",
     "position": "SG",
     "height": 190,
@@ -45727,7 +45727,7 @@ export default [
   },
   {
     "id": "solomon-jones",
-    "name": "Solomon Jones",
+    "name": "Solomon·琼斯",
     "name_en": "Solomon Jones",
     "position": "SF",
     "height": 208,
@@ -45771,7 +45771,7 @@ export default [
   },
   {
     "id": "shelden-williams",
-    "name": "Shelden Williams",
+    "name": "Shelden·威廉姆斯",
     "name_en": "Shelden Williams",
     "position": "PF",
     "height": 206,
@@ -45817,7 +45817,7 @@ export default [
   },
   {
     "id": "shawne-williams",
-    "name": "Shawne Williams",
+    "name": "Shawne·威廉姆斯",
     "name_en": "Shawne Williams",
     "position": "SF",
     "height": 208,
@@ -46027,7 +46027,7 @@ export default [
   },
   {
     "id": "hassan-adams",
-    "name": "Hassan Adams",
+    "name": "Hassan·亚当斯",
     "name_en": "Hassan Adams",
     "position": "SF",
     "height": 193,
@@ -46065,7 +46065,7 @@ export default [
   },
   {
     "id": "james-white",
-    "name": "James White",
+    "name": "詹姆斯·怀特",
     "name_en": "James White",
     "position": "SG",
     "height": 201,
@@ -46105,7 +46105,7 @@ export default [
   },
   {
     "id": "james-lang",
-    "name": "James Lang",
+    "name": "詹姆斯·Lang",
     "name_en": "James Lang",
     "position": "C",
     "height": 208,
@@ -46141,7 +46141,7 @@ export default [
   },
   {
     "id": "james-augustine",
-    "name": "James Augustine",
+    "name": "詹姆斯·Augustine",
     "name_en": "James Augustine",
     "position": "SF",
     "height": 208,
@@ -46299,7 +46299,7 @@ export default [
   },
   {
     "id": "lamarcus-aldridge",
-    "name": "LaMarcus Aldridge",
+    "name": "Lamarcus·阿尔德里奇",
     "name_en": "LaMarcus Aldridge",
     "position": "PF",
     "height": 211,
@@ -46339,7 +46339,7 @@ export default [
   },
   {
     "id": "kyle-lowry",
-    "name": "Kyle Lowry",
+    "name": "凯尔·洛瑞",
     "name_en": "Kyle Lowry",
     "position": "SG",
     "height": 183,
@@ -46429,7 +46429,7 @@ export default [
   },
   {
     "id": "mardy-collins",
-    "name": "Mardy Collins",
+    "name": "Mardy·科林斯",
     "name_en": "Mardy Collins",
     "position": "PG",
     "height": 198,
@@ -46467,7 +46467,7 @@ export default [
   },
   {
     "id": "marcus-williams",
-    "name": "Marcus Williams",
+    "name": "马库斯·威廉姆斯",
     "name_en": "Marcus Williams",
     "position": "SG",
     "height": 190,
@@ -46511,7 +46511,7 @@ export default [
   },
   {
     "id": "marcus-vinicius",
-    "name": "Marcus Vinicius",
+    "name": "马库斯·Vinicius",
     "name_en": "Marcus Vinicius",
     "position": "SF",
     "height": 203,
@@ -46701,7 +46701,7 @@ export default [
   },
   {
     "id": "jeremy-richardson",
-    "name": "Jeremy Richardson",
+    "name": "杰里米·理查德森",
     "name_en": "Jeremy Richardson",
     "position": "SG",
     "height": 201,
@@ -46741,7 +46741,7 @@ export default [
   },
   {
     "id": "josh-boone",
-    "name": "Josh Boone",
+    "name": "约什·Boone",
     "name_en": "Josh Boone",
     "position": "PF",
     "height": 208,
@@ -46815,7 +46815,7 @@ export default [
   },
   {
     "id": "justin-williams",
-    "name": "Justin Williams",
+    "name": "Justin·威廉姆斯",
     "name_en": "Justin Williams",
     "position": "SF",
     "height": 208,
@@ -46853,7 +46853,7 @@ export default [
   },
   {
     "id": "gabe-pruitt",
-    "name": "Gabe Pruitt",
+    "name": "加布·Pruitt",
     "name_en": "Gabe Pruitt",
     "position": "PG",
     "height": 193,
@@ -46889,7 +46889,7 @@ export default [
   },
   {
     "id": "glen-davis",
-    "name": "Glen Davis",
+    "name": "Glen·戴维斯",
     "name_en": "Glen Davis",
     "position": "PF",
     "height": 206,
@@ -46929,7 +46929,7 @@ export default [
   },
   {
     "id": "guillermo-diaz",
-    "name": "Guillermo Diaz",
+    "name": "Guillermo·迪亚兹",
     "name_en": "Guillermo Diaz",
     "position": "SG",
     "height": 188,
@@ -47003,7 +47003,7 @@ export default [
   },
   {
     "id": "demetris-nichols",
-    "name": "Demetris Nichols",
+    "name": "Demetris·尼科尔斯",
     "name_en": "Demetris Nichols",
     "position": "SF",
     "height": 203,
@@ -47085,7 +47085,7 @@ export default [
   },
   {
     "id": "yi-jianlian",
-    "name": "Yi Jianlian",
+    "name": "易·建联",
     "name_en": "Yi Jianlian",
     "position": "SF",
     "height": 213,
@@ -47303,7 +47303,7 @@ export default [
   },
   {
     "id": "darius-washington",
-    "name": "Darius Washington",
+    "name": "Darius·华盛顿",
     "name_en": "Darius Washington",
     "position": "SG",
     "height": 188,
@@ -47385,7 +47385,7 @@ export default [
   },
   {
     "id": "blake-ahearn",
-    "name": "Blake Ahearn",
+    "name": "布雷克·Ahearn",
     "name_en": "Blake Ahearn",
     "position": "PG",
     "height": 188,
@@ -47425,7 +47425,7 @@ export default [
   },
   {
     "id": "aaron-gray",
-    "name": "Aaron Gray",
+    "name": "阿龙·格雷",
     "name_en": "Aaron Gray",
     "position": "C",
     "height": 213,
@@ -47467,7 +47467,7 @@ export default [
   },
   {
     "id": "aaron-brooks",
-    "name": "Aaron Brooks",
+    "name": "阿龙·布鲁克斯",
     "name_en": "Aaron Brooks",
     "position": "PG",
     "height": 183,
@@ -47553,7 +47553,7 @@ export default [
   },
   {
     "id": "al-horford",
-    "name": "Al Horford",
+    "name": "阿尔·霍福德",
     "name_en": "Al Horford",
     "position": "PF",
     "height": 206,
@@ -47593,7 +47593,7 @@ export default [
   },
   {
     "id": "al-thornton",
-    "name": "Al Thornton",
+    "name": "阿尔·桑顿",
     "name_en": "Al Thornton",
     "position": "SF",
     "height": 203,
@@ -47633,7 +47633,7 @@ export default [
   },
   {
     "id": "alando-tucker",
-    "name": "Alando Tucker",
+    "name": "Alando·塔克",
     "name_en": "Alando Tucker",
     "position": "SF",
     "height": 198,
@@ -47671,7 +47671,7 @@ export default [
   },
   {
     "id": "brandan-wright",
-    "name": "Brandan Wright",
+    "name": "Brandan·赖特",
     "name_en": "Brandan Wright",
     "position": "SF",
     "height": 208,
@@ -47715,7 +47715,7 @@ export default [
   },
   {
     "id": "chris-richard",
-    "name": "Chris Richard",
+    "name": "克里斯·Richard",
     "name_en": "Chris Richard",
     "position": "SF",
     "height": 206,
@@ -47839,7 +47839,7 @@ export default [
   },
   {
     "id": "courtney-sims",
-    "name": "Courtney Sims",
+    "name": "Courtney·西姆斯",
     "name_en": "Courtney Sims",
     "position": "C",
     "height": 211,
@@ -47953,7 +47953,7 @@ export default [
   },
   {
     "id": "cj-watson",
-    "name": "C.J. Watson",
+    "name": "C.J·沃森",
     "name_en": "C.J. Watson",
     "position": "SG",
     "height": 188,
@@ -48289,7 +48289,7 @@ export default [
   },
   {
     "id": "mario-west",
-    "name": "Mario West",
+    "name": "Mario·韦斯特",
     "name_en": "Mario West",
     "position": "SG",
     "height": 196,
@@ -48327,7 +48327,7 @@ export default [
   },
   {
     "id": "joel-anthony",
-    "name": "Joel Anthony",
+    "name": "乔尔·Anthony",
     "name_en": "Joel Anthony",
     "position": "C",
     "height": 206,
@@ -48449,7 +48449,7 @@ export default [
   },
   {
     "id": "jeff-green",
-    "name": "Jeff Green",
+    "name": "杰夫·格林",
     "name_en": "Jeff Green",
     "position": "SF",
     "height": 203,
@@ -48543,7 +48543,7 @@ export default [
   },
   {
     "id": "jason-smith",
-    "name": "Jason Smith",
+    "name": "杰森·史密斯",
     "name_en": "Jason Smith",
     "position": "PF",
     "height": 213,
@@ -48589,7 +48589,7 @@ export default [
   },
   {
     "id": "josh-mcroberts",
-    "name": "Josh McRoberts",
+    "name": "约什·Mcroberts",
     "name_en": "Josh McRoberts",
     "position": "SF",
     "height": 208,
@@ -48671,7 +48671,7 @@ export default [
   },
   {
     "id": "kevin-durant",
-    "name": "Kevin Durant",
+    "name": "凯文·杜兰特",
     "name_en": "Kevin Durant",
     "position": "SF",
     "height": 208,
@@ -48751,7 +48751,7 @@ export default [
   },
   {
     "id": "kasib-powell",
-    "name": "Kasib Powell",
+    "name": "Kasib·鲍威尔",
     "name_en": "Kasib Powell",
     "position": "SF",
     "height": 201,
@@ -48787,7 +48787,7 @@ export default [
   },
   {
     "id": "julian-wright",
-    "name": "Julian Wright",
+    "name": "Julian·赖特",
     "name_en": "Julian Wright",
     "position": "SF",
     "height": 203,
@@ -48861,7 +48861,7 @@ export default [
   },
   {
     "id": "sean-williams",
-    "name": "Sean Williams",
+    "name": "Sean·威廉姆斯",
     "name_en": "Sean Williams",
     "position": "PF",
     "height": 208,
@@ -48937,7 +48937,7 @@ export default [
   },
   {
     "id": "thomas-gardner",
-    "name": "Thomas Gardner",
+    "name": "托马斯·加德纳",
     "name_en": "Thomas Gardner",
     "position": "PG",
     "height": 196,
@@ -48975,7 +48975,7 @@ export default [
   },
   {
     "id": "thaddeus-young",
-    "name": "Thaddeus Young",
+    "name": "Thaddeus·杨",
     "name_en": "Thaddeus Young",
     "position": "SF",
     "height": 203,
@@ -49019,7 +49019,7 @@ export default [
   },
   {
     "id": "taurean-green",
-    "name": "Taurean Green",
+    "name": "Taurean·格林",
     "name_en": "Taurean Green",
     "position": "SG",
     "height": 183,
@@ -49091,7 +49091,7 @@ export default [
   },
   {
     "id": "spencer-hawes",
-    "name": "Spencer Hawes",
+    "name": "斯宾塞·Hawes",
     "name_en": "Spencer Hawes",
     "position": "PF",
     "height": 216,
@@ -49175,7 +49175,7 @@ export default [
   },
   {
     "id": "nick-young",
-    "name": "Nick Young",
+    "name": "尼克·杨",
     "name_en": "Nick Young",
     "position": "SG",
     "height": 201,
@@ -49221,7 +49221,7 @@ export default [
   },
   {
     "id": "nick-fazekas",
-    "name": "Nick Fazekas",
+    "name": "尼克·Fazekas",
     "name_en": "Nick Fazekas",
     "position": "SF",
     "height": 211,
@@ -49295,7 +49295,7 @@ export default [
   },
   {
     "id": "mike-harris",
-    "name": "Mike Harris",
+    "name": "Mike·哈里斯",
     "name_en": "Mike Harris",
     "position": "SF",
     "height": 198,
@@ -49333,7 +49333,7 @@ export default [
   },
   {
     "id": "mike-conley",
-    "name": "Mike Conley",
+    "name": "Mike·康利",
     "name_en": "Mike Conley",
     "position": "SG",
     "height": 185,
@@ -49467,7 +49467,7 @@ export default [
   },
   {
     "id": "joe-alexander",
-    "name": "Joe Alexander",
+    "name": "乔·Alexander",
     "name_en": "Joe Alexander",
     "position": "SF",
     "height": 203,
@@ -49505,7 +49505,7 @@ export default [
   },
   {
     "id": "joe-crawford",
-    "name": "Joe Crawford",
+    "name": "乔·克劳福德",
     "name_en": "Joe Crawford",
     "position": "SG",
     "height": 196,
@@ -49581,7 +49581,7 @@ export default [
   },
   {
     "id": "jason-thompson",
-    "name": "Jason Thompson",
+    "name": "杰森·汤普森",
     "name_en": "Jason Thompson",
     "position": "PF",
     "height": 211,
@@ -49619,7 +49619,7 @@ export default [
   },
   {
     "id": "jawad-williams",
-    "name": "Jawad Williams",
+    "name": "Jawad·威廉姆斯",
     "name_en": "Jawad Williams",
     "position": "SF",
     "height": 206,
@@ -49655,7 +49655,7 @@ export default [
   },
   {
     "id": "kyle-weaver",
-    "name": "Kyle Weaver",
+    "name": "凯尔·韦弗",
     "name_en": "Kyle Weaver",
     "position": "PG",
     "height": 198,
@@ -49737,7 +49737,7 @@ export default [
   },
   {
     "id": "kevin-love",
-    "name": "Kevin Love",
+    "name": "凯文·乐福",
     "name_en": "Kevin Love",
     "position": "PF",
     "height": 203,
@@ -49819,7 +49819,7 @@ export default [
   },
   {
     "id": "derrick-rose",
-    "name": "Derrick Rose",
+    "name": "德里克·罗斯",
     "name_en": "Derrick Rose",
     "position": "PG",
     "height": 190,
@@ -49897,7 +49897,7 @@ export default [
   },
   {
     "id": "dontell-jefferson",
-    "name": "Dontell Jefferson",
+    "name": "Dontell·杰弗森",
     "name_en": "Dontell Jefferson",
     "position": "SG",
     "height": 196,
@@ -49933,7 +49933,7 @@ export default [
   },
   {
     "id": "demarcus-nelson",
-    "name": "DeMarcus Nelson",
+    "name": "德马库斯·尼尔森",
     "name_en": "DeMarcus Nelson",
     "position": "SG",
     "height": 193,
@@ -49969,7 +49969,7 @@ export default [
   },
   {
     "id": "dj-white",
-    "name": "DJ White",
+    "name": "Dj·怀特",
     "name_en": "DJ White",
     "position": "SF",
     "height": 206,
@@ -50009,7 +50009,7 @@ export default [
   },
   {
     "id": "danilo-gallinari",
-    "name": "Danilo Gallinari",
+    "name": "达尼洛·加里纳利",
     "name_en": "Danilo Gallinari",
     "position": "SF",
     "height": 208,
@@ -50053,7 +50053,7 @@ export default [
   },
   {
     "id": "darnell-jackson",
-    "name": "Darnell Jackson",
+    "name": "Darnell·杰克逊",
     "name_en": "Darnell Jackson",
     "position": "SF",
     "height": 206,
@@ -50131,7 +50131,7 @@ export default [
   },
   {
     "id": "deandre-jordan",
-    "name": "DeAndre Jordan",
+    "name": "德安德烈·乔丹",
     "name_en": "DeAndre Jordan",
     "position": "C",
     "height": 211,
@@ -50213,7 +50213,7 @@ export default [
   },
   {
     "id": "henry-walker",
-    "name": "Henry Walker",
+    "name": "Henry·沃克",
     "name_en": "Henry Walker",
     "position": "SF",
     "height": 198,
@@ -50333,7 +50333,7 @@ export default [
   },
   {
     "id": "javale-mcgee",
-    "name": "JaVale McGee",
+    "name": "贾维尔·麦基",
     "name_en": "JaVale McGee",
     "position": "PF",
     "height": 213,
@@ -50417,7 +50417,7 @@ export default [
   },
   {
     "id": "goran-dragic",
-    "name": "Goran Dragic",
+    "name": "戈兰·德拉季奇",
     "name_en": "Goran Dragic",
     "position": "PG",
     "height": 193,
@@ -50461,7 +50461,7 @@ export default [
   },
   {
     "id": "eric-gordon",
-    "name": "Eric Gordon",
+    "name": "埃里克·戈登",
     "name_en": "Eric Gordon",
     "position": "SG",
     "height": 190,
@@ -50503,7 +50503,7 @@ export default [
   },
   {
     "id": "george-hill",
-    "name": "George Hill",
+    "name": "乔治·希尔",
     "name_en": "George Hill",
     "position": "PG",
     "height": 193,
@@ -50667,7 +50667,7 @@ export default [
   },
   {
     "id": "rudy-fernandez",
-    "name": "Rudy Fernandez",
+    "name": "鲁迪·Fernandez",
     "name_en": "Rudy Fernandez",
     "position": "PG",
     "height": 198,
@@ -50741,7 +50741,7 @@ export default [
   },
   {
     "id": "ryan-anderson",
-    "name": "Ryan Anderson",
+    "name": "Ryan·安德森",
     "name_en": "Ryan Anderson",
     "position": "SF",
     "height": 206,
@@ -50787,7 +50787,7 @@ export default [
   },
   {
     "id": "russell-westbrook",
-    "name": "Russell Westbrook",
+    "name": "拉塞尔·威斯布鲁克",
     "name_en": "Russell Westbrook",
     "position": "PG",
     "height": 190,
@@ -50831,7 +50831,7 @@ export default [
   },
   {
     "id": "steven-hill",
-    "name": "Steven Hill",
+    "name": "史蒂文·希尔",
     "name_en": "Steven Hill",
     "position": "C",
     "height": 213,
@@ -50867,7 +50867,7 @@ export default [
   },
   {
     "id": "sun-sun",
-    "name": "Sun Sun",
+    "name": "孙·Sun",
     "name_en": "Sun Sun",
     "position": null,
     "height": 206,
@@ -50939,7 +50939,7 @@ export default [
   },
   {
     "id": "trey-johnson",
-    "name": "Trey Johnson",
+    "name": "Trey·约翰逊",
     "name_en": "Trey Johnson",
     "position": "SG",
     "height": 196,
@@ -50979,7 +50979,7 @@ export default [
   },
   {
     "id": "robin-lopez",
-    "name": "Robin Lopez",
+    "name": "Robin·洛佩兹",
     "name_en": "Robin Lopez",
     "position": "C",
     "height": 213,
@@ -51031,7 +51031,7 @@ export default [
   },
   {
     "id": "michael-beasley",
-    "name": "Michael Beasley",
+    "name": "迈克尔·Beasley",
     "name_en": "Michael Beasley",
     "position": "SF",
     "height": 206,
@@ -51079,7 +51079,7 @@ export default [
   },
   {
     "id": "mike-taylor",
-    "name": "Mike Taylor",
+    "name": "Mike·泰勒",
     "name_en": "Mike Taylor",
     "position": "PG",
     "height": 188,
@@ -51115,7 +51115,7 @@ export default [
   },
   {
     "id": "malik-hairston",
-    "name": "Malik Hairston",
+    "name": "马利克·Hairston",
     "name_en": "Malik Hairston",
     "position": "PG",
     "height": 198,
@@ -51151,7 +51151,7 @@ export default [
   },
   {
     "id": "marc-gasol",
-    "name": "Marc Gasol",
+    "name": "马克·加索尔",
     "name_en": "Marc Gasol",
     "position": "C",
     "height": 211,
@@ -51303,7 +51303,7 @@ export default [
   },
   {
     "id": "nicolas-batum",
-    "name": "Nicolas Batum",
+    "name": "尼古拉斯·巴图姆",
     "name_en": "Nicolas Batum",
     "position": "SG",
     "height": 203,
@@ -51383,7 +51383,7 @@ export default [
   },
   {
     "id": "othello-hunter",
-    "name": "Othello Hunter",
+    "name": "Othello·亨特",
     "name_en": "Othello Hunter",
     "position": "SF",
     "height": 203,
@@ -51515,7 +51515,7 @@ export default [
   },
   {
     "id": "brook-lopez",
-    "name": "Brook Lopez",
+    "name": "布鲁克·洛佩兹",
     "name_en": "Brook Lopez",
     "position": "C",
     "height": 216,
@@ -51557,7 +51557,7 @@ export default [
   },
   {
     "id": "brandon-rush",
-    "name": "Brandon Rush",
+    "name": "布兰登·Rush",
     "name_en": "Brandon Rush",
     "position": "SG",
     "height": 198,
@@ -51599,7 +51599,7 @@ export default [
   },
   {
     "id": "bobby-brown",
-    "name": "Bobby Brown",
+    "name": "博比·布朗",
     "name_en": "Bobby Brown",
     "position": "SG",
     "height": 188,
@@ -51639,7 +51639,7 @@ export default [
   },
   {
     "id": "courtney-lee",
-    "name": "Courtney Lee",
+    "name": "Courtney·李",
     "name_en": "Courtney Lee",
     "position": "PG",
     "height": 196,
@@ -51689,7 +51689,7 @@ export default [
   },
   {
     "id": "chris-douglas-roberts",
-    "name": "Chris Douglas-Roberts",
+    "name": "克里斯·Douglas-Roberts",
     "name_en": "Chris Douglas-Roberts",
     "position": "PG",
     "height": 201,
@@ -51733,7 +51733,7 @@ export default [
   },
   {
     "id": "cartier-martin",
-    "name": "Cartier Martin",
+    "name": "Cartier·马丁",
     "name_en": "Cartier Martin",
     "position": "SF",
     "height": 201,
@@ -51775,7 +51775,7 @@ export default [
   },
   {
     "id": "anthony-tolliver",
-    "name": "Anthony Tolliver",
+    "name": "安东尼·Tolliver",
     "name_en": "Anthony Tolliver",
     "position": "SF",
     "height": 203,
@@ -51827,7 +51827,7 @@ export default [
   },
   {
     "id": "anthony-randolph",
-    "name": "Anthony Randolph",
+    "name": "安东尼·Randolph",
     "name_en": "Anthony Randolph",
     "position": "SF",
     "height": 211,
@@ -51907,7 +51907,7 @@ export default [
   },
   {
     "id": "anthony-morrow",
-    "name": "Anthony Morrow",
+    "name": "安东尼·Morrow",
     "name_en": "Anthony Morrow",
     "position": "PG",
     "height": 196,
@@ -51953,7 +51953,7 @@ export default [
   },
   {
     "id": "sam-young",
-    "name": "Sam Young",
+    "name": "萨姆·杨",
     "name_en": "Sam Young",
     "position": "SF",
     "height": 198,
@@ -52029,7 +52029,7 @@ export default [
   },
   {
     "id": "brandon-jennings",
-    "name": "Brandon Jennings",
+    "name": "布兰登·Jennings",
     "name_en": "Brandon Jennings",
     "position": "PG",
     "height": 185,
@@ -52071,7 +52071,7 @@ export default [
   },
   {
     "id": "patty-mills",
-    "name": "Patty Mills",
+    "name": "帕蒂·米尔斯",
     "name_en": "Patty Mills",
     "position": "SG",
     "height": 183,
@@ -52233,7 +52233,7 @@ export default [
   },
   {
     "id": "taj-gibson",
-    "name": "Taj Gibson",
+    "name": "Taj·吉布森",
     "name_en": "Taj Gibson",
     "position": "SF",
     "height": 206,
@@ -52315,7 +52315,7 @@ export default [
   },
   {
     "id": "stephen-curry",
-    "name": "Stephen Curry",
+    "name": "斯蒂芬·库里",
     "name_en": "Stephen Curry",
     "position": "SG",
     "height": 188,
@@ -52351,7 +52351,7 @@ export default [
   },
   {
     "id": "taylor-griffin",
-    "name": "Taylor Griffin",
+    "name": "Taylor·格里芬",
     "name_en": "Taylor Griffin",
     "position": "SF",
     "height": 201,
@@ -52387,7 +52387,7 @@ export default [
   },
   {
     "id": "tyler-hansbrough",
-    "name": "Tyler Hansbrough",
+    "name": "泰勒·Hansbrough",
     "name_en": "Tyler Hansbrough",
     "position": "SF",
     "height": 206,
@@ -52427,7 +52427,7 @@ export default [
   },
   {
     "id": "ty-lawson",
-    "name": "Ty Lawson",
+    "name": "Ty·劳森",
     "name_en": "Ty Lawson",
     "position": "PG",
     "height": 180,
@@ -52503,7 +52503,7 @@ export default [
   },
   {
     "id": "toney-douglas",
-    "name": "Toney Douglas",
+    "name": "Toney·道格拉斯",
     "name_en": "Toney Douglas",
     "position": "PG",
     "height": 188,
@@ -52547,7 +52547,7 @@ export default [
   },
   {
     "id": "terrence-williams",
-    "name": "Terrence Williams",
+    "name": "Terrence·威廉姆斯",
     "name_en": "Terrence Williams",
     "position": "SG",
     "height": 198,
@@ -52589,7 +52589,7 @@ export default [
   },
   {
     "id": "antonio-anderson",
-    "name": "Antonio Anderson",
+    "name": "Antonio·安德森",
     "name_en": "Antonio Anderson",
     "position": "SG",
     "height": 198,
@@ -52751,7 +52751,7 @@ export default [
   },
   {
     "id": "alonzo-gee",
-    "name": "Alonzo Gee",
+    "name": "阿隆佐·Gee",
     "name_en": "Alonzo Gee",
     "position": "SF",
     "height": 198,
@@ -52795,7 +52795,7 @@ export default [
   },
   {
     "id": "tyreke-evans",
-    "name": "Tyreke Evans",
+    "name": "Tyreke·埃文斯",
     "name_en": "Tyreke Evans",
     "position": "SG",
     "height": 198,
@@ -52887,7 +52887,7 @@ export default [
   },
   {
     "id": "eric-maynor",
-    "name": "Eric Maynor",
+    "name": "埃里克·Maynor",
     "name_en": "Eric Maynor",
     "position": "PG",
     "height": 190,
@@ -52927,7 +52927,7 @@ export default [
   },
   {
     "id": "earl-clark",
-    "name": "Earl Clark",
+    "name": "Earl·克拉克",
     "name_en": "Earl Clark",
     "position": "SF",
     "height": 208,
@@ -52971,7 +52971,7 @@ export default [
   },
   {
     "id": "gerald-henderson",
-    "name": "Gerald Henderson",
+    "name": "杰拉德·Henderson",
     "name_en": "Gerald Henderson",
     "position": "SG",
     "height": 196,
@@ -53011,7 +53011,7 @@ export default [
   },
   {
     "id": "james-johnson",
-    "name": "James Johnson",
+    "name": "詹姆斯·约翰逊",
     "name_en": "James Johnson",
     "position": "SF",
     "height": 201,
@@ -53063,7 +53063,7 @@ export default [
   },
   {
     "id": "james-harden",
-    "name": "James Harden",
+    "name": "詹姆斯·哈登",
     "name_en": "James Harden",
     "position": "PG",
     "height": 196,
@@ -53147,7 +53147,7 @@ export default [
   },
   {
     "id": "chris-hunter",
-    "name": "Chris Hunter",
+    "name": "克里斯·亨特",
     "name_en": "Chris Hunter",
     "position": "PF",
     "height": 211,
@@ -53223,7 +53223,7 @@ export default [
   },
   {
     "id": "cedric-jackson",
-    "name": "Cedric Jackson",
+    "name": "Cedric·杰克逊",
     "name_en": "Cedric Jackson",
     "position": "SG",
     "height": 190,
@@ -53259,7 +53259,7 @@ export default [
   },
   {
     "id": "derrick-brown",
-    "name": "Derrick Brown",
+    "name": "德里克·布朗",
     "name_en": "Derrick Brown",
     "position": "SF",
     "height": 203,
@@ -53297,7 +53297,7 @@ export default [
   },
   {
     "id": "demarre-carroll",
-    "name": "DeMarre Carroll",
+    "name": "Demarre·卡罗尔",
     "name_en": "DeMarre Carroll",
     "position": "SF",
     "height": 198,
@@ -53343,7 +53343,7 @@ export default [
   },
   {
     "id": "demar-derozan",
-    "name": "DeMar DeRozan",
+    "name": "Demar·德罗赞",
     "name_en": "DeMar DeRozan",
     "position": "SG",
     "height": 198,
@@ -53423,7 +53423,7 @@ export default [
   },
   {
     "id": "david-andersen",
-    "name": "David Andersen",
+    "name": "大卫·Andersen",
     "name_en": "David Andersen",
     "position": "C",
     "height": 211,
@@ -53507,7 +53507,7 @@ export default [
   },
   {
     "id": "dante-cunningham",
-    "name": "Dante Cunningham",
+    "name": "Dante·坎宁安",
     "name_en": "Dante Cunningham",
     "position": "SF",
     "height": 203,
@@ -53555,7 +53555,7 @@ export default [
   },
   {
     "id": "danny-green",
-    "name": "Danny Green",
+    "name": "Danny·格林",
     "name_en": "Danny Green",
     "position": "SG",
     "height": 198,
@@ -53639,7 +53639,7 @@ export default [
   },
   {
     "id": "jameson-curry",
-    "name": "JamesOn Curry",
+    "name": "Jameson·库里",
     "name_en": "JamesOn Curry",
     "position": "SG",
     "height": 190,
@@ -53675,7 +53675,7 @@ export default [
   },
   {
     "id": "lester-hudson",
-    "name": "Lester Hudson",
+    "name": "Lester·哈德森",
     "name_en": "Lester Hudson",
     "position": "PG",
     "height": 190,
@@ -53715,7 +53715,7 @@ export default [
   },
   {
     "id": "marcus-landry",
-    "name": "Marcus Landry",
+    "name": "马库斯·Landry",
     "name_en": "Marcus Landry",
     "position": "SF",
     "height": 201,
@@ -53751,7 +53751,7 @@ export default [
   },
   {
     "id": "marcus-thornton",
-    "name": "Marcus Thornton",
+    "name": "马库斯·桑顿",
     "name_en": "Marcus Thornton",
     "position": "SF",
     "height": 193,
@@ -53881,7 +53881,7 @@ export default [
   },
   {
     "id": "jermaine-taylor",
-    "name": "Jermaine Taylor",
+    "name": "Jermaine·泰勒",
     "name_en": "Jermaine Taylor",
     "position": "SG",
     "height": 193,
@@ -53919,7 +53919,7 @@ export default [
   },
   {
     "id": "jeff-teague",
-    "name": "Jeff Teague",
+    "name": "杰夫·Teague",
     "name_en": "Jeff Teague",
     "position": "SG",
     "height": 190,
@@ -53961,7 +53961,7 @@ export default [
   },
   {
     "id": "jeff-ayres",
-    "name": "Jeff Ayres",
+    "name": "杰夫·Ayres",
     "name_en": "Jeff Ayres",
     "position": "PF",
     "height": 206,
@@ -54003,7 +54003,7 @@ export default [
   },
   {
     "id": "jrue-holiday",
-    "name": "Jrue Holiday",
+    "name": "Jrue·霍勒迪",
     "name_en": "Jrue Holiday",
     "position": "PG",
     "height": 196,
@@ -54043,7 +54043,7 @@ export default [
   },
   {
     "id": "jordan-hill",
-    "name": "Jordan Hill",
+    "name": "Jordan·希尔",
     "name_en": "Jordan Hill",
     "position": "PF",
     "height": 208,
@@ -54085,7 +54085,7 @@ export default [
   },
   {
     "id": "jonny-flynn",
-    "name": "Jonny Flynn",
+    "name": "Jonny·弗林",
     "name_en": "Jonny Flynn",
     "position": "PG",
     "height": 183,
@@ -54123,7 +54123,7 @@ export default [
   },
   {
     "id": "jonas-jerebko",
-    "name": "Jonas Jerebko",
+    "name": "约纳斯·Jerebko",
     "name_en": "Jonas Jerebko",
     "position": "SF",
     "height": 208,
@@ -54253,7 +54253,7 @@ export default [
   },
   {
     "id": "wesley-matthews",
-    "name": "Wesley Matthews",
+    "name": "Wesley·马修斯",
     "name_en": "Wesley Matthews",
     "position": "PG",
     "height": 196,
@@ -54299,7 +54299,7 @@ export default [
   },
   {
     "id": "james-anderson",
-    "name": "James Anderson",
+    "name": "詹姆斯·安德森",
     "name_en": "James Anderson",
     "position": "SG",
     "height": 198,
@@ -54341,7 +54341,7 @@ export default [
   },
   {
     "id": "ish-smith",
-    "name": "Ish Smith",
+    "name": "伊什·史密斯",
     "name_en": "Ish Smith",
     "position": "SG",
     "height": 183,
@@ -54391,7 +54391,7 @@ export default [
   },
   {
     "id": "gary-forbes",
-    "name": "Gary Forbes",
+    "name": "加里·福布斯",
     "name_en": "Gary Forbes",
     "position": "SF",
     "height": 201,
@@ -54429,7 +54429,7 @@ export default [
   },
   {
     "id": "gary-neal",
-    "name": "Gary Neal",
+    "name": "加里·Neal",
     "name_en": "Gary Neal",
     "position": "SG",
     "height": 193,
@@ -54473,7 +54473,7 @@ export default [
   },
   {
     "id": "gordon-hayward",
-    "name": "Gordon Hayward",
+    "name": "Gordon·海沃德",
     "name_en": "Gordon Hayward",
     "position": "SF",
     "height": 201,
@@ -54557,7 +54557,7 @@ export default [
   },
   {
     "id": "greivis-vasquez",
-    "name": "Greivis Vasquez",
+    "name": "Greivis·瓦斯奎兹",
     "name_en": "Greivis Vasquez",
     "position": "SG",
     "height": 198,
@@ -54681,7 +54681,7 @@ export default [
   },
   {
     "id": "kevin-seraphin",
-    "name": "Kevin Seraphin",
+    "name": "凯文·Seraphin",
     "name_en": "Kevin Seraphin",
     "position": "PF",
     "height": 208,
@@ -54721,7 +54721,7 @@ export default [
   },
   {
     "id": "jeff-adrien",
-    "name": "Jeff Adrien",
+    "name": "杰夫·Adrien",
     "name_en": "Jeff Adrien",
     "position": "SF",
     "height": 201,
@@ -54763,7 +54763,7 @@ export default [
   },
   {
     "id": "jeremy-evans",
-    "name": "Jeremy Evans",
+    "name": "杰里米·埃文斯",
     "name_en": "Jeremy Evans",
     "position": "SF",
     "height": 206,
@@ -54803,7 +54803,7 @@ export default [
   },
   {
     "id": "jeremy-lin",
-    "name": "Jeremy Lin",
+    "name": "杰里米·Lin",
     "name_en": "Jeremy Lin",
     "position": "PG",
     "height": 190,
@@ -54851,7 +54851,7 @@ export default [
   },
   {
     "id": "john-wall",
-    "name": "John Wall",
+    "name": "约翰·沃尔",
     "name_en": "John Wall",
     "position": "PG",
     "height": 190,
@@ -54891,7 +54891,7 @@ export default [
   },
   {
     "id": "jordan-crawford",
-    "name": "Jordan Crawford",
+    "name": "Jordan·克劳福德",
     "name_en": "Jordan Crawford",
     "position": "SG",
     "height": 196,
@@ -54969,7 +54969,7 @@ export default [
   },
   {
     "id": "chris-johnson",
-    "name": "Chris Johnson",
+    "name": "克里斯·约翰逊",
     "name_en": "Chris Johnson",
     "position": "SF",
     "height": 198,
@@ -55053,7 +55053,7 @@ export default [
   },
   {
     "id": "cole-aldrich",
-    "name": "Cole Aldrich",
+    "name": "科尔·Aldrich",
     "name_en": "Cole Aldrich",
     "position": "C",
     "height": 211,
@@ -55133,7 +55133,7 @@ export default [
   },
   {
     "id": "damion-james",
-    "name": "Damion James",
+    "name": "达米恩·詹姆斯",
     "name_en": "Damion James",
     "position": "SF",
     "height": 201,
@@ -55173,7 +55173,7 @@ export default [
   },
   {
     "id": "ed-davis",
-    "name": "Ed Davis",
+    "name": "Ed·戴维斯",
     "name_en": "Ed Davis",
     "position": "PF",
     "height": 206,
@@ -55223,7 +55223,7 @@ export default [
   },
   {
     "id": "dominique-jones",
-    "name": "Dominique Jones",
+    "name": "多米尼克·琼斯",
     "name_en": "Dominique Jones",
     "position": "PG",
     "height": 196,
@@ -55259,7 +55259,7 @@ export default [
   },
   {
     "id": "eric-bledsoe",
-    "name": "Eric Bledsoe",
+    "name": "埃里克·Bledsoe",
     "name_en": "Eric Bledsoe",
     "position": "SG",
     "height": 185,
@@ -55303,7 +55303,7 @@ export default [
   },
   {
     "id": "evan-turner",
-    "name": "Evan Turner",
+    "name": "埃文·特纳",
     "name_en": "Evan Turner",
     "position": "SG",
     "height": 198,
@@ -55465,7 +55465,7 @@ export default [
   },
   {
     "id": "demarcus-cousins",
-    "name": "DeMarcus Cousins",
+    "name": "德马库斯·考辛斯",
     "name_en": "DeMarcus Cousins",
     "position": "C",
     "height": 208,
@@ -55509,7 +55509,7 @@ export default [
   },
   {
     "id": "derrick-caracter",
-    "name": "Derrick Caracter",
+    "name": "德里克·Caracter",
     "name_en": "Derrick Caracter",
     "position": "SF",
     "height": 206,
@@ -55545,7 +55545,7 @@ export default [
   },
   {
     "id": "derrick-favors",
-    "name": "Derrick Favors",
+    "name": "德里克·Favors",
     "name_en": "Derrick Favors",
     "position": "SF",
     "height": 206,
@@ -55585,7 +55585,7 @@ export default [
   },
   {
     "id": "devin-ebanks",
-    "name": "Devin Ebanks",
+    "name": "德文·Ebanks",
     "name_en": "Devin Ebanks",
     "position": "SF",
     "height": 206,
@@ -55745,7 +55745,7 @@ export default [
   },
   {
     "id": "trevor-booker",
-    "name": "Trevor Booker",
+    "name": "Trevor·布克",
     "name_en": "Trevor Booker",
     "position": "SF",
     "height": 203,
@@ -55859,7 +55859,7 @@ export default [
   },
   {
     "id": "sherron-collins",
-    "name": "Sherron Collins",
+    "name": "Sherron·科林斯",
     "name_en": "Sherron Collins",
     "position": "SG",
     "height": 180,
@@ -55931,7 +55931,7 @@ export default [
   },
   {
     "id": "wesley-johnson",
-    "name": "Wesley Johnson",
+    "name": "Wesley·约翰逊",
     "name_en": "Wesley Johnson",
     "position": "SF",
     "height": 201,
@@ -55975,7 +55975,7 @@ export default [
   },
   {
     "id": "willie-warren",
-    "name": "Willie Warren",
+    "name": "Willie·沃伦",
     "name_en": "Willie Warren",
     "position": "SG",
     "height": 193,
@@ -56011,7 +56011,7 @@ export default [
   },
   {
     "id": "xavier-henry",
-    "name": "Xavier Henry",
+    "name": "Xavier·亨利",
     "name_en": "Xavier Henry",
     "position": "SF",
     "height": 198,
@@ -56087,7 +56087,7 @@ export default [
   },
   {
     "id": "blake-griffin",
-    "name": "Blake Griffin",
+    "name": "布雷克·格里芬",
     "name_en": "Blake Griffin",
     "position": "SF",
     "height": 206,
@@ -56165,7 +56165,7 @@ export default [
   },
   {
     "id": "armon-johnson",
-    "name": "Armon Johnson",
+    "name": "Armon·约翰逊",
     "name_en": "Armon Johnson",
     "position": "PG",
     "height": 190,
@@ -56203,7 +56203,7 @@ export default [
   },
   {
     "id": "avery-bradley",
-    "name": "Avery Bradley",
+    "name": "Avery·布拉德利",
     "name_en": "Avery Bradley",
     "position": "SG",
     "height": 190,
@@ -56285,7 +56285,7 @@ export default [
   },
   {
     "id": "marcus-cousin",
-    "name": "Marcus Cousin",
+    "name": "马库斯·Cousin",
     "name_en": "Marcus Cousin",
     "position": "SF",
     "height": 211,
@@ -56321,7 +56321,7 @@ export default [
   },
   {
     "id": "landry-fields",
-    "name": "Landry Fields",
+    "name": "Landry·菲尔兹",
     "name_en": "Landry Fields",
     "position": "SG",
     "height": 201,
@@ -56359,7 +56359,7 @@ export default [
   },
   {
     "id": "larry-owens",
-    "name": "Larry Owens",
+    "name": "拉里·欧文斯",
     "name_en": "Larry Owens",
     "position": "SF",
     "height": 201,
@@ -56397,7 +56397,7 @@ export default [
   },
   {
     "id": "larry-sanders",
-    "name": "Larry Sanders",
+    "name": "拉里·Sanders",
     "name_en": "Larry Sanders",
     "position": "C",
     "height": 211,
@@ -56511,7 +56511,7 @@ export default [
   },
   {
     "id": "manny-harris",
-    "name": "Manny Harris",
+    "name": "Manny·哈里斯",
     "name_en": "Manny Harris",
     "position": "SG",
     "height": 196,
@@ -56633,7 +56633,7 @@ export default [
   },
   {
     "id": "nikola-pekovic",
-    "name": "Nikola Pekovic",
+    "name": "尼古拉·Pekovic",
     "name_en": "Nikola Pekovic",
     "position": "C",
     "height": 211,
@@ -56745,7 +56745,7 @@ export default [
   },
   {
     "id": "patrick-patterson",
-    "name": "Patrick Patterson",
+    "name": "帕特里克·帕特森",
     "name_en": "Patrick Patterson",
     "position": "SF",
     "height": 203,
@@ -56789,7 +56789,7 @@ export default [
   },
   {
     "id": "paul-george",
-    "name": "Paul George",
+    "name": "保罗·乔治",
     "name_en": "Paul George",
     "position": "SF",
     "height": 203,
@@ -56865,7 +56865,7 @@ export default [
   },
   {
     "id": "lazar-hayward",
-    "name": "Lazar Hayward",
+    "name": "Lazar·海沃德",
     "name_en": "Lazar Hayward",
     "position": "SF",
     "height": 198,
@@ -56995,7 +56995,7 @@ export default [
   },
   {
     "id": "jimmy-butler",
-    "name": "Jimmy Butler",
+    "name": "吉米·巴特勒",
     "name_en": "Jimmy Butler",
     "position": "C",
     "height": 201,
@@ -57079,7 +57079,7 @@ export default [
   },
   {
     "id": "jerry-smith",
-    "name": "Jerry Smith",
+    "name": "Jerry·史密斯",
     "name_en": "Jerry Smith",
     "position": "PG",
     "height": 188,
@@ -57115,7 +57115,7 @@ export default [
   },
   {
     "id": "jerome-jordan",
-    "name": "Jerome Jordan",
+    "name": "Jerome·乔丹",
     "name_en": "Jerome Jordan",
     "position": "C",
     "height": 213,
@@ -57153,7 +57153,7 @@ export default [
   },
   {
     "id": "dj-kennedy",
-    "name": "D.J. Kennedy",
+    "name": "D.J·肯尼迪",
     "name_en": "D.J. Kennedy",
     "position": "SG",
     "height": 196,
@@ -57225,7 +57225,7 @@ export default [
   },
   {
     "id": "cory-joseph",
-    "name": "Cory Joseph",
+    "name": "科里·约瑟夫",
     "name_en": "Cory Joseph",
     "position": "PG",
     "height": 190,
@@ -57269,7 +57269,7 @@ export default [
   },
   {
     "id": "cory-higgins",
-    "name": "Cory Higgins",
+    "name": "科里·希金斯",
     "name_en": "Cory Higgins",
     "position": "PG",
     "height": 196,
@@ -57305,7 +57305,7 @@ export default [
   },
   {
     "id": "jeff-foote",
-    "name": "Jeff Foote",
+    "name": "杰夫·Foote",
     "name_en": "Jeff Foote",
     "position": "PF",
     "height": 213,
@@ -57341,7 +57341,7 @@ export default [
   },
   {
     "id": "jeremy-pargo",
-    "name": "Jeremy Pargo",
+    "name": "杰里米·Pargo",
     "name_en": "Jeremy Pargo",
     "position": "SG",
     "height": 188,
@@ -57381,7 +57381,7 @@ export default [
   },
   {
     "id": "jeremy-tyler",
-    "name": "Jeremy Tyler",
+    "name": "杰里米·Tyler",
     "name_en": "Jeremy Tyler",
     "position": "SF",
     "height": 208,
@@ -57457,7 +57457,7 @@ export default [
   },
   {
     "id": "kyrie-irving",
-    "name": "Kyrie Irving",
+    "name": "凯里·欧文",
     "name_en": "Kyrie Irving",
     "position": "SG",
     "height": 188,
@@ -57499,7 +57499,7 @@ export default [
   },
   {
     "id": "lance-thomas",
-    "name": "Lance Thomas",
+    "name": "Lance·托马斯",
     "name_en": "Lance Thomas",
     "position": "SF",
     "height": 203,
@@ -57579,7 +57579,7 @@ export default [
   },
   {
     "id": "malcolm-lee",
-    "name": "Malcolm Lee",
+    "name": "Malcolm·李",
     "name_en": "Malcolm Lee",
     "position": "SG",
     "height": 196,
@@ -57617,7 +57617,7 @@ export default [
   },
   {
     "id": "jordan-williams",
-    "name": "Jordan Williams",
+    "name": "Jordan·威廉姆斯",
     "name_en": "Jordan Williams",
     "position": "C",
     "height": 208,
@@ -57653,7 +57653,7 @@ export default [
   },
   {
     "id": "josh-harrellson",
-    "name": "Josh Harrellson",
+    "name": "约什·Harrellson",
     "name_en": "Josh Harrellson",
     "position": "PF",
     "height": 208,
@@ -57693,7 +57693,7 @@ export default [
   },
   {
     "id": "josh-selby",
-    "name": "Josh Selby",
+    "name": "约什·Selby",
     "name_en": "Josh Selby",
     "position": "PG",
     "height": 188,
@@ -57729,7 +57729,7 @@ export default [
   },
   {
     "id": "julyan-stone",
-    "name": "Julyan Stone",
+    "name": "Julyan·斯通",
     "name_en": "Julyan Stone",
     "position": "PG",
     "height": 198,
@@ -57807,7 +57807,7 @@ export default [
   },
   {
     "id": "justin-harper",
-    "name": "Justin Harper",
+    "name": "Justin·哈珀",
     "name_en": "Justin Harper",
     "position": "PF",
     "height": 208,
@@ -57847,7 +57847,7 @@ export default [
   },
   {
     "id": "jordan-hamilton",
-    "name": "Jordan Hamilton",
+    "name": "Jordan·汉密尔顿",
     "name_en": "Jordan Hamilton",
     "position": "SG",
     "height": 201,
@@ -57889,7 +57889,7 @@ export default [
   },
   {
     "id": "kawhi-leonard",
-    "name": "Kawhi Leonard",
+    "name": "科怀·伦纳德",
     "name_en": "Kawhi Leonard",
     "position": "SF",
     "height": 201,
@@ -57929,7 +57929,7 @@ export default [
   },
   {
     "id": "kemba-walker",
-    "name": "Kemba Walker",
+    "name": "Kemba·沃克",
     "name_en": "Kemba Walker",
     "position": "SG",
     "height": 183,
@@ -58011,7 +58011,7 @@ export default [
   },
   {
     "id": "klay-thompson",
-    "name": "Klay Thompson",
+    "name": "克莱·汤普森",
     "name_en": "Klay Thompson",
     "position": "SG",
     "height": 198,
@@ -58165,7 +58165,7 @@ export default [
   },
   {
     "id": "greg-smith",
-    "name": "Greg Smith",
+    "name": "Greg·史密斯",
     "name_en": "Greg Smith",
     "position": "SF",
     "height": 208,
@@ -58287,7 +58287,7 @@ export default [
   },
   {
     "id": "jajuan-johnson",
-    "name": "JaJuan Johnson",
+    "name": "Jajuan·约翰逊",
     "name_en": "JaJuan Johnson",
     "position": "SF",
     "height": 208,
@@ -58323,7 +58323,7 @@ export default [
   },
   {
     "id": "ivan-johnson",
-    "name": "Ivan Johnson",
+    "name": "Ivan·约翰逊",
     "name_en": "Ivan Johnson",
     "position": "SF",
     "height": 203,
@@ -58359,7 +58359,7 @@ export default [
   },
   {
     "id": "isaiah-thomas",
-    "name": "Isaiah Thomas",
+    "name": "以赛亚·托马斯",
     "name_en": "Isaiah Thomas",
     "position": "PG",
     "height": 175,
@@ -58407,7 +58407,7 @@ export default [
   },
   {
     "id": "eric-dawson",
-    "name": "Eric Dawson",
+    "name": "埃里克·Dawson",
     "name_en": "Eric Dawson",
     "position": "SF",
     "height": 206,
@@ -58443,7 +58443,7 @@ export default [
   },
   {
     "id": "derrick-byars",
-    "name": "Derrick Byars",
+    "name": "德里克·Byars",
     "name_en": "Derrick Byars",
     "position": "SG",
     "height": 201,
@@ -58479,7 +58479,7 @@ export default [
   },
   {
     "id": "dennis-horner",
-    "name": "Dennis Horner",
+    "name": "丹尼斯·Horner",
     "name_en": "Dennis Horner",
     "position": "SF",
     "height": 206,
@@ -58515,7 +58515,7 @@ export default [
   },
   {
     "id": "deandre-liggins",
-    "name": "DeAndre Liggins",
+    "name": "德安德烈·Liggins",
     "name_en": "DeAndre Liggins",
     "position": "SG",
     "height": 198,
@@ -58559,7 +58559,7 @@ export default [
   },
   {
     "id": "darius-morris",
-    "name": "Darius Morris",
+    "name": "Darius·莫里斯",
     "name_en": "Darius Morris",
     "position": "SG",
     "height": 193,
@@ -58635,7 +58635,7 @@ export default [
   },
   {
     "id": "malcolm-thomas",
-    "name": "Malcolm Thomas",
+    "name": "Malcolm·托马斯",
     "name_en": "Malcolm Thomas",
     "position": "SF",
     "height": 206,
@@ -58677,7 +58677,7 @@ export default [
   },
   {
     "id": "daniel-orton",
-    "name": "Daniel Orton",
+    "name": "丹尼尔·Orton",
     "name_en": "Daniel Orton",
     "position": "C",
     "height": 208,
@@ -58761,7 +58761,7 @@ export default [
   },
   {
     "id": "elliot-williams",
-    "name": "Elliot Williams",
+    "name": "Elliot·威廉姆斯",
     "name_en": "Elliot Williams",
     "position": "PG",
     "height": 196,
@@ -58837,7 +58837,7 @@ export default [
   },
   {
     "id": "derrick-williams",
-    "name": "Derrick Williams",
+    "name": "德里克·威廉姆斯",
     "name_en": "Derrick Williams",
     "position": "SF",
     "height": 203,
@@ -58881,7 +58881,7 @@ export default [
   },
   {
     "id": "etwaun-moore",
-    "name": "E'Twaun Moore",
+    "name": "E'Twaun·摩尔",
     "name_en": "E'Twaun Moore",
     "position": "PG",
     "height": 190,
@@ -58967,7 +58967,7 @@ export default [
   },
   {
     "id": "marshon-brooks",
-    "name": "MarShon Brooks",
+    "name": "Marshon·布鲁克斯",
     "name_en": "MarShon Brooks",
     "position": "SG",
     "height": 196,
@@ -59047,7 +59047,7 @@ export default [
   },
   {
     "id": "chris-wright",
-    "name": "Chris Wright",
+    "name": "克里斯·赖特",
     "name_en": "Chris Wright",
     "position": "SF",
     "height": 206,
@@ -59087,7 +59087,7 @@ export default [
   },
   {
     "id": "chris-singleton",
-    "name": "Chris Singleton",
+    "name": "克里斯·辛格顿",
     "name_en": "Chris Singleton",
     "position": "SF",
     "height": 206,
@@ -59123,7 +59123,7 @@ export default [
   },
   {
     "id": "charles-jenkins",
-    "name": "Charles Jenkins",
+    "name": "查尔斯·Jenkins",
     "name_en": "Charles Jenkins",
     "position": "PG",
     "height": 190,
@@ -59161,7 +59161,7 @@ export default [
   },
   {
     "id": "chandler-parsons",
-    "name": "Chandler Parsons",
+    "name": "Chandler·帕森斯",
     "name_en": "Chandler Parsons",
     "position": "SF",
     "height": 206,
@@ -59275,7 +59275,7 @@ export default [
   },
   {
     "id": "tristan-thompson",
-    "name": "Tristan Thompson",
+    "name": "Tristan·汤普森",
     "name_en": "Tristan Thompson",
     "position": "PF",
     "height": 206,
@@ -59315,7 +59315,7 @@ export default [
   },
   {
     "id": "tyler-honeycutt",
-    "name": "Tyler Honeycutt",
+    "name": "泰勒·Honeycutt",
     "name_en": "Tyler Honeycutt",
     "position": "SF",
     "height": 203,
@@ -59387,7 +59387,7 @@ export default [
   },
   {
     "id": "walker-russell",
-    "name": "Walker Russell",
+    "name": "Walker·拉塞尔",
     "name_en": "Walker Russell",
     "position": "PG",
     "height": 183,
@@ -59461,7 +59461,7 @@ export default [
   },
   {
     "id": "alec-burks",
-    "name": "Alec Burks",
+    "name": "亚历克·伯克斯",
     "name_en": "Alec Burks",
     "position": "PG",
     "height": 198,
@@ -59505,7 +59505,7 @@ export default [
   },
   {
     "id": "carldell-johnson",
-    "name": "Carldell Johnson",
+    "name": "Carldell·约翰逊",
     "name_en": "Carldell Johnson",
     "position": "SG",
     "height": 178,
@@ -59541,7 +59541,7 @@ export default [
   },
   {
     "id": "brandon-knight",
-    "name": "Brandon Knight",
+    "name": "布兰登·奈特",
     "name_en": "Brandon Knight",
     "position": "PG",
     "height": 188,
@@ -59585,7 +59585,7 @@ export default [
   },
   {
     "id": "bismack-biyombo",
-    "name": "Bismack Biyombo",
+    "name": "俾斯麦·Biyombo",
     "name_en": "Bismack Biyombo",
     "position": "C",
     "height": 203,
@@ -59627,7 +59627,7 @@ export default [
   },
   {
     "id": "tobias-harris",
-    "name": "Tobias Harris",
+    "name": "托拜厄斯·哈里斯",
     "name_en": "Tobias Harris",
     "position": "SF",
     "height": 201,
@@ -59671,7 +59671,7 @@ export default [
   },
   {
     "id": "mychel-thompson",
-    "name": "Mychel Thompson",
+    "name": "Mychel·汤普森",
     "name_en": "Mychel Thompson",
     "position": "SF",
     "height": 198,
@@ -59707,7 +59707,7 @@ export default [
   },
   {
     "id": "nikola-vucevic",
-    "name": "Nikola Vucevic",
+    "name": "尼古拉·武切维奇",
     "name_en": "Nikola Vucevic",
     "position": null,
     "height": 208,
@@ -59747,7 +59747,7 @@ export default [
   },
   {
     "id": "nolan-smith",
-    "name": "Nolan Smith",
+    "name": "Nolan·史密斯",
     "name_en": "Nolan Smith",
     "position": "PG",
     "height": 188,
@@ -59783,7 +59783,7 @@ export default [
   },
   {
     "id": "norris-cole",
-    "name": "Norris Cole",
+    "name": "Norris·科尔",
     "name_en": "Norris Cole",
     "position": "PG",
     "height": 188,
@@ -59823,7 +59823,7 @@ export default [
   },
   {
     "id": "marcus-morris",
-    "name": "Marcus Morris",
+    "name": "马库斯·莫里斯",
     "name_en": "Marcus Morris",
     "position": "SF",
     "height": 206,
@@ -59863,7 +59863,7 @@ export default [
   },
   {
     "id": "markieff-morris",
-    "name": "Markieff Morris",
+    "name": "Markieff·莫里斯",
     "name_en": "Markieff Morris",
     "position": "SF",
     "height": 206,
@@ -59945,7 +59945,7 @@ export default [
   },
   {
     "id": "shelvin-mack",
-    "name": "Shelvin Mack",
+    "name": "Shelvin·麦克",
     "name_en": "Shelvin Mack",
     "position": "SG",
     "height": 190,
@@ -59989,7 +59989,7 @@ export default [
   },
   {
     "id": "terrel-harris",
-    "name": "Terrel Harris",
+    "name": "Terrel·哈里斯",
     "name_en": "Terrel Harris",
     "position": "PG",
     "height": 193,
@@ -60027,7 +60027,7 @@ export default [
   },
   {
     "id": "reggie-jackson",
-    "name": "Reggie Jackson",
+    "name": "雷吉·杰克逊",
     "name_en": "Reggie Jackson",
     "position": "SG",
     "height": 188,
@@ -60069,7 +60069,7 @@ export default [
   },
   {
     "id": "ricky-rubio",
-    "name": "Ricky Rubio",
+    "name": "里基·卢比奥",
     "name_en": "Ricky Rubio",
     "position": "PG",
     "height": 188,
@@ -60113,7 +60113,7 @@ export default [
   },
   {
     "id": "ryan-reid",
-    "name": "Ryan Reid",
+    "name": "Ryan·里德",
     "name_en": "Ryan Reid",
     "position": "SF",
     "height": 203,
@@ -60187,7 +60187,7 @@ export default [
   },
   {
     "id": "tony-wroten",
-    "name": "Tony Wroten",
+    "name": "托尼·Wroten",
     "name_en": "Tony Wroten",
     "position": "PG",
     "height": 198,
@@ -60227,7 +60227,7 @@ export default [
   },
   {
     "id": "tim-ohlbrecht",
-    "name": "Tim Ohlbrecht",
+    "name": "蒂姆·Ohlbrecht",
     "name_en": "Tim Ohlbrecht",
     "position": "PF",
     "height": 211,
@@ -60263,7 +60263,7 @@ export default [
   },
   {
     "id": "thomas-robinson",
-    "name": "Thomas Robinson",
+    "name": "托马斯·罗宾逊",
     "name_en": "Thomas Robinson",
     "position": "SF",
     "height": 208,
@@ -60347,7 +60347,7 @@ export default [
   },
   {
     "id": "terrence-jones",
-    "name": "Terrence Jones",
+    "name": "Terrence·琼斯",
     "name_en": "Terrence Jones",
     "position": "SF",
     "height": 206,
@@ -60385,7 +60385,7 @@ export default [
   },
   {
     "id": "will-barton",
-    "name": "Will Barton",
+    "name": "Will·巴顿",
     "name_en": "Will Barton",
     "position": "PG",
     "height": 196,
@@ -60499,7 +60499,7 @@ export default [
   },
   {
     "id": "tyshawn-taylor",
-    "name": "Tyshawn Taylor",
+    "name": "Tyshawn·泰勒",
     "name_en": "Tyshawn Taylor",
     "position": "PG",
     "height": 190,
@@ -60535,7 +60535,7 @@ export default [
   },
   {
     "id": "tyler-zeller",
-    "name": "Tyler Zeller",
+    "name": "泰勒·Zeller",
     "name_en": "Tyler Zeller",
     "position": "PF",
     "height": 211,
@@ -60579,7 +60579,7 @@ export default [
   },
   {
     "id": "draymond-green",
-    "name": "Draymond Green",
+    "name": "德雷蒙德·格林",
     "name_en": "Draymond Green",
     "position": "SF",
     "height": 198,
@@ -60615,7 +60615,7 @@ export default [
   },
   {
     "id": "robert-sacre",
-    "name": "Robert Sacre",
+    "name": "罗伯特·Sacre",
     "name_en": "Robert Sacre",
     "position": "C",
     "height": 213,
@@ -60651,7 +60651,7 @@ export default [
   },
   {
     "id": "quincy-miller",
-    "name": "Quincy Miller",
+    "name": "Quincy·米勒",
     "name_en": "Quincy Miller",
     "position": "SF",
     "height": 206,
@@ -60733,7 +60733,7 @@ export default [
   },
   {
     "id": "perry-jones-iii",
-    "name": "Perry Jones III",
+    "name": "Perry·三世",
     "name_en": "Perry Jones III",
     "position": "SF",
     "height": 211,
@@ -60807,7 +60807,7 @@ export default [
   },
   {
     "id": "doron-lamb",
-    "name": "Doron Lamb",
+    "name": "Doron·兰姆",
     "name_en": "Doron Lamb",
     "position": "PG",
     "height": 193,
@@ -60883,7 +60883,7 @@ export default [
   },
   {
     "id": "brian-roberts",
-    "name": "Brian Roberts",
+    "name": "Brian·罗伯茨",
     "name_en": "Brian Roberts",
     "position": "PG",
     "height": 185,
@@ -60925,7 +60925,7 @@ export default [
   },
   {
     "id": "chris-copeland",
-    "name": "Chris Copeland",
+    "name": "克里斯·Copeland",
     "name_en": "Chris Copeland",
     "position": "SF",
     "height": 206,
@@ -61003,7 +61003,7 @@ export default [
   },
   {
     "id": "anthony-davis",
-    "name": "Anthony Davis",
+    "name": "安东尼·戴维斯",
     "name_en": "Anthony Davis",
     "position": "PF",
     "height": 208,
@@ -61123,7 +61123,7 @@ export default [
   },
   {
     "id": "austin-rivers",
-    "name": "Austin Rivers",
+    "name": "Austin·里弗斯",
     "name_en": "Austin Rivers",
     "position": "SG",
     "height": 193,
@@ -61205,7 +61205,7 @@ export default [
   },
   {
     "id": "bernard-james",
-    "name": "Bernard James",
+    "name": "Bernard·詹姆斯",
     "name_en": "Bernard James",
     "position": "C",
     "height": 208,
@@ -61241,7 +61241,7 @@ export default [
   },
   {
     "id": "bradley-beal",
-    "name": "Bradley Beal",
+    "name": "布拉德利·比尔",
     "name_en": "Bradley Beal",
     "position": "SG",
     "height": 193,
@@ -61277,7 +61277,7 @@ export default [
   },
   {
     "id": "dequan-jones",
-    "name": "DeQuan Jones",
+    "name": "Dequan·琼斯",
     "name_en": "DeQuan Jones",
     "position": "SF",
     "height": 203,
@@ -61313,7 +61313,7 @@ export default [
   },
   {
     "id": "diante-garrett",
-    "name": "Diante Garrett",
+    "name": "Diante·加勒特",
     "name_en": "Diante Garrett",
     "position": "SG",
     "height": 193,
@@ -61393,7 +61393,7 @@ export default [
   },
   {
     "id": "damian-lillard",
-    "name": "Damian Lillard",
+    "name": "达米安·利拉德",
     "name_en": "Damian Lillard",
     "position": "PG",
     "height": 188,
@@ -61467,7 +61467,7 @@ export default [
   },
   {
     "id": "darius-miller",
-    "name": "Darius Miller",
+    "name": "Darius·米勒",
     "name_en": "Darius Miller",
     "position": "SF",
     "height": 198,
@@ -61507,7 +61507,7 @@ export default [
   },
   {
     "id": "patrick-beverley",
-    "name": "Patrick Beverley",
+    "name": "帕特里克·贝弗利",
     "name_en": "Patrick Beverley",
     "position": "SG",
     "height": 188,
@@ -61589,7 +61589,7 @@ export default [
   },
   {
     "id": "jeremy-lamb",
-    "name": "Jeremy Lamb",
+    "name": "杰里米·兰姆",
     "name_en": "Jeremy Lamb",
     "position": "SG",
     "height": 196,
@@ -61631,7 +61631,7 @@ export default [
   },
   {
     "id": "jeffery-taylor",
-    "name": "Jeffery Taylor",
+    "name": "Jeffery·泰勒",
     "name_en": "Jeffery Taylor",
     "position": "SF",
     "height": 201,
@@ -61743,7 +61743,7 @@ export default [
   },
   {
     "id": "jared-cunningham",
-    "name": "Jared Cunningham",
+    "name": "Jared·坎宁安",
     "name_en": "Jared Cunningham",
     "position": "PG",
     "height": 193,
@@ -61785,7 +61785,7 @@ export default [
   },
   {
     "id": "josh-akognon",
-    "name": "Josh Akognon",
+    "name": "约什·Akognon",
     "name_en": "Josh Akognon",
     "position": "PG",
     "height": 180,
@@ -61821,7 +61821,7 @@ export default [
   },
   {
     "id": "jonas-valanciunas",
-    "name": "Jonas Valanciunas",
+    "name": "约纳斯·瓦兰丘纳斯",
     "name_en": "Jonas Valanciunas",
     "position": null,
     "height": 211,
@@ -61861,7 +61861,7 @@ export default [
   },
   {
     "id": "john-henson",
-    "name": "John Henson",
+    "name": "约翰·Henson",
     "name_en": "John Henson",
     "position": "PF",
     "height": 206,
@@ -61901,7 +61901,7 @@ export default [
   },
   {
     "id": "joel-freeland",
-    "name": "Joel Freeland",
+    "name": "乔尔·Freeland",
     "name_en": "Joel Freeland",
     "position": "PF",
     "height": 208,
@@ -61937,7 +61937,7 @@ export default [
   },
   {
     "id": "john-jenkins",
-    "name": "John Jenkins",
+    "name": "约翰·Jenkins",
     "name_en": "John Jenkins",
     "position": "SG",
     "height": 193,
@@ -62049,7 +62049,7 @@ export default [
   },
   {
     "id": "evan-fournier",
-    "name": "Evan Fournier",
+    "name": "埃文·Fournier",
     "name_en": "Evan Fournier",
     "position": "SG",
     "height": 198,
@@ -62091,7 +62091,7 @@ export default [
   },
   {
     "id": "jae-crowder",
-    "name": "Jae Crowder",
+    "name": "杰·克劳德",
     "name_en": "Jae Crowder",
     "position": "SF",
     "height": 198,
@@ -62137,7 +62137,7 @@ export default [
   },
   {
     "id": "henry-sims",
-    "name": "Henry Sims",
+    "name": "Henry·西姆斯",
     "name_en": "Henry Sims",
     "position": "PF",
     "height": 208,
@@ -62177,7 +62177,7 @@ export default [
   },
   {
     "id": "harrison-barnes",
-    "name": "Harrison Barnes",
+    "name": "Harrison·巴恩斯",
     "name_en": "Harrison Barnes",
     "position": "SF",
     "height": 203,
@@ -62217,7 +62217,7 @@ export default [
   },
   {
     "id": "meyers-leonard",
-    "name": "Meyers Leonard",
+    "name": "Meyers·伦纳德",
     "name_en": "Meyers Leonard",
     "position": "PF",
     "height": 213,
@@ -62375,7 +62375,7 @@ export default [
   },
   {
     "id": "michael-kidd-gilchrist",
-    "name": "Michael Kidd-Gilchrist",
+    "name": "迈克尔·Kidd-Gilchrist",
     "name_en": "Michael Kidd-Gilchrist",
     "position": "SF",
     "height": 198,
@@ -62413,7 +62413,7 @@ export default [
   },
   {
     "id": "orlando-johnson",
-    "name": "Orlando Johnson",
+    "name": "Orlando·约翰逊",
     "name_en": "Orlando Johnson",
     "position": "PG",
     "height": 196,
@@ -62531,7 +62531,7 @@ export default [
   },
   {
     "id": "miles-plumlee",
-    "name": "Miles Plumlee",
+    "name": "迈尔斯·普拉姆利",
     "name_en": "Miles Plumlee",
     "position": "C",
     "height": 211,
@@ -62687,7 +62687,7 @@ export default [
   },
   {
     "id": "khris-middleton",
-    "name": "Khris Middleton",
+    "name": "Khris·米德尔顿",
     "name_en": "Khris Middleton",
     "position": "SF",
     "height": 201,
@@ -62725,7 +62725,7 @@ export default [
   },
   {
     "id": "kevin-murphy",
-    "name": "Kevin Murphy",
+    "name": "凯文·墨菲",
     "name_en": "Kevin Murphy",
     "position": "SG",
     "height": 198,
@@ -62761,7 +62761,7 @@ export default [
   },
   {
     "id": "kevin-jones",
-    "name": "Kevin Jones",
+    "name": "凯文·琼斯",
     "name_en": "Kevin Jones",
     "position": "SF",
     "height": 203,
@@ -62839,7 +62839,7 @@ export default [
   },
   {
     "id": "kendall-marshall",
-    "name": "Kendall Marshall",
+    "name": "Kendall·马歇尔",
     "name_en": "Kendall Marshall",
     "position": "PG",
     "height": 193,
@@ -62881,7 +62881,7 @@ export default [
   },
   {
     "id": "justin-holiday",
-    "name": "Justin Holiday",
+    "name": "Justin·霍勒迪",
     "name_en": "Justin Holiday",
     "position": "SF",
     "height": 198,
@@ -62931,7 +62931,7 @@ export default [
   },
   {
     "id": "kyle-singler",
-    "name": "Kyle Singler",
+    "name": "凯尔·Singler",
     "name_en": "Kyle Singler",
     "position": "SF",
     "height": 203,
@@ -62969,7 +62969,7 @@ export default [
   },
   {
     "id": "kyle-oquinn",
-    "name": "Kyle O'Quinn",
+    "name": "凯尔·O'Quinn",
     "name_en": "Kyle O'Quinn",
     "position": "PF",
     "height": 206,
@@ -63011,7 +63011,7 @@ export default [
   },
   {
     "id": "kris-joseph",
-    "name": "Kris Joseph",
+    "name": "Kris·约瑟夫",
     "name_en": "Kris Joseph",
     "position": "SF",
     "height": 201,
@@ -63047,7 +63047,7 @@ export default [
   },
   {
     "id": "andre-drummond",
-    "name": "Andre Drummond",
+    "name": "安德烈·德拉蒙德",
     "name_en": "Andre Drummond",
     "position": "C",
     "height": 211,
@@ -63129,7 +63129,7 @@ export default [
   },
   {
     "id": "ian-clark",
-    "name": "Ian Clark",
+    "name": "Ian·克拉克",
     "name_en": "Ian Clark",
     "position": "PG",
     "height": 190,
@@ -63171,7 +63171,7 @@ export default [
   },
   {
     "id": "isaiah-canaan",
-    "name": "Isaiah Canaan",
+    "name": "以赛亚·Canaan",
     "name_en": "Isaiah Canaan",
     "position": "SG",
     "height": 183,
@@ -63215,7 +63215,7 @@ export default [
   },
   {
     "id": "gorgui-dieng",
-    "name": "Gorgui Dieng",
+    "name": "Gorgui·迪昂",
     "name_en": "Gorgui Dieng",
     "position": "C",
     "height": 208,
@@ -63257,7 +63257,7 @@ export default [
   },
   {
     "id": "hollis-thompson",
-    "name": "Hollis Thompson",
+    "name": "Hollis·汤普森",
     "name_en": "Hollis Thompson",
     "position": "SG",
     "height": 203,
@@ -63295,7 +63295,7 @@ export default [
   },
   {
     "id": "elias-harris",
-    "name": "Elias Harris",
+    "name": "Elias·哈里斯",
     "name_en": "Elias Harris",
     "position": "SF",
     "height": 203,
@@ -63331,7 +63331,7 @@ export default [
   },
   {
     "id": "erik-murphy",
-    "name": "Erik Murphy",
+    "name": "Erik·墨菲",
     "name_en": "Erik Murphy",
     "position": "SF",
     "height": 208,
@@ -63403,7 +63403,7 @@ export default [
   },
   {
     "id": "jamaal-franklin",
-    "name": "Jamaal Franklin",
+    "name": "Jamaal·富兰克林",
     "name_en": "Jamaal Franklin",
     "position": "SG",
     "height": 196,
@@ -63441,7 +63441,7 @@ export default [
   },
   {
     "id": "giannis-antetokounmpo",
-    "name": "Giannis Antetokounmpo",
+    "name": "扬尼斯·阿德托昆博",
     "name_en": "Giannis Antetokounmpo",
     "position": "SF",
     "height": 213,
@@ -63515,7 +63515,7 @@ export default [
   },
   {
     "id": "jorge-gutierrez",
-    "name": "Jorge Gutierrez",
+    "name": "Jorge·古铁雷斯",
     "name_en": "Jorge Gutierrez",
     "position": "PG",
     "height": 190,
@@ -63555,7 +63555,7 @@ export default [
   },
   {
     "id": "james-nunnally",
-    "name": "James Nunnally",
+    "name": "詹姆斯·Nunnally",
     "name_en": "James Nunnally",
     "position": "SF",
     "height": 201,
@@ -63595,7 +63595,7 @@ export default [
   },
   {
     "id": "james-southerland",
-    "name": "James Southerland",
+    "name": "詹姆斯·Southerland",
     "name_en": "James Southerland",
     "position": "SF",
     "height": 203,
@@ -63631,7 +63631,7 @@ export default [
   },
   {
     "id": "jeff-withey",
-    "name": "Jeff Withey",
+    "name": "杰夫·Withey",
     "name_en": "Jeff Withey",
     "position": "C",
     "height": 213,
@@ -63671,7 +63671,7 @@ export default [
   },
   {
     "id": "brandon-davies",
-    "name": "Brandon Davies",
+    "name": "布兰登·Davies",
     "name_en": "Brandon Davies",
     "position": "SF",
     "height": 208,
@@ -63707,7 +63707,7 @@ export default [
   },
   {
     "id": "cj-mccollum",
-    "name": "CJ McCollum",
+    "name": "Cj·麦科勒姆",
     "name_en": "CJ McCollum",
     "position": "PG",
     "height": 190,
@@ -63817,7 +63817,7 @@ export default [
   },
   {
     "id": "chris-babb",
-    "name": "Chris Babb",
+    "name": "克里斯·Babb",
     "name_en": "Chris Babb",
     "position": "SG",
     "height": 196,
@@ -63853,7 +63853,7 @@ export default [
   },
   {
     "id": "andre-roberson",
-    "name": "Andre Roberson",
+    "name": "安德烈·Roberson",
     "name_en": "Andre Roberson",
     "position": "SG",
     "height": 201,
@@ -63891,7 +63891,7 @@ export default [
   },
   {
     "id": "anthony-bennett",
-    "name": "Anthony Bennett",
+    "name": "安东尼·Bennett",
     "name_en": "Anthony Bennett",
     "position": "SF",
     "height": 203,
@@ -64011,7 +64011,7 @@ export default [
   },
   {
     "id": "ben-mclemore",
-    "name": "Ben McLemore",
+    "name": "Ben·麦克勒莫",
     "name_en": "Ben McLemore",
     "position": "SG",
     "height": 190,
@@ -64055,7 +64055,7 @@ export default [
   },
   {
     "id": "dennis-schroder",
-    "name": "Dennis Schroder",
+    "name": "丹尼斯·施罗德",
     "name_en": "Dennis Schroder",
     "position": null,
     "height": 185,
@@ -64177,7 +64177,7 @@ export default [
   },
   {
     "id": "dwight-buycks",
-    "name": "Dwight Buycks",
+    "name": "德怀特·Buycks",
     "name_en": "Dwight Buycks",
     "position": "SG",
     "height": 190,
@@ -64217,7 +64217,7 @@ export default [
   },
   {
     "id": "chris-smith",
-    "name": "Chris Smith",
+    "name": "克里斯·史密斯",
     "name_en": "Chris Smith",
     "position": "SG",
     "height": 188,
@@ -64253,7 +64253,7 @@ export default [
   },
   {
     "id": "cody-zeller",
-    "name": "Cody Zeller",
+    "name": "科迪·Zeller",
     "name_en": "Cody Zeller",
     "position": "PF",
     "height": 211,
@@ -64331,7 +64331,7 @@ export default [
   },
   {
     "id": "royce-white",
-    "name": "Royce White",
+    "name": "罗伊斯·怀特",
     "name_en": "Royce White",
     "position": "SF",
     "height": 203,
@@ -64367,7 +64367,7 @@ export default [
   },
   {
     "id": "rudy-gobert",
-    "name": "Rudy Gobert",
+    "name": "鲁迪·戈贝尔",
     "name_en": "Rudy Gobert",
     "position": "C",
     "height": 216,
@@ -64405,7 +64405,7 @@ export default [
   },
   {
     "id": "ryan-kelly",
-    "name": "Ryan Kelly",
+    "name": "Ryan·凯利",
     "name_en": "Ryan Kelly",
     "position": "SF",
     "height": 211,
@@ -64443,7 +64443,7 @@ export default [
   },
   {
     "id": "scotty-hopson",
-    "name": "Scotty Hopson",
+    "name": "斯科蒂·Hopson",
     "name_en": "Scotty Hopson",
     "position": "PG",
     "height": 201,
@@ -64521,7 +64521,7 @@ export default [
   },
   {
     "id": "seth-curry",
-    "name": "Seth Curry",
+    "name": "Seth·库里",
     "name_en": "Seth Curry",
     "position": "PG",
     "height": 185,
@@ -64607,7 +64607,7 @@ export default [
   },
   {
     "id": "shane-edwards",
-    "name": "Shane Edwards",
+    "name": "Shane·爱德华兹",
     "name_en": "Shane Edwards",
     "position": null,
     "height": 201,
@@ -64685,7 +64685,7 @@ export default [
   },
   {
     "id": "solomon-hill",
-    "name": "Solomon Hill",
+    "name": "Solomon·希尔",
     "name_en": "Solomon Hill",
     "position": "SF",
     "height": 198,
@@ -64727,7 +64727,7 @@ export default [
   },
   {
     "id": "ray-mccallum",
-    "name": "Ray McCallum",
+    "name": "雷·Mccallum",
     "name_en": "Ray McCallum",
     "position": "PG",
     "height": 190,
@@ -64765,7 +64765,7 @@ export default [
   },
   {
     "id": "reggie-bullock",
-    "name": "Reggie Bullock",
+    "name": "雷吉·Bullock",
     "name_en": "Reggie Bullock",
     "position": "SF",
     "height": 198,
@@ -64811,7 +64811,7 @@ export default [
   },
   {
     "id": "ricky-ledo",
-    "name": "Ricky Ledo",
+    "name": "里基·Ledo",
     "name_en": "Ricky Ledo",
     "position": "SG",
     "height": 201,
@@ -64885,7 +64885,7 @@ export default [
   },
   {
     "id": "robert-covington",
-    "name": "Robert Covington",
+    "name": "罗伯特·科温顿",
     "name_en": "Robert Covington",
     "position": "SF",
     "height": 201,
@@ -64967,7 +64967,7 @@ export default [
   },
   {
     "id": "troy-daniels",
-    "name": "Troy Daniels",
+    "name": "Troy·丹尼尔斯",
     "name_en": "Troy Daniels",
     "position": "SG",
     "height": 193,
@@ -65049,7 +65049,7 @@ export default [
   },
   {
     "id": "victor-oladipo",
-    "name": "Victor Oladipo",
+    "name": "Victor·奥拉迪波",
     "name_en": "Victor Oladipo",
     "position": "SG",
     "height": 190,
@@ -65127,7 +65127,7 @@ export default [
   },
   {
     "id": "trey-burke",
-    "name": "Trey Burke",
+    "name": "Trey·伯克",
     "name_en": "Trey Burke",
     "position": "PG",
     "height": 183,
@@ -65169,7 +65169,7 @@ export default [
   },
   {
     "id": "steven-adams",
-    "name": "Steven Adams",
+    "name": "史蒂文·亚当斯",
     "name_en": "Steven Adams",
     "position": "C",
     "height": 211,
@@ -65209,7 +65209,7 @@ export default [
   },
   {
     "id": "tim-hardaway-jr",
-    "name": "Tim Hardaway Jr.",
+    "name": "蒂姆·二世",
     "name_en": "Tim Hardaway Jr.",
     "position": "SG",
     "height": 196,
@@ -65249,7 +65249,7 @@ export default [
   },
   {
     "id": "tony-mitchell",
-    "name": "Tony Mitchell",
+    "name": "托尼·米切尔",
     "name_en": "Tony Mitchell",
     "position": "SF",
     "height": 203,
@@ -65287,7 +65287,7 @@ export default [
   },
   {
     "id": "tony-snell",
-    "name": "Tony Snell",
+    "name": "托尼·Snell",
     "name_en": "Tony Snell",
     "position": "PG",
     "height": 198,
@@ -65441,7 +65441,7 @@ export default [
   },
   {
     "id": "lorenzo-brown",
-    "name": "Lorenzo Brown",
+    "name": "Lorenzo·布朗",
     "name_en": "Lorenzo Brown",
     "position": "PG",
     "height": 196,
@@ -65483,7 +65483,7 @@ export default [
   },
   {
     "id": "justin-hamilton",
-    "name": "Justin Hamilton",
+    "name": "Justin·汉密尔顿",
     "name_en": "Justin Hamilton",
     "position": "C",
     "height": 213,
@@ -65523,7 +65523,7 @@ export default [
   },
   {
     "id": "kelly-olynyk",
-    "name": "Kelly Olynyk",
+    "name": "Kelly·奥利尼克",
     "name_en": "Kelly Olynyk",
     "position": "PF",
     "height": 211,
@@ -65567,7 +65567,7 @@ export default [
   },
   {
     "id": "kentavious-caldwell-pope",
-    "name": "Kentavious Caldwell-Pope",
+    "name": "肯塔维厄斯·Caldwell-Pope",
     "name_en": "Kentavious Caldwell-Pope",
     "position": "PG",
     "height": 196,
@@ -65645,7 +65645,7 @@ export default [
   },
   {
     "id": "nick-calathes",
-    "name": "Nick Calathes",
+    "name": "尼克·Calathes",
     "name_en": "Nick Calathes",
     "position": "SG",
     "height": 198,
@@ -65717,7 +65717,7 @@ export default [
   },
   {
     "id": "otto-porter-jr",
-    "name": "Otto Porter Jr.",
+    "name": "奥托·二世",
     "name_en": "Otto Porter Jr.",
     "position": "SF",
     "height": 203,
@@ -65799,7 +65799,7 @@ export default [
   },
   {
     "id": "mason-plumlee",
-    "name": "Mason Plumlee",
+    "name": "Mason·普拉姆利",
     "name_en": "Mason Plumlee",
     "position": "PF",
     "height": 213,
@@ -65885,7 +65885,7 @@ export default [
   },
   {
     "id": "michael-carter-williams",
-    "name": "Michael Carter-Williams",
+    "name": "迈克尔·Carter-Williams",
     "name_en": "Michael Carter-Williams",
     "position": "SG",
     "height": 196,
@@ -66009,7 +66009,7 @@ export default [
   },
   {
     "id": "adonis-thomas",
-    "name": "Adonis Thomas",
+    "name": "Adonis·托马斯",
     "name_en": "Adonis Thomas",
     "position": "SG",
     "height": 201,
@@ -66045,7 +66045,7 @@ export default [
   },
   {
     "id": "alex-len",
-    "name": "Alex Len",
+    "name": "亚历克斯·Len",
     "name_en": "Alex Len",
     "position": "C",
     "height": 218,
@@ -66087,7 +66087,7 @@ export default [
   },
   {
     "id": "allen-crabbe",
-    "name": "Allen Crabbe",
+    "name": "阿伦·Crabbe",
     "name_en": "Allen Crabbe",
     "position": "SG",
     "height": 196,
@@ -66127,7 +66127,7 @@ export default [
   },
   {
     "id": "patrick-christopher",
-    "name": "Patrick Christopher",
+    "name": "帕特里克·Christopher",
     "name_en": "Patrick Christopher",
     "position": null,
     "height": 196,
@@ -66249,7 +66249,7 @@ export default [
   },
   {
     "id": "nikola-mirotic",
-    "name": "Nikola Mirotic",
+    "name": "尼古拉·Mirotic",
     "name_en": "Nikola Mirotic",
     "position": "SF",
     "height": 208,
@@ -66289,7 +66289,7 @@ export default [
   },
   {
     "id": "russ-smith",
-    "name": "Russ Smith",
+    "name": "Russ·史密斯",
     "name_en": "Russ Smith",
     "position": "PG",
     "height": 183,
@@ -66325,7 +66325,7 @@ export default [
   },
   {
     "id": "rodney-hood",
-    "name": "Rodney Hood",
+    "name": "Rodney·胡德",
     "name_en": "Rodney Hood",
     "position": "SG",
     "height": 203,
@@ -66413,7 +66413,7 @@ export default [
   },
   {
     "id": "nick-johnson",
-    "name": "Nick Johnson",
+    "name": "尼克·约翰逊",
     "name_en": "Nick Johnson",
     "position": "PG",
     "height": 190,
@@ -66449,7 +66449,7 @@ export default [
   },
   {
     "id": "markel-brown",
-    "name": "Markel Brown",
+    "name": "Markel·布朗",
     "name_en": "Markel Brown",
     "position": "SG",
     "height": 190,
@@ -66487,7 +66487,7 @@ export default [
   },
   {
     "id": "marcus-smart",
-    "name": "Marcus Smart",
+    "name": "马库斯·斯马特",
     "name_en": "Marcus Smart",
     "position": "SG",
     "height": 193,
@@ -66559,7 +66559,7 @@ export default [
   },
   {
     "id": "larry-drew-ii",
-    "name": "Larry Drew II",
+    "name": "拉里·Ii",
     "name_en": "Larry Drew II",
     "position": "PG",
     "height": 188,
@@ -66641,7 +66641,7 @@ export default [
   },
   {
     "id": "nerlens-noel",
-    "name": "Nerlens Noel",
+    "name": "Nerlens·诺埃尔",
     "name_en": "Nerlens Noel",
     "position": "PF",
     "height": 208,
@@ -66761,7 +66761,7 @@ export default [
   },
   {
     "id": "bojan-bogdanovic",
-    "name": "Bojan Bogdanovic",
+    "name": "博扬·博格达诺维奇",
     "name_en": "Bojan Bogdanovic",
     "position": null,
     "height": 201,
@@ -66805,7 +66805,7 @@ export default [
   },
   {
     "id": "andre-dawkins",
-    "name": "Andre Dawkins",
+    "name": "安德烈·Dawkins",
     "name_en": "Andre Dawkins",
     "position": "SG",
     "height": 196,
@@ -66879,7 +66879,7 @@ export default [
   },
   {
     "id": "tyler-ennis",
-    "name": "Tyler Ennis",
+    "name": "泰勒·恩尼斯",
     "name_en": "Tyler Ennis",
     "position": "PG",
     "height": 190,
@@ -66917,7 +66917,7 @@ export default [
   },
   {
     "id": "tyler-johnson",
-    "name": "Tyler Johnson",
+    "name": "泰勒·约翰逊",
     "name_en": "Tyler Johnson",
     "position": "SG",
     "height": 190,
@@ -66959,7 +66959,7 @@ export default [
   },
   {
     "id": "andrew-wiggins",
-    "name": "Andrew Wiggins",
+    "name": "Andrew·维金斯",
     "name_en": "Andrew Wiggins",
     "position": "SF",
     "height": 201,
@@ -67035,7 +67035,7 @@ export default [
   },
   {
     "id": "tj-warren",
-    "name": "TJ Warren",
+    "name": "TJ·沃伦",
     "name_en": "TJ Warren",
     "position": "SF",
     "height": 203,
@@ -67071,7 +67071,7 @@ export default [
   },
   {
     "id": "spencer-dinwiddie",
-    "name": "Spencer Dinwiddie",
+    "name": "斯宾塞·丁威迪",
     "name_en": "Spencer Dinwiddie",
     "position": "SG",
     "height": 196,
@@ -67229,7 +67229,7 @@ export default [
   },
   {
     "id": "tim-frazier",
-    "name": "Tim Frazier",
+    "name": "蒂姆·Frazier",
     "name_en": "Tim Frazier",
     "position": "PG",
     "height": 183,
@@ -67277,7 +67277,7 @@ export default [
   },
   {
     "id": "alex-kirk",
-    "name": "Alex Kirk",
+    "name": "亚历克斯·Kirk",
     "name_en": "Alex Kirk",
     "position": "C",
     "height": 213,
@@ -67313,7 +67313,7 @@ export default [
   },
   {
     "id": "adreian-payne",
-    "name": "Adreian Payne",
+    "name": "Adreian·佩恩",
     "name_en": "Adreian Payne",
     "position": "SF",
     "height": 208,
@@ -67351,7 +67351,7 @@ export default [
   },
   {
     "id": "aaron-gordon",
-    "name": "Aaron Gordon",
+    "name": "阿龙·戈登",
     "name_en": "Aaron Gordon",
     "position": "SF",
     "height": 203,
@@ -67425,7 +67425,7 @@ export default [
   },
   {
     "id": "zach-lavine",
-    "name": "Zach LaVine",
+    "name": "扎克·拉文",
     "name_en": "Zach LaVine",
     "position": "SG",
     "height": 196,
@@ -67463,7 +67463,7 @@ export default [
   },
   {
     "id": "zoran-dragic",
-    "name": "Zoran Dragic",
+    "name": "Zoran·德拉季奇",
     "name_en": "Zoran Dragic",
     "position": "SG",
     "height": 196,
@@ -67499,7 +67499,7 @@ export default [
   },
   {
     "id": "dwight-powell",
-    "name": "Dwight Powell",
+    "name": "德怀特·鲍威尔",
     "name_en": "Dwight Powell",
     "position": "PF",
     "height": 208,
@@ -67535,7 +67535,7 @@ export default [
   },
   {
     "id": "drew-gordon",
-    "name": "Drew Gordon",
+    "name": "Drew·戈登",
     "name_en": "Drew Gordon",
     "position": "PF",
     "height": 206,
@@ -67571,7 +67571,7 @@ export default [
   },
   {
     "id": "elfrid-payton",
-    "name": "Elfrid Payton",
+    "name": "Elfrid·佩顿",
     "name_en": "Elfrid Payton",
     "position": "PG",
     "height": 190,
@@ -67613,7 +67613,7 @@ export default [
   },
   {
     "id": "doug-mcdermott",
-    "name": "Doug McDermott",
+    "name": "道格·Mcdermott",
     "name_en": "Doug McDermott",
     "position": "SF",
     "height": 198,
@@ -67731,7 +67731,7 @@ export default [
   },
   {
     "id": "glenn-robinson-iii",
-    "name": "Glenn Robinson III",
+    "name": "Glenn·三世",
     "name_en": "Glenn Robinson III",
     "position": "SF",
     "height": 198,
@@ -67773,7 +67773,7 @@ export default [
   },
   {
     "id": "gary-harris",
-    "name": "Gary Harris",
+    "name": "加里·哈里斯",
     "name_en": "Gary Harris",
     "position": "PG",
     "height": 193,
@@ -67847,7 +67847,7 @@ export default [
   },
   {
     "id": "erick-green",
-    "name": "Erick Green",
+    "name": "Erick·格林",
     "name_en": "Erick Green",
     "position": "PG",
     "height": 193,
@@ -67883,7 +67883,7 @@ export default [
   },
   {
     "id": "eric-moreland",
-    "name": "Eric Moreland",
+    "name": "埃里克·Moreland",
     "name_en": "Eric Moreland",
     "position": "PF",
     "height": 208,
@@ -67923,7 +67923,7 @@ export default [
   },
   {
     "id": "cameron-bairstow",
-    "name": "Cameron Bairstow",
+    "name": "卡梅伦·Bairstow",
     "name_en": "Cameron Bairstow",
     "position": "PF",
     "height": 206,
@@ -67961,7 +67961,7 @@ export default [
   },
   {
     "id": "cj-wilcox",
-    "name": "CJ Wilcox",
+    "name": "Cj·威尔科克斯",
     "name_en": "CJ Wilcox",
     "position": "PG",
     "height": 196,
@@ -68037,7 +68037,7 @@ export default [
   },
   {
     "id": "bruno-caboclo",
-    "name": "Bruno Caboclo",
+    "name": "布鲁诺·卡博克洛",
     "name_en": "Bruno Caboclo",
     "position": "SF",
     "height": 206,
@@ -68115,7 +68115,7 @@ export default [
   },
   {
     "id": "david-wear",
-    "name": "David Wear",
+    "name": "大卫·Wear",
     "name_en": "David Wear",
     "position": "SF",
     "height": 208,
@@ -68151,7 +68151,7 @@ export default [
   },
   {
     "id": "david-stockton",
-    "name": "David Stockton",
+    "name": "大卫·Stockton",
     "name_en": "David Stockton",
     "position": "PG",
     "height": 180,
@@ -68269,7 +68269,7 @@ export default [
   },
   {
     "id": "cory-jefferson",
-    "name": "Cory Jefferson",
+    "name": "科里·杰弗森",
     "name_en": "Cory Jefferson",
     "position": "SF",
     "height": 206,
@@ -68307,7 +68307,7 @@ export default [
   },
   {
     "id": "clint-capela",
-    "name": "Clint Capela",
+    "name": "克林特·卡佩拉",
     "name_en": "Clint Capela",
     "position": "C",
     "height": 208,
@@ -68381,7 +68381,7 @@ export default [
   },
   {
     "id": "julius-randle",
-    "name": "Julius Randle",
+    "name": "朱利叶斯·兰德尔",
     "name_en": "Julius Randle",
     "position": "PF",
     "height": 203,
@@ -68421,7 +68421,7 @@ export default [
   },
   {
     "id": "jordan-clarkson",
-    "name": "Jordan Clarkson",
+    "name": "Jordan·克拉克森",
     "name_en": "Jordan Clarkson",
     "position": "PG",
     "height": 196,
@@ -68461,7 +68461,7 @@ export default [
   },
   {
     "id": "jordan-adams",
-    "name": "Jordan Adams",
+    "name": "Jordan·亚当斯",
     "name_en": "Jordan Adams",
     "position": "SG",
     "height": 196,
@@ -68497,7 +68497,7 @@ export default [
   },
   {
     "id": "johnny-obryant-iii",
-    "name": "Johnny O'Bryant III",
+    "name": "Johnny·三世",
     "name_en": "Johnny O'Bryant III",
     "position": "PF",
     "height": 206,
@@ -68575,7 +68575,7 @@ export default [
   },
   {
     "id": "joe-ingles",
-    "name": "Joe Ingles",
+    "name": "乔·Ingles",
     "name_en": "Joe Ingles",
     "position": "SF",
     "height": 206,
@@ -68615,7 +68615,7 @@ export default [
   },
   {
     "id": "joe-harris",
-    "name": "Joe Harris",
+    "name": "乔·哈里斯",
     "name_en": "Joe Harris",
     "position": "SG",
     "height": 198,
@@ -68691,7 +68691,7 @@ export default [
   },
   {
     "id": "kyle-anderson",
-    "name": "Kyle Anderson",
+    "name": "凯尔·安德森",
     "name_en": "Kyle Anderson",
     "position": "SF",
     "height": 206,
@@ -68769,7 +68769,7 @@ export default [
   },
   {
     "id": "kalin-lucas",
-    "name": "Kalin Lucas",
+    "name": "Kalin·卢卡斯",
     "name_en": "Kalin Lucas",
     "position": "SG",
     "height": 185,
@@ -68807,7 +68807,7 @@ export default [
   },
   {
     "id": "jusuf-nurkic",
-    "name": "Jusuf Nurkic",
+    "name": "Jusuf·努尔基奇",
     "name_en": "Jusuf Nurkic",
     "position": null,
     "height": 213,
@@ -68883,7 +68883,7 @@ export default [
   },
   {
     "id": "jabari-parker",
-    "name": "Jabari Parker",
+    "name": "Jabari·帕克",
     "name_en": "Jabari Parker",
     "position": "SF",
     "height": 201,
@@ -68925,7 +68925,7 @@ export default [
   },
   {
     "id": "jabari-brown",
-    "name": "Jabari Brown",
+    "name": "Jabari·布朗",
     "name_en": "Jabari Brown",
     "position": "SG",
     "height": 196,
@@ -68961,7 +68961,7 @@ export default [
   },
   {
     "id": "jamychal-green",
-    "name": "JaMychal Green",
+    "name": "Jamychal·格林",
     "name_en": "JaMychal Green",
     "position": "PF",
     "height": 206,
@@ -69047,7 +69047,7 @@ export default [
   },
   {
     "id": "james-ennis-iii",
-    "name": "James Ennis III",
+    "name": "詹姆斯·三世",
     "name_en": "James Ennis III",
     "position": "SF",
     "height": 198,
@@ -69167,7 +69167,7 @@ export default [
   },
   {
     "id": "jerami-grant",
-    "name": "Jerami Grant",
+    "name": "杰拉米·格兰特",
     "name_en": "Jerami Grant",
     "position": "SF",
     "height": 203,
@@ -69211,7 +69211,7 @@ export default [
   },
   {
     "id": "jarnell-stokes",
-    "name": "Jarnell Stokes",
+    "name": "Jarnell·斯托克斯",
     "name_en": "Jarnell Stokes",
     "position": "PF",
     "height": 206,
@@ -69249,7 +69249,7 @@ export default [
   },
   {
     "id": "james-young",
-    "name": "James Young",
+    "name": "詹姆斯·杨",
     "name_en": "James Young",
     "position": "SG",
     "height": 198,
@@ -69287,7 +69287,7 @@ export default [
   },
   {
     "id": "james-michael-mcadoo",
-    "name": "James Michael McAdoo",
+    "name": "詹姆斯·Mcadoo",
     "name_en": "James Michael McAdoo",
     "position": "SF",
     "height": 206,
@@ -69517,7 +69517,7 @@ export default [
   },
   {
     "id": "jerian-grant",
-    "name": "Jerian Grant",
+    "name": "Jerian·格兰特",
     "name_en": "Jerian Grant",
     "position": "SG",
     "height": 193,
@@ -69559,7 +69559,7 @@ export default [
   },
   {
     "id": "joe-young",
-    "name": "Joe Young",
+    "name": "乔·杨",
     "name_en": "Joe Young",
     "position": "PG",
     "height": 188,
@@ -69595,7 +69595,7 @@ export default [
   },
   {
     "id": "jonathon-simmons",
-    "name": "Jonathon Simmons",
+    "name": "Jonathon·西蒙斯",
     "name_en": "Jonathon Simmons",
     "position": "SF",
     "height": 198,
@@ -69717,7 +69717,7 @@ export default [
   },
   {
     "id": "jarell-martin",
-    "name": "Jarell Martin",
+    "name": "Jarell·马丁",
     "name_en": "Jarell Martin",
     "position": "SF",
     "height": 208,
@@ -69841,7 +69841,7 @@ export default [
   },
   {
     "id": "bobby-portis",
-    "name": "Bobby Portis",
+    "name": "博比·Portis",
     "name_en": "Bobby Portis",
     "position": "SF",
     "height": 211,
@@ -69959,7 +69959,7 @@ export default [
   },
   {
     "id": "anthony-brown",
-    "name": "Anthony Brown",
+    "name": "安东尼·布朗",
     "name_en": "Anthony Brown",
     "position": "SF",
     "height": 201,
@@ -69999,7 +69999,7 @@ export default [
   },
   {
     "id": "aaron-harrison",
-    "name": "Aaron Harrison",
+    "name": "阿龙·哈里森",
     "name_en": "Aaron Harrison",
     "position": "PG",
     "height": 198,
@@ -70037,7 +70037,7 @@ export default [
   },
   {
     "id": "alan-williams",
-    "name": "Alan Williams",
+    "name": "Alan·威廉姆斯",
     "name_en": "Alan Williams",
     "position": "PF",
     "height": 203,
@@ -70075,7 +70075,7 @@ export default [
   },
   {
     "id": "alex-stepheson",
-    "name": "Alex Stepheson",
+    "name": "亚历克斯·Stepheson",
     "name_en": "Alex Stepheson",
     "position": "SF",
     "height": 208,
@@ -70219,7 +70219,7 @@ export default [
   },
   {
     "id": "dangelo-russell",
-    "name": "D'Angelo Russell",
+    "name": "D'Angelo·拉塞尔",
     "name_en": "D'Angelo Russell",
     "position": "SG",
     "height": 193,
@@ -70333,7 +70333,7 @@ export default [
   },
   {
     "id": "delon-wright",
-    "name": "Delon Wright",
+    "name": "Delon·赖特",
     "name_en": "Delon Wright",
     "position": "PG",
     "height": 196,
@@ -70379,7 +70379,7 @@ export default [
   },
   {
     "id": "devin-booker",
-    "name": "Devin Booker",
+    "name": "德文·布克",
     "name_en": "Devin Booker",
     "position": "PG",
     "height": 196,
@@ -70415,7 +70415,7 @@ export default [
   },
   {
     "id": "cameron-payne",
-    "name": "Cameron Payne",
+    "name": "卡梅伦·佩恩",
     "name_en": "Cameron Payne",
     "position": "SG",
     "height": 185,
@@ -70457,7 +70457,7 @@ export default [
   },
   {
     "id": "chris-mccullough",
-    "name": "Chris McCullough",
+    "name": "克里斯·Mccullough",
     "name_en": "Chris McCullough",
     "position": "SF",
     "height": 206,
@@ -70495,7 +70495,7 @@ export default [
   },
   {
     "id": "christian-wood",
-    "name": "Christian Wood",
+    "name": "Christian·伍德",
     "name_en": "Christian Wood",
     "position": "SF",
     "height": 206,
@@ -70615,7 +70615,7 @@ export default [
   },
   {
     "id": "rondae-hollis-jefferson",
-    "name": "Rondae Hollis-Jefferson",
+    "name": "朗戴·Hollis-Jefferson",
     "name_en": "Rondae Hollis-Jefferson",
     "position": "SF",
     "height": 198,
@@ -70691,7 +70691,7 @@ export default [
   },
   {
     "id": "sam-dekker",
-    "name": "Sam Dekker",
+    "name": "萨姆·Dekker",
     "name_en": "Sam Dekker",
     "position": "SF",
     "height": 203,
@@ -70769,7 +70769,7 @@ export default [
   },
   {
     "id": "richaun-holmes",
-    "name": "Richaun Holmes",
+    "name": "Richaun·霍姆斯",
     "name_en": "Richaun Holmes",
     "position": "SF",
     "height": 203,
@@ -70809,7 +70809,7 @@ export default [
   },
   {
     "id": "pat-connaughton",
-    "name": "Pat Connaughton",
+    "name": "帕特·Connaughton",
     "name_en": "Pat Connaughton",
     "position": "SG",
     "height": 196,
@@ -70883,7 +70883,7 @@ export default [
   },
   {
     "id": "rashad-vaughn",
-    "name": "Rashad Vaughn",
+    "name": "Rashad·沃恩",
     "name_en": "Rashad Vaughn",
     "position": "PG",
     "height": 198,
@@ -70919,7 +70919,7 @@ export default [
   },
   {
     "id": "raul-neto",
-    "name": "Raul Neto",
+    "name": "劳尔·Neto",
     "name_en": "Raul Neto",
     "position": "PG",
     "height": 188,
@@ -70961,7 +70961,7 @@ export default [
   },
   {
     "id": "rj-hunter",
-    "name": "RJ Hunter",
+    "name": "Rj·亨特",
     "name_en": "RJ Hunter",
     "position": "SG",
     "height": 196,
@@ -71083,7 +71083,7 @@ export default [
   },
   {
     "id": "willie-reed",
-    "name": "Willie Reed",
+    "name": "Willie·里德",
     "name_en": "Willie Reed",
     "position": "PF",
     "height": 211,
@@ -71201,7 +71201,7 @@ export default [
   },
   {
     "id": "tyus-jones",
-    "name": "Tyus Jones",
+    "name": "泰厄斯·琼斯",
     "name_en": "Tyus Jones",
     "position": "SG",
     "height": 188,
@@ -71239,7 +71239,7 @@ export default [
   },
   {
     "id": "stanley-johnson",
-    "name": "Stanley Johnson",
+    "name": "Stanley·约翰逊",
     "name_en": "Stanley Johnson",
     "position": "SF",
     "height": 198,
@@ -71321,7 +71321,7 @@ export default [
   },
   {
     "id": "thanasis-antetokounmpo",
-    "name": "Thanasis Antetokounmpo",
+    "name": "Thanasis·阿德托昆博",
     "name_en": "Thanasis Antetokounmpo",
     "position": "SF",
     "height": 201,
@@ -71395,7 +71395,7 @@ export default [
   },
   {
     "id": "terry-rozier",
-    "name": "Terry Rozier",
+    "name": "特里·罗齐尔",
     "name_en": "Terry Rozier",
     "position": "PG",
     "height": 185,
@@ -71433,7 +71433,7 @@ export default [
   },
   {
     "id": "kristaps-porzingis",
-    "name": "Kristaps Porzingis",
+    "name": "Kristaps·波尔津吉斯",
     "name_en": "Kristaps Porzingis",
     "position": null,
     "height": 221,
@@ -71473,7 +71473,7 @@ export default [
   },
   {
     "id": "lamar-patterson",
-    "name": "Lamar Patterson",
+    "name": "Lamar·帕特森",
     "name_en": "Lamar Patterson",
     "position": "SG",
     "height": 196,
@@ -71509,7 +71509,7 @@ export default [
   },
   {
     "id": "larry-nance-jr",
-    "name": "Larry Nance Jr.",
+    "name": "拉里·二世",
     "name_en": "Larry Nance Jr.",
     "position": "PF",
     "height": 203,
@@ -71549,7 +71549,7 @@ export default [
   },
   {
     "id": "josh-huestis",
-    "name": "Josh Huestis",
+    "name": "约什·Huestis",
     "name_en": "Josh Huestis",
     "position": "SG",
     "height": 201,
@@ -71585,7 +71585,7 @@ export default [
   },
   {
     "id": "josh-richardson",
-    "name": "Josh Richardson",
+    "name": "约什·理查德森",
     "name_en": "Josh Richardson",
     "position": "SG",
     "height": 198,
@@ -71629,7 +71629,7 @@ export default [
   },
   {
     "id": "justin-anderson",
-    "name": "Justin Anderson",
+    "name": "Justin·安德森",
     "name_en": "Justin Anderson",
     "position": "SF",
     "height": 196,
@@ -71713,7 +71713,7 @@ export default [
   },
   {
     "id": "karl-anthony-towns",
-    "name": "Karl-Anthony Towns",
+    "name": "Karl-Anthony·唐斯",
     "name_en": "Karl-Anthony Towns",
     "position": "PF",
     "height": 213,
@@ -71785,7 +71785,7 @@ export default [
   },
   {
     "id": "kelly-oubre-jr",
-    "name": "Kelly Oubre Jr.",
+    "name": "Kelly·二世",
     "name_en": "Kelly Oubre Jr.",
     "position": "SF",
     "height": 198,
@@ -71827,7 +71827,7 @@ export default [
   },
   {
     "id": "kevon-looney",
-    "name": "Kevon Looney",
+    "name": "Kevon·卢尼",
     "name_en": "Kevon Looney",
     "position": "SF",
     "height": 206,
@@ -71901,7 +71901,7 @@ export default [
   },
   {
     "id": "montrezl-harrell",
-    "name": "Montrezl Harrell",
+    "name": "蒙特雷兹·哈雷尔",
     "name_en": "Montrezl Harrell",
     "position": "PF",
     "height": 201,
@@ -71945,7 +71945,7 @@ export default [
   },
   {
     "id": "myles-turner",
-    "name": "Myles Turner",
+    "name": "迈尔斯·特纳",
     "name_en": "Myles Turner",
     "position": "PF",
     "height": 211,
@@ -71981,7 +71981,7 @@ export default [
   },
   {
     "id": "nemanja-bjelica",
-    "name": "Nemanja Bjelica",
+    "name": "Nemanja·别利察",
     "name_en": "Nemanja Bjelica",
     "position": "SF",
     "height": 206,
@@ -72023,7 +72023,7 @@ export default [
   },
   {
     "id": "nikola-jokic",
-    "name": "Nikola Jokic",
+    "name": "尼古拉·约基奇",
     "name_en": "Nikola Jokic",
     "position": null,
     "height": 211,
@@ -72059,7 +72059,7 @@ export default [
   },
   {
     "id": "norman-powell",
-    "name": "Norman Powell",
+    "name": "诺曼·鲍威尔",
     "name_en": "Norman Powell",
     "position": "PG",
     "height": 193,
@@ -72211,7 +72211,7 @@ export default [
   },
   {
     "id": "michael-gbinije",
-    "name": "Michael Gbinije",
+    "name": "迈克尔·Gbinije",
     "name_en": "Michael Gbinije",
     "position": "SG",
     "height": 201,
@@ -72247,7 +72247,7 @@ export default [
   },
   {
     "id": "marshall-plumlee",
-    "name": "Marshall Plumlee",
+    "name": "Marshall·普拉姆利",
     "name_en": "Marshall Plumlee",
     "position": "C",
     "height": 213,
@@ -72285,7 +72285,7 @@ export default [
   },
   {
     "id": "marquese-chriss",
-    "name": "Marquese Chriss",
+    "name": "马基斯·Chriss",
     "name_en": "Marquese Chriss",
     "position": "SF",
     "height": 206,
@@ -72327,7 +72327,7 @@ export default [
   },
   {
     "id": "marcus-georges-hunt",
-    "name": "Marcus Georges-Hunt",
+    "name": "马库斯·Georges-Hunt",
     "name_en": "Marcus Georges-Hunt",
     "position": "PG",
     "height": 196,
@@ -72401,7 +72401,7 @@ export default [
   },
   {
     "id": "pascal-siakam",
-    "name": "Pascal Siakam",
+    "name": "帕斯卡尔·西亚卡姆",
     "name_en": "Pascal Siakam",
     "position": "SF",
     "height": 203,
@@ -72437,7 +72437,7 @@ export default [
   },
   {
     "id": "okaro-white",
-    "name": "Okaro White",
+    "name": "Okaro·怀特",
     "name_en": "Okaro White",
     "position": "SF",
     "height": 203,
@@ -72477,7 +72477,7 @@ export default [
   },
   {
     "id": "nicolas-brussino",
-    "name": "Nicolas Brussino",
+    "name": "尼古拉斯·Brussino",
     "name_en": "Nicolas Brussino",
     "position": "SF",
     "height": 203,
@@ -72551,7 +72551,7 @@ export default [
   },
   {
     "id": "nicolas-laprovittola",
-    "name": "Nicolas Laprovittola",
+    "name": "尼古拉斯·Laprovittola",
     "name_en": "Nicolas Laprovittola",
     "position": "PG",
     "height": 193,
@@ -72587,7 +72587,7 @@ export default [
   },
   {
     "id": "malik-beasley",
-    "name": "Malik Beasley",
+    "name": "马利克·Beasley",
     "name_en": "Malik Beasley",
     "position": "SG",
     "height": 193,
@@ -72707,7 +72707,7 @@ export default [
   },
   {
     "id": "kris-dunn",
-    "name": "Kris Dunn",
+    "name": "Kris·邓恩",
     "name_en": "Kris Dunn",
     "position": "PG",
     "height": 190,
@@ -72827,7 +72827,7 @@ export default [
   },
   {
     "id": "malachi-richardson",
-    "name": "Malachi Richardson",
+    "name": "Malachi·理查德森",
     "name_en": "Malachi Richardson",
     "position": "PG",
     "height": 198,
@@ -72865,7 +72865,7 @@ export default [
   },
   {
     "id": "kyle-wiltjer",
-    "name": "Kyle Wiltjer",
+    "name": "凯尔·Wiltjer",
     "name_en": "Kyle Wiltjer",
     "position": "SF",
     "height": 208,
@@ -72937,7 +72937,7 @@ export default [
   },
   {
     "id": "patrick-mccaw",
-    "name": "Patrick McCaw",
+    "name": "帕特里克·Mccaw",
     "name_en": "Patrick McCaw",
     "position": "PG",
     "height": 201,
@@ -72975,7 +72975,7 @@ export default [
   },
   {
     "id": "treveon-graham",
-    "name": "Treveon Graham",
+    "name": "Treveon·格雷厄姆",
     "name_en": "Treveon Graham",
     "position": "SG",
     "height": 196,
@@ -73095,7 +73095,7 @@ export default [
   },
   {
     "id": "tim-quarterman",
-    "name": "Tim Quarterman",
+    "name": "蒂姆·Quarterman",
     "name_en": "Tim Quarterman",
     "position": "PG",
     "height": 198,
@@ -73173,7 +73173,7 @@ export default [
   },
   {
     "id": "taurean-prince",
-    "name": "Taurean Prince",
+    "name": "Taurean·普林斯",
     "name_en": "Taurean Prince",
     "position": "SF",
     "height": 198,
@@ -73373,7 +73373,7 @@ export default [
   },
   {
     "id": "tyler-ulis",
-    "name": "Tyler Ulis",
+    "name": "泰勒·Ulis",
     "name_en": "Tyler Ulis",
     "position": "SG",
     "height": 178,
@@ -73411,7 +73411,7 @@ export default [
   },
   {
     "id": "troy-williams",
-    "name": "Troy Williams",
+    "name": "Troy·威廉姆斯",
     "name_en": "Troy Williams",
     "position": "SF",
     "height": 201,
@@ -73493,7 +73493,7 @@ export default [
   },
   {
     "id": "pierre-jackson",
-    "name": "Pierre Jackson",
+    "name": "Pierre·杰克逊",
     "name_en": "Pierre Jackson",
     "position": "SG",
     "height": 178,
@@ -73529,7 +73529,7 @@ export default [
   },
   {
     "id": "paul-zipser",
-    "name": "Paul Zipser",
+    "name": "保罗·Zipser",
     "name_en": "Paul Zipser",
     "position": "SF",
     "height": 203,
@@ -73605,7 +73605,7 @@ export default [
   },
   {
     "id": "ron-baker",
-    "name": "Ron Baker",
+    "name": "Ron·贝克",
     "name_en": "Ron Baker",
     "position": "SG",
     "height": 193,
@@ -73719,7 +73719,7 @@ export default [
   },
   {
     "id": "shawn-long",
-    "name": "Shawn Long",
+    "name": "Shawn·朗",
     "name_en": "Shawn Long",
     "position": "SF",
     "height": 206,
@@ -73791,7 +73791,7 @@ export default [
   },
   {
     "id": "stephen-zimmerman",
-    "name": "Stephen Zimmerman",
+    "name": "斯蒂芬·齐默尔曼",
     "name_en": "Stephen Zimmerman",
     "position": "C",
     "height": 213,
@@ -73827,7 +73827,7 @@ export default [
   },
   {
     "id": "damian-jones",
-    "name": "Damian Jones",
+    "name": "达米安·琼斯",
     "name_en": "Damian Jones",
     "position": "C",
     "height": 211,
@@ -73945,7 +73945,7 @@ export default [
   },
   {
     "id": "chasson-randle",
-    "name": "Chasson Randle",
+    "name": "Chasson·兰德尔",
     "name_en": "Chasson Randle",
     "position": "SG",
     "height": 188,
@@ -73987,7 +73987,7 @@ export default [
   },
   {
     "id": "caris-levert",
-    "name": "Caris LeVert",
+    "name": "卡里斯·Levert",
     "name_en": "Caris LeVert",
     "position": "SG",
     "height": 198,
@@ -74027,7 +74027,7 @@ export default [
   },
   {
     "id": "daniel-ochefu",
-    "name": "Daniel Ochefu",
+    "name": "丹尼尔·Ochefu",
     "name_en": "Daniel Ochefu",
     "position": "SF",
     "height": 211,
@@ -74063,7 +74063,7 @@ export default [
   },
   {
     "id": "derrick-jones-jr",
-    "name": "Derrick Jones Jr.",
+    "name": "德里克·二世",
     "name_en": "Derrick Jones Jr.",
     "position": "SF",
     "height": 198,
@@ -74143,7 +74143,7 @@ export default [
   },
   {
     "id": "demetrius-jackson",
-    "name": "Demetrius Jackson",
+    "name": "Demetrius·杰克逊",
     "name_en": "Demetrius Jackson",
     "position": "PG",
     "height": 185,
@@ -74181,7 +74181,7 @@ export default [
   },
   {
     "id": "dejounte-murray",
-    "name": "Dejounte Murray",
+    "name": "德章泰·穆雷",
     "name_en": "Dejounte Murray",
     "position": "PG",
     "height": 196,
@@ -74259,7 +74259,7 @@ export default [
   },
   {
     "id": "davis-bertans",
-    "name": "Davis Bertans",
+    "name": "Davis·贝尔坦斯",
     "name_en": "Davis Bertans",
     "position": "SG",
     "height": 208,
@@ -74299,7 +74299,7 @@ export default [
   },
   {
     "id": "david-nwaba",
-    "name": "David Nwaba",
+    "name": "大卫·Nwaba",
     "name_en": "David Nwaba",
     "position": "SG",
     "height": 196,
@@ -74341,7 +74341,7 @@ export default [
   },
   {
     "id": "dario-saric",
-    "name": "Dario Saric",
+    "name": "达里奥·沙里奇",
     "name_en": "Dario Saric",
     "position": null,
     "height": 208,
@@ -74383,7 +74383,7 @@ export default [
   },
   {
     "id": "danuel-house",
-    "name": "Danuel House",
+    "name": "Danuel·豪斯",
     "name_en": "Danuel House",
     "position": "SF",
     "height": 201,
@@ -74419,7 +74419,7 @@ export default [
   },
   {
     "id": "buddy-hield",
-    "name": "Buddy Hield",
+    "name": "巴迪·希尔德",
     "name_en": "Buddy Hield",
     "position": "SG",
     "height": 193,
@@ -74457,7 +74457,7 @@ export default [
   },
   {
     "id": "bryn-forbes",
-    "name": "Bryn Forbes",
+    "name": "Bryn·福布斯",
     "name_en": "Bryn Forbes",
     "position": "SG",
     "height": 188,
@@ -74499,7 +74499,7 @@ export default [
   },
   {
     "id": "andrew-harrison",
-    "name": "Andrew Harrison",
+    "name": "Andrew·哈里森",
     "name_en": "Andrew Harrison",
     "position": "PG",
     "height": 198,
@@ -74537,7 +74537,7 @@ export default [
   },
   {
     "id": "alex-poythress",
-    "name": "Alex Poythress",
+    "name": "亚历克斯·Poythress",
     "name_en": "Alex Poythress",
     "position": "SF",
     "height": 206,
@@ -74577,7 +74577,7 @@ export default [
   },
   {
     "id": "alex-abrines",
-    "name": "Alex Abrines",
+    "name": "亚历克斯·Abrines",
     "name_en": "Alex Abrines",
     "position": "SG",
     "height": 198,
@@ -74649,7 +74649,7 @@ export default [
   },
   {
     "id": "brice-johnson",
-    "name": "Brice Johnson",
+    "name": "Brice·约翰逊",
     "name_en": "Brice Johnson",
     "position": "SF",
     "height": 208,
@@ -74685,7 +74685,7 @@ export default [
   },
   {
     "id": "brandon-ingram",
-    "name": "Brandon Ingram",
+    "name": "布兰登·英格拉姆",
     "name_en": "Brandon Ingram",
     "position": "SF",
     "height": 203,
@@ -74759,7 +74759,7 @@ export default [
   },
   {
     "id": "jaylen-brown",
-    "name": "Jaylen Brown",
+    "name": "杰伦·布朗",
     "name_en": "Jaylen Brown",
     "position": "SG",
     "height": 198,
@@ -74833,7 +74833,7 @@ export default [
   },
   {
     "id": "jamal-murray",
-    "name": "Jamal Murray",
+    "name": "贾马尔·穆雷",
     "name_en": "Jamal Murray",
     "position": "SG",
     "height": 193,
@@ -74869,7 +74869,7 @@ export default [
   },
   {
     "id": "jakob-poeltl",
-    "name": "Jakob Poeltl",
+    "name": "Jakob·珀尔特尔",
     "name_en": "Jakob Poeltl",
     "position": "C",
     "height": 216,
@@ -74945,7 +74945,7 @@ export default [
   },
   {
     "id": "jonathan-gibson",
-    "name": "Jonathan Gibson",
+    "name": "乔纳森·吉布森",
     "name_en": "Jonathan Gibson",
     "position": "PG",
     "height": 188,
@@ -74983,7 +74983,7 @@ export default [
   },
   {
     "id": "joel-embiid",
-    "name": "Joel Embiid",
+    "name": "乔尔·恩比德",
     "name_en": "Joel Embiid",
     "position": "PF",
     "height": 213,
@@ -75019,7 +75019,7 @@ export default [
   },
   {
     "id": "joel-bolomboy",
-    "name": "Joel Bolomboy",
+    "name": "乔尔·Bolomboy",
     "name_en": "Joel Bolomboy",
     "position": "SF",
     "height": 206,
@@ -75055,7 +75055,7 @@ export default [
   },
   {
     "id": "fred-vanvleet",
-    "name": "Fred VanVleet",
+    "name": "弗雷德·范弗利特",
     "name_en": "Fred VanVleet",
     "position": "PG",
     "height": 183,
@@ -75129,7 +75129,7 @@ export default [
   },
   {
     "id": "dorian-finney-smith",
-    "name": "Dorian Finney-Smith",
+    "name": "多里安·芬尼-史密斯",
     "name_en": "Dorian Finney-Smith",
     "position": "SF",
     "height": 201,
@@ -75167,7 +75167,7 @@ export default [
   },
   {
     "id": "domantas-sabonis",
-    "name": "Domantas Sabonis",
+    "name": "多曼塔斯·萨博尼斯",
     "name_en": "Domantas Sabonis",
     "position": "PF",
     "height": 216,
@@ -75207,7 +75207,7 @@ export default [
   },
   {
     "id": "diamond-stone",
-    "name": "Diamond Stone",
+    "name": "Diamond·斯通",
     "name_en": "Diamond Stone",
     "position": "C",
     "height": 211,
@@ -75243,7 +75243,7 @@ export default [
   },
   {
     "id": "deyonta-davis",
-    "name": "Deyonta Davis",
+    "name": "Deyonta·戴维斯",
     "name_en": "Deyonta Davis",
     "position": "PF",
     "height": 211,
@@ -75281,7 +75281,7 @@ export default [
   },
   {
     "id": "isaiah-whitehead",
-    "name": "Isaiah Whitehead",
+    "name": "以赛亚·Whitehead",
     "name_en": "Isaiah Whitehead",
     "position": "SG",
     "height": 193,
@@ -75317,7 +75317,7 @@ export default [
   },
   {
     "id": "ivica-zubac",
-    "name": "Ivica Zubac",
+    "name": "Ivica·祖巴茨",
     "name_en": "Ivica Zubac",
     "position": "C",
     "height": 213,
@@ -75355,7 +75355,7 @@ export default [
   },
   {
     "id": "isaiah-taylor",
-    "name": "Isaiah Taylor",
+    "name": "以赛亚·泰勒",
     "name_en": "Isaiah Taylor",
     "position": "SG",
     "height": 190,
@@ -75473,7 +75473,7 @@ export default [
   },
   {
     "id": "georges-niang",
-    "name": "Georges Niang",
+    "name": "Georges·尼昂",
     "name_en": "Georges Niang",
     "position": "SF",
     "height": 201,
@@ -75513,7 +75513,7 @@ export default [
   },
   {
     "id": "gary-payton-ii",
-    "name": "Gary Payton II",
+    "name": "加里·Ii",
     "name_en": "Gary Payton II",
     "position": "PG",
     "height": 188,
@@ -75591,7 +75591,7 @@ export default [
   },
   {
     "id": "matt-williams-jr",
-    "name": "Matt Williams Jr.",
+    "name": "Matt·二世",
     "name_en": "Matt Williams Jr.",
     "position": "PG",
     "height": 196,
@@ -75627,7 +75627,7 @@ export default [
   },
   {
     "id": "markelle-fultz",
-    "name": "Markelle Fultz",
+    "name": "Markelle·富尔茨",
     "name_en": "Markelle Fultz",
     "position": "PG",
     "height": 193,
@@ -75665,7 +75665,7 @@ export default [
   },
   {
     "id": "marcus-paige",
-    "name": "Marcus Paige",
+    "name": "马库斯·Paige",
     "name_en": "Marcus Paige",
     "position": "SG",
     "height": 183,
@@ -75701,7 +75701,7 @@ export default [
   },
   {
     "id": "marcus-morris-sr",
-    "name": "Marcus Morris Sr.",
+    "name": "马库斯·Sr",
     "name_en": "Marcus Morris Sr.",
     "position": "SF",
     "height": 203,
@@ -75739,7 +75739,7 @@ export default [
   },
   {
     "id": "malcolm-miller",
-    "name": "Malcolm Miller",
+    "name": "Malcolm·米勒",
     "name_en": "Malcolm Miller",
     "position": "SG",
     "height": 201,
@@ -75775,7 +75775,7 @@ export default [
   },
   {
     "id": "malik-monk",
-    "name": "Malik Monk",
+    "name": "马利克·蒙克",
     "name_en": "Malik Monk",
     "position": "PG",
     "height": 190,
@@ -75851,7 +75851,7 @@ export default [
   },
   {
     "id": "maxi-kleber",
-    "name": "Maxi Kleber",
+    "name": "Maxi·克勒贝尔",
     "name_en": "Maxi Kleber",
     "position": "SF",
     "height": 208,
@@ -75887,7 +75887,7 @@ export default [
   },
   {
     "id": "nigel-hayes",
-    "name": "Nigel Hayes",
+    "name": "Nigel·海耶斯",
     "name_en": "Nigel Hayes",
     "position": "SF",
     "height": 201,
@@ -75961,7 +75961,7 @@ export default [
   },
   {
     "id": "myke-henry",
-    "name": "Myke Henry",
+    "name": "Myke·亨利",
     "name_en": "Myke Henry",
     "position": "SF",
     "height": 198,
@@ -75997,7 +75997,7 @@ export default [
   },
   {
     "id": "monte-morris",
-    "name": "Monte Morris",
+    "name": "Monte·莫里斯",
     "name_en": "Monte Morris",
     "position": "SF",
     "height": 188,
@@ -76035,7 +76035,7 @@ export default [
   },
   {
     "id": "milton-doyle",
-    "name": "Milton Doyle",
+    "name": "Milton·多伊尔",
     "name_en": "Milton Doyle",
     "position": "PG",
     "height": 193,
@@ -76145,7 +76145,7 @@ export default [
   },
   {
     "id": "justin-jackson",
-    "name": "Justin Jackson",
+    "name": "Justin·杰克逊",
     "name_en": "Justin Jackson",
     "position": "SF",
     "height": 203,
@@ -76189,7 +76189,7 @@ export default [
   },
   {
     "id": "josh-magette",
-    "name": "Josh Magette",
+    "name": "约什·Magette",
     "name_en": "Josh Magette",
     "position": "SG",
     "height": 185,
@@ -76227,7 +76227,7 @@ export default [
   },
   {
     "id": "josh-jackson",
-    "name": "Josh Jackson",
+    "name": "约什·杰克逊",
     "name_en": "Josh Jackson",
     "position": "SG",
     "height": 203,
@@ -76269,7 +76269,7 @@ export default [
   },
   {
     "id": "josh-hart",
-    "name": "Josh Hart",
+    "name": "约什·哈特",
     "name_en": "Josh Hart",
     "position": "SG",
     "height": 193,
@@ -76347,7 +76347,7 @@ export default [
   },
   {
     "id": "justin-patton",
-    "name": "Justin Patton",
+    "name": "Justin·巴顿",
     "name_en": "Justin Patton",
     "position": "C",
     "height": 211,
@@ -76469,7 +76469,7 @@ export default [
   },
   {
     "id": "luke-kennard",
-    "name": "Luke Kennard",
+    "name": "Luke·肯纳德",
     "name_en": "Luke Kennard",
     "position": "PG",
     "height": 196,
@@ -76509,7 +76509,7 @@ export default [
   },
   {
     "id": "lonzo-ball",
-    "name": "Lonzo Ball",
+    "name": "Lonzo·鲍尔",
     "name_en": "Lonzo Ball",
     "position": "PG",
     "height": 198,
@@ -76585,7 +76585,7 @@ export default [
   },
   {
     "id": "lauri-markkanen",
-    "name": "Lauri Markkanen",
+    "name": "Lauri·马尔卡宁",
     "name_en": "Lauri Markkanen",
     "position": "PF",
     "height": 213,
@@ -76625,7 +76625,7 @@ export default [
   },
   {
     "id": "kyle-kuzma",
-    "name": "Kyle Kuzma",
+    "name": "凯尔·库兹马",
     "name_en": "Kyle Kuzma",
     "position": "SF",
     "height": 206,
@@ -76663,7 +76663,7 @@ export default [
   },
   {
     "id": "kyle-collinsworth",
-    "name": "Kyle Collinsworth",
+    "name": "凯尔·Collinsworth",
     "name_en": "Kyle Collinsworth",
     "position": "SG",
     "height": 198,
@@ -76699,7 +76699,7 @@ export default [
   },
   {
     "id": "kobi-simmons",
-    "name": "Kobi Simmons",
+    "name": "Kobi·西蒙斯",
     "name_en": "Kobi Simmons",
     "position": "SG",
     "height": 196,
@@ -76779,7 +76779,7 @@ export default [
   },
   {
     "id": "tyler-cavanaugh",
-    "name": "Tyler Cavanaugh",
+    "name": "泰勒·Cavanaugh",
     "name_en": "Tyler Cavanaugh",
     "position": "SF",
     "height": 206,
@@ -76853,7 +76853,7 @@ export default [
   },
   {
     "id": "torrey-craig",
-    "name": "Torrey Craig",
+    "name": "Torrey·克雷格",
     "name_en": "Torrey Craig",
     "position": "SF",
     "height": 201,
@@ -76891,7 +76891,7 @@ export default [
   },
   {
     "id": "tyler-dorsey",
-    "name": "Tyler Dorsey",
+    "name": "泰勒·Dorsey",
     "name_en": "Tyler Dorsey",
     "position": "SG",
     "height": 193,
@@ -76931,7 +76931,7 @@ export default [
   },
   {
     "id": "tony-bradley",
-    "name": "Tony Bradley",
+    "name": "托尼·布拉德利",
     "name_en": "Tony Bradley",
     "position": "PF",
     "height": 211,
@@ -76971,7 +76971,7 @@ export default [
   },
   {
     "id": "thomas-bryant",
-    "name": "Thomas Bryant",
+    "name": "托马斯·布莱恩特",
     "name_en": "Thomas Bryant",
     "position": "PF",
     "height": 208,
@@ -77011,7 +77011,7 @@ export default [
   },
   {
     "id": "terrance-ferguson",
-    "name": "Terrance Ferguson",
+    "name": "特伦斯·弗格森",
     "name_en": "Terrance Ferguson",
     "position": "SG",
     "height": 198,
@@ -77049,7 +77049,7 @@ export default [
   },
   {
     "id": "tyler-lydon",
-    "name": "Tyler Lydon",
+    "name": "泰勒·Lydon",
     "name_en": "Tyler Lydon",
     "position": "SF",
     "height": 208,
@@ -77085,7 +77085,7 @@ export default [
   },
   {
     "id": "zach-collins",
-    "name": "Zach Collins",
+    "name": "扎克·科林斯",
     "name_en": "Zach Collins",
     "position": "PF",
     "height": 211,
@@ -77159,7 +77159,7 @@ export default [
   },
   {
     "id": "josh-gray",
-    "name": "Josh Gray",
+    "name": "约什·格雷",
     "name_en": "Josh Gray",
     "position": "SG",
     "height": 183,
@@ -77197,7 +77197,7 @@ export default [
   },
   {
     "id": "walt-lemon-jr",
-    "name": "Walt Lemon Jr.",
+    "name": "Walt·二世",
     "name_en": "Walt Lemon Jr.",
     "position": "SG",
     "height": 190,
@@ -77235,7 +77235,7 @@ export default [
   },
   {
     "id": "vincent-hunter",
-    "name": "Vincent Hunter",
+    "name": "Vincent·亨特",
     "name_en": "Vincent Hunter",
     "position": "SF",
     "height": 203,
@@ -77271,7 +77271,7 @@ export default [
   },
   {
     "id": "tyrone-wallace",
-    "name": "Tyrone Wallace",
+    "name": "Tyrone·华莱士",
     "name_en": "Tyrone Wallace",
     "position": "SG",
     "height": 196,
@@ -77311,7 +77311,7 @@ export default [
   },
   {
     "id": "omari-johnson",
-    "name": "Omari Johnson",
+    "name": "Omari·约翰逊",
     "name_en": "Omari Johnson",
     "position": "SF",
     "height": 206,
@@ -77347,7 +77347,7 @@ export default [
   },
   {
     "id": "tj-leaf",
-    "name": "TJ Leaf",
+    "name": "TJ·Leaf",
     "name_en": "TJ Leaf",
     "position": "SF",
     "height": 208,
@@ -77383,7 +77383,7 @@ export default [
   },
   {
     "id": "reggie-hearn",
-    "name": "Reggie Hearn",
+    "name": "雷吉·Hearn",
     "name_en": "Reggie Hearn",
     "position": "PG",
     "height": 196,
@@ -77497,7 +77497,7 @@ export default [
   },
   {
     "id": "sterling-brown",
-    "name": "Sterling Brown",
+    "name": "斯特林·布朗",
     "name_en": "Sterling Brown",
     "position": "SG",
     "height": 196,
@@ -77579,7 +77579,7 @@ export default [
   },
   {
     "id": "shaquille-harrison",
-    "name": "Shaquille Harrison",
+    "name": "沙奎尔·哈里森",
     "name_en": "Shaquille Harrison",
     "position": "PG",
     "height": 193,
@@ -77701,7 +77701,7 @@ export default [
   },
   {
     "id": "royce-oneale",
-    "name": "Royce O'Neale",
+    "name": "罗伊斯·O'Neale",
     "name_en": "Royce O'Neale",
     "position": "SF",
     "height": 198,
@@ -77777,7 +77777,7 @@ export default [
   },
   {
     "id": "daniel-theis",
-    "name": "Daniel Theis",
+    "name": "丹尼尔·Theis",
     "name_en": "Daniel Theis",
     "position": "PF",
     "height": 203,
@@ -77817,7 +77817,7 @@ export default [
   },
   {
     "id": "daniel-hamilton",
-    "name": "Daniel Hamilton",
+    "name": "丹尼尔·汉密尔顿",
     "name_en": "Daniel Hamilton",
     "position": "SG",
     "height": 201,
@@ -77893,7 +77893,7 @@ export default [
   },
   {
     "id": "damion-lee",
-    "name": "Damion Lee",
+    "name": "达米恩·李",
     "name_en": "Damion Lee",
     "position": "SG",
     "height": 196,
@@ -77933,7 +77933,7 @@ export default [
   },
   {
     "id": "dakari-johnson",
-    "name": "Dakari Johnson",
+    "name": "Dakari·约翰逊",
     "name_en": "Dakari Johnson",
     "position": "C",
     "height": 213,
@@ -77969,7 +77969,7 @@ export default [
   },
   {
     "id": "dj-wilson",
-    "name": "D.J. Wilson",
+    "name": "D.J·威尔逊",
     "name_en": "D.J. Wilson",
     "position": "SF",
     "height": 208,
@@ -78009,7 +78009,7 @@ export default [
   },
   {
     "id": "chris-boucher",
-    "name": "Chris Boucher",
+    "name": "克里斯·布歇",
     "name_en": "Chris Boucher",
     "position": "SF",
     "height": 206,
@@ -78047,7 +78047,7 @@ export default [
   },
   {
     "id": "charles-cooke",
-    "name": "Charles Cooke",
+    "name": "查尔斯·Cooke",
     "name_en": "Charles Cooke",
     "position": "SG",
     "height": 196,
@@ -78083,7 +78083,7 @@ export default [
   },
   {
     "id": "danuel-house-jr",
-    "name": "Danuel House Jr.",
+    "name": "Danuel·二世",
     "name_en": "Danuel House Jr.",
     "position": "SF",
     "height": 198,
@@ -78125,7 +78125,7 @@ export default [
   },
   {
     "id": "devin-robinson",
-    "name": "Devin Robinson",
+    "name": "德文·罗宾逊",
     "name_en": "Devin Robinson",
     "position": "SF",
     "height": 203,
@@ -78161,7 +78161,7 @@ export default [
   },
   {
     "id": "derrick-white",
-    "name": "Derrick White",
+    "name": "德里克·怀特",
     "name_en": "Derrick White",
     "position": "PG",
     "height": 193,
@@ -78199,7 +78199,7 @@ export default [
   },
   {
     "id": "derrick-walton-jr",
-    "name": "Derrick Walton Jr.",
+    "name": "德里克·二世",
     "name_en": "Derrick Walton Jr.",
     "position": "PG",
     "height": 183,
@@ -78237,7 +78237,7 @@ export default [
   },
   {
     "id": "dennis-smith-jr",
-    "name": "Dennis Smith Jr.",
+    "name": "丹尼斯·二世",
     "name_en": "Dennis Smith Jr.",
     "position": "PG",
     "height": 188,
@@ -78281,7 +78281,7 @@ export default [
   },
   {
     "id": "deaaron-fox",
-    "name": "De'Aaron Fox",
+    "name": "De'Aaron·福克斯",
     "name_en": "De'Aaron Fox",
     "position": "PG",
     "height": 190,
@@ -78317,7 +78317,7 @@ export default [
   },
   {
     "id": "davon-reed",
-    "name": "Davon Reed",
+    "name": "Davon·里德",
     "name_en": "Davon Reed",
     "position": "PG",
     "height": 196,
@@ -78359,7 +78359,7 @@ export default [
   },
   {
     "id": "cedi-osman",
-    "name": "Cedi Osman",
+    "name": "Cedi·奥斯曼",
     "name_en": "Cedi Osman",
     "position": "SF",
     "height": 201,
@@ -78431,7 +78431,7 @@ export default [
   },
   {
     "id": "andrew-white-iii",
-    "name": "Andrew White III",
+    "name": "Andrew·三世",
     "name_en": "Andrew White III",
     "position": "SF",
     "height": 201,
@@ -78467,7 +78467,7 @@ export default [
   },
   {
     "id": "andre-ingram",
-    "name": "Andre Ingram",
+    "name": "安德烈·英格拉姆",
     "name_en": "Andre Ingram",
     "position": "SG",
     "height": 190,
@@ -78503,7 +78503,7 @@ export default [
   },
   {
     "id": "alfonzo-mckinnie",
-    "name": "Alfonzo McKinnie",
+    "name": "阿方索·Mckinnie",
     "name_en": "Alfonzo McKinnie",
     "position": "SF",
     "height": 201,
@@ -78547,7 +78547,7 @@ export default [
   },
   {
     "id": "alec-peters",
-    "name": "Alec Peters",
+    "name": "亚历克·彼得斯",
     "name_en": "Alec Peters",
     "position": "SF",
     "height": 206,
@@ -78623,7 +78623,7 @@ export default [
   },
   {
     "id": "aaron-jackson",
-    "name": "Aaron Jackson",
+    "name": "阿龙·杰克逊",
     "name_en": "Aaron Jackson",
     "position": "SG",
     "height": 190,
@@ -78659,7 +78659,7 @@ export default [
   },
   {
     "id": "alex-caruso",
-    "name": "Alex Caruso",
+    "name": "亚历克斯·Caruso",
     "name_en": "Alex Caruso",
     "position": "PG",
     "height": 196,
@@ -78735,7 +78735,7 @@ export default [
   },
   {
     "id": "caleb-swanigan",
-    "name": "Caleb Swanigan",
+    "name": "卡莱布·Swanigan",
     "name_en": "Caleb Swanigan",
     "position": "SF",
     "height": 206,
@@ -78773,7 +78773,7 @@ export default [
   },
   {
     "id": "cj-williams",
-    "name": "C.J. Williams",
+    "name": "C.J·威廉姆斯",
     "name_en": "C.J. Williams",
     "position": "PG",
     "height": 196,
@@ -78811,7 +78811,7 @@ export default [
   },
   {
     "id": "brandon-paul",
-    "name": "Brandon Paul",
+    "name": "布兰登·保罗",
     "name_en": "Brandon Paul",
     "position": "PG",
     "height": 193,
@@ -78883,7 +78883,7 @@ export default [
   },
   {
     "id": "bogdan-bogdanovic",
-    "name": "Bogdan Bogdanovic",
+    "name": "博格丹·博格达诺维奇",
     "name_en": "Bogdan Bogdanovic",
     "position": null,
     "height": 196,
@@ -78921,7 +78921,7 @@ export default [
   },
   {
     "id": "ben-simmons",
-    "name": "Ben Simmons",
+    "name": "Ben·西蒙斯",
     "name_en": "Ben Simmons",
     "position": "SG",
     "height": 208,
@@ -78959,7 +78959,7 @@ export default [
   },
   {
     "id": "ben-moore",
-    "name": "Ben Moore",
+    "name": "Ben·摩尔",
     "name_en": "Ben Moore",
     "position": "SF",
     "height": 203,
@@ -78995,7 +78995,7 @@ export default [
   },
   {
     "id": "dillon-brooks",
-    "name": "Dillon Brooks",
+    "name": "狄龙·布鲁克斯",
     "name_en": "Dillon Brooks",
     "position": "SG",
     "height": 198,
@@ -79031,7 +79031,7 @@ export default [
   },
   {
     "id": "jaylen-morris",
-    "name": "Jaylen Morris",
+    "name": "杰伦·莫里斯",
     "name_en": "Jaylen Morris",
     "position": "PG",
     "height": 196,
@@ -79071,7 +79071,7 @@ export default [
   },
   {
     "id": "jawun-evans",
-    "name": "Jawun Evans",
+    "name": "Jawun·埃文斯",
     "name_en": "Jawun Evans",
     "position": "PG",
     "height": 183,
@@ -79109,7 +79109,7 @@ export default [
   },
   {
     "id": "jarrett-allen",
-    "name": "Jarrett Allen",
+    "name": "贾勒特·Allen",
     "name_en": "Jarrett Allen",
     "position": "C",
     "height": 206,
@@ -79147,7 +79147,7 @@ export default [
   },
   {
     "id": "jamil-wilson",
-    "name": "Jamil Wilson",
+    "name": "Jamil·威尔逊",
     "name_en": "Jamil Wilson",
     "position": "SF",
     "height": 201,
@@ -79183,7 +79183,7 @@ export default [
   },
   {
     "id": "james-webb-iii",
-    "name": "James Webb III",
+    "name": "詹姆斯·三世",
     "name_en": "James Webb III",
     "position": "SF",
     "height": 206,
@@ -79219,7 +79219,7 @@ export default [
   },
   {
     "id": "jayson-tatum",
-    "name": "Jayson Tatum",
+    "name": "杰森·塔图姆",
     "name_en": "Jayson Tatum",
     "position": "SF",
     "height": 203,
@@ -79327,7 +79327,7 @@ export default [
   },
   {
     "id": "jalen-jones",
-    "name": "Jalen Jones",
+    "name": "贾伦·琼斯",
     "name_en": "Jalen Jones",
     "position": "SF",
     "height": 201,
@@ -79437,7 +79437,7 @@ export default [
   },
   {
     "id": "jordan-bell",
-    "name": "Jordan Bell",
+    "name": "Jordan·贝尔",
     "name_en": "Jordan Bell",
     "position": "SF",
     "height": 201,
@@ -79477,7 +79477,7 @@ export default [
   },
   {
     "id": "jonathan-isaac",
-    "name": "Jonathan Isaac",
+    "name": "乔纳森·艾萨克",
     "name_en": "Jonathan Isaac",
     "position": "SF",
     "height": 208,
@@ -79551,7 +79551,7 @@ export default [
   },
   {
     "id": "john-holland",
-    "name": "John Holland",
+    "name": "约翰·霍兰",
     "name_en": "John Holland",
     "position": "SG",
     "height": 196,
@@ -79587,7 +79587,7 @@ export default [
   },
   {
     "id": "john-collins",
-    "name": "John Collins",
+    "name": "约翰·科林斯",
     "name_en": "John Collins",
     "position": "PF",
     "height": 206,
@@ -79733,7 +79733,7 @@ export default [
   },
   {
     "id": "frank-mason",
-    "name": "Frank Mason",
+    "name": "Frank·梅森",
     "name_en": "Frank Mason",
     "position": "PG",
     "height": 180,
@@ -79847,7 +79847,7 @@ export default [
   },
   {
     "id": "donovan-mitchell",
-    "name": "Donovan Mitchell",
+    "name": "多诺万·米切尔",
     "name_en": "Donovan Mitchell",
     "position": "PG",
     "height": 185,
@@ -79921,7 +79921,7 @@ export default [
   },
   {
     "id": "isaiah-hicks",
-    "name": "Isaiah Hicks",
+    "name": "以赛亚·希克斯",
     "name_en": "Isaiah Hicks",
     "position": "SF",
     "height": 206,
@@ -80065,7 +80065,7 @@ export default [
   },
   {
     "id": "zhou-qi",
-    "name": "Zhou Qi",
+    "name": "周·Qi",
     "name_en": "Zhou Qi",
     "position": "PF",
     "height": 216,
@@ -80101,7 +80101,7 @@ export default [
   },
   {
     "id": "bam-adebayo",
-    "name": "Bam Adebayo",
+    "name": "巴姆·阿德巴约",
     "name_en": "Bam Adebayo",
     "position": "PF",
     "height": 206,
@@ -80137,7 +80137,7 @@ export default [
   },
   {
     "id": "gary-clark",
-    "name": "Gary Clark",
+    "name": "加里·克拉克",
     "name_en": "Gary Clark",
     "position": "SF",
     "height": 198,
@@ -80179,7 +80179,7 @@ export default [
   },
   {
     "id": "gary-trent-jr",
-    "name": "Gary Trent Jr.",
+    "name": "加里·二世",
     "name_en": "Gary Trent Jr.",
     "position": "SG",
     "height": 196,
@@ -80217,7 +80217,7 @@ export default [
   },
   {
     "id": "george-king",
-    "name": "George King",
+    "name": "乔治·金",
     "name_en": "George King",
     "position": "PG",
     "height": 198,
@@ -80333,7 +80333,7 @@ export default [
   },
   {
     "id": "harry-giles-iii",
-    "name": "Harry Giles III",
+    "name": "Harry·三世",
     "name_en": "Harry Giles III",
     "position": "PF",
     "height": 211,
@@ -80409,7 +80409,7 @@ export default [
   },
   {
     "id": "frank-jackson",
-    "name": "Frank Jackson",
+    "name": "Frank·杰克逊",
     "name_en": "Frank Jackson",
     "position": "PG",
     "height": 190,
@@ -80563,7 +80563,7 @@ export default [
   },
   {
     "id": "duncan-robinson",
-    "name": "Duncan Robinson",
+    "name": "Duncan·罗宾逊",
     "name_en": "Duncan Robinson",
     "position": "SF",
     "height": 201,
@@ -80707,7 +80707,7 @@ export default [
   },
   {
     "id": "emanuel-terry",
-    "name": "Emanuel Terry",
+    "name": "伊曼纽尔·Terry",
     "name_en": "Emanuel Terry",
     "position": "SF",
     "height": 206,
@@ -80745,7 +80745,7 @@ export default [
   },
   {
     "id": "isaac-bonga",
-    "name": "Isaac Bonga",
+    "name": "Isaac·邦加",
     "name_en": "Isaac Bonga",
     "position": "SG",
     "height": 203,
@@ -80861,7 +80861,7 @@ export default [
   },
   {
     "id": "jaylen-adams",
-    "name": "Jaylen Adams",
+    "name": "杰伦·亚当斯",
     "name_en": "Jaylen Adams",
     "position": "PG",
     "height": 183,
@@ -80899,7 +80899,7 @@ export default [
   },
   {
     "id": "jemerrio-jones",
-    "name": "Jemerrio Jones",
+    "name": "Jemerrio·琼斯",
     "name_en": "Jemerrio Jones",
     "position": "SF",
     "height": 196,
@@ -80935,7 +80935,7 @@ export default [
   },
   {
     "id": "jerome-robinson",
-    "name": "Jerome Robinson",
+    "name": "Jerome·罗宾逊",
     "name_en": "Jerome Robinson",
     "position": "SG",
     "height": 193,
@@ -80973,7 +80973,7 @@ export default [
   },
   {
     "id": "jevon-carter",
-    "name": "Jevon Carter",
+    "name": "Jevon·卡特",
     "name_en": "Jevon Carter",
     "position": "SG",
     "height": 185,
@@ -81013,7 +81013,7 @@ export default [
   },
   {
     "id": "joe-chealey",
-    "name": "Joe Chealey",
+    "name": "乔·Chealey",
     "name_en": "Joe Chealey",
     "position": "PG",
     "height": 193,
@@ -81085,7 +81085,7 @@ export default [
   },
   {
     "id": "jaren-jackson-jr",
-    "name": "Jaren Jackson Jr.",
+    "name": "Jaren·二世",
     "name_en": "Jaren Jackson Jr.",
     "position": "PF",
     "height": 208,
@@ -81157,7 +81157,7 @@ export default [
   },
   {
     "id": "isaiah-briscoe",
-    "name": "Isaiah Briscoe",
+    "name": "以赛亚·Briscoe",
     "name_en": "Isaiah Briscoe",
     "position": "SG",
     "height": 190,
@@ -81193,7 +81193,7 @@ export default [
   },
   {
     "id": "isaiah-hartenstein",
-    "name": "Isaiah Hartenstein",
+    "name": "以赛亚·Hartenstein",
     "name_en": "Isaiah Hartenstein",
     "position": "PF",
     "height": 213,
@@ -81273,7 +81273,7 @@ export default [
   },
   {
     "id": "jacob-evans",
-    "name": "Jacob Evans",
+    "name": "Jacob·埃文斯",
     "name_en": "Jacob Evans",
     "position": "SG",
     "height": 193,
@@ -81311,7 +81311,7 @@ export default [
   },
   {
     "id": "jalen-brunson",
-    "name": "Jalen Brunson",
+    "name": "贾伦·布伦森",
     "name_en": "Jalen Brunson",
     "position": "PG",
     "height": 188,
@@ -81349,7 +81349,7 @@ export default [
   },
   {
     "id": "bj-johnson",
-    "name": "BJ Johnson",
+    "name": "Bj·约翰逊",
     "name_en": "BJ Johnson",
     "position": "SF",
     "height": 198,
@@ -81387,7 +81387,7 @@ export default [
   },
   {
     "id": "billy-garrett",
-    "name": "Billy Garrett",
+    "name": "Billy·加勒特",
     "name_en": "Billy Garrett",
     "position": "SG",
     "height": 198,
@@ -81499,7 +81499,7 @@ export default [
   },
   {
     "id": "brandon-goodwin",
-    "name": "Brandon Goodwin",
+    "name": "布兰登·Goodwin",
     "name_en": "Brandon Goodwin",
     "position": "SG",
     "height": 183,
@@ -81539,7 +81539,7 @@ export default [
   },
   {
     "id": "brandon-sampson",
-    "name": "Brandon Sampson",
+    "name": "布兰登·Sampson",
     "name_en": "Brandon Sampson",
     "position": "PG",
     "height": 196,
@@ -81575,7 +81575,7 @@ export default [
   },
   {
     "id": "bruce-brown",
-    "name": "Bruce Brown",
+    "name": "Bruce·布朗",
     "name_en": "Bruce Brown",
     "position": "SG",
     "height": 193,
@@ -81615,7 +81615,7 @@ export default [
   },
   {
     "id": "cameron-reynolds",
-    "name": "Cameron Reynolds",
+    "name": "卡梅伦·Reynolds",
     "name_en": "Cameron Reynolds",
     "position": "SG",
     "height": 201,
@@ -81653,7 +81653,7 @@ export default [
   },
   {
     "id": "zhaire-smith",
-    "name": "Zhaire Smith",
+    "name": "Zhaire·史密斯",
     "name_en": "Zhaire Smith",
     "position": "PG",
     "height": 190,
@@ -81689,7 +81689,7 @@ export default [
   },
   {
     "id": "aaron-holiday",
-    "name": "Aaron Holiday",
+    "name": "阿龙·霍勒迪",
     "name_en": "Aaron Holiday",
     "position": "PG",
     "height": 183,
@@ -81729,7 +81729,7 @@ export default [
   },
   {
     "id": "alize-johnson",
-    "name": "Alize Johnson",
+    "name": "Alize·约翰逊",
     "name_en": "Alize Johnson",
     "position": "SF",
     "height": 203,
@@ -81807,7 +81807,7 @@ export default [
   },
   {
     "id": "amile-jefferson",
-    "name": "Amile Jefferson",
+    "name": "Amile·杰弗森",
     "name_en": "Amile Jefferson",
     "position": "SF",
     "height": 206,
@@ -81843,7 +81843,7 @@ export default [
   },
   {
     "id": "anfernee-simons",
-    "name": "Anfernee Simons",
+    "name": "Anfernee·西蒙斯",
     "name_en": "Anfernee Simons",
     "position": "PG",
     "height": 190,
@@ -81879,7 +81879,7 @@ export default [
   },
   {
     "id": "angel-delgado",
-    "name": "Angel Delgado",
+    "name": "Angel·德尔加多",
     "name_en": "Angel Delgado",
     "position": "C",
     "height": 208,
@@ -82031,7 +82031,7 @@ export default [
   },
   {
     "id": "deandre-ayton",
-    "name": "Deandre Ayton",
+    "name": "德安德烈·艾顿",
     "name_en": "Deandre Ayton",
     "position": "C",
     "height": 213,
@@ -82103,7 +82103,7 @@ export default [
   },
   {
     "id": "deonte-burton",
-    "name": "Deonte Burton",
+    "name": "Deonte·伯顿",
     "name_en": "Deonte Burton",
     "position": "SG",
     "height": 193,
@@ -82141,7 +82141,7 @@ export default [
   },
   {
     "id": "devonte-graham",
-    "name": "Devonte' Graham",
+    "name": "Devonte'·格雷厄姆",
     "name_en": "Devonte' Graham",
     "position": "SG",
     "height": 185,
@@ -82181,7 +82181,7 @@ export default [
   },
   {
     "id": "chimezie-metu",
-    "name": "Chimezie Metu",
+    "name": "Chimezie·梅图",
     "name_en": "Chimezie Metu",
     "position": "PF",
     "height": 206,
@@ -82219,7 +82219,7 @@ export default [
   },
   {
     "id": "chris-chiozza",
-    "name": "Chris Chiozza",
+    "name": "克里斯·Chiozza",
     "name_en": "Chris Chiozza",
     "position": "SG",
     "height": 180,
@@ -82259,7 +82259,7 @@ export default [
   },
   {
     "id": "collin-sexton",
-    "name": "Collin Sexton",
+    "name": "Collin·塞克斯顿",
     "name_en": "Collin Sexton",
     "position": "PG",
     "height": 188,
@@ -82297,7 +82297,7 @@ export default [
   },
   {
     "id": "dairis-bertans",
-    "name": "Dairis Bertans",
+    "name": "Dairis·贝尔坦斯",
     "name_en": "Dairis Bertans",
     "position": "SG",
     "height": 193,
@@ -82371,7 +82371,7 @@ export default [
   },
   {
     "id": "johnathan-williams",
-    "name": "Johnathan Williams",
+    "name": "Johnathan·威廉姆斯",
     "name_en": "Johnathan Williams",
     "position": "SF",
     "height": 206,
@@ -82447,7 +82447,7 @@ export default [
   },
   {
     "id": "shai-gilgeous-alexander",
-    "name": "Shai Gilgeous-Alexander",
+    "name": "谢伊·吉尔杰斯-亚历山大",
     "name_en": "Shai Gilgeous-Alexander",
     "position": "SG",
     "height": 198,
@@ -82521,7 +82521,7 @@ export default [
   },
   {
     "id": "svi-mykhailiuk",
-    "name": "Svi Mykhailiuk",
+    "name": "斯维亚托斯拉夫·Mykhailiuk",
     "name_en": "Svi Mykhailiuk",
     "position": "SG",
     "height": 201,
@@ -82635,7 +82635,7 @@ export default [
   },
   {
     "id": "ray-spalding",
-    "name": "Ray Spalding",
+    "name": "雷·Spalding",
     "name_en": "Ray Spalding",
     "position": "SF",
     "height": 206,
@@ -82673,7 +82673,7 @@ export default [
   },
   {
     "id": "robert-williams-iii",
-    "name": "Robert Williams III",
+    "name": "罗伯特·三世",
     "name_en": "Robert Williams III",
     "position": "PF",
     "height": 206,
@@ -82747,7 +82747,7 @@ export default [
   },
   {
     "id": "vincent-edwards",
-    "name": "Vincent Edwards",
+    "name": "Vincent·爱德华兹",
     "name_en": "Vincent Edwards",
     "position": "SF",
     "height": 203,
@@ -82783,7 +82783,7 @@ export default [
   },
   {
     "id": "wendell-carter-jr",
-    "name": "Wendell Carter Jr.",
+    "name": "Wendell·二世",
     "name_en": "Wendell Carter Jr.",
     "position": "PF",
     "height": 208,
@@ -82897,7 +82897,7 @@ export default [
   },
   {
     "id": "zach-lofton",
-    "name": "Zach Lofton",
+    "name": "扎克·Lofton",
     "name_en": "Zach Lofton",
     "position": "SG",
     "height": 193,
@@ -82933,7 +82933,7 @@ export default [
   },
   {
     "id": "theo-pinson",
-    "name": "Theo Pinson",
+    "name": "西奥·Pinson",
     "name_en": "Theo Pinson",
     "position": "SG",
     "height": 201,
@@ -82973,7 +82973,7 @@ export default [
   },
   {
     "id": "thomas-welsh",
-    "name": "Thomas Welsh",
+    "name": "托马斯·Welsh",
     "name_en": "Thomas Welsh",
     "position": "C",
     "height": 213,
@@ -83009,7 +83009,7 @@ export default [
   },
   {
     "id": "trae-young",
-    "name": "Trae Young",
+    "name": "特雷·杨",
     "name_en": "Trae Young",
     "position": "SG",
     "height": 185,
@@ -83081,7 +83081,7 @@ export default [
   },
   {
     "id": "troy-brown-jr",
-    "name": "Troy Brown Jr.",
+    "name": "Troy·二世",
     "name_en": "Troy Brown Jr.",
     "position": "SG",
     "height": 201,
@@ -83157,7 +83157,7 @@ export default [
   },
   {
     "id": "tyler-davis",
-    "name": "Tyler Davis",
+    "name": "泰勒·戴维斯",
     "name_en": "Tyler Davis",
     "position": "C",
     "height": 208,
@@ -83231,7 +83231,7 @@ export default [
   },
   {
     "id": "kenrich-williams",
-    "name": "Kenrich Williams",
+    "name": "Kenrich·威廉姆斯",
     "name_en": "Kenrich Williams",
     "position": "SG",
     "height": 198,
@@ -83269,7 +83269,7 @@ export default [
   },
   {
     "id": "kevin-huerter",
-    "name": "Kevin Huerter",
+    "name": "凯文·Huerter",
     "name_en": "Kevin Huerter",
     "position": "SG",
     "height": 201,
@@ -83307,7 +83307,7 @@ export default [
   },
   {
     "id": "kevin-knox-ii",
-    "name": "Kevin Knox II",
+    "name": "凯文·Ii",
     "name_en": "Kevin Knox II",
     "position": "SF",
     "height": 201,
@@ -83347,7 +83347,7 @@ export default [
   },
   {
     "id": "khyri-thomas",
-    "name": "Khyri Thomas",
+    "name": "Khyri·托马斯",
     "name_en": "Khyri Thomas",
     "position": "SG",
     "height": 190,
@@ -83385,7 +83385,7 @@ export default [
   },
   {
     "id": "kostas-antetokounmpo",
-    "name": "Kostas Antetokounmpo",
+    "name": "Kostas·阿德托昆博",
     "name_en": "Kostas Antetokounmpo",
     "position": "SF",
     "height": 208,
@@ -83423,7 +83423,7 @@ export default [
   },
   {
     "id": "landry-shamet",
-    "name": "Landry Shamet",
+    "name": "Landry·沙梅特",
     "name_en": "Landry Shamet",
     "position": "PG",
     "height": 193,
@@ -83649,7 +83649,7 @@ export default [
   },
   {
     "id": "josh-okogie",
-    "name": "Josh Okogie",
+    "name": "约什·奥科吉",
     "name_en": "Josh Okogie",
     "position": "SG",
     "height": 193,
@@ -83687,7 +83687,7 @@ export default [
   },
   {
     "id": "mikal-bridges",
-    "name": "Mikal Bridges",
+    "name": "米卡尔·布里奇斯",
     "name_en": "Mikal Bridges",
     "position": "SG",
     "height": 198,
@@ -83725,7 +83725,7 @@ export default [
   },
   {
     "id": "miles-bridges",
-    "name": "Miles Bridges",
+    "name": "迈尔斯·布里奇斯",
     "name_en": "Miles Bridges",
     "position": "SF",
     "height": 201,
@@ -83797,7 +83797,7 @@ export default [
   },
   {
     "id": "mitchell-robinson",
-    "name": "Mitchell Robinson",
+    "name": "Mitchell·罗宾逊",
     "name_en": "Mitchell Robinson",
     "position": "PF",
     "height": 213,
@@ -83833,7 +83833,7 @@ export default [
   },
   {
     "id": "mo-bamba",
-    "name": "Mo Bamba",
+    "name": "莫·班巴",
     "name_en": "Mo Bamba",
     "position": "C",
     "height": 213,
@@ -83871,7 +83871,7 @@ export default [
   },
   {
     "id": "moritz-wagner",
-    "name": "Moritz Wagner",
+    "name": "Moritz·瓦格纳",
     "name_en": "Moritz Wagner",
     "position": "PF",
     "height": 211,
@@ -83949,7 +83949,7 @@ export default [
   },
   {
     "id": "melvin-frazier-jr",
-    "name": "Melvin Frazier Jr.",
+    "name": "Melvin·二世",
     "name_en": "Melvin Frazier Jr.",
     "position": "SG",
     "height": 196,
@@ -83987,7 +83987,7 @@ export default [
   },
   {
     "id": "luka-doncic",
-    "name": "Luka Doncic",
+    "name": "卢卡·东契奇",
     "name_en": "Luka Doncic",
     "position": null,
     "height": 201,
@@ -84023,7 +84023,7 @@ export default [
   },
   {
     "id": "marcus-derrickson",
-    "name": "Marcus Derrickson",
+    "name": "马库斯·Derrickson",
     "name_en": "Marcus Derrickson",
     "position": "SF",
     "height": 201,
@@ -84059,7 +84059,7 @@ export default [
   },
   {
     "id": "marvin-bagley-iii",
-    "name": "Marvin Bagley III",
+    "name": "Marvin·三世",
     "name_en": "Marvin Bagley III",
     "position": "SF",
     "height": 208,
@@ -84097,7 +84097,7 @@ export default [
   },
   {
     "id": "jalen-mcdaniels",
-    "name": "Jalen McDaniels",
+    "name": "贾伦·Mcdaniels",
     "name_en": "Jalen McDaniels",
     "position": "SF",
     "height": 206,
@@ -84135,7 +84135,7 @@ export default [
   },
   {
     "id": "jalen-lecque",
-    "name": "Jalen Lecque",
+    "name": "贾伦·Lecque",
     "name_en": "Jalen Lecque",
     "position": "PG",
     "height": 193,
@@ -84173,7 +84173,7 @@ export default [
   },
   {
     "id": "jared-harper",
-    "name": "Jared Harper",
+    "name": "Jared·哈珀",
     "name_en": "Jared Harper",
     "position": "PG",
     "height": 178,
@@ -84211,7 +84211,7 @@ export default [
   },
   {
     "id": "jeremiah-martin",
-    "name": "Jeremiah Martin",
+    "name": "Jeremiah·马丁",
     "name_en": "Jeremiah Martin",
     "position": "PG",
     "height": 188,
@@ -84249,7 +84249,7 @@ export default [
   },
   {
     "id": "jaylen-nowell",
-    "name": "Jaylen Nowell",
+    "name": "杰伦·Nowell",
     "name_en": "Jaylen Nowell",
     "position": "PG",
     "height": 193,
@@ -84285,7 +84285,7 @@ export default [
   },
   {
     "id": "jaylen-hoard",
-    "name": "Jaylen Hoard",
+    "name": "杰伦·Hoard",
     "name_en": "Jaylen Hoard",
     "position": "SF",
     "height": 203,
@@ -84323,7 +84323,7 @@ export default [
   },
   {
     "id": "jaxson-hayes",
-    "name": "Jaxson Hayes",
+    "name": "Jaxson·海耶斯",
     "name_en": "Jaxson Hayes",
     "position": "PF",
     "height": 213,
@@ -84359,7 +84359,7 @@ export default [
   },
   {
     "id": "javonte-green",
-    "name": "Javonte Green",
+    "name": "Javonte·格林",
     "name_en": "Javonte Green",
     "position": "PG",
     "height": 196,
@@ -84397,7 +84397,7 @@ export default [
   },
   {
     "id": "jarrett-culver",
-    "name": "Jarrett Culver",
+    "name": "贾勒特·Culver",
     "name_en": "Jarrett Culver",
     "position": "SG",
     "height": 198,
@@ -84473,7 +84473,7 @@ export default [
   },
   {
     "id": "ja-morant",
-    "name": "Ja Morant",
+    "name": "贾·莫兰特",
     "name_en": "Ja Morant",
     "position": "PG",
     "height": 188,
@@ -84547,7 +84547,7 @@ export default [
   },
   {
     "id": "gabe-vincent",
-    "name": "Gabe Vincent",
+    "name": "加布·文森特",
     "name_en": "Gabe Vincent",
     "position": "SG",
     "height": 188,
@@ -84623,7 +84623,7 @@ export default [
   },
   {
     "id": "grant-williams",
-    "name": "Grant Williams",
+    "name": "Grant·威廉姆斯",
     "name_en": "Grant Williams",
     "position": "SF",
     "height": 198,
@@ -84659,7 +84659,7 @@ export default [
   },
   {
     "id": "isaiah-roby",
-    "name": "Isaiah Roby",
+    "name": "以赛亚·Roby",
     "name_en": "Isaiah Roby",
     "position": "SF",
     "height": 203,
@@ -84735,7 +84735,7 @@ export default [
   },
   {
     "id": "kevin-porter-jr",
-    "name": "Kevin Porter Jr.",
+    "name": "凯文·二世",
     "name_en": "Kevin Porter Jr.",
     "position": "SG",
     "height": 193,
@@ -84773,7 +84773,7 @@ export default [
   },
   {
     "id": "kevin-hervey",
-    "name": "Kevin Hervey",
+    "name": "凯文·Hervey",
     "name_en": "Kevin Hervey",
     "position": "SF",
     "height": 206,
@@ -84809,7 +84809,7 @@ export default [
   },
   {
     "id": "keldon-johnson",
-    "name": "Keldon Johnson",
+    "name": "凯尔登·约翰逊",
     "name_en": "Keldon Johnson",
     "position": "SF",
     "height": 196,
@@ -84845,7 +84845,7 @@ export default [
   },
   {
     "id": "kelan-martin",
-    "name": "Kelan Martin",
+    "name": "Kelan·马丁",
     "name_en": "Kelan Martin",
     "position": "SF",
     "height": 196,
@@ -84923,7 +84923,7 @@ export default [
   },
   {
     "id": "kyle-guy",
-    "name": "Kyle Guy",
+    "name": "凯尔·Guy",
     "name_en": "Kyle Guy",
     "position": "SG",
     "height": 185,
@@ -84961,7 +84961,7 @@ export default [
   },
   {
     "id": "kyle-alexander",
-    "name": "Kyle Alexander",
+    "name": "凯尔·Alexander",
     "name_en": "Kyle Alexander",
     "position": "PF",
     "height": 208,
@@ -85109,7 +85109,7 @@ export default [
   },
   {
     "id": "jordan-mclaughlin",
-    "name": "Jordan McLaughlin",
+    "name": "Jordan·麦克劳林",
     "name_en": "Jordan McLaughlin",
     "position": "SG",
     "height": 183,
@@ -85183,7 +85183,7 @@ export default [
   },
   {
     "id": "john-konchar",
-    "name": "John Konchar",
+    "name": "约翰·Konchar",
     "name_en": "John Konchar",
     "position": "SG",
     "height": 196,
@@ -85219,7 +85219,7 @@ export default [
   },
   {
     "id": "jordan-poole",
-    "name": "Jordan Poole",
+    "name": "Jordan·普尔",
     "name_en": "Jordan Poole",
     "position": "SG",
     "height": 193,
@@ -85291,7 +85291,7 @@ export default [
   },
   {
     "id": "justin-robinson",
-    "name": "Justin Robinson",
+    "name": "Justin·罗宾逊",
     "name_en": "Justin Robinson",
     "position": "SG",
     "height": 185,
@@ -85331,7 +85331,7 @@ export default [
   },
   {
     "id": "justin-james",
-    "name": "Justin James",
+    "name": "Justin·詹姆斯",
     "name_en": "Justin James",
     "position": "SG",
     "height": 201,
@@ -85405,7 +85405,7 @@ export default [
   },
   {
     "id": "josh-reaves",
-    "name": "Josh Reaves",
+    "name": "约什·Reaves",
     "name_en": "Josh Reaves",
     "position": "SG",
     "height": 193,
@@ -85441,7 +85441,7 @@ export default [
   },
   {
     "id": "caleb-martin",
-    "name": "Caleb Martin",
+    "name": "卡莱布·马丁",
     "name_en": "Caleb Martin",
     "position": "SF",
     "height": 196,
@@ -85479,7 +85479,7 @@ export default [
   },
   {
     "id": "bruno-fernando",
-    "name": "Bruno Fernando",
+    "name": "布鲁诺·费尔南多",
     "name_en": "Bruno Fernando",
     "position": "PF",
     "height": 208,
@@ -85553,7 +85553,7 @@ export default [
   },
   {
     "id": "brandon-clarke",
-    "name": "Brandon Clarke",
+    "name": "布兰登·Clarke",
     "name_en": "Brandon Clarke",
     "position": "SF",
     "height": 203,
@@ -85629,7 +85629,7 @@ export default [
   },
   {
     "id": "cameron-johnson",
-    "name": "Cameron Johnson",
+    "name": "卡梅伦·约翰逊",
     "name_en": "Cameron Johnson",
     "position": "SF",
     "height": 203,
@@ -85667,7 +85667,7 @@ export default [
   },
   {
     "id": "chris-silva",
-    "name": "Chris Silva",
+    "name": "克里斯·席尔瓦",
     "name_en": "Chris Silva",
     "position": "SF",
     "height": 203,
@@ -85707,7 +85707,7 @@ export default [
   },
   {
     "id": "chris-clemons",
-    "name": "Chris Clemons",
+    "name": "克里斯·Clemons",
     "name_en": "Chris Clemons",
     "position": "SG",
     "height": 175,
@@ -85743,7 +85743,7 @@ export default [
   },
   {
     "id": "charlie-brown-jr",
-    "name": "Charlie Brown Jr.",
+    "name": "Charlie·二世",
     "name_en": "Charlie Brown Jr.",
     "position": "SG",
     "height": 198,
@@ -85783,7 +85783,7 @@ export default [
   },
   {
     "id": "carsen-edwards",
-    "name": "Carsen Edwards",
+    "name": "Carsen·爱德华兹",
     "name_en": "Carsen Edwards",
     "position": "PG",
     "height": 180,
@@ -85821,7 +85821,7 @@ export default [
   },
   {
     "id": "bol-bol",
-    "name": "Bol Bol",
+    "name": "Bol·波尔",
     "name_en": "Bol Bol",
     "position": "PF",
     "height": 218,
@@ -85859,7 +85859,7 @@ export default [
   },
   {
     "id": "coby-white",
-    "name": "Coby White",
+    "name": "Coby·怀特",
     "name_en": "Coby White",
     "position": "SG",
     "height": 196,
@@ -86077,7 +86077,7 @@ export default [
   },
   {
     "id": "cody-martin",
-    "name": "Cody Martin",
+    "name": "科迪·马丁",
     "name_en": "Cody Martin",
     "position": "SF",
     "height": 198,
@@ -86113,7 +86113,7 @@ export default [
   },
   {
     "id": "donta-hall",
-    "name": "Donta Hall",
+    "name": "Donta·霍尔",
     "name_en": "Donta Hall",
     "position": "SF",
     "height": 208,
@@ -86151,7 +86151,7 @@ export default [
   },
   {
     "id": "dewan-hernandez",
-    "name": "Dewan Hernandez",
+    "name": "Dewan·埃尔南德斯",
     "name_en": "Dewan Hernandez",
     "position": "PF",
     "height": 208,
@@ -86225,7 +86225,7 @@ export default [
   },
   {
     "id": "devon-hall",
-    "name": "Devon Hall",
+    "name": "Devon·霍尔",
     "name_en": "Devon Hall",
     "position": "SG",
     "height": 196,
@@ -86261,7 +86261,7 @@ export default [
   },
   {
     "id": "eric-paschall",
-    "name": "Eric Paschall",
+    "name": "埃里克·Paschall",
     "name_en": "Eric Paschall",
     "position": "SF",
     "height": 198,
@@ -86299,7 +86299,7 @@ export default [
   },
   {
     "id": "eric-mika",
-    "name": "Eric Mika",
+    "name": "埃里克·Mika",
     "name_en": "Eric Mika",
     "position": "PF",
     "height": 208,
@@ -86335,7 +86335,7 @@ export default [
   },
   {
     "id": "daniel-gafford",
-    "name": "Daniel Gafford",
+    "name": "丹尼尔·Gafford",
     "name_en": "Daniel Gafford",
     "position": "PF",
     "height": 208,
@@ -86413,7 +86413,7 @@ export default [
   },
   {
     "id": "darius-garland",
-    "name": "Darius Garland",
+    "name": "Darius·加兰",
     "name_en": "Darius Garland",
     "position": "SG",
     "height": 185,
@@ -86449,7 +86449,7 @@ export default [
   },
   {
     "id": "dean-wade",
-    "name": "Dean Wade",
+    "name": "迪恩·韦德",
     "name_en": "Dean Wade",
     "position": "PF",
     "height": 206,
@@ -86485,7 +86485,7 @@ export default [
   },
   {
     "id": "deandre-hunter",
-    "name": "De'Andre Hunter",
+    "name": "De'Andre·亨特",
     "name_en": "De'Andre Hunter",
     "position": "SF",
     "height": 203,
@@ -86597,7 +86597,7 @@ export default [
   },
   {
     "id": "talen-horton-tucker",
-    "name": "Talen Horton-Tucker",
+    "name": "Talen·霍顿-塔克",
     "name_en": "Talen Horton-Tucker",
     "position": "PG",
     "height": 193,
@@ -86635,7 +86635,7 @@ export default [
   },
   {
     "id": "tariq-owens",
-    "name": "Tariq Owens",
+    "name": "Tariq·欧文斯",
     "name_en": "Tariq Owens",
     "position": "SF",
     "height": 208,
@@ -86671,7 +86671,7 @@ export default [
   },
   {
     "id": "terance-mann",
-    "name": "Terance Mann",
+    "name": "Terance·曼恩",
     "name_en": "Terance Mann",
     "position": "SG",
     "height": 196,
@@ -86707,7 +86707,7 @@ export default [
   },
   {
     "id": "terence-davis",
-    "name": "Terence Davis",
+    "name": "Terence·戴维斯",
     "name_en": "Terence Davis",
     "position": "SG",
     "height": 193,
@@ -86745,7 +86745,7 @@ export default [
   },
   {
     "id": "stanton-kidd",
-    "name": "Stanton Kidd",
+    "name": "Stanton·基德",
     "name_en": "Stanton Kidd",
     "position": "SF",
     "height": 198,
@@ -86895,7 +86895,7 @@ export default [
   },
   {
     "id": "shamorie-ponds",
-    "name": "Shamorie Ponds",
+    "name": "沙莫里·Ponds",
     "name_en": "Shamorie Ponds",
     "position": "PG",
     "height": 183,
@@ -86969,7 +86969,7 @@ export default [
   },
   {
     "id": "vlatko-cancar",
-    "name": "Vlatko Cancar",
+    "name": "弗拉特科·Cancar",
     "name_en": "Vlatko Cancar",
     "position": null,
     "height": 203,
@@ -87045,7 +87045,7 @@ export default [
   },
   {
     "id": "william-howard",
-    "name": "William Howard",
+    "name": "威廉·霍华德",
     "name_en": "William Howard",
     "position": "SF",
     "height": 203,
@@ -87081,7 +87081,7 @@ export default [
   },
   {
     "id": "zach-norvell-jr",
-    "name": "Zach Norvell Jr.",
+    "name": "扎克·二世",
     "name_en": "Zach Norvell Jr.",
     "position": "SG",
     "height": 196,
@@ -87117,7 +87117,7 @@ export default [
   },
   {
     "id": "zion-williamson",
-    "name": "Zion Williamson",
+    "name": "锡安·威廉森",
     "name_en": "Zion Williamson",
     "position": "SF",
     "height": 198,
@@ -87305,7 +87305,7 @@ export default [
   },
   {
     "id": "tyler-cook",
-    "name": "Tyler Cook",
+    "name": "泰勒·Cook",
     "name_en": "Tyler Cook",
     "position": "SF",
     "height": 203,
@@ -87345,7 +87345,7 @@ export default [
   },
   {
     "id": "tyler-herro",
-    "name": "Tyler Herro",
+    "name": "泰勒·希罗",
     "name_en": "Tyler Herro",
     "position": "SG",
     "height": 196,
@@ -87457,7 +87457,7 @@ export default [
   },
   {
     "id": "matt-thomas",
-    "name": "Matt Thomas",
+    "name": "Matt·托马斯",
     "name_en": "Matt Thomas",
     "position": "SG",
     "height": 190,
@@ -87497,7 +87497,7 @@ export default [
   },
   {
     "id": "max-strus",
-    "name": "Max Strus",
+    "name": "马克斯·斯特鲁斯",
     "name_en": "Max Strus",
     "position": "SG",
     "height": 196,
@@ -87575,7 +87575,7 @@ export default [
   },
   {
     "id": "michael-frazier-ii",
-    "name": "Michael Frazier II",
+    "name": "迈克尔·Ii",
     "name_en": "Michael Frazier II",
     "position": "PG",
     "height": 190,
@@ -87611,7 +87611,7 @@ export default [
   },
   {
     "id": "michael-porter-jr",
-    "name": "Michael Porter Jr.",
+    "name": "迈克尔·二世",
     "name_en": "Michael Porter Jr.",
     "position": "SF",
     "height": 208,
@@ -87719,7 +87719,7 @@ export default [
   },
   {
     "id": "louis-king",
-    "name": "Louis King",
+    "name": "Louis·金",
     "name_en": "Louis King",
     "position": "SF",
     "height": 201,
@@ -87759,7 +87759,7 @@ export default [
   },
   {
     "id": "luguentz-dort",
-    "name": "Luguentz Dort",
+    "name": "Luguentz·多尔特",
     "name_en": "Luguentz Dort",
     "position": "SG",
     "height": 193,
@@ -87795,7 +87795,7 @@ export default [
   },
   {
     "id": "luka-samanic",
-    "name": "Luka Samanic",
+    "name": "卢卡·Samanic",
     "name_en": "Luka Samanic",
     "position": "SF",
     "height": 208,
@@ -87833,7 +87833,7 @@ export default [
   },
   {
     "id": "malik-newman",
-    "name": "Malik Newman",
+    "name": "马利克·纽曼",
     "name_en": "Malik Newman",
     "position": "SG",
     "height": 190,
@@ -87941,7 +87941,7 @@ export default [
   },
   {
     "id": "paul-watson",
-    "name": "Paul Watson",
+    "name": "保罗·沃森",
     "name_en": "Paul Watson",
     "position": "SG",
     "height": 198,
@@ -87979,7 +87979,7 @@ export default [
   },
   {
     "id": "pj-washington",
-    "name": "P.J. Washington",
+    "name": "P.J·华盛顿",
     "name_en": "P.J. Washington",
     "position": "SF",
     "height": 201,
@@ -88053,7 +88053,7 @@ export default [
   },
   {
     "id": "rayjon-tucker",
-    "name": "Rayjon Tucker",
+    "name": "Rayjon·塔克",
     "name_en": "Rayjon Tucker",
     "position": "PG",
     "height": 190,
@@ -88167,7 +88167,7 @@ export default [
   },
   {
     "id": "moses-brown",
-    "name": "Moses Brown",
+    "name": "摩西·布朗",
     "name_en": "Moses Brown",
     "position": "C",
     "height": 218,
@@ -88209,7 +88209,7 @@ export default [
   },
   {
     "id": "mychal-mulder",
-    "name": "Mychal Mulder",
+    "name": "迈克尔·Mulder",
     "name_en": "Mychal Mulder",
     "position": "SG",
     "height": 190,
@@ -88247,7 +88247,7 @@ export default [
   },
   {
     "id": "nassir-little",
-    "name": "Nassir Little",
+    "name": "Nassir·利特尔",
     "name_en": "Nassir Little",
     "position": "SF",
     "height": 196,
@@ -88283,7 +88283,7 @@ export default [
   },
   {
     "id": "naz-reid",
-    "name": "Naz Reid",
+    "name": "Naz·里德",
     "name_en": "Naz Reid",
     "position": "PF",
     "height": 206,
@@ -88473,7 +88473,7 @@ export default [
   },
   {
     "id": "nicolas-claxton",
-    "name": "Nicolas Claxton",
+    "name": "尼古拉斯·Claxton",
     "name_en": "Nicolas Claxton",
     "position": "C",
     "height": 211,
@@ -88767,7 +88767,7 @@ export default [
   },
   {
     "id": "elijah-bryant",
-    "name": "Elijah Bryant",
+    "name": "Elijah·布莱恩特",
     "name_en": "Elijah Bryant",
     "position": "SG",
     "height": 196,
@@ -88803,7 +88803,7 @@ export default [
   },
   {
     "id": "elijah-hughes",
-    "name": "Elijah Hughes",
+    "name": "Elijah·休斯",
     "name_en": "Elijah Hughes",
     "position": "PG",
     "height": 196,
@@ -88879,7 +88879,7 @@ export default [
   },
   {
     "id": "jontay-porter",
-    "name": "Jontay Porter",
+    "name": "Jontay·波特",
     "name_en": "Jontay Porter",
     "position": "PF",
     "height": 211,
@@ -89025,7 +89025,7 @@ export default [
   },
   {
     "id": "isaiah-joe",
-    "name": "Isaiah Joe",
+    "name": "以赛亚·Joe",
     "name_en": "Isaiah Joe",
     "position": "SG",
     "height": 190,
@@ -89063,7 +89063,7 @@ export default [
   },
   {
     "id": "isaiah-stewart",
-    "name": "Isaiah Stewart",
+    "name": "以赛亚·斯图尔特",
     "name_en": "Isaiah Stewart",
     "position": "PF",
     "height": 203,
@@ -89099,7 +89099,7 @@ export default [
   },
   {
     "id": "james-wiseman",
-    "name": "James Wiseman",
+    "name": "詹姆斯·Wiseman",
     "name_en": "James Wiseman",
     "position": "C",
     "height": 213,
@@ -89137,7 +89137,7 @@ export default [
   },
   {
     "id": "jaden-mcdaniels",
-    "name": "Jaden McDaniels",
+    "name": "杰登·Mcdaniels",
     "name_en": "Jaden McDaniels",
     "position": "SF",
     "height": 206,
@@ -89173,7 +89173,7 @@ export default [
   },
   {
     "id": "jaesean-tate",
-    "name": "Jae'Sean Tate",
+    "name": "Jae'Sean·塔特",
     "name_en": "Jae'Sean Tate",
     "position": "SF",
     "height": 196,
@@ -89209,7 +89209,7 @@ export default [
   },
   {
     "id": "jahmius-ramsey",
-    "name": "Jahmi'us Ramsey",
+    "name": "Jahmi'Us·拉姆齐",
     "name_en": "Jahmi'us Ramsey",
     "position": "PG",
     "height": 190,
@@ -89245,7 +89245,7 @@ export default [
   },
   {
     "id": "jalen-harris",
-    "name": "Jalen Harris",
+    "name": "贾伦·哈里斯",
     "name_en": "Jalen Harris",
     "position": "SG",
     "height": 196,
@@ -89281,7 +89281,7 @@ export default [
   },
   {
     "id": "jalen-smith",
-    "name": "Jalen Smith",
+    "name": "贾伦·史密斯",
     "name_en": "Jalen Smith",
     "position": "PF",
     "height": 206,
@@ -89319,7 +89319,7 @@ export default [
   },
   {
     "id": "devin-vassell",
-    "name": "Devin Vassell",
+    "name": "德文·瓦塞尔",
     "name_en": "Devin Vassell",
     "position": "SG",
     "height": 196,
@@ -89355,7 +89355,7 @@ export default [
   },
   {
     "id": "brodric-thomas",
-    "name": "Brodric Thomas",
+    "name": "Brodric·托马斯",
     "name_en": "Brodric Thomas",
     "position": "PG",
     "height": 196,
@@ -89429,7 +89429,7 @@ export default [
   },
   {
     "id": "cameron-oliver",
-    "name": "Cameron Oliver",
+    "name": "卡梅伦·奥利弗",
     "name_en": "Cameron Oliver",
     "position": "SF",
     "height": 203,
@@ -89467,7 +89467,7 @@ export default [
   },
   {
     "id": "aaron-nesmith",
-    "name": "Aaron Nesmith",
+    "name": "阿龙·Nesmith",
     "name_en": "Aaron Nesmith",
     "position": "SG",
     "height": 196,
@@ -89577,7 +89577,7 @@ export default [
   },
   {
     "id": "anthony-edwards",
-    "name": "Anthony Edwards",
+    "name": "安东尼·爱德华兹",
     "name_en": "Anthony Edwards",
     "position": "SG",
     "height": 193,
@@ -89613,7 +89613,7 @@ export default [
   },
   {
     "id": "anthony-gill",
-    "name": "Anthony Gill",
+    "name": "安东尼·Gill",
     "name_en": "Anthony Gill",
     "position": "SF",
     "height": 203,
@@ -89649,7 +89649,7 @@ export default [
   },
   {
     "id": "anthony-lamb",
-    "name": "Anthony Lamb",
+    "name": "安东尼·兰姆",
     "name_en": "Anthony Lamb",
     "position": "SF",
     "height": 198,
@@ -89687,7 +89687,7 @@ export default [
   },
   {
     "id": "armoni-brooks",
-    "name": "Armoni Brooks",
+    "name": "Armoni·布鲁克斯",
     "name_en": "Armoni Brooks",
     "position": "SG",
     "height": 190,
@@ -89869,7 +89869,7 @@ export default [
   },
   {
     "id": "daniel-oturu",
-    "name": "Daniel Oturu",
+    "name": "丹尼尔·Oturu",
     "name_en": "Daniel Oturu",
     "position": "C",
     "height": 203,
@@ -90055,7 +90055,7 @@ export default [
   },
   {
     "id": "devin-cannady",
-    "name": "Devin Cannady",
+    "name": "德文·Cannady",
     "name_en": "Devin Cannady",
     "position": "SG",
     "height": 188,
@@ -90091,7 +90091,7 @@ export default [
   },
   {
     "id": "cole-anthony",
-    "name": "Cole Anthony",
+    "name": "科尔·Anthony",
     "name_en": "Cole Anthony",
     "position": "SG",
     "height": 190,
@@ -90203,7 +90203,7 @@ export default [
   },
   {
     "id": "tre-jones",
-    "name": "Tre Jones",
+    "name": "Tre·琼斯",
     "name_en": "Tre Jones",
     "position": "SG",
     "height": 185,
@@ -90239,7 +90239,7 @@ export default [
   },
   {
     "id": "theo-maledon",
-    "name": "Theo Maledon",
+    "name": "西奥·Maledon",
     "name_en": "Theo Maledon",
     "position": "SG",
     "height": 196,
@@ -90313,7 +90313,7 @@ export default [
   },
   {
     "id": "tyler-bey",
-    "name": "Tyler Bey",
+    "name": "泰勒·Bey",
     "name_en": "Tyler Bey",
     "position": "SF",
     "height": 201,
@@ -90457,7 +90457,7 @@ export default [
   },
   {
     "id": "vernon-carey-jr",
-    "name": "Vernon Carey Jr.",
+    "name": "Vernon·二世",
     "name_en": "Vernon Carey Jr.",
     "position": "C",
     "height": 208,
@@ -90533,7 +90533,7 @@ export default [
   },
   {
     "id": "tyrese-maxey",
-    "name": "Tyrese Maxey",
+    "name": "泰雷塞·Maxey",
     "name_en": "Tyrese Maxey",
     "position": "PG",
     "height": 188,
@@ -90569,7 +90569,7 @@ export default [
   },
   {
     "id": "tyrese-haliburton",
-    "name": "Tyrese Haliburton",
+    "name": "泰雷塞·哈利伯顿",
     "name_en": "Tyrese Haliburton",
     "position": "PG",
     "height": 196,
@@ -90645,7 +90645,7 @@ export default [
   },
   {
     "id": "robert-franks",
-    "name": "Robert Franks",
+    "name": "罗伯特·Franks",
     "name_en": "Robert Franks",
     "position": "SF",
     "height": 201,
@@ -90681,7 +90681,7 @@ export default [
   },
   {
     "id": "reggie-perry",
-    "name": "Reggie Perry",
+    "name": "雷吉·Perry",
     "name_en": "Reggie Perry",
     "position": "PF",
     "height": 203,
@@ -90719,7 +90719,7 @@ export default [
   },
   {
     "id": "rj-hampton",
-    "name": "R.J. Hampton",
+    "name": "R.J·汉普顿",
     "name_en": "R.J. Hampton",
     "position": "PG",
     "height": 193,
@@ -90757,7 +90757,7 @@ export default [
   },
   {
     "id": "robert-woodard-ii",
-    "name": "Robert Woodard II",
+    "name": "罗伯特·Ii",
     "name_en": "Robert Woodard II",
     "position": "SF",
     "height": 198,
@@ -90869,7 +90869,7 @@ export default [
   },
   {
     "id": "paul-reed",
-    "name": "Paul Reed",
+    "name": "保罗·里德",
     "name_en": "Paul Reed",
     "position": "SF",
     "height": 206,
@@ -90905,7 +90905,7 @@ export default [
   },
   {
     "id": "patrick-williams",
-    "name": "Patrick Williams",
+    "name": "帕特里克·威廉姆斯",
     "name_en": "Patrick Williams",
     "position": "SF",
     "height": 201,
@@ -90941,7 +90941,7 @@ export default [
   },
   {
     "id": "skylar-mays",
-    "name": "Skylar Mays",
+    "name": "斯凯拉·Mays",
     "name_en": "Skylar Mays",
     "position": "SG",
     "height": 193,
@@ -91015,7 +91015,7 @@ export default [
   },
   {
     "id": "sam-merrill",
-    "name": "Sam Merrill",
+    "name": "萨姆·Merrill",
     "name_en": "Sam Merrill",
     "position": "SG",
     "height": 193,
@@ -91093,7 +91093,7 @@ export default [
   },
   {
     "id": "saben-lee",
-    "name": "Saben Lee",
+    "name": "Saben·李",
     "name_en": "Saben Lee",
     "position": "PG",
     "height": 188,
@@ -91131,7 +91131,7 @@ export default [
   },
   {
     "id": "onyeka-okongwu",
-    "name": "Onyeka Okongwu",
+    "name": "Onyeka·奥孔古",
     "name_en": "Onyeka Okongwu",
     "position": "PF",
     "height": 206,
@@ -91167,7 +91167,7 @@ export default [
   },
   {
     "id": "kenyon-martin-jr",
-    "name": "Kenyon Martin Jr.",
+    "name": "Kenyon·二世",
     "name_en": "Kenyon Martin Jr.",
     "position": "SF",
     "height": 201,
@@ -91203,7 +91203,7 @@ export default [
   },
   {
     "id": "killian-hayes",
-    "name": "Killian Hayes",
+    "name": "Killian·海耶斯",
     "name_en": "Killian Hayes",
     "position": "PG",
     "height": 196,
@@ -91275,7 +91275,7 @@ export default [
   },
   {
     "id": "kira-lewis-jr",
-    "name": "Kira Lewis Jr.",
+    "name": "Kira·二世",
     "name_en": "Kira Lewis Jr.",
     "position": "SG",
     "height": 185,
@@ -91311,7 +91311,7 @@ export default [
   },
   {
     "id": "obi-toppin",
-    "name": "Obi Toppin",
+    "name": "Obi·托平",
     "name_en": "Obi Toppin",
     "position": "SF",
     "height": 206,
@@ -91347,7 +91347,7 @@ export default [
   },
   {
     "id": "lamelo-ball",
-    "name": "LaMelo Ball",
+    "name": "拉梅洛·鲍尔",
     "name_en": "LaMelo Ball",
     "position": "PG",
     "height": 201,
@@ -91419,7 +91419,7 @@ export default [
   },
   {
     "id": "josh-green",
-    "name": "Josh Green",
+    "name": "约什·格林",
     "name_en": "Josh Green",
     "position": "SG",
     "height": 201,
@@ -91455,7 +91455,7 @@ export default [
   },
   {
     "id": "josh-hall",
-    "name": "Josh Hall",
+    "name": "约什·霍尔",
     "name_en": "Josh Hall",
     "position": "SF",
     "height": 206,
@@ -91563,7 +91563,7 @@ export default [
   },
   {
     "id": "naji-marshall",
-    "name": "Naji Marshall",
+    "name": "纳吉·马歇尔",
     "name_en": "Naji Marshall",
     "position": "SF",
     "height": 201,
@@ -91673,7 +91673,7 @@ export default [
   },
   {
     "id": "nick-richards",
-    "name": "Nick Richards",
+    "name": "尼克·理查兹",
     "name_en": "Nick Richards",
     "position": "C",
     "height": 213,
@@ -91745,7 +91745,7 @@ export default [
   },
   {
     "id": "nathan-knight",
-    "name": "Nathan Knight",
+    "name": "Nathan·奈特",
     "name_en": "Nathan Knight",
     "position": "PF",
     "height": 203,
@@ -91783,7 +91783,7 @@ export default [
   },
   {
     "id": "malachi-flynn",
-    "name": "Malachi Flynn",
+    "name": "Malachi·弗林",
     "name_en": "Malachi Flynn",
     "position": "PG",
     "height": 185,
@@ -91819,7 +91819,7 @@ export default [
   },
   {
     "id": "malik-fitts",
-    "name": "Malik Fitts",
+    "name": "马利克·Fitts",
     "name_en": "Malik Fitts",
     "position": "SF",
     "height": 196,
@@ -91897,7 +91897,7 @@ export default [
   },
   {
     "id": "markus-howard",
-    "name": "Markus Howard",
+    "name": "Markus·霍华德",
     "name_en": "Markus Howard",
     "position": "PG",
     "height": 178,
@@ -91933,7 +91933,7 @@ export default [
   },
   {
     "id": "mason-jones",
-    "name": "Mason Jones",
+    "name": "Mason·琼斯",
     "name_en": "Mason Jones",
     "position": "PG",
     "height": 193,
@@ -92045,7 +92045,7 @@ export default [
   },
   {
     "id": "ziaire-williams",
-    "name": "Ziaire Williams",
+    "name": "Ziaire·威廉姆斯",
     "name_en": "Ziaire Williams",
     "position": "SF",
     "height": 206,
@@ -92081,7 +92081,7 @@ export default [
   },
   {
     "id": "tyler-hall",
-    "name": "Tyler Hall",
+    "name": "泰勒·霍尔",
     "name_en": "Tyler Hall",
     "position": "PG",
     "height": 196,
@@ -92117,7 +92117,7 @@ export default [
   },
   {
     "id": "zavier-simpson",
-    "name": "Zavier Simpson",
+    "name": "Zavier·辛普森",
     "name_en": "Zavier Simpson",
     "position": "SG",
     "height": 183,
@@ -92299,7 +92299,7 @@ export default [
   },
   {
     "id": "evan-mobley",
-    "name": "Evan Mobley",
+    "name": "埃文·莫布利",
     "name_en": "Evan Mobley",
     "position": "C",
     "height": 211,
@@ -92335,7 +92335,7 @@ export default [
   },
   {
     "id": "feron-hunt",
-    "name": "Feron Hunt",
+    "name": "Feron·亨特",
     "name_en": "Feron Hunt",
     "position": "SF",
     "height": 203,
@@ -92371,7 +92371,7 @@ export default [
   },
   {
     "id": "franz-wagner",
-    "name": "Franz Wagner",
+    "name": "弗朗茨·瓦格纳",
     "name_en": "Franz Wagner",
     "position": "SF",
     "height": 208,
@@ -92407,7 +92407,7 @@ export default [
   },
   {
     "id": "gabe-york",
-    "name": "Gabe York",
+    "name": "加布·约克",
     "name_en": "Gabe York",
     "position": "SG",
     "height": 190,
@@ -92589,7 +92589,7 @@ export default [
   },
   {
     "id": "duane-washington-jr",
-    "name": "Duane Washington Jr.",
+    "name": "Duane·二世",
     "name_en": "Duane Washington Jr.",
     "position": "SG",
     "height": 188,
@@ -92627,7 +92627,7 @@ export default [
   },
   {
     "id": "jalen-green",
-    "name": "Jalen Green",
+    "name": "贾伦·格林",
     "name_en": "Jalen Green",
     "position": "SG",
     "height": 193,
@@ -92663,7 +92663,7 @@ export default [
   },
   {
     "id": "jalen-johnson",
-    "name": "Jalen Johnson",
+    "name": "贾伦·约翰逊",
     "name_en": "Jalen Johnson",
     "position": "SF",
     "height": 203,
@@ -92699,7 +92699,7 @@ export default [
   },
   {
     "id": "jalen-suggs",
-    "name": "Jalen Suggs",
+    "name": "贾伦·萨格斯",
     "name_en": "Jalen Suggs",
     "position": "PG",
     "height": 196,
@@ -92735,7 +92735,7 @@ export default [
   },
   {
     "id": "james-bouknight",
-    "name": "James Bouknight",
+    "name": "詹姆斯·Bouknight",
     "name_en": "James Bouknight",
     "position": "SG",
     "height": 193,
@@ -92807,7 +92807,7 @@ export default [
   },
   {
     "id": "jared-butler",
-    "name": "Jared Butler",
+    "name": "Jared·巴特勒",
     "name_en": "Jared Butler",
     "position": "PG",
     "height": 190,
@@ -92881,7 +92881,7 @@ export default [
   },
   {
     "id": "jeff-dowtin",
-    "name": "Jeff Dowtin",
+    "name": "杰夫·Dowtin",
     "name_en": "Jeff Dowtin",
     "position": "SG",
     "height": 190,
@@ -92991,7 +92991,7 @@ export default [
   },
   {
     "id": "javonte-smart",
-    "name": "Javonte Smart",
+    "name": "Javonte·斯马特",
     "name_en": "Javonte Smart",
     "position": "SG",
     "height": 193,
@@ -93099,7 +93099,7 @@ export default [
   },
   {
     "id": "isaiah-livers",
-    "name": "Isaiah Livers",
+    "name": "以赛亚·Livers",
     "name_en": "Isaiah Livers",
     "position": "SF",
     "height": 198,
@@ -93135,7 +93135,7 @@ export default [
   },
   {
     "id": "isaiah-jackson",
-    "name": "Isaiah Jackson",
+    "name": "以赛亚·杰克逊",
     "name_en": "Isaiah Jackson",
     "position": "SF",
     "height": 206,
@@ -93171,7 +93171,7 @@ export default [
   },
   {
     "id": "herbert-jones",
-    "name": "Herbert Jones",
+    "name": "Herbert·琼斯",
     "name_en": "Herbert Jones",
     "position": "SF",
     "height": 201,
@@ -93243,7 +93243,7 @@ export default [
   },
   {
     "id": "greg-brown-iii",
-    "name": "Greg Brown III",
+    "name": "Greg·三世",
     "name_en": "Greg Brown III",
     "position": "SF",
     "height": 201,
@@ -93279,7 +93279,7 @@ export default [
   },
   {
     "id": "isaiah-todd",
-    "name": "Isaiah Todd",
+    "name": "以赛亚·托德",
     "name_en": "Isaiah Todd",
     "position": "SF",
     "height": 206,
@@ -93315,7 +93315,7 @@ export default [
   },
   {
     "id": "jaden-springer",
-    "name": "Jaden Springer",
+    "name": "杰登·Springer",
     "name_en": "Jaden Springer",
     "position": "PG",
     "height": 193,
@@ -93387,7 +93387,7 @@ export default [
   },
   {
     "id": "ish-wainright",
-    "name": "Ish Wainright",
+    "name": "伊什·Wainright",
     "name_en": "Ish Wainright",
     "position": "SF",
     "height": 196,
@@ -93423,7 +93423,7 @@ export default [
   },
   {
     "id": "jaquori-mclaughlin",
-    "name": "JaQuori McLaughlin",
+    "name": "Jaquori·麦克劳林",
     "name_en": "JaQuori McLaughlin",
     "position": "PG",
     "height": 193,
@@ -93459,7 +93459,7 @@ export default [
   },
   {
     "id": "charles-bassey",
-    "name": "Charles Bassey",
+    "name": "查尔斯·Bassey",
     "name_en": "Charles Bassey",
     "position": "PF",
     "height": 206,
@@ -93533,7 +93533,7 @@ export default [
   },
   {
     "id": "carlik-jones",
-    "name": "Carlik Jones",
+    "name": "Carlik·琼斯",
     "name_en": "Carlik Jones",
     "position": "PG",
     "height": 183,
@@ -93571,7 +93571,7 @@ export default [
   },
   {
     "id": "cameron-mcgriff",
-    "name": "Cameron McGriff",
+    "name": "卡梅伦·Mcgriff",
     "name_en": "Cameron McGriff",
     "position": "SF",
     "height": 201,
@@ -93607,7 +93607,7 @@ export default [
   },
   {
     "id": "cam-thomas",
-    "name": "Cam Thomas",
+    "name": "Cam·托马斯",
     "name_en": "Cam Thomas",
     "position": "SG",
     "height": 190,
@@ -93679,7 +93679,7 @@ export default [
   },
   {
     "id": "chaundee-brown-jr",
-    "name": "Chaundee Brown Jr.",
+    "name": "Chaundee·二世",
     "name_en": "Chaundee Brown Jr.",
     "position": "SF",
     "height": 196,
@@ -93715,7 +93715,7 @@ export default [
   },
   {
     "id": "cade-cunningham",
-    "name": "Cade Cunningham",
+    "name": "凯德·坎宁安",
     "name_en": "Cade Cunningham",
     "position": "SG",
     "height": 201,
@@ -93859,7 +93859,7 @@ export default [
   },
   {
     "id": "chris-duarte",
-    "name": "Chris Duarte",
+    "name": "克里斯·杜阿尔特",
     "name_en": "Chris Duarte",
     "position": "SG",
     "height": 196,
@@ -93931,7 +93931,7 @@ export default [
   },
   {
     "id": "brandon-boston",
-    "name": "Brandon Boston",
+    "name": "布兰登·Boston",
     "name_en": "Brandon Boston",
     "position": "PG",
     "height": 198,
@@ -93967,7 +93967,7 @@ export default [
   },
   {
     "id": "david-johnson",
-    "name": "David Johnson",
+    "name": "大卫·约翰逊",
     "name_en": "David Johnson",
     "position": "PG",
     "height": 193,
@@ -94003,7 +94003,7 @@ export default [
   },
   {
     "id": "david-duke-jr",
-    "name": "David Duke Jr.",
+    "name": "大卫·二世",
     "name_en": "David Duke Jr.",
     "position": "SG",
     "height": 193,
@@ -94039,7 +94039,7 @@ export default [
   },
   {
     "id": "aaron-henry",
-    "name": "Aaron Henry",
+    "name": "阿龙·亨利",
     "name_en": "Aaron Henry",
     "position": "SF",
     "height": 196,
@@ -94075,7 +94075,7 @@ export default [
   },
   {
     "id": "davion-mitchell",
-    "name": "Davion Mitchell",
+    "name": "Davion·米切尔",
     "name_en": "Davion Mitchell",
     "position": "PG",
     "height": 183,
@@ -94111,7 +94111,7 @@ export default [
   },
   {
     "id": "aaron-wiggins",
-    "name": "Aaron Wiggins",
+    "name": "阿龙·维金斯",
     "name_en": "Aaron Wiggins",
     "position": "SG",
     "height": 196,
@@ -94291,7 +94291,7 @@ export default [
   },
   {
     "id": "aleem-ford",
-    "name": "Aleem Ford",
+    "name": "Aleem·福特",
     "name_en": "Aleem Ford",
     "position": "SF",
     "height": 203,
@@ -94327,7 +94327,7 @@ export default [
   },
   {
     "id": "ayo-dosunmu",
-    "name": "Ayo Dosunmu",
+    "name": "Ayo·多森姆",
     "name_en": "Ayo Dosunmu",
     "position": "SG",
     "height": 196,
@@ -94363,7 +94363,7 @@ export default [
   },
   {
     "id": "bones-hyland",
-    "name": "Bones Hyland",
+    "name": "Bones·海兰",
     "name_en": "Bones Hyland",
     "position": "PG",
     "height": 188,
@@ -94473,7 +94473,7 @@ export default [
   },
   {
     "id": "alperen-sengun",
-    "name": "Alperen Sengun",
+    "name": "阿尔佩伦·申京",
     "name_en": "Alperen Sengun",
     "position": "C",
     "height": 211,
@@ -94653,7 +94653,7 @@ export default [
   },
   {
     "id": "moses-moody",
-    "name": "Moses Moody",
+    "name": "摩西·穆迪",
     "name_en": "Moses Moody",
     "position": "PG",
     "height": 196,
@@ -94689,7 +94689,7 @@ export default [
   },
   {
     "id": "moses-wright",
-    "name": "Moses Wright",
+    "name": "摩西·赖特",
     "name_en": "Moses Wright",
     "position": "SF",
     "height": 203,
@@ -94725,7 +94725,7 @@ export default [
   },
   {
     "id": "myles-powell",
-    "name": "Myles Powell",
+    "name": "迈尔斯·鲍威尔",
     "name_en": "Myles Powell",
     "position": "SG",
     "height": 188,
@@ -94833,7 +94833,7 @@ export default [
   },
   {
     "id": "rob-edwards",
-    "name": "Rob Edwards",
+    "name": "Rob·爱德华兹",
     "name_en": "Rob Edwards",
     "position": "SG",
     "height": 196,
@@ -94869,7 +94869,7 @@ export default [
   },
   {
     "id": "rj-nembhard-jr",
-    "name": "RJ Nembhard Jr.",
+    "name": "Rj·二世",
     "name_en": "RJ Nembhard Jr.",
     "position": "SG",
     "height": 193,
@@ -95015,7 +95015,7 @@ export default [
   },
   {
     "id": "mj-walker",
-    "name": "M.J. Walker",
+    "name": "M.J·沃克",
     "name_en": "M.J. Walker",
     "position": "SG",
     "height": 196,
@@ -95051,7 +95051,7 @@ export default [
   },
   {
     "id": "luka-garza",
-    "name": "Luka Garza",
+    "name": "卢卡·加尔萨",
     "name_en": "Luka Garza",
     "position": "C",
     "height": 208,
@@ -95089,7 +95089,7 @@ export default [
   },
   {
     "id": "lindy-waters-iii",
-    "name": "Lindy Waters III",
+    "name": "Lindy·三世",
     "name_en": "Lindy Waters III",
     "position": "SF",
     "height": 198,
@@ -95235,7 +95235,7 @@ export default [
   },
   {
     "id": "malcolm-hill",
-    "name": "Malcolm Hill",
+    "name": "Malcolm·希尔",
     "name_en": "Malcolm Hill",
     "position": "SF",
     "height": 198,
@@ -95309,7 +95309,7 @@ export default [
   },
   {
     "id": "matt-ryan",
-    "name": "Matt Ryan",
+    "name": "Matt·瑞安",
     "name_en": "Matt Ryan",
     "position": "SF",
     "height": 198,
@@ -95347,7 +95347,7 @@ export default [
   },
   {
     "id": "miles-mcbride",
-    "name": "Miles McBride",
+    "name": "迈尔斯·Mcbride",
     "name_en": "Miles McBride",
     "position": "SG",
     "height": 188,
@@ -95383,7 +95383,7 @@ export default [
   },
   {
     "id": "marcus-garrett",
-    "name": "Marcus Garrett",
+    "name": "马库斯·加勒特",
     "name_en": "Marcus Garrett",
     "position": "SG",
     "height": 196,
@@ -95531,7 +95531,7 @@ export default [
   },
   {
     "id": "kai-jones",
-    "name": "Kai Jones",
+    "name": "Kai·琼斯",
     "name_en": "Kai Jones",
     "position": "PF",
     "height": 211,
@@ -95603,7 +95603,7 @@ export default [
   },
   {
     "id": "kevin-pangos",
-    "name": "Kevin Pangos",
+    "name": "凯文·Pangos",
     "name_en": "Kevin Pangos",
     "position": "PG",
     "height": 185,
@@ -95639,7 +95639,7 @@ export default [
   },
   {
     "id": "keon-johnson",
-    "name": "Keon Johnson",
+    "name": "Keon·约翰逊",
     "name_en": "Keon Johnson",
     "position": "SG",
     "height": 190,
@@ -95675,7 +95675,7 @@ export default [
   },
   {
     "id": "kessler-edwards",
-    "name": "Kessler Edwards",
+    "name": "凯斯勒·爱德华兹",
     "name_en": "Kessler Edwards",
     "position": "SF",
     "height": 201,
@@ -95749,7 +95749,7 @@ export default [
   },
   {
     "id": "joel-ayayi",
-    "name": "Joel Ayayi",
+    "name": "乔尔·Ayayi",
     "name_en": "Joel Ayayi",
     "position": "SG",
     "height": 193,
@@ -95785,7 +95785,7 @@ export default [
   },
   {
     "id": "joe-wieskamp",
-    "name": "Joe Wieskamp",
+    "name": "乔·Wieskamp",
     "name_en": "Joe Wieskamp",
     "position": "SG",
     "height": 198,
@@ -95861,7 +95861,7 @@ export default [
   },
   {
     "id": "jericho-sims",
-    "name": "Jericho Sims",
+    "name": "Jericho·西姆斯",
     "name_en": "Jericho Sims",
     "position": "C",
     "height": 208,
@@ -95897,7 +95897,7 @@ export default [
   },
   {
     "id": "jonathan-kuminga",
-    "name": "Jonathan Kuminga",
+    "name": "乔纳森·库明加",
     "name_en": "Jonathan Kuminga",
     "position": "SF",
     "height": 201,
@@ -95933,7 +95933,7 @@ export default [
   },
   {
     "id": "josh-giddey",
-    "name": "Josh Giddey",
+    "name": "约什·吉迪",
     "name_en": "Josh Giddey",
     "position": "SG",
     "height": 203,
@@ -96077,7 +96077,7 @@ export default [
   },
   {
     "id": "josh-christopher",
-    "name": "Josh Christopher",
+    "name": "约什·Christopher",
     "name_en": "Josh Christopher",
     "position": "SG",
     "height": 193,
@@ -96113,7 +96113,7 @@ export default [
   },
   {
     "id": "joshua-primo",
-    "name": "Joshua Primo",
+    "name": "Joshua·普里莫",
     "name_en": "Joshua Primo",
     "position": "PG",
     "height": 198,
@@ -96185,7 +96185,7 @@ export default [
   },
   {
     "id": "sharife-cooper",
-    "name": "Sharife Cooper",
+    "name": "Sharife·库珀",
     "name_en": "Sharife Cooper",
     "position": "SG",
     "height": 185,
@@ -96221,7 +96221,7 @@ export default [
   },
   {
     "id": "sam-hauser",
-    "name": "Sam Hauser",
+    "name": "萨姆·Hauser",
     "name_en": "Sam Hauser",
     "position": "SF",
     "height": 201,
@@ -96331,7 +96331,7 @@ export default [
   },
   {
     "id": "scottie-barnes",
-    "name": "Scottie Barnes",
+    "name": "斯科蒂·巴恩斯",
     "name_en": "Scottie Barnes",
     "position": "SF",
     "height": 203,
@@ -96367,7 +96367,7 @@ export default [
   },
   {
     "id": "scottie-lewis",
-    "name": "Scottie Lewis",
+    "name": "斯科蒂·刘易斯",
     "name_en": "Scottie Lewis",
     "position": "SG",
     "height": 196,
@@ -96403,7 +96403,7 @@ export default [
   },
   {
     "id": "tre-mann",
-    "name": "Tre Mann",
+    "name": "Tre·曼恩",
     "name_en": "Tre Mann",
     "position": "SG",
     "height": 190,
@@ -96585,7 +96585,7 @@ export default [
   },
   {
     "id": "trey-murphy-iii",
-    "name": "Trey Murphy III",
+    "name": "Trey·三世",
     "name_en": "Trey Murphy III",
     "position": "SF",
     "height": 203,
@@ -96621,7 +96621,7 @@ export default [
   },
   {
     "id": "terry-taylor",
-    "name": "Terry Taylor",
+    "name": "特里·泰勒",
     "name_en": "Terry Taylor",
     "position": "SF",
     "height": 193,
@@ -96659,7 +96659,7 @@ export default [
   },
   {
     "id": "quenton-jackson",
-    "name": "Quenton Jackson",
+    "name": "Quenton·杰克逊",
     "name_en": "Quenton Jackson",
     "position": "PG",
     "height": 196,
@@ -96695,7 +96695,7 @@ export default [
   },
   {
     "id": "raiquan-gray",
-    "name": "RaiQuan Gray",
+    "name": "Raiquan·格雷",
     "name_en": "RaiQuan Gray",
     "position": "SF",
     "height": 201,
@@ -96731,7 +96731,7 @@ export default [
   },
   {
     "id": "peyton-watson",
-    "name": "Peyton Watson",
+    "name": "Peyton·沃森",
     "name_en": "Peyton Watson",
     "position": "SG",
     "height": 201,
@@ -96767,7 +96767,7 @@ export default [
   },
   {
     "id": "patrick-baldwin",
-    "name": "Patrick Baldwin",
+    "name": "帕特里克·Baldwin",
     "name_en": "Patrick Baldwin",
     "position": "SF",
     "height": 206,
@@ -96875,7 +96875,7 @@ export default [
   },
   {
     "id": "ron-harper-jr",
-    "name": "Ron Harper Jr.",
+    "name": "Ron·二世",
     "name_en": "Ron Harper Jr.",
     "position": "SG",
     "height": 196,
@@ -96947,7 +96947,7 @@ export default [
   },
   {
     "id": "ousmane-dieng",
-    "name": "Ousmane Dieng",
+    "name": "Ousmane·迪昂",
     "name_en": "Ousmane Dieng",
     "position": "SF",
     "height": 206,
@@ -96983,7 +96983,7 @@ export default [
   },
   {
     "id": "orlando-robinson",
-    "name": "Orlando Robinson",
+    "name": "Orlando·罗宾逊",
     "name_en": "Orlando Robinson",
     "position": "C",
     "height": 208,
@@ -97055,7 +97055,7 @@ export default [
   },
   {
     "id": "nikola-jovic",
-    "name": "Nikola Jovic",
+    "name": "尼古拉·Jovic",
     "name_en": "Nikola Jovic",
     "position": null,
     "height": 208,
@@ -97091,7 +97091,7 @@ export default [
   },
   {
     "id": "tyrese-martin",
-    "name": "Tyrese Martin",
+    "name": "泰雷塞·马丁",
     "name_en": "Tyrese Martin",
     "position": "SF",
     "height": 198,
@@ -97127,7 +97127,7 @@ export default [
   },
   {
     "id": "tyty-washington-jr",
-    "name": "TyTy Washington Jr.",
+    "name": "Tyty·二世",
     "name_en": "TyTy Washington Jr.",
     "position": "PG",
     "height": 190,
@@ -97235,7 +97235,7 @@ export default [
   },
   {
     "id": "vince-williams-jr",
-    "name": "Vince Williams Jr.",
+    "name": "文斯·二世",
     "name_en": "Vince Williams Jr.",
     "position": "SG",
     "height": 193,
@@ -97307,7 +97307,7 @@ export default [
   },
   {
     "id": "wendell-moore-jr",
-    "name": "Wendell Moore Jr.",
+    "name": "Wendell·二世",
     "name_en": "Wendell Moore Jr.",
     "position": "SG",
     "height": 196,
@@ -97487,7 +97487,7 @@ export default [
   },
   {
     "id": "scotty-pippen-jr",
-    "name": "Scotty Pippen Jr.",
+    "name": "斯科蒂·二世",
     "name_en": "Scotty Pippen Jr.",
     "position": "SG",
     "height": 185,
@@ -97559,7 +97559,7 @@ export default [
   },
   {
     "id": "michael-foster-jr",
-    "name": "Michael Foster Jr.",
+    "name": "迈克尔·二世",
     "name_en": "Michael Foster Jr.",
     "position": "SF",
     "height": 203,
@@ -97667,7 +97667,7 @@ export default [
   },
   {
     "id": "donovan-williams",
-    "name": "Donovan Williams",
+    "name": "多诺万·威廉姆斯",
     "name_en": "Donovan Williams",
     "position": "PG",
     "height": 198,
@@ -97739,7 +97739,7 @@ export default [
   },
   {
     "id": "david-roddy",
-    "name": "David Roddy",
+    "name": "大卫·Roddy",
     "name_en": "David Roddy",
     "position": "SF",
     "height": 193,
@@ -97775,7 +97775,7 @@ export default [
   },
   {
     "id": "dru-smith",
-    "name": "Dru Smith",
+    "name": "Dru·史密斯",
     "name_en": "Dru Smith",
     "position": "PG",
     "height": 190,
@@ -97811,7 +97811,7 @@ export default [
   },
   {
     "id": "dyson-daniels",
-    "name": "Dyson Daniels",
+    "name": "Dyson·丹尼尔斯",
     "name_en": "Dyson Daniels",
     "position": "PG",
     "height": 201,
@@ -97883,7 +97883,7 @@ export default [
   },
   {
     "id": "blake-wesley",
-    "name": "Blake Wesley",
+    "name": "布雷克·Wesley",
     "name_en": "Blake Wesley",
     "position": "PG",
     "height": 193,
@@ -97919,7 +97919,7 @@ export default [
   },
   {
     "id": "brandon-boston-jr",
-    "name": "Brandon Boston Jr.",
+    "name": "布兰登·二世",
     "name_en": "Brandon Boston Jr.",
     "position": "PG",
     "height": 198,
@@ -97955,7 +97955,7 @@ export default [
   },
   {
     "id": "aj-lawson",
-    "name": "A.J. Lawson",
+    "name": "A.J·劳森",
     "name_en": "A.J. Lawson",
     "position": "PG",
     "height": 198,
@@ -97991,7 +97991,7 @@ export default [
   },
   {
     "id": "aj-green",
-    "name": "AJ Green",
+    "name": "Aj·格林",
     "name_en": "AJ Green",
     "position": "PG",
     "height": 196,
@@ -98027,7 +98027,7 @@ export default [
   },
   {
     "id": "aj-griffin",
-    "name": "AJ Griffin",
+    "name": "Aj·格里芬",
     "name_en": "AJ Griffin",
     "position": "SF",
     "height": 198,
@@ -98063,7 +98063,7 @@ export default [
   },
   {
     "id": "alondes-williams",
-    "name": "Alondes Williams",
+    "name": "Alondes·威廉姆斯",
     "name_en": "Alondes Williams",
     "position": "PG",
     "height": 193,
@@ -98135,7 +98135,7 @@ export default [
   },
   {
     "id": "christian-braun",
-    "name": "Christian Braun",
+    "name": "Christian·布劳恩",
     "name_en": "Christian Braun",
     "position": "PG",
     "height": 198,
@@ -98207,7 +98207,7 @@ export default [
   },
   {
     "id": "cole-swider",
-    "name": "Cole Swider",
+    "name": "科尔·Swider",
     "name_en": "Cole Swider",
     "position": "SF",
     "height": 206,
@@ -98315,7 +98315,7 @@ export default [
   },
   {
     "id": "buddy-boeheim",
-    "name": "Buddy Boeheim",
+    "name": "巴迪·Boeheim",
     "name_en": "Buddy Boeheim",
     "position": "SF",
     "height": 198,
@@ -98351,7 +98351,7 @@ export default [
   },
   {
     "id": "caleb-houstan",
-    "name": "Caleb Houstan",
+    "name": "卡莱布·Houstan",
     "name_en": "Caleb Houstan",
     "position": "PG",
     "height": 203,
@@ -98459,7 +98459,7 @@ export default [
   },
   {
     "id": "isaiah-mobley",
-    "name": "Isaiah Mobley",
+    "name": "以赛亚·莫布利",
     "name_en": "Isaiah Mobley",
     "position": "SF",
     "height": 203,
@@ -98495,7 +98495,7 @@ export default [
   },
   {
     "id": "keon-ellis",
-    "name": "Keon Ellis",
+    "name": "Keon·埃利斯",
     "name_en": "Keon Ellis",
     "position": "SG",
     "height": 190,
@@ -98531,7 +98531,7 @@ export default [
   },
   {
     "id": "kevon-harris",
-    "name": "Kevon Harris",
+    "name": "Kevon·哈里斯",
     "name_en": "Kevon Harris",
     "position": "PG",
     "height": 198,
@@ -98639,7 +98639,7 @@ export default [
   },
   {
     "id": "keegan-murray",
-    "name": "Keegan Murray",
+    "name": "Keegan·穆雷",
     "name_en": "Keegan Murray",
     "position": "SF",
     "height": 203,
@@ -98675,7 +98675,7 @@ export default [
   },
   {
     "id": "kendall-brown",
-    "name": "Kendall Brown",
+    "name": "Kendall·布朗",
     "name_en": "Kendall Brown",
     "position": "SG",
     "height": 201,
@@ -98711,7 +98711,7 @@ export default [
   },
   {
     "id": "kenneth-lofton-jr",
-    "name": "Kenneth Lofton Jr.",
+    "name": "Kenneth·二世",
     "name_en": "Kenneth Lofton Jr.",
     "position": "SF",
     "height": 198,
@@ -98783,7 +98783,7 @@ export default [
   },
   {
     "id": "mark-williams",
-    "name": "Mark Williams",
+    "name": "马克·威廉姆斯",
     "name_en": "Mark Williams",
     "position": "C",
     "height": 213,
@@ -98819,7 +98819,7 @@ export default [
   },
   {
     "id": "max-christie",
-    "name": "Max Christie",
+    "name": "马克斯·Christie",
     "name_en": "Max Christie",
     "position": "SG",
     "height": 196,
@@ -98963,7 +98963,7 @@ export default [
   },
   {
     "id": "jalen-williams",
-    "name": "Jalen Williams",
+    "name": "贾伦·威廉姆斯",
     "name_en": "Jalen Williams",
     "position": "SG",
     "height": 196,
@@ -98999,7 +98999,7 @@ export default [
   },
   {
     "id": "jamal-cain",
-    "name": "Jamal Cain",
+    "name": "贾马尔·Cain",
     "name_en": "Jamal Cain",
     "position": "SF",
     "height": 198,
@@ -99107,7 +99107,7 @@ export default [
   },
   {
     "id": "jason-preston",
-    "name": "Jason Preston",
+    "name": "杰森·Preston",
     "name_en": "Jason Preston",
     "position": "SG",
     "height": 190,
@@ -99143,7 +99143,7 @@ export default [
   },
   {
     "id": "jalen-duren",
-    "name": "Jalen Duren",
+    "name": "贾伦·Duren",
     "name_en": "Jalen Duren",
     "position": "C",
     "height": 211,
@@ -99215,7 +99215,7 @@ export default [
   },
   {
     "id": "jabari-smith-jr",
-    "name": "Jabari Smith Jr.",
+    "name": "Jabari·二世",
     "name_en": "Jabari Smith Jr.",
     "position": "SF",
     "height": 211,
@@ -99251,7 +99251,7 @@ export default [
   },
   {
     "id": "jabari-walker",
-    "name": "Jabari Walker",
+    "name": "Jabari·沃克",
     "name_en": "Jabari Walker",
     "position": "SF",
     "height": 201,
@@ -99323,7 +99323,7 @@ export default [
   },
   {
     "id": "jaden-hardy",
-    "name": "Jaden Hardy",
+    "name": "杰登·哈迪",
     "name_en": "Jaden Hardy",
     "position": "PG",
     "height": 190,
@@ -99359,7 +99359,7 @@ export default [
   },
   {
     "id": "jaden-ivey",
-    "name": "Jaden Ivey",
+    "name": "杰登·Ivey",
     "name_en": "Jaden Ivey",
     "position": "SG",
     "height": 193,
@@ -99431,7 +99431,7 @@ export default [
   },
   {
     "id": "jack-white",
-    "name": "Jack White",
+    "name": "Jack·怀特",
     "name_en": "Jack White",
     "position": "SF",
     "height": 201,
@@ -99467,7 +99467,7 @@ export default [
   },
   {
     "id": "jordan-hall",
-    "name": "Jordan Hall",
+    "name": "Jordan·霍尔",
     "name_en": "Jordan Hall",
     "position": "PG",
     "height": 201,
@@ -99503,7 +99503,7 @@ export default [
   },
   {
     "id": "josh-minott",
-    "name": "Josh Minott",
+    "name": "约什·Minott",
     "name_en": "Josh Minott",
     "position": "SF",
     "height": 203,
@@ -99575,7 +99575,7 @@ export default [
   },
   {
     "id": "johnny-davis",
-    "name": "Johnny Davis",
+    "name": "Johnny·戴维斯",
     "name_en": "Johnny Davis",
     "position": "PG",
     "height": 193,
@@ -99611,7 +99611,7 @@ export default [
   },
   {
     "id": "jaylin-williams",
-    "name": "Jaylin Williams",
+    "name": "Jaylin·威廉姆斯",
     "name_en": "Jaylin Williams",
     "position": "SF",
     "height": 206,
@@ -99647,7 +99647,7 @@ export default [
   },
   {
     "id": "jeenathan-williams",
-    "name": "Jeenathan Williams",
+    "name": "Jeenathan·威廉姆斯",
     "name_en": "Jeenathan Williams",
     "position": "SG",
     "height": 196,
@@ -99683,7 +99683,7 @@ export default [
   },
   {
     "id": "jeff-dowtin-jr",
-    "name": "Jeff Dowtin Jr.",
+    "name": "杰夫·二世",
     "name_en": "Jeff Dowtin Jr.",
     "position": "SG",
     "height": 190,
@@ -99719,7 +99719,7 @@ export default [
   },
   {
     "id": "jeremy-sochan",
-    "name": "Jeremy Sochan",
+    "name": "杰里米·Sochan",
     "name_en": "Jeremy Sochan",
     "position": "SF",
     "height": 203,
@@ -99755,7 +99755,7 @@ export default [
   },
   {
     "id": "john-butler-jr",
-    "name": "John Butler Jr.",
+    "name": "约翰·二世",
     "name_en": "John Butler Jr.",
     "position": "SF",
     "height": 213,
