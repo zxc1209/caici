@@ -111,6 +111,28 @@ Page({
     }
   },
 
+  onGiveUp() {
+    if (this.data.gameOver) return
+
+    const answer = this.data.answer
+    const guesses = [...this.data.guesses, {
+      id: answer.id,
+      player: answer,
+      score: 100.0,
+      hint: '放弃'
+    }].sort((a, b) => b.score - a.score)
+
+    this.setData({
+      guesses,
+      gameOver: true,
+      answerName: answer.name,
+      inputValue: '',
+      suggestions: []
+    })
+
+    wx.showToast({ title: `答案是：${answer.name}`, icon: 'none', duration: 2500 })
+  },
+
   onNewGame() {
     const pool = this.data.allPlayers.filter(
       p => p.difficulty_tier <= this.data.difficulty

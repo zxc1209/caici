@@ -32,6 +32,7 @@ const startBtn = document.getElementById('start-btn');
 // Game screen elements
 const backHomeBtn = document.getElementById('back-home-btn');
 const newGameBtn = document.getElementById('new-game-btn');
+const giveUpBtn = document.getElementById('give-up-btn');
 const modeLabel = document.getElementById('mode-label');
 const playerInput = document.getElementById('player-input');
 const submitBtn = document.getElementById('submit-btn');
@@ -401,6 +402,25 @@ function showSuccessBanner() {
 }
 
 // ============================================================
+// Give Up
+// ============================================================
+function giveUp() {
+  if (state.gameOver) return
+  state.gameOver = true
+  state.guesses.push({
+    player: state.answer,
+    similarity: 100.0,
+    hint: '🏳️ 放弃'
+  })
+  renderHistory()
+  disableInput()
+  successPlayerName.textContent = state.answer.name + '（' + state.answer.name_en + '）'
+  var count = state.guesses.length
+  successGuessCount.textContent = '答案是 ' + state.answer.name + '，共猜测 ' + count + ' 次'
+  successBanner.classList.remove('hidden')
+  successBanner.scrollIntoView({ behavior: 'smooth' })
+}
+
 // New Game / Navigation
 // ============================================================
 function newGame() {
@@ -658,6 +678,7 @@ function bindEvents() {
   // Game navigation buttons
   backHomeBtn.addEventListener('click', goHome);
   newGameBtn.addEventListener('click', newGame);
+  giveUpBtn.addEventListener('click', giveUp);
 
   // Success banner buttons
   viewResultBtn.addEventListener('click', showResult);

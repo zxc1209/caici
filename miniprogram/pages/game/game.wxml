@@ -33,6 +33,10 @@
     <view class="submit-btn {{inputValue ? 'active' : ''}}" bindtap="onSubmit">
       <text>提交猜测</text>
     </view>
+
+    <view class="give-up-btn" bindtap="onGiveUp" wx:if="{{!gameOver}}">
+      <text>放弃 · 查看答案</text>
+    </view>
   </view>
 
   <view class="success-banner" wx:if="{{gameOver}}">

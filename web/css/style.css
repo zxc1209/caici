@@ -204,6 +204,21 @@ body {
   color: #e94560;
 }
 
+.btn-give-up {
+  background: rgba(233, 69, 96, 0.15);
+  color: #e94560;
+  border: 1px solid #e94560;
+  border-radius: 0.4rem;
+  padding: 0.3rem 0.8rem;
+  font-size: 0.8rem;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.btn-give-up:active {
+  background: rgba(233, 69, 96, 0.3);
+}
+
 /* === Game Screen === */
 .game-header {
   display: flex;

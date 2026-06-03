@@ -1,7 +1,7 @@
 module.exports = [
   {
     "id": "randy-livingston",
-    "name": "Randy Livingston",
+    "name": "拉恩德伊·利文格斯特昂",
     "name_en": "Randy Livingston",
     "position": "SG",
     "height": 193,
@@ -53,7 +53,7 @@ module.exports = [
   },
   {
     "id": "gaylon-nickerson",
-    "name": "Gaylon Nickerson",
+    "name": "加伊尔昂·尼克斯昂",
     "name_en": "Gaylon Nickerson",
     "position": "SG",
     "height": 190,
@@ -131,7 +131,7 @@ module.exports = [
   },
   {
     "id": "george-mccloud",
-    "name": "乔治·Mccloud",
+    "name": "杰格埃·麦克德",
     "name_en": "George McCloud",
     "position": "SF",
     "height": 203,
@@ -171,7 +171,7 @@ module.exports = [
   },
   {
     "id": "george-zidek",
-    "name": "乔治·Zidek",
+    "name": "杰格埃·齐德克",
     "name_en": "George Zidek",
     "position": "C",
     "height": 213,
@@ -245,7 +245,7 @@ module.exports = [
   },
   {
     "id": "gheorghe-muresan",
-    "name": "Gheorghe Muresan",
+    "name": "格埃格赫·穆雷萨恩",
     "name_en": "Gheorghe Muresan",
     "position": "C",
     "height": 231,
@@ -283,7 +283,7 @@ module.exports = [
   },
   {
     "id": "glen-rice",
-    "name": "Glen·赖斯",
+    "name": "格恩·里塞",
     "name_en": "Glen Rice",
     "position": "SF",
     "height": 198,
@@ -329,7 +329,7 @@ module.exports = [
   },
   {
     "id": "glenn-robinson",
-    "name": "Glenn·罗宾逊",
+    "name": "格恩·罗比恩森",
     "name_en": "Glenn Robinson",
     "position": "SF",
     "height": 201,
@@ -371,7 +371,7 @@ module.exports = [
   },
   {
     "id": "grant-hill",
-    "name": "Grant·希尔",
+    "name": "格特·希尔",
     "name_en": "Grant Hill",
     "position": "SF",
     "height": 203,
@@ -455,7 +455,7 @@ module.exports = [
   },
   {
     "id": "grant-long",
-    "name": "Grant·朗",
+    "name": "格特·洛恩格",
     "name_en": "Grant Long",
     "position": "SF",
     "height": 206,
@@ -499,7 +499,7 @@ module.exports = [
   },
   {
     "id": "greg-anthony",
-    "name": "Greg Anthony",
+    "name": "格·特霍尼",
     "name_en": "Greg Anthony",
     "position": "PG",
     "height": 185,
@@ -541,7 +541,7 @@ module.exports = [
   },
   {
     "id": "greg-dreiling",
-    "name": "Greg Dreiling",
+    "name": "格·德埃尔英",
     "name_en": "Greg Dreiling",
     "position": "C",
     "height": 216,
@@ -577,7 +577,7 @@ module.exports = [
   },
   {
     "id": "greg-foster",
-    "name": "Greg Foster",
+    "name": "格·福斯特",
     "name_en": "Greg Foster",
     "position": "C",
     "height": 211,
@@ -621,7 +621,7 @@ module.exports = [
   },
   {
     "id": "greg-graham",
-    "name": "Greg·格雷厄姆",
+    "name": "格·格赫姆",
     "name_en": "Greg Graham",
     "position": "SG",
     "height": 193,
@@ -659,7 +659,7 @@ module.exports = [
   },
   {
     "id": "greg-minor",
-    "name": "Greg Minor",
+    "name": "格·明尔",
     "name_en": "Greg Minor",
     "position": "SG",
     "height": 198,
@@ -695,7 +695,7 @@ module.exports = [
   },
   {
     "id": "greg-ostertag",
-    "name": "Greg Ostertag",
+    "name": "格·斯特格",
     "name_en": "Greg Ostertag",
     "position": "C",
     "height": 218,
@@ -733,7 +733,7 @@ module.exports = [
   },
   {
     "id": "hakeem-olajuwon",
-    "name": "哈基姆·Olajuwon",
+    "name": "哈凯姆·尔阿朱沃恩",
     "name_en": "Hakeem Olajuwon",
     "position": "C",
     "height": 213,
@@ -771,7 +771,7 @@ module.exports = [
   },
   {
     "id": "harvey-grant",
-    "name": "Harvey·格兰特",
+    "name": "哈尔维伊·格特",
     "name_en": "Harvey Grant",
     "position": "SF",
     "height": 206,
@@ -809,7 +809,7 @@ module.exports = [
   },
   {
     "id": "haywoode-workman",
-    "name": "Haywoode Workman",
+    "name": "哈尤德埃·沃尔克曼",
     "name_en": "Haywoode Workman",
     "position": "SG",
     "height": 188,
@@ -849,7 +849,7 @@ module.exports = [
   },
   {
     "id": "greg-anderson",
-    "name": "Greg·安德森",
+    "name": "格·德斯昂",
     "name_en": "Greg Anderson",
     "position": "PF",
     "height": 208,
@@ -1005,7 +1005,7 @@ module.exports = [
   },
   {
     "id": "eldridge-recasner",
-    "name": "Eldridge Recasner",
+    "name": "德里德杰·雷卡斯尔",
     "name_en": "Eldridge Recasner",
     "position": "SG",
     "height": 190,
@@ -1045,7 +1045,7 @@ module.exports = [
   },
   {
     "id": "elliot-perry",
-    "name": "Elliot Perry",
+    "name": "尔伊特·佩尔里",
     "name_en": "Elliot Perry",
     "position": "PG",
     "height": 183,
@@ -1087,7 +1087,7 @@ module.exports = [
   },
   {
     "id": "elmer-bennett",
-    "name": "Elmer Bennett",
+    "name": "姆尔·贝恩内特",
     "name_en": "Elmer Bennett",
     "position": "PG",
     "height": 183,
@@ -1123,7 +1123,7 @@ module.exports = [
   },
   {
     "id": "elmore-spencer",
-    "name": "Elmore Spencer",
+    "name": "姆尔·斯恩塞尔",
     "name_en": "Elmore Spencer",
     "position": "C",
     "height": 213,
@@ -1159,7 +1159,7 @@ module.exports = [
   },
   {
     "id": "emanual-davis",
-    "name": "Emanual·戴维斯",
+    "name": "姆恩乌尔·达维斯",
     "name_en": "Emanual Davis",
     "position": "PG",
     "height": 196,
@@ -1199,7 +1199,7 @@ module.exports = [
   },
   {
     "id": "ennis-whatley",
-    "name": "Ennis Whatley",
+    "name": "恩尼斯·惠特利",
     "name_en": "Ennis Whatley",
     "position": "SG",
     "height": 190,
@@ -1235,7 +1235,7 @@ module.exports = [
   },
   {
     "id": "eric-leckner",
-    "name": "埃里克·Leckner",
+    "name": "里克·勒克内尔",
     "name_en": "Eric Leckner",
     "position": "C",
     "height": 211,
@@ -1307,7 +1307,7 @@ module.exports = [
   },
   {
     "id": "eric-montross",
-    "name": "埃里克·Montross",
+    "name": "里克·莫恩特斯",
     "name_en": "Eric Montross",
     "position": "C",
     "height": 213,
@@ -1347,7 +1347,7 @@ module.exports = [
   },
   {
     "id": "eric-murdock",
-    "name": "埃里克·Murdock",
+    "name": "里克·穆尔多克",
     "name_en": "Eric Murdock",
     "position": "PG",
     "height": 185,
@@ -1389,7 +1389,7 @@ module.exports = [
   },
   {
     "id": "eric-piatkowski",
-    "name": "埃里克·Piatkowski",
+    "name": "里克·皮特科沃斯克伊",
     "name_en": "Eric Piatkowski",
     "position": "SG",
     "height": 201,
@@ -1431,7 +1431,7 @@ module.exports = [
   },
   {
     "id": "eric-snow",
-    "name": "埃里克·Snow",
+    "name": "里克·斯奥",
     "name_en": "Eric Snow",
     "position": "SG",
     "height": 190,
@@ -1515,7 +1515,7 @@ module.exports = [
   },
   {
     "id": "erick-dampier",
-    "name": "Erick Dampier",
+    "name": "里克·达姆皮尔",
     "name_en": "Erick Dampier",
     "position": "C",
     "height": 211,
@@ -1559,7 +1559,7 @@ module.exports = [
   },
   {
     "id": "erick-strickland",
-    "name": "Erick·斯特里克兰",
+    "name": "里克·斯特里克兰",
     "name_en": "Erick Strickland",
     "position": "SG",
     "height": 190,
@@ -1603,7 +1603,7 @@ module.exports = [
   },
   {
     "id": "ervin-johnson",
-    "name": "Ervin·约翰逊",
+    "name": "尔维恩·乔赫恩森",
     "name_en": "Ervin Johnson",
     "position": "C",
     "height": 211,
@@ -1643,7 +1643,7 @@ module.exports = [
   },
   {
     "id": "evric-gray",
-    "name": "Evric·格雷",
+    "name": "夫里克·格伊",
     "name_en": "Evric Gray",
     "position": "SF",
     "height": 201,
@@ -1679,7 +1679,7 @@ module.exports = [
   },
   {
     "id": "felton-spencer",
-    "name": "Felton Spencer",
+    "name": "费尔顿·斯恩塞尔",
     "name_en": "Felton Spencer",
     "position": "C",
     "height": 213,
@@ -1719,7 +1719,7 @@ module.exports = [
   },
   {
     "id": "frank-brickowski",
-    "name": "Frank Brickowski",
+    "name": "弗克·布克斯基",
     "name_en": "Frank Brickowski",
     "position": "PF",
     "height": 206,
@@ -1755,7 +1755,7 @@ module.exports = [
   },
   {
     "id": "frankie-king",
-    "name": "Frankie·金",
+    "name": "弗克伊埃·金格",
     "name_en": "Frankie King",
     "position": "PG",
     "height": 185,
@@ -1791,7 +1791,7 @@ module.exports = [
   },
   {
     "id": "fred-hoiberg",
-    "name": "弗雷德·Hoiberg",
+    "name": "弗德·霍布尔格",
     "name_en": "Fred Hoiberg",
     "position": "SG",
     "height": 196,
@@ -1831,7 +1831,7 @@ module.exports = [
   },
   {
     "id": "henry-james",
-    "name": "Henry·詹姆斯",
+    "name": "赫恩里·贾梅斯",
     "name_en": "Henry James",
     "position": "SF",
     "height": 203,
@@ -1869,7 +1869,7 @@ module.exports = [
   },
   {
     "id": "elden-campbell",
-    "name": "Elden·坎贝尔",
+    "name": "德恩·卡姆普贝尔",
     "name_en": "Elden Campbell",
     "position": "PF",
     "height": 213,
@@ -1911,7 +1911,7 @@ module.exports = [
   },
   {
     "id": "herb-williams",
-    "name": "Herb·威廉姆斯",
+    "name": "赫尔布·威尔伊姆斯",
     "name_en": "Herb Williams",
     "position": "C",
     "height": 211,
@@ -1947,7 +1947,7 @@ module.exports = [
   },
   {
     "id": "horace-grant",
-    "name": "Horace·格兰特",
+    "name": "霍拉塞·格特",
     "name_en": "Horace Grant",
     "position": "C",
     "height": 208,
@@ -1987,7 +1987,7 @@ module.exports = [
   },
   {
     "id": "jerome-williams",
-    "name": "Jerome·威廉姆斯",
+    "name": "杰罗梅·威尔伊姆斯",
     "name_en": "Jerome Williams",
     "position": "PF",
     "height": 206,
@@ -2029,7 +2029,7 @@ module.exports = [
   },
   {
     "id": "jerry-stackhouse",
-    "name": "Jerry Stackhouse",
+    "name": "杰尔里·斯特克斯埃",
     "name_en": "Jerry Stackhouse",
     "position": "SF",
     "height": 198,
@@ -2079,7 +2079,7 @@ module.exports = [
   },
   {
     "id": "jim-jackson",
-    "name": "Jim·杰克逊",
+    "name": "吉姆·贾克森",
     "name_en": "Jim Jackson",
     "position": "SF",
     "height": 198,
@@ -2133,7 +2133,7 @@ module.exports = [
   },
   {
     "id": "jim-mcilvaine",
-    "name": "Jim McIlvaine",
+    "name": "吉姆·麦克尔瓦因",
     "name_en": "Jim McIlvaine",
     "position": "C",
     "height": 216,
@@ -2171,7 +2171,7 @@ module.exports = [
   },
   {
     "id": "jimmy-carruth",
-    "name": "吉米·Carruth",
+    "name": "吉姆迈·卡尔鲁斯",
     "name_en": "Jimmy Carruth",
     "position": "SF",
     "height": 208,
@@ -2283,7 +2283,7 @@ module.exports = [
   },
   {
     "id": "joe-courtney",
-    "name": "乔·Courtney",
+    "name": "乔埃·科特尼",
     "name_en": "Joe Courtney",
     "position": "SF",
     "height": 203,
@@ -2319,7 +2319,7 @@ module.exports = [
   },
   {
     "id": "joe-dumars",
-    "name": "乔·Dumars",
+    "name": "乔埃·杜马尔斯",
     "name_en": "Joe Dumars",
     "position": "PG",
     "height": 190,
@@ -2355,7 +2355,7 @@ module.exports = [
   },
   {
     "id": "jerome-kersey",
-    "name": "Jerome Kersey",
+    "name": "杰罗梅·凯尔塞伊",
     "name_en": "Jerome Kersey",
     "position": "SF",
     "height": 201,
@@ -2397,7 +2397,7 @@ module.exports = [
   },
   {
     "id": "joe-kleine",
-    "name": "乔·Kleine",
+    "name": "乔埃·克因埃",
     "name_en": "Joe Kleine",
     "position": "C",
     "height": 211,
@@ -2439,7 +2439,7 @@ module.exports = [
   },
   {
     "id": "joe-stephens",
-    "name": "乔·Stephens",
+    "name": "乔埃·斯特普赫恩斯",
     "name_en": "Joe Stephens",
     "position": "SF",
     "height": 201,
@@ -2477,7 +2477,7 @@ module.exports = [
   },
   {
     "id": "joe-wolf",
-    "name": "乔·Wolf",
+    "name": "乔埃·沃尔夫",
     "name_en": "Joe Wolf",
     "position": "PF",
     "height": 211,
@@ -2517,7 +2517,7 @@ module.exports = [
   },
   {
     "id": "john-crotty",
-    "name": "约翰·Crotty",
+    "name": "乔赫恩·克特伊",
     "name_en": "John Crotty",
     "position": "SG",
     "height": 185,
@@ -2599,7 +2599,7 @@ module.exports = [
   },
   {
     "id": "john-starks",
-    "name": "约翰·Starks",
+    "name": "乔赫恩·斯特克斯",
     "name_en": "John Starks",
     "position": "PG",
     "height": 196,
@@ -2641,7 +2641,7 @@ module.exports = [
   },
   {
     "id": "john-stockton",
-    "name": "约翰·Stockton",
+    "name": "乔赫恩·斯特克顿",
     "name_en": "John Stockton",
     "position": "SG",
     "height": 185,
@@ -2721,7 +2721,7 @@ module.exports = [
   },
   {
     "id": "johnny-newman",
-    "name": "Johnny·纽曼",
+    "name": "乔赫恩尼·内沃曼",
     "name_en": "Johnny Newman",
     "position": "SF",
     "height": 201,
@@ -2765,7 +2765,7 @@ module.exports = [
   },
   {
     "id": "jon-barry",
-    "name": "Jon Barry",
+    "name": "乔恩·巴尔里",
     "name_en": "Jon Barry",
     "position": "PG",
     "height": 196,
@@ -2861,7 +2861,7 @@ module.exports = [
   },
   {
     "id": "jerome-allen",
-    "name": "Jerome Allen",
+    "name": "杰罗梅·尔恩",
     "name_en": "Jerome Allen",
     "position": "SG",
     "height": 193,
@@ -2897,7 +2897,7 @@ module.exports = [
   },
   {
     "id": "jermaine-oneal",
-    "name": "Jermaine·奥尼尔",
+    "name": "杰姆恩埃·奥内尔",
     "name_en": "Jermaine O'Neal",
     "position": "PF",
     "height": 211,
@@ -2943,7 +2943,7 @@ module.exports = [
   },
   {
     "id": "jeff-mcinnis",
-    "name": "杰夫·Mcinnis",
+    "name": "杰弗·麦克因尼斯",
     "name_en": "Jeff McInnis",
     "position": "PG",
     "height": 193,
@@ -2991,7 +2991,7 @@ module.exports = [
   },
   {
     "id": "horacio-llamas",
-    "name": "Horacio Llamas",
+    "name": "霍拉西奥·尔姆斯",
     "name_en": "Horacio Llamas",
     "position": "C",
     "height": 211,
@@ -3027,7 +3027,7 @@ module.exports = [
   },
   {
     "id": "hot-rod-williams",
-    "name": "Hot·威廉姆斯",
+    "name": "霍特·威尔伊姆斯",
     "name_en": "Hot Rod Williams",
     "position": "C",
     "height": 211,
@@ -3065,7 +3065,7 @@ module.exports = [
   },
   {
     "id": "howard-eisley",
-    "name": "Howard Eisley",
+    "name": "霍瓦尔德·埃斯利",
     "name_en": "Howard Eisley",
     "position": "PG",
     "height": 188,
@@ -3109,7 +3109,7 @@ module.exports = [
   },
   {
     "id": "hubert-davis",
-    "name": "Hubert·戴维斯",
+    "name": "胡贝尔特·达维斯",
     "name_en": "Hubert Davis",
     "position": "PG",
     "height": 196,
@@ -3153,7 +3153,7 @@ module.exports = [
   },
   {
     "id": "ike-austin",
-    "name": "Ike Austin",
+    "name": "克·阿斯特因",
     "name_en": "Ike Austin",
     "position": "C",
     "height": 208,
@@ -3199,7 +3199,7 @@ module.exports = [
   },
   {
     "id": "isaiah-rider",
-    "name": "以赛亚·Rider",
+    "name": "斯阿伊赫·里德尔",
     "name_en": "Isaiah Rider",
     "position": "PG",
     "height": 196,
@@ -3241,7 +3241,7 @@ module.exports = [
   },
   {
     "id": "ivano-newbill",
-    "name": "Ivano Newbill",
+    "name": "夫恩奥·内沃比尔",
     "name_en": "Ivano Newbill",
     "position": "C",
     "height": 208,
@@ -3279,7 +3279,7 @@ module.exports = [
   },
   {
     "id": "jack-haley",
-    "name": "Jack Haley",
+    "name": "贾克·哈利",
     "name_en": "Jack Haley",
     "position": "C",
     "height": 208,
@@ -3359,7 +3359,7 @@ module.exports = [
   },
   {
     "id": "jamal-mashburn",
-    "name": "贾马尔·Mashburn",
+    "name": "贾马尔·马什布尔恩",
     "name_en": "Jamal Mashburn",
     "position": "SF",
     "height": 203,
@@ -3439,7 +3439,7 @@ module.exports = [
   },
   {
     "id": "james-scott",
-    "name": "詹姆斯·Scott",
+    "name": "贾梅斯·斯特",
     "name_en": "James Scott",
     "position": "SF",
     "height": 198,
@@ -3475,7 +3475,7 @@ module.exports = [
   },
   {
     "id": "jamie-feick",
-    "name": "Jamie Feick",
+    "name": "贾米埃·费克",
     "name_en": "Jamie Feick",
     "position": "SF",
     "height": 206,
@@ -3515,7 +3515,7 @@ module.exports = [
   },
   {
     "id": "jamie-watson",
-    "name": "Jamie·沃森",
+    "name": "贾米埃·瓦特森",
     "name_en": "Jamie Watson",
     "position": "SF",
     "height": 201,
@@ -3553,7 +3553,7 @@ module.exports = [
   },
   {
     "id": "jaren-jackson",
-    "name": "Jaren·杰克逊",
+    "name": "贾雷恩·贾克森",
     "name_en": "Jaren Jackson",
     "position": "SG",
     "height": 198,
@@ -3593,7 +3593,7 @@ module.exports = [
   },
   {
     "id": "jason-caffey",
-    "name": "杰森·Caffey",
+    "name": "贾森·卡弗费伊",
     "name_en": "Jason Caffey",
     "position": "SF",
     "height": 203,
@@ -3675,7 +3675,7 @@ module.exports = [
   },
   {
     "id": "jason-sasser",
-    "name": "杰森·Sasser",
+    "name": "贾森·萨斯塞尔",
     "name_en": "Jason Sasser",
     "position": "SF",
     "height": 201,
@@ -3749,7 +3749,7 @@ module.exports = [
   },
   {
     "id": "jeff-grayer",
-    "name": "杰夫·Grayer",
+    "name": "杰弗·格耶尔",
     "name_en": "Jeff Grayer",
     "position": "SG",
     "height": 196,
@@ -3787,7 +3787,7 @@ module.exports = [
   },
   {
     "id": "jeff-hornacek",
-    "name": "杰夫·Hornacek",
+    "name": "杰弗·霍尔纳塞克",
     "name_en": "Jeff Hornacek",
     "position": "PG",
     "height": 193,
@@ -3823,7 +3823,7 @@ module.exports = [
   },
   {
     "id": "hersey-hawkins",
-    "name": "Hersey·霍金斯",
+    "name": "赫尔塞伊·哈沃金斯",
     "name_en": "Hersey Hawkins",
     "position": "PG",
     "height": 190,
@@ -3863,7 +3863,7 @@ module.exports = [
   },
   {
     "id": "eddie-jones",
-    "name": "Eddie·琼斯",
+    "name": "德迪埃·乔内斯",
     "name_en": "Eddie Jones",
     "position": "SG",
     "height": 198,
@@ -3907,7 +3907,7 @@ module.exports = [
   },
   {
     "id": "eddie-johnson",
-    "name": "Eddie·约翰逊",
+    "name": "德迪埃·乔赫恩森",
     "name_en": "Eddie Johnson",
     "position": "PG",
     "height": 201,
@@ -3943,7 +3943,7 @@ module.exports = [
   },
   {
     "id": "ed-pinckney",
-    "name": "Ed Pinckney",
+    "name": "德·平克尼",
     "name_en": "Ed Pinckney",
     "position": "SF",
     "height": 206,
@@ -3979,7 +3979,7 @@ module.exports = [
   },
   {
     "id": "chris-jent",
-    "name": "克里斯·Jent",
+    "name": "奇里斯·杰恩特",
     "name_en": "Chris Jent",
     "position": "SF",
     "height": 201,
@@ -4093,7 +4093,7 @@ module.exports = [
   },
   {
     "id": "chris-mullin",
-    "name": "克里斯·Mullin",
+    "name": "奇里斯·穆尔因",
     "name_en": "Chris Mullin",
     "position": "SF",
     "height": 198,
@@ -4169,7 +4169,7 @@ module.exports = [
   },
   {
     "id": "chris-webber",
-    "name": "克里斯·Webber",
+    "name": "奇里斯·韦布贝尔",
     "name_en": "Chris Webber",
     "position": "PF",
     "height": 208,
@@ -4251,7 +4251,7 @@ module.exports = [
   },
   {
     "id": "christian-laettner",
-    "name": "Christian Laettner",
+    "name": "奇里斯特伊恩·拉特内尔",
     "name_en": "Christian Laettner",
     "position": "PF",
     "height": 211,
@@ -4293,7 +4293,7 @@ module.exports = [
   },
   {
     "id": "chucky-brown",
-    "name": "Chucky·布朗",
+    "name": "奇克伊·布恩",
     "name_en": "Chucky Brown",
     "position": "SF",
     "height": 203,
@@ -4337,7 +4337,7 @@ module.exports = [
   },
   {
     "id": "chris-gatling",
-    "name": "克里斯·Gatling",
+    "name": "奇里斯·加特利恩格",
     "name_en": "Chris Gatling",
     "position": "PF",
     "height": 208,
@@ -4381,7 +4381,7 @@ module.exports = [
   },
   {
     "id": "clar-weatherspoon",
-    "name": "Clar. Weatherspoon",
+    "name": "克尔·韦特赫尔斯恩",
     "name_en": "Clar. Weatherspoon",
     "position": "SF",
     "height": 201,
@@ -4427,7 +4427,7 @@ module.exports = [
   },
   {
     "id": "clifford-rozier",
-    "name": "Clifford·罗齐尔",
+    "name": "克夫德·罗齐尔",
     "name_en": "Clifford Rozier",
     "position": "PF",
     "height": 211,
@@ -4465,7 +4465,7 @@ module.exports = [
   },
   {
     "id": "clyde-drexler",
-    "name": "克莱德·Drexler",
+    "name": "克伊德·德克斯勒尔",
     "name_en": "Clyde Drexler",
     "position": "PG",
     "height": 201,
@@ -4501,7 +4501,7 @@ module.exports = [
   },
   {
     "id": "corie-blount",
-    "name": "Corie Blount",
+    "name": "科尔伊埃·布洛特",
     "name_en": "Corie Blount",
     "position": "PF",
     "height": 208,
@@ -4549,7 +4549,7 @@ module.exports = [
   },
   {
     "id": "corliss-williamson",
-    "name": "Corliss·威廉森",
+    "name": "科尔利斯·威尔伊姆森",
     "name_en": "Corliss Williamson",
     "position": "SF",
     "height": 201,
@@ -4587,7 +4587,7 @@ module.exports = [
   },
   {
     "id": "cory-alexander",
-    "name": "科里·Alexander",
+    "name": "科尔伊·尔克斯德尔",
     "name_en": "Cory Alexander",
     "position": "SG",
     "height": 185,
@@ -4629,7 +4629,7 @@ module.exports = [
   },
   {
     "id": "craig-ehlo",
-    "name": "Craig Ehlo",
+    "name": "克阿格·赫洛",
     "name_en": "Craig Ehlo",
     "position": "SG",
     "height": 198,
@@ -4665,7 +4665,7 @@ module.exports = [
   },
   {
     "id": "cuonzo-martin",
-    "name": "Cuonzo·马丁",
+    "name": "库昂佐·马尔蒂恩",
     "name_en": "Cuonzo Martin",
     "position": "SG",
     "height": 196,
@@ -4701,7 +4701,7 @@ module.exports = [
   },
   {
     "id": "dale-davis",
-    "name": "Dale·戴维斯",
+    "name": "达勒·达维斯",
     "name_en": "Dale Davis",
     "position": "PF",
     "height": 211,
@@ -4741,7 +4741,7 @@ module.exports = [
   },
   {
     "id": "dale-ellis",
-    "name": "Dale·埃利斯",
+    "name": "达勒·尔斯",
     "name_en": "Dale Ellis",
     "position": "SG",
     "height": 201,
@@ -4781,7 +4781,7 @@ module.exports = [
   },
   {
     "id": "clifford-robinson",
-    "name": "Clifford·罗宾逊",
+    "name": "克夫德·罗比恩森",
     "name_en": "Clifford Robinson",
     "position": "PF",
     "height": 208,
@@ -4825,7 +4825,7 @@ module.exports = [
   },
   {
     "id": "chris-dudley",
-    "name": "克里斯·Dudley",
+    "name": "奇里斯·杜德利",
     "name_en": "Chris Dudley",
     "position": "C",
     "height": 211,
@@ -4865,7 +4865,7 @@ module.exports = [
   },
   {
     "id": "chris-childs",
-    "name": "克里斯·Childs",
+    "name": "奇里斯·奇尔德斯",
     "name_en": "Chris Childs",
     "position": "PG",
     "height": 190,
@@ -4905,7 +4905,7 @@ module.exports = [
   },
   {
     "id": "chris-carr",
-    "name": "克里斯·Carr",
+    "name": "奇里斯·卡尔",
     "name_en": "Chris Carr",
     "position": "SG",
     "height": 198,
@@ -4947,7 +4947,7 @@ module.exports = [
   },
   {
     "id": "brian-evans",
-    "name": "Brian·埃文斯",
+    "name": "布伊恩·夫恩斯",
     "name_en": "Brian Evans",
     "position": "SF",
     "height": 203,
@@ -4987,7 +4987,7 @@ module.exports = [
   },
   {
     "id": "brian-grant",
-    "name": "Brian·格兰特",
+    "name": "布伊恩·格特",
     "name_en": "Brian Grant",
     "position": "PF",
     "height": 206,
@@ -5031,7 +5031,7 @@ module.exports = [
   },
   {
     "id": "brian-shaw",
-    "name": "Brian·肖",
+    "name": "布伊恩·什奥",
     "name_en": "Brian Shaw",
     "position": "SG",
     "height": 198,
@@ -5073,7 +5073,7 @@ module.exports = [
   },
   {
     "id": "brooks-thompson",
-    "name": "Brooks·汤普森",
+    "name": "布克斯·斯普森",
     "name_en": "Brooks Thompson",
     "position": "SG",
     "height": 193,
@@ -5111,7 +5111,7 @@ module.exports = [
   },
   {
     "id": "bruce-bowen",
-    "name": "Bruce Bowen",
+    "name": "布斯·博韦恩",
     "name_en": "Bruce Bowen",
     "position": "SF",
     "height": 201,
@@ -5151,7 +5151,7 @@ module.exports = [
   },
   {
     "id": "bryant-reeves",
-    "name": "Bryant Reeves",
+    "name": "布亚恩特·雷夫斯",
     "name_en": "Bryant Reeves",
     "position": "C",
     "height": 213,
@@ -5187,7 +5187,7 @@ module.exports = [
   },
   {
     "id": "bryant-stith",
-    "name": "Bryant Stith",
+    "name": "布亚恩特·斯特斯",
     "name_en": "Bryant Stith",
     "position": "SG",
     "height": 196,
@@ -5227,7 +5227,7 @@ module.exports = [
   },
   {
     "id": "bryon-russell",
-    "name": "Bryon·拉塞尔",
+    "name": "布约恩·鲁斯塞尔",
     "name_en": "Bryon Russell",
     "position": "SG",
     "height": 201,
@@ -5269,7 +5269,7 @@ module.exports = [
   },
   {
     "id": "buck-williams",
-    "name": "Buck·威廉姆斯",
+    "name": "布克·威尔伊姆斯",
     "name_en": "Buck Williams",
     "position": "SF",
     "height": 203,
@@ -5305,7 +5305,7 @@ module.exports = [
   },
   {
     "id": "byron-scott",
-    "name": "Byron Scott",
+    "name": "拜罗恩·斯特",
     "name_en": "Byron Scott",
     "position": "PG",
     "height": 193,
@@ -5341,7 +5341,7 @@ module.exports = [
   },
   {
     "id": "calbert-cheaney",
-    "name": "Calbert Cheaney",
+    "name": "卡尔贝特·奇安伊",
     "name_en": "Calbert Cheaney",
     "position": "SG",
     "height": 201,
@@ -5385,7 +5385,7 @@ module.exports = [
   },
   {
     "id": "carl-herrera",
-    "name": "Carl Herrera",
+    "name": "卡尔·赫尔雷拉",
     "name_en": "Carl Herrera",
     "position": "SF",
     "height": 206,
@@ -5423,7 +5423,7 @@ module.exports = [
   },
   {
     "id": "carl-thomas",
-    "name": "Carl·托马斯",
+    "name": "卡尔·斯姆斯",
     "name_en": "Carl Thomas",
     "position": "SG",
     "height": 193,
@@ -5459,7 +5459,7 @@ module.exports = [
   },
   {
     "id": "carlos-rogers",
-    "name": "Carlos·罗杰斯",
+    "name": "卡尔洛斯·罗杰尔斯",
     "name_en": "Carlos Rogers",
     "position": "PF",
     "height": 211,
@@ -5501,7 +5501,7 @@ module.exports = [
   },
   {
     "id": "cedric-ceballos",
-    "name": "Cedric Ceballos",
+    "name": "塞德克·塞巴尔斯",
     "name_en": "Cedric Ceballos",
     "position": "SF",
     "height": 201,
@@ -5541,7 +5541,7 @@ module.exports = [
   },
   {
     "id": "charles-barkley",
-    "name": "查尔斯·Barkley",
+    "name": "奇尔勒斯·巴尔克伊",
     "name_en": "Charles Barkley",
     "position": "SF",
     "height": 198,
@@ -5613,7 +5613,7 @@ module.exports = [
   },
   {
     "id": "charles-oakley",
-    "name": "查尔斯·Oakley",
+    "name": "奇尔勒斯·奥克利",
     "name_en": "Charles Oakley",
     "position": "SF",
     "height": 206,
@@ -5699,7 +5699,7 @@ module.exports = [
   },
   {
     "id": "charlie-ward",
-    "name": "Charlie Ward",
+    "name": "奇尔利埃·瓦尔德",
     "name_en": "Charlie Ward",
     "position": "PG",
     "height": 188,
@@ -5739,7 +5739,7 @@ module.exports = [
   },
   {
     "id": "cherokee-parks",
-    "name": "Cherokee·帕克斯",
+    "name": "奇罗凯埃·帕尔克斯",
     "name_en": "Cherokee Parks",
     "position": "PF",
     "height": 211,
@@ -5783,7 +5783,7 @@ module.exports = [
   },
   {
     "id": "damon-stoudamire",
-    "name": "Damon Stoudamire",
+    "name": "达莫恩·斯特德姆尔",
     "name_en": "Damon Stoudamire",
     "position": "PG",
     "height": 178,
@@ -5825,7 +5825,7 @@ module.exports = [
   },
   {
     "id": "dan-majerle",
-    "name": "Dan Majerle",
+    "name": "达恩·马杰尔勒",
     "name_en": "Dan Majerle",
     "position": "SG",
     "height": 198,
@@ -5863,7 +5863,7 @@ module.exports = [
   },
   {
     "id": "dan-schayes",
-    "name": "Dan Schayes",
+    "name": "达恩·斯哈耶斯",
     "name_en": "Dan Schayes",
     "position": "C",
     "height": 211,
@@ -5899,7 +5899,7 @@ module.exports = [
   },
   {
     "id": "dana-barros",
-    "name": "Dana Barros",
+    "name": "达纳·巴尔罗斯",
     "name_en": "Dana Barros",
     "position": "SG",
     "height": 180,
@@ -5937,7 +5937,7 @@ module.exports = [
   },
   {
     "id": "dexter-boney",
-    "name": "Dexter Boney",
+    "name": "德克斯特尔·邦伊",
     "name_en": "Dexter Boney",
     "position": "PG",
     "height": 193,
@@ -5973,7 +5973,7 @@ module.exports = [
   },
   {
     "id": "dickey-simpkins",
-    "name": "Dickey Simpkins",
+    "name": "迪克伊·西姆普金斯",
     "name_en": "Dickey Simpkins",
     "position": "PF",
     "height": 206,
@@ -6011,7 +6011,7 @@ module.exports = [
   },
   {
     "id": "dikembe-mutombo",
-    "name": "Dikembe Mutombo",
+    "name": "迪凯姆贝·穆托姆博",
     "name_en": "Dikembe Mutombo",
     "position": "C",
     "height": 218,
@@ -6055,7 +6055,7 @@ module.exports = [
   },
   {
     "id": "dino-radja",
-    "name": "Dino Radja",
+    "name": "迪诺·拉德贾",
     "name_en": "Dino Radja",
     "position": "SF",
     "height": 211,
@@ -6129,7 +6129,7 @@ module.exports = [
   },
   {
     "id": "don-maclean",
-    "name": "Don MacLean",
+    "name": "多恩·马克安",
     "name_en": "Don MacLean",
     "position": "SF",
     "height": 208,
@@ -6173,7 +6173,7 @@ module.exports = [
   },
   {
     "id": "don-reid",
-    "name": "Don·里德",
+    "name": "登·雷德",
     "name_en": "Don Reid",
     "position": "SF",
     "height": 203,
@@ -6213,7 +6213,7 @@ module.exports = [
   },
   {
     "id": "donald-royal",
-    "name": "Donald Royal",
+    "name": "多纳尔德·罗亚尔",
     "name_en": "Donald Royal",
     "position": "SF",
     "height": 203,
@@ -6249,7 +6249,7 @@ module.exports = [
   },
   {
     "id": "donald-whiteside",
-    "name": "Donald Whiteside",
+    "name": "多纳尔德·惠特西德",
     "name_en": "Donald Whiteside",
     "position": "PG",
     "height": 178,
@@ -6287,7 +6287,7 @@ module.exports = [
   },
   {
     "id": "donnie-boyce",
-    "name": "Donnie Boyce",
+    "name": "登尼埃·博斯",
     "name_en": "Donnie Boyce",
     "position": "SG",
     "height": 196,
@@ -6323,7 +6323,7 @@ module.exports = [
   },
   {
     "id": "donny-marshall",
-    "name": "Donny·马歇尔",
+    "name": "多恩尼·马尔什尔",
     "name_en": "Donny Marshall",
     "position": "SF",
     "height": 201,
@@ -6361,7 +6361,7 @@ module.exports = [
   },
   {
     "id": "dontonio-wingfield",
-    "name": "Dontonio Wingfield",
+    "name": "登顿伊奥·温格菲德",
     "name_en": "Dontonio Wingfield",
     "position": "SF",
     "height": 203,
@@ -6397,7 +6397,7 @@ module.exports = [
   },
   {
     "id": "donyell-marshall",
-    "name": "Donyell·马歇尔",
+    "name": "多尼尔·马尔什尔",
     "name_en": "Donyell Marshall",
     "position": "SF",
     "height": 206,
@@ -6445,7 +6445,7 @@ module.exports = [
   },
   {
     "id": "doug-christie",
-    "name": "道格·Christie",
+    "name": "多格·奇里斯特伊埃",
     "name_en": "Doug Christie",
     "position": "SG",
     "height": 198,
@@ -6489,7 +6489,7 @@ module.exports = [
   },
   {
     "id": "doug-overton",
-    "name": "道格·Overton",
+    "name": "多格·夫特昂",
     "name_en": "Doug Overton",
     "position": "SG",
     "height": 190,
@@ -6569,7 +6569,7 @@ module.exports = [
   },
   {
     "id": "duane-causwell",
-    "name": "Duane Causwell",
+    "name": "杜恩·卡斯韦尔",
     "name_en": "Duane Causwell",
     "position": "C",
     "height": 213,
@@ -6607,7 +6607,7 @@ module.exports = [
   },
   {
     "id": "duane-ferrell",
-    "name": "Duane Ferrell",
+    "name": "杜恩·费尔雷尔",
     "name_en": "Duane Ferrell",
     "position": "SF",
     "height": 201,
@@ -6645,7 +6645,7 @@ module.exports = [
   },
   {
     "id": "dwayne-schintzius",
-    "name": "Dwayne Schintzius",
+    "name": "德瓦因·斯希恩特齐斯",
     "name_en": "Dwayne Schintzius",
     "position": "C",
     "height": 218,
@@ -6683,7 +6683,7 @@ module.exports = [
   },
   {
     "id": "earl-cureton",
-    "name": "Earl Cureton",
+    "name": "尔·库雷顿",
     "name_en": "Earl Cureton",
     "position": "SF",
     "height": 206,
@@ -6719,7 +6719,7 @@ module.exports = [
   },
   {
     "id": "ed-obannon",
-    "name": "Ed O'Bannon",
+    "name": "德·奥巴恩诺恩",
     "name_en": "Ed O'Bannon",
     "position": "SG",
     "height": 203,
@@ -6793,7 +6793,7 @@ module.exports = [
   },
   {
     "id": "jud-buechler",
-    "name": "Jud Buechler",
+    "name": "朱德·布克赫勒尔",
     "name_en": "Jud Buechler",
     "position": "SG",
     "height": 198,
@@ -6833,7 +6833,7 @@ module.exports = [
   },
   {
     "id": "detlef-schrempf",
-    "name": "Detlef Schrempf",
+    "name": "德特勒弗·斯赫雷姆普弗",
     "name_en": "Detlef Schrempf",
     "position": "SF",
     "height": 208,
@@ -6911,7 +6911,7 @@ module.exports = [
   },
   {
     "id": "danny-ferry",
-    "name": "Danny Ferry",
+    "name": "达恩尼·费尔里",
     "name_en": "Danny Ferry",
     "position": "SF",
     "height": 208,
@@ -6949,7 +6949,7 @@ module.exports = [
   },
   {
     "id": "danny-manning",
-    "name": "Danny·曼宁",
+    "name": "达恩尼·曼尼恩格",
     "name_en": "Danny Manning",
     "position": "PF",
     "height": 208,
@@ -6993,7 +6993,7 @@ module.exports = [
   },
   {
     "id": "darrell-armstrong",
-    "name": "Darrell Armstrong",
+    "name": "达尔雷尔·尔姆斯特罗恩格",
     "name_en": "Darrell Armstrong",
     "position": "SG",
     "height": 185,
@@ -7037,7 +7037,7 @@ module.exports = [
   },
   {
     "id": "darrick-martin",
-    "name": "Darrick·马丁",
+    "name": "达尔里克·马尔蒂恩",
     "name_en": "Darrick Martin",
     "position": "SG",
     "height": 180,
@@ -7081,7 +7081,7 @@ module.exports = [
   },
   {
     "id": "darrin-hancock",
-    "name": "Darrin Hancock",
+    "name": "达尔里恩·哈恩科克",
     "name_en": "Darrin Hancock",
     "position": "SF",
     "height": 201,
@@ -7117,7 +7117,7 @@ module.exports = [
   },
   {
     "id": "darvin-ham",
-    "name": "Darvin Ham",
+    "name": "达尔维恩·哈姆",
     "name_en": "Darvin Ham",
     "position": "SF",
     "height": 201,
@@ -7235,7 +7235,7 @@ module.exports = [
   },
   {
     "id": "david-wesley",
-    "name": "大卫·Wesley",
+    "name": "达维德·韦斯伊",
     "name_en": "David Wesley",
     "position": "PG",
     "height": 185,
@@ -7279,7 +7279,7 @@ module.exports = [
   },
   {
     "id": "david-wingate",
-    "name": "大卫·Wingate",
+    "name": "达维德·威恩加特",
     "name_en": "David Wingate",
     "position": "SG",
     "height": 196,
@@ -7393,7 +7393,7 @@ module.exports = [
   },
   {
     "id": "dee-brown",
-    "name": "Dee·布朗",
+    "name": "德埃·布恩",
     "name_en": "Dee Brown",
     "position": "PG",
     "height": 183,
@@ -7437,7 +7437,7 @@ module.exports = [
   },
   {
     "id": "dell-curry",
-    "name": "Dell·库里",
+    "name": "德尔·库尔里",
     "name_en": "Dell Curry",
     "position": "SG",
     "height": 196,
@@ -7477,7 +7477,7 @@ module.exports = [
   },
   {
     "id": "dell-demps",
-    "name": "Dell Demps",
+    "name": "德尔·德姆普斯",
     "name_en": "Dell Demps",
     "position": "SG",
     "height": 190,
@@ -7513,7 +7513,7 @@ module.exports = [
   },
   {
     "id": "dennis-rodman",
-    "name": "丹尼斯·Rodman",
+    "name": "德恩尼斯·罗德曼",
     "name_en": "Dennis Rodman",
     "position": "SF",
     "height": 201,
@@ -7553,7 +7553,7 @@ module.exports = [
   },
   {
     "id": "dennis-scott",
-    "name": "丹尼斯·Scott",
+    "name": "德恩尼斯·斯特",
     "name_en": "Dennis Scott",
     "position": "SF",
     "height": 203,
@@ -7677,7 +7677,7 @@ module.exports = [
   },
   {
     "id": "derek-strong",
-    "name": "德里克·Strong",
+    "name": "德雷克·斯特罗恩格",
     "name_en": "Derek Strong",
     "position": "SF",
     "height": 206,
@@ -7715,7 +7715,7 @@ module.exports = [
   },
   {
     "id": "derrick-alston",
-    "name": "德里克·Alston",
+    "name": "德尔里克·尔斯特昂",
     "name_en": "Derrick Alston",
     "position": "SF",
     "height": 211,
@@ -7751,7 +7751,7 @@ module.exports = [
   },
   {
     "id": "derrick-mckey",
-    "name": "德里克·Mckey",
+    "name": "德尔里克·麦克凯伊",
     "name_en": "Derrick McKey",
     "position": "SF",
     "height": 208,
@@ -7789,7 +7789,7 @@ module.exports = [
   },
   {
     "id": "brett-szabo",
-    "name": "Brett Szabo",
+    "name": "布特·斯扎博",
     "name_en": "Brett Szabo",
     "position": "C",
     "height": 211,
@@ -7825,7 +7825,7 @@ module.exports = [
   },
   {
     "id": "juwan-howard",
-    "name": "Juwan·霍华德",
+    "name": "朱瓦恩·霍瓦尔德",
     "name_en": "Juwan Howard",
     "position": "SF",
     "height": 206,
@@ -7875,7 +7875,7 @@ module.exports = [
   },
   {
     "id": "keith-askins",
-    "name": "Keith Askins",
+    "name": "凯斯·斯基恩斯",
     "name_en": "Keith Askins",
     "position": "SF",
     "height": 203,
@@ -7911,7 +7911,7 @@ module.exports = [
   },
   {
     "id": "scott-burrell",
-    "name": "Scott Burrell",
+    "name": "斯特·布尔雷尔",
     "name_en": "Scott Burrell",
     "position": "PG",
     "height": 201,
@@ -7953,7 +7953,7 @@ module.exports = [
   },
   {
     "id": "scott-williams",
-    "name": "Scott·威廉姆斯",
+    "name": "斯特·威尔伊姆斯",
     "name_en": "Scott Williams",
     "position": "PF",
     "height": 208,
@@ -7999,7 +7999,7 @@ module.exports = [
   },
   {
     "id": "scottie-pippen",
-    "name": "斯科蒂·Pippen",
+    "name": "斯特伊埃·皮普佩恩",
     "name_en": "Scottie Pippen",
     "position": "SF",
     "height": 203,
@@ -8039,7 +8039,7 @@ module.exports = [
   },
   {
     "id": "sean-elliott",
-    "name": "Sean·埃利奥特",
+    "name": "塞恩·尔伊特",
     "name_en": "Sean Elliott",
     "position": "SF",
     "height": 203,
@@ -8075,7 +8075,7 @@ module.exports = [
   },
   {
     "id": "sean-rooks",
-    "name": "Sean Rooks",
+    "name": "塞恩·罗克斯",
     "name_en": "Sean Rooks",
     "position": "C",
     "height": 208,
@@ -8117,7 +8117,7 @@ module.exports = [
   },
   {
     "id": "sedale-threatt",
-    "name": "Sedale Threatt",
+    "name": "塞达勒·斯雷特",
     "name_en": "Sedale Threatt",
     "position": "SG",
     "height": 188,
@@ -8153,7 +8153,7 @@ module.exports = [
   },
   {
     "id": "shandon-anderson",
-    "name": "Shandon·安德森",
+    "name": "什德昂·德斯昂",
     "name_en": "Shandon Anderson",
     "position": "SG",
     "height": 198,
@@ -8195,7 +8195,7 @@ module.exports = [
   },
   {
     "id": "shane-heal",
-    "name": "Shane Heal",
+    "name": "什恩·赫尔",
     "name_en": "Shane Heal",
     "position": "SG",
     "height": 183,
@@ -8277,7 +8277,7 @@ module.exports = [
   },
   {
     "id": "scott-brooks",
-    "name": "Scott·布鲁克斯",
+    "name": "斯特·布克斯",
     "name_en": "Scott Brooks",
     "position": "SG",
     "height": 180,
@@ -8315,7 +8315,7 @@ module.exports = [
   },
   {
     "id": "shareef-abdur-rahim",
-    "name": "Shareef Abdur-Rahim",
+    "name": "什尔埃夫·布杜尔-拉希姆",
     "name_en": "Shareef Abdur-Rahim",
     "position": "SF",
     "height": 206,
@@ -8357,7 +8357,7 @@ module.exports = [
   },
   {
     "id": "shawn-bradley",
-    "name": "Shawn·布拉德利",
+    "name": "什恩·布德利",
     "name_en": "Shawn Bradley",
     "position": "C",
     "height": 229,
@@ -8393,7 +8393,7 @@ module.exports = [
   },
   {
     "id": "shawn-kemp",
-    "name": "Shawn Kemp",
+    "name": "什恩·凯姆普",
     "name_en": "Shawn Kemp",
     "position": "SF",
     "height": 208,
@@ -8435,7 +8435,7 @@ module.exports = [
   },
   {
     "id": "shawn-respert",
-    "name": "Shawn Respert",
+    "name": "什恩·雷斯特",
     "name_en": "Shawn Respert",
     "position": "SG",
     "height": 185,
@@ -8475,7 +8475,7 @@ module.exports = [
   },
   {
     "id": "shawnelle-scott",
-    "name": "Shawnelle Scott",
+    "name": "什恩尔埃·斯特",
     "name_en": "Shawnelle Scott",
     "position": "C",
     "height": 208,
@@ -8515,7 +8515,7 @@ module.exports = [
   },
   {
     "id": "sherman-douglas",
-    "name": "Sherman·道格拉斯",
+    "name": "什尔曼·多格拉斯",
     "name_en": "Sherman Douglas",
     "position": "SG",
     "height": 183,
@@ -8555,7 +8555,7 @@ module.exports = [
   },
   {
     "id": "stacey-augmon",
-    "name": "Stacey Augmon",
+    "name": "斯特克伊·阿格莫恩",
     "name_en": "Stacey Augmon",
     "position": "SF",
     "height": 203,
@@ -8597,7 +8597,7 @@ module.exports = [
   },
   {
     "id": "stacey-king",
-    "name": "Stacey·金",
+    "name": "斯特克伊·基恩格",
     "name_en": "Stacey King",
     "position": "PF",
     "height": 211,
@@ -8633,7 +8633,7 @@ module.exports = [
   },
   {
     "id": "stanley-roberts",
-    "name": "Stanley·罗伯茨",
+    "name": "斯特恩利·罗贝尔特斯",
     "name_en": "Stanley Roberts",
     "position": "C",
     "height": 213,
@@ -8713,7 +8713,7 @@ module.exports = [
   },
   {
     "id": "sharone-wright",
-    "name": "Sharone·赖特",
+    "name": "什尔恩·尔伊特",
     "name_en": "Sharone Wright",
     "position": "C",
     "height": 211,
@@ -8749,7 +8749,7 @@ module.exports = [
   },
   {
     "id": "sasha-danilovic",
-    "name": "Sasha Danilovic",
+    "name": "萨什阿·达尼洛维克",
     "name_en": "Sasha Danilovic",
     "position": "PG",
     "height": 198,
@@ -8785,7 +8785,7 @@ module.exports = [
   },
   {
     "id": "sarunas-marciulionis",
-    "name": "Sarunas Marciulionis",
+    "name": "萨鲁纳斯·马尔西尔昂斯",
     "name_en": "Sarunas Marciulionis",
     "position": "SG",
     "height": 196,
@@ -8821,7 +8821,7 @@ module.exports = [
   },
   {
     "id": "samaki-walker",
-    "name": "Samaki·沃克",
+    "name": "萨马基·瓦尔凯尔",
     "name_en": "Samaki Walker",
     "position": "SF",
     "height": 206,
@@ -8867,7 +8867,7 @@ module.exports = [
   },
   {
     "id": "rex-walters",
-    "name": "Rex Walters",
+    "name": "雷克斯·瓦尔特尔斯",
     "name_en": "Rex Walters",
     "position": "PG",
     "height": 193,
@@ -8905,7 +8905,7 @@ module.exports = [
   },
   {
     "id": "richard-manning",
-    "name": "Richard·曼宁",
+    "name": "里奇德·曼尼恩格",
     "name_en": "Richard Manning",
     "position": "C",
     "height": 211,
@@ -8941,7 +8941,7 @@ module.exports = [
   },
   {
     "id": "rick-fox",
-    "name": "Rick·福克斯",
+    "name": "里克·福克斯",
     "name_en": "Rick Fox",
     "position": "SF",
     "height": 201,
@@ -8979,7 +8979,7 @@ module.exports = [
   },
   {
     "id": "rick-mahorn",
-    "name": "Rick Mahorn",
+    "name": "里克·马霍尔恩",
     "name_en": "Rick Mahorn",
     "position": "SF",
     "height": 208,
@@ -9055,7 +9055,7 @@ module.exports = [
   },
   {
     "id": "rik-smits",
-    "name": "Rik Smits",
+    "name": "里克·斯特斯",
     "name_en": "Rik Smits",
     "position": "C",
     "height": 224,
@@ -9091,7 +9091,7 @@ module.exports = [
   },
   {
     "id": "robert-horry",
-    "name": "罗伯特·Horry",
+    "name": "罗贝尔特·霍尔里",
     "name_en": "Robert Horry",
     "position": "PF",
     "height": 208,
@@ -9129,7 +9129,7 @@ module.exports = [
   },
   {
     "id": "robert-pack",
-    "name": "罗伯特·Pack",
+    "name": "罗贝尔特·帕克",
     "name_en": "Robert Pack",
     "position": "SG",
     "height": 188,
@@ -9173,7 +9173,7 @@ module.exports = [
   },
   {
     "id": "robert-parish",
-    "name": "罗伯特·Parish",
+    "name": "罗贝尔特·帕里什",
     "name_en": "Robert Parish",
     "position": "C",
     "height": 216,
@@ -9209,7 +9209,7 @@ module.exports = [
   },
   {
     "id": "robert-werdann",
-    "name": "罗伯特·Werdann",
+    "name": "罗贝尔特·韦尔达恩",
     "name_en": "Robert Werdann",
     "position": "C",
     "height": 211,
@@ -9245,7 +9245,7 @@ module.exports = [
   },
   {
     "id": "rod-strickland",
-    "name": "Rod·斯特里克兰",
+    "name": "罗德·斯特里克兰",
     "name_en": "Rod Strickland",
     "position": "PG",
     "height": 190,
@@ -9291,7 +9291,7 @@ module.exports = [
   },
   {
     "id": "rodney-rogers",
-    "name": "Rodney·罗杰斯",
+    "name": "罗德尼·罗杰尔斯",
     "name_en": "Rodney Rogers",
     "position": "SF",
     "height": 201,
@@ -9335,7 +9335,7 @@ module.exports = [
   },
   {
     "id": "ron-harper",
-    "name": "Ron·哈珀",
+    "name": "罗恩·哈尔佩尔",
     "name_en": "Ron Harper",
     "position": "PG",
     "height": 198,
@@ -9373,7 +9373,7 @@ module.exports = [
   },
   {
     "id": "rony-seikaly",
-    "name": "Rony Seikaly",
+    "name": "龙伊·塞克尔伊",
     "name_en": "Rony Seikaly",
     "position": "C",
     "height": 211,
@@ -9411,7 +9411,7 @@ module.exports = [
   },
   {
     "id": "roy-rogers",
-    "name": "Roy·罗杰斯",
+    "name": "罗伊·罗杰尔斯",
     "name_en": "Roy Rogers",
     "position": "SF",
     "height": 208,
@@ -9451,7 +9451,7 @@ module.exports = [
   },
   {
     "id": "ruben-nembhard",
-    "name": "Ruben Nembhard",
+    "name": "鲁贝恩·内姆布哈尔德",
     "name_en": "Ruben Nembhard",
     "position": "SG",
     "height": 190,
@@ -9487,7 +9487,7 @@ module.exports = [
   },
   {
     "id": "rumeal-robinson",
-    "name": "Rumeal·罗宾逊",
+    "name": "鲁梅尔·罗比恩斯昂",
     "name_en": "Rumeal Robinson",
     "position": "PG",
     "height": 188,
@@ -9523,7 +9523,7 @@ module.exports = [
   },
   {
     "id": "sam-cassell",
-    "name": "萨姆·Cassell",
+    "name": "萨姆·卡斯塞尔",
     "name_en": "Sam Cassell",
     "position": "SG",
     "height": 190,
@@ -9645,7 +9645,7 @@ module.exports = [
   },
   {
     "id": "sam-perkins",
-    "name": "萨姆·Perkins",
+    "name": "萨姆·佩尔基恩斯",
     "name_en": "Sam Perkins",
     "position": "PF",
     "height": 206,
@@ -9683,7 +9683,7 @@ module.exports = [
   },
   {
     "id": "stephon-marbury",
-    "name": "Stephon Marbury",
+    "name": "斯特普霍恩·马尔布里",
     "name_en": "Stephon Marbury",
     "position": "PG",
     "height": 188,
@@ -9727,7 +9727,7 @@ module.exports = [
   },
   {
     "id": "rex-chapman",
-    "name": "Rex·查普曼",
+    "name": "雷克斯·奇普曼",
     "name_en": "Rex Chapman",
     "position": "SG",
     "height": 193,
@@ -9763,7 +9763,7 @@ module.exports = [
   },
   {
     "id": "steve-hamer",
-    "name": "Steve Hamer",
+    "name": "斯特夫·哈梅尔",
     "name_en": "Steve Hamer",
     "position": "C",
     "height": 213,
@@ -9799,7 +9799,7 @@ module.exports = [
   },
   {
     "id": "steve-nash",
-    "name": "Steve Nash",
+    "name": "斯特夫·纳什",
     "name_en": "Steve Nash",
     "position": "PG",
     "height": 190,
@@ -9839,7 +9839,7 @@ module.exports = [
   },
   {
     "id": "willie-anderson",
-    "name": "Willie·安德森",
+    "name": "威尔伊埃·德斯昂",
     "name_en": "Willie Anderson",
     "position": "SG",
     "height": 203,
@@ -9875,7 +9875,7 @@ module.exports = [
   },
   {
     "id": "will-perdue",
-    "name": "Will Perdue",
+    "name": "威尔·佩德乌埃",
     "name_en": "Will Perdue",
     "position": "C",
     "height": 213,
@@ -9915,7 +9915,7 @@ module.exports = [
   },
   {
     "id": "wesley-person",
-    "name": "Wesley Person",
+    "name": "韦斯伊·佩尔森",
     "name_en": "Wesley Person",
     "position": "SG",
     "height": 198,
@@ -9959,7 +9959,7 @@ module.exports = [
   },
   {
     "id": "wayman-tisdale",
-    "name": "Wayman Tisdale",
+    "name": "瓦伊曼·蒂斯达勒",
     "name_en": "Wayman Tisdale",
     "position": "SF",
     "height": 206,
@@ -9995,7 +9995,7 @@ module.exports = [
   },
   {
     "id": "walter-mccarty",
-    "name": "Walter McCarty",
+    "name": "瓦尔特尔·麦克卡尔蒂",
     "name_en": "Walter McCarty",
     "position": "SF",
     "height": 208,
@@ -10037,7 +10037,7 @@ module.exports = [
   },
   {
     "id": "walt-williams",
-    "name": "Walt·威廉姆斯",
+    "name": "瓦尔特·威尔伊姆斯",
     "name_en": "Walt Williams",
     "position": "SF",
     "height": 203,
@@ -10079,7 +10079,7 @@ module.exports = [
   },
   {
     "id": "voshon-lenard",
-    "name": "Voshon Lenard",
+    "name": "沃什昂·伦德",
     "name_en": "Voshon Lenard",
     "position": "PG",
     "height": 193,
@@ -10121,7 +10121,7 @@ module.exports = [
   },
   {
     "id": "vlade-divac",
-    "name": "Vlade Divac",
+    "name": "维拉德·迪瓦克",
     "name_en": "Vlade Divac",
     "position": "C",
     "height": 216,
@@ -10161,7 +10161,7 @@ module.exports = [
   },
   {
     "id": "vitaly-potapenko",
-    "name": "Vitaly Potapenko",
+    "name": "维塔利·波塔佩恩科",
     "name_en": "Vitaly Potapenko",
     "position": "PF",
     "height": 208,
@@ -10203,7 +10203,7 @@ module.exports = [
   },
   {
     "id": "willie-burton",
-    "name": "Willie·伯顿",
+    "name": "威尔伊埃·布特昂",
     "name_en": "Willie Burton",
     "position": "SF",
     "height": 203,
@@ -10243,7 +10243,7 @@ module.exports = [
   },
   {
     "id": "vinny-del-negro",
-    "name": "Vinny Del Negro",
+    "name": "文尼·内格奥",
     "name_en": "Vinny Del Negro",
     "position": "SG",
     "height": 193,
@@ -10283,7 +10283,7 @@ module.exports = [
   },
   {
     "id": "vin-baker",
-    "name": "Vin·贝克",
+    "name": "维恩·巴凯尔",
     "name_en": "Vin Baker",
     "position": "SF",
     "height": 211,
@@ -10329,7 +10329,7 @@ module.exports = [
   },
   {
     "id": "vernon-maxwell",
-    "name": "Vernon·马克斯韦尔",
+    "name": "维尔诺恩·马克斯韦尔",
     "name_en": "Vernon Maxwell",
     "position": "SG",
     "height": 193,
@@ -10373,7 +10373,7 @@ module.exports = [
   },
   {
     "id": "tyus-edney",
-    "name": "泰厄斯·Edney",
+    "name": "蒂斯·德尼",
     "name_en": "Tyus Edney",
     "position": "SG",
     "height": 178,
@@ -10413,7 +10413,7 @@ module.exports = [
   },
   {
     "id": "tyrone-hill",
-    "name": "Tyrone·希尔",
+    "name": "蒂罗内·希尔",
     "name_en": "Tyrone Hill",
     "position": "SF",
     "height": 206,
@@ -10455,7 +10455,7 @@ module.exports = [
   },
   {
     "id": "tyrone-corbin",
-    "name": "Tyrone Corbin",
+    "name": "蒂罗内·科尔比恩",
     "name_en": "Tyrone Corbin",
     "position": "SF",
     "height": 198,
@@ -10495,7 +10495,7 @@ module.exports = [
   },
   {
     "id": "travis-knight",
-    "name": "Travis·奈特",
+    "name": "特夫斯·恩伊特",
     "name_en": "Travis Knight",
     "position": "C",
     "height": 213,
@@ -10535,7 +10535,7 @@ module.exports = [
   },
   {
     "id": "travis-best",
-    "name": "Travis Best",
+    "name": "特夫斯·贝斯特",
     "name_en": "Travis Best",
     "position": "SG",
     "height": 180,
@@ -10657,7 +10657,7 @@ module.exports = [
   },
   {
     "id": "vincent-askew",
-    "name": "Vincent Askew",
+    "name": "维恩塞恩特·斯凯沃",
     "name_en": "Vincent Askew",
     "position": "SF",
     "height": 198,
@@ -10695,7 +10695,7 @@ module.exports = [
   },
   {
     "id": "xavier-mcdaniel",
-    "name": "Xavier McDaniel",
+    "name": "克斯夫尔·麦克达尼尔",
     "name_en": "Xavier McDaniel",
     "position": "SF",
     "height": 201,
@@ -10731,7 +10731,7 @@ module.exports = [
   },
   {
     "id": "yinka-dare",
-    "name": "Yinka Dare",
+    "name": "伊恩卡·达雷",
     "name_en": "Yinka Dare",
     "position": "PF",
     "height": 213,
@@ -10767,7 +10767,7 @@ module.exports = [
   },
   {
     "id": "zan-tabak",
-    "name": "Zan Tabak",
+    "name": "扎恩·塔巴克",
     "name_en": "Zan Tabak",
     "position": "C",
     "height": 213,
@@ -10807,7 +10807,7 @@ module.exports = [
   },
   {
     "id": "steve-scheffler",
-    "name": "Steve Scheffler",
+    "name": "斯特夫·斯赫弗尔",
     "name_en": "Steve Scheffler",
     "position": "C",
     "height": 206,
@@ -10889,7 +10889,7 @@ module.exports = [
   },
   {
     "id": "stevin-smith",
-    "name": "Stevin·史密斯",
+    "name": "斯特夫因·斯",
     "name_en": "Stevin Smith",
     "position": "SG",
     "height": 188,
@@ -10925,7 +10925,7 @@ module.exports = [
   },
   {
     "id": "stojko-vrankovic",
-    "name": "Stojko Vrankovic",
+    "name": "斯特奥杰科·维拉恩科维克",
     "name_en": "Stojko Vrankovic",
     "position": "C",
     "height": 218,
@@ -10963,7 +10963,7 @@ module.exports = [
   },
   {
     "id": "terrell-brandon",
-    "name": "Terrell Brandon",
+    "name": "特尔雷尔·布德昂",
     "name_en": "Terrell Brandon",
     "position": "PG",
     "height": 180,
@@ -11003,7 +11003,7 @@ module.exports = [
   },
   {
     "id": "terry-cummings",
-    "name": "特里·Cummings",
+    "name": "特尔里·库姆米恩格斯",
     "name_en": "Terry Cummings",
     "position": "SF",
     "height": 206,
@@ -11043,7 +11043,7 @@ module.exports = [
   },
   {
     "id": "terry-dehere",
-    "name": "特里·Dehere",
+    "name": "特尔里·德赫雷",
     "name_en": "Terry Dehere",
     "position": "PG",
     "height": 193,
@@ -11163,7 +11163,7 @@ module.exports = [
   },
   {
     "id": "theo-ratliff",
-    "name": "西奥·Ratliff",
+    "name": "斯埃奥·拉特利弗",
     "name_en": "Theo Ratliff",
     "position": "C",
     "height": 208,
@@ -11251,7 +11251,7 @@ module.exports = [
   },
   {
     "id": "tim-kempton",
-    "name": "蒂姆·Kempton",
+    "name": "蒂姆·凯姆普顿",
     "name_en": "Tim Kempton",
     "position": "C",
     "height": 208,
@@ -11289,7 +11289,7 @@ module.exports = [
   },
   {
     "id": "tim-legler",
-    "name": "蒂姆·Legler",
+    "name": "蒂姆·勒格尔",
     "name_en": "Tim Legler",
     "position": "SG",
     "height": 193,
@@ -11327,7 +11327,7 @@ module.exports = [
   },
   {
     "id": "todd-day",
-    "name": "Todd Day",
+    "name": "托德·达伊",
     "name_en": "Todd Day",
     "position": "SG",
     "height": 198,
@@ -11369,7 +11369,7 @@ module.exports = [
   },
   {
     "id": "todd-fuller",
-    "name": "Todd·富勒",
+    "name": "托德·富尔",
     "name_en": "Todd Fuller",
     "position": "C",
     "height": 211,
@@ -11411,7 +11411,7 @@ module.exports = [
   },
   {
     "id": "tom-chambers",
-    "name": "Tom·钱伯斯",
+    "name": "托姆·奇姆贝尔斯",
     "name_en": "Tom Chambers",
     "position": "SF",
     "height": 208,
@@ -11449,7 +11449,7 @@ module.exports = [
   },
   {
     "id": "tom-gugliotta",
-    "name": "Tom Gugliotta",
+    "name": "托姆·古格伊特阿",
     "name_en": "Tom Gugliotta",
     "position": "SF",
     "height": 208,
@@ -11491,7 +11491,7 @@ module.exports = [
   },
   {
     "id": "tom-hammonds",
-    "name": "Tom Hammonds",
+    "name": "托姆·哈姆莫恩德斯",
     "name_en": "Tom Hammonds",
     "position": "SF",
     "height": 206,
@@ -11529,7 +11529,7 @@ module.exports = [
   },
   {
     "id": "toni-kukoc",
-    "name": "Toni Kukoc",
+    "name": "顿伊·库科克",
     "name_en": "Toni Kukoc",
     "position": "SF",
     "height": 211,
@@ -11571,7 +11571,7 @@ module.exports = [
   },
   {
     "id": "tony-delk",
-    "name": "托尼·Delk",
+    "name": "顿伊·德尔克",
     "name_en": "Tony Delk",
     "position": "SG",
     "height": 188,
@@ -11621,7 +11621,7 @@ module.exports = [
   },
   {
     "id": "tony-dumas",
-    "name": "托尼·Dumas",
+    "name": "顿伊·杜马斯",
     "name_en": "Tony Dumas",
     "position": "PG",
     "height": 198,
@@ -11659,7 +11659,7 @@ module.exports = [
   },
   {
     "id": "steve-kerr",
-    "name": "Steve Kerr",
+    "name": "斯特夫·凯尔",
     "name_en": "Steve Kerr",
     "position": "PG",
     "height": 185,
@@ -11745,7 +11745,7 @@ module.exports = [
   },
   {
     "id": "reggie-slater",
-    "name": "雷吉·Slater",
+    "name": "雷格吉埃·斯特尔",
     "name_en": "Reggie Slater",
     "position": "SF",
     "height": 201,
@@ -11821,7 +11821,7 @@ module.exports = [
   },
   {
     "id": "lindsey-hunter",
-    "name": "Lindsey·亨特",
+    "name": "林德塞伊·胡恩特尔",
     "name_en": "Lindsey Hunter",
     "position": "SG",
     "height": 188,
@@ -11865,7 +11865,7 @@ module.exports = [
   },
   {
     "id": "lionel-simmons",
-    "name": "Lionel·西蒙斯",
+    "name": "利恩尔·西姆莫恩斯",
     "name_en": "Lionel Simmons",
     "position": "SF",
     "height": 201,
@@ -11901,7 +11901,7 @@ module.exports = [
   },
   {
     "id": "litterial-green",
-    "name": "Litterial·格林",
+    "name": "利特里尔·格恩",
     "name_en": "Litterial Green",
     "position": "PG",
     "height": 185,
@@ -11981,7 +11981,7 @@ module.exports = [
   },
   {
     "id": "loren-meyer",
-    "name": "Loren·迈耶",
+    "name": "洛雷恩·梅耶",
     "name_en": "Loren Meyer",
     "position": "PF",
     "height": 208,
@@ -12019,7 +12019,7 @@ module.exports = [
   },
   {
     "id": "lorenzen-wright",
-    "name": "Lorenzen·赖特",
+    "name": "洛雷恩泽恩·尔伊特",
     "name_en": "Lorenzen Wright",
     "position": "PF",
     "height": 211,
@@ -12063,7 +12063,7 @@ module.exports = [
   },
   {
     "id": "lorenzo-williams",
-    "name": "Lorenzo·威廉姆斯",
+    "name": "洛雷恩佐·威尔伊姆斯",
     "name_en": "Lorenzo Williams",
     "position": "PF",
     "height": 206,
@@ -12099,7 +12099,7 @@ module.exports = [
   },
   {
     "id": "lou-roe",
-    "name": "Lou Roe",
+    "name": "洛乌·罗埃",
     "name_en": "Lou Roe",
     "position": "SF",
     "height": 201,
@@ -12135,7 +12135,7 @@ module.exports = [
   },
   {
     "id": "loy-vaught",
-    "name": "Loy Vaught",
+    "name": "洛伊·瓦夫特",
     "name_en": "Loy Vaught",
     "position": "PF",
     "height": 206,
@@ -12175,7 +12175,7 @@ module.exports = [
   },
   {
     "id": "lee-mayberry",
-    "name": "Lee Mayberry",
+    "name": "勒埃·马伊贝尔里",
     "name_en": "Lee Mayberry",
     "position": "PG",
     "height": 185,
@@ -12211,7 +12211,7 @@ module.exports = [
   },
   {
     "id": "luc-longley",
-    "name": "Luc Longley",
+    "name": "卢克·隆格伊",
     "name_en": "Luc Longley",
     "position": "C",
     "height": 218,
@@ -12251,7 +12251,7 @@ module.exports = [
   },
   {
     "id": "mahmoud-abdul-rauf",
-    "name": "Mahmoud Abdul-Rauf",
+    "name": "马赫莫德·布杜尔-拉夫",
     "name_en": "Mahmoud Abdul-Rauf",
     "position": "PG",
     "height": 185,
@@ -12331,7 +12331,7 @@ module.exports = [
   },
   {
     "id": "malik-sealy",
-    "name": "马利克·Sealy",
+    "name": "马利克·塞尔伊",
     "name_en": "Malik Sealy",
     "position": "SG",
     "height": 203,
@@ -12409,7 +12409,7 @@ module.exports = [
   },
   {
     "id": "marcus-camby",
-    "name": "马库斯·Camby",
+    "name": "马尔库斯·卡姆拜",
     "name_en": "Marcus Camby",
     "position": "PF",
     "height": 211,
@@ -12455,7 +12455,7 @@ module.exports = [
   },
   {
     "id": "mario-elie",
-    "name": "Mario Elie",
+    "name": "马里奥·尔伊埃",
     "name_en": "Mario Elie",
     "position": "SG",
     "height": 196,
@@ -12495,7 +12495,7 @@ module.exports = [
   },
   {
     "id": "mark-bradtke",
-    "name": "马克·Bradtke",
+    "name": "马尔克·布德特凯",
     "name_en": "Mark Bradtke",
     "position": "C",
     "height": 208,
@@ -12617,7 +12617,7 @@ module.exports = [
   },
   {
     "id": "lucious-harris",
-    "name": "Lucious·哈里斯",
+    "name": "卢西斯·哈尔里斯",
     "name_en": "Lucious Harris",
     "position": "SG",
     "height": 196,
@@ -12657,7 +12657,7 @@ module.exports = [
   },
   {
     "id": "lawrence-moten",
-    "name": "Lawrence Moten",
+    "name": "拉尔恩塞·莫特恩",
     "name_en": "Lawrence Moten",
     "position": "PG",
     "height": 196,
@@ -12695,7 +12695,7 @@ module.exports = [
   },
   {
     "id": "latrell-sprewell",
-    "name": "Latrell Sprewell",
+    "name": "拉特尔·斯雷韦尔",
     "name_en": "Latrell Sprewell",
     "position": "PG",
     "height": 196,
@@ -12771,7 +12771,7 @@ module.exports = [
   },
   {
     "id": "keith-tower",
-    "name": "Keith Tower",
+    "name": "凯斯·托韦尔",
     "name_en": "Keith Tower",
     "position": "C",
     "height": 211,
@@ -12807,7 +12807,7 @@ module.exports = [
   },
   {
     "id": "ken-norman",
-    "name": "Ken Norman",
+    "name": "凯恩·诺尔曼",
     "name_en": "Ken Norman",
     "position": "SF",
     "height": 203,
@@ -12843,7 +12843,7 @@ module.exports = [
   },
   {
     "id": "kendall-gill",
-    "name": "Kendall Gill",
+    "name": "凯恩达尔·吉尔",
     "name_en": "Kendall Gill",
     "position": "SG",
     "height": 196,
@@ -12887,7 +12887,7 @@ module.exports = [
   },
   {
     "id": "kenny-anderson",
-    "name": "Kenny·安德森",
+    "name": "肯尼·德斯昂",
     "name_en": "Kenny Anderson",
     "position": "SG",
     "height": 185,
@@ -12931,7 +12931,7 @@ module.exports = [
   },
   {
     "id": "kenny-smith",
-    "name": "Kenny·史密斯",
+    "name": "凯恩尼·斯",
     "name_en": "Kenny Smith",
     "position": "SG",
     "height": 190,
@@ -12967,7 +12967,7 @@ module.exports = [
   },
   {
     "id": "kerry-kittles",
-    "name": "Kerry Kittles",
+    "name": "凯尔里·基特勒斯",
     "name_en": "Kerry Kittles",
     "position": "PG",
     "height": 196,
@@ -13005,7 +13005,7 @@ module.exports = [
   },
   {
     "id": "kevin-duckworth",
-    "name": "凯文·Duckworth",
+    "name": "凯维恩·杜克沃尔斯",
     "name_en": "Kevin Duckworth",
     "position": "C",
     "height": 213,
@@ -13081,7 +13081,7 @@ module.exports = [
   },
   {
     "id": "kevin-gamble",
-    "name": "凯文·Gamble",
+    "name": "凯维恩·加姆布勒",
     "name_en": "Kevin Gamble",
     "position": "SG",
     "height": 196,
@@ -13117,7 +13117,7 @@ module.exports = [
   },
   {
     "id": "kevin-garnett",
-    "name": "凯文·Garnett",
+    "name": "凯维恩·加尔内特",
     "name_en": "Kevin Garnett",
     "position": "SF",
     "height": 211,
@@ -13193,7 +13193,7 @@ module.exports = [
   },
   {
     "id": "kevin-salvadori",
-    "name": "凯文·Salvadori",
+    "name": "凯维恩·萨尔瓦多里",
     "name_en": "Kevin Salvadori",
     "position": "C",
     "height": 213,
@@ -13275,7 +13275,7 @@ module.exports = [
   },
   {
     "id": "khalid-reeves",
-    "name": "Khalid Reeves",
+    "name": "克尔德·雷夫斯",
     "name_en": "Khalid Reeves",
     "position": "PG",
     "height": 190,
@@ -13351,7 +13351,7 @@ module.exports = [
   },
   {
     "id": "kurt-thomas",
-    "name": "Kurt·托马斯",
+    "name": "库尔特·斯姆斯",
     "name_en": "Kurt Thomas",
     "position": "PF",
     "height": 206,
@@ -13401,7 +13401,7 @@ module.exports = [
   },
   {
     "id": "laphonso-ellis",
-    "name": "Laphonso·埃利斯",
+    "name": "拉菲斯奥·尔斯",
     "name_en": "LaPhonso Ellis",
     "position": "SF",
     "height": 203,
@@ -13443,7 +13443,7 @@ module.exports = [
   },
   {
     "id": "lasalle-thompson",
-    "name": "Lasalle·汤普森",
+    "name": "拉萨尔埃·斯普森",
     "name_en": "LaSalle Thompson",
     "position": "PF",
     "height": 208,
@@ -13479,7 +13479,7 @@ module.exports = [
   },
   {
     "id": "lamond-murray",
-    "name": "Lamond·穆雷",
+    "name": "拉蒙德·穆尔拉伊",
     "name_en": "Lamond Murray",
     "position": "SF",
     "height": 201,
@@ -13557,7 +13557,7 @@ module.exports = [
   },
   {
     "id": "larry-krystkowiak",
-    "name": "拉里·Krystkowiak",
+    "name": "拉尔里·克伊斯特科威克",
     "name_en": "Larry Krystkowiak",
     "position": "SF",
     "height": 206,
@@ -13593,7 +13593,7 @@ module.exports = [
   },
   {
     "id": "mark-hendrickson",
-    "name": "马克·Hendrickson",
+    "name": "马尔克·赫恩德克森",
     "name_en": "Mark Hendrickson",
     "position": "SF",
     "height": 206,
@@ -13675,7 +13675,7 @@ module.exports = [
   },
   {
     "id": "mark-price",
-    "name": "马克·Price",
+    "name": "马尔克·普斯",
     "name_en": "Mark Price",
     "position": "SG",
     "height": 183,
@@ -13795,7 +13795,7 @@ module.exports = [
   },
   {
     "id": "nick-van-exel",
-    "name": "尼克·Exel",
+    "name": "尼克·克斯尔",
     "name_en": "Nick Van Exel",
     "position": "SG",
     "height": 185,
@@ -13841,7 +13841,7 @@ module.exports = [
   },
   {
     "id": "olden-polynice",
-    "name": "Olden Polynice",
+    "name": "德恩·波利尼塞",
     "name_en": "Olden Polynice",
     "position": "PF",
     "height": 208,
@@ -13883,7 +13883,7 @@ module.exports = [
   },
   {
     "id": "oliver-miller",
-    "name": "Oliver·米勒",
+    "name": "尔夫尔·米尔",
     "name_en": "Oliver Miller",
     "position": "C",
     "height": 206,
@@ -13925,7 +13925,7 @@ module.exports = [
   },
   {
     "id": "othella-harrington",
-    "name": "Othella·哈林顿",
+    "name": "斯尔阿·哈尔林格顿",
     "name_en": "Othella Harrington",
     "position": "PF",
     "height": 206,
@@ -13969,7 +13969,7 @@ module.exports = [
   },
   {
     "id": "otis-thorpe",
-    "name": "Otis Thorpe",
+    "name": "特斯·斯尔佩",
     "name_en": "Otis Thorpe",
     "position": "PF",
     "height": 208,
@@ -14013,7 +14013,7 @@ module.exports = [
   },
   {
     "id": "pj-brown",
-    "name": "P.J·布朗",
+    "name": "普杰·布恩",
     "name_en": "P.J. Brown",
     "position": "PF",
     "height": 211,
@@ -14059,7 +14059,7 @@ module.exports = [
   },
   {
     "id": "patrick-ewing",
-    "name": "帕特里克·Ewing",
+    "name": "帕特克·尤英",
     "name_en": "Patrick Ewing",
     "position": "C",
     "height": 203,
@@ -14101,7 +14101,7 @@ module.exports = [
   },
   {
     "id": "pervis-ellison",
-    "name": "Pervis Ellison",
+    "name": "佩尔维斯·尔斯昂",
     "name_en": "Pervis Ellison",
     "position": "PF",
     "height": 206,
@@ -14139,7 +14139,7 @@ module.exports = [
   },
   {
     "id": "pete-chilcutt",
-    "name": "Pete Chilcutt",
+    "name": "佩特·奇尔库特",
     "name_en": "Pete Chilcutt",
     "position": "SF",
     "height": 208,
@@ -14177,7 +14177,7 @@ module.exports = [
   },
   {
     "id": "pooh-richardson",
-    "name": "Pooh·理查德森",
+    "name": "波赫·里奇德森",
     "name_en": "Pooh Richardson",
     "position": "SG",
     "height": 185,
@@ -14213,7 +14213,7 @@ module.exports = [
   },
   {
     "id": "popeye-jones",
-    "name": "Popeye·琼斯",
+    "name": "波佩耶·乔内斯",
     "name_en": "Popeye Jones",
     "position": "SF",
     "height": 203,
@@ -14259,7 +14259,7 @@ module.exports = [
   },
   {
     "id": "priest-lauderdale",
-    "name": "Priest Lauderdale",
+    "name": "普伊斯特·拉德尔达勒",
     "name_en": "Priest Lauderdale",
     "position": "C",
     "height": 224,
@@ -14297,7 +14297,7 @@ module.exports = [
   },
   {
     "id": "rafael-addison",
-    "name": "Rafael Addison",
+    "name": "拉法尔·德迪森",
     "name_en": "Rafael Addison",
     "position": "SF",
     "height": 203,
@@ -14333,7 +14333,7 @@ module.exports = [
   },
   {
     "id": "randolph-childress",
-    "name": "Randolph Childress",
+    "name": "拉恩多尔菲·奇尔德斯",
     "name_en": "Randolph Childress",
     "position": "SG",
     "height": 188,
@@ -14369,7 +14369,7 @@ module.exports = [
   },
   {
     "id": "randy-brown",
-    "name": "Randy·布朗",
+    "name": "拉恩迪·布恩",
     "name_en": "Randy Brown",
     "position": "PG",
     "height": 188,
@@ -14409,7 +14409,7 @@ module.exports = [
   },
   {
     "id": "rasheed-wallace",
-    "name": "Rasheed·华莱士",
+    "name": "拉什德·瓦尔克埃",
     "name_en": "Rasheed Wallace",
     "position": "PF",
     "height": 211,
@@ -14451,7 +14451,7 @@ module.exports = [
   },
   {
     "id": "ray-allen",
-    "name": "雷·Allen",
+    "name": "拉伊·尔恩",
     "name_en": "Ray Allen",
     "position": "PG",
     "height": 196,
@@ -14493,7 +14493,7 @@ module.exports = [
   },
   {
     "id": "ray-owes",
-    "name": "雷·Owes",
+    "name": "拉伊·奥斯",
     "name_en": "Ray Owes",
     "position": "SF",
     "height": 206,
@@ -14529,7 +14529,7 @@ module.exports = [
   },
   {
     "id": "reggie-geary",
-    "name": "雷吉·Geary",
+    "name": "雷格吉埃·杰尔伊",
     "name_en": "Reggie Geary",
     "position": "SG",
     "height": 188,
@@ -14605,7 +14605,7 @@ module.exports = [
   },
   {
     "id": "nate-mcmillan",
-    "name": "Nate McMillan",
+    "name": "纳特·麦克米尔恩",
     "name_en": "Nate McMillan",
     "position": "SG",
     "height": 196,
@@ -14641,7 +14641,7 @@ module.exports = [
   },
   {
     "id": "karl-malone",
-    "name": "Karl·马龙",
+    "name": "卡尔·马洛内",
     "name_en": "Karl Malone",
     "position": "SF",
     "height": 206,
@@ -14679,7 +14679,7 @@ module.exports = [
   },
   {
     "id": "nate-driggers",
-    "name": "Nate Driggers",
+    "name": "纳特·德格杰尔斯",
     "name_en": "Nate Driggers",
     "position": "SG",
     "height": 196,
@@ -14715,7 +14715,7 @@ module.exports = [
   },
   {
     "id": "mookie-blaylock",
-    "name": "Mookie Blaylock",
+    "name": "莫克伊埃·布拉伊尔克",
     "name_en": "Mookie Blaylock",
     "position": "PG",
     "height": 183,
@@ -14795,7 +14795,7 @@ module.exports = [
   },
   {
     "id": "martin-lewis",
-    "name": "Martin·刘易斯",
+    "name": "马尔蒂恩·勒威斯",
     "name_en": "Martin Lewis",
     "position": "SF",
     "height": 198,
@@ -14831,7 +14831,7 @@ module.exports = [
   },
   {
     "id": "martin-muursepp",
-    "name": "Martin Muursepp",
+    "name": "马尔蒂恩·穆斯普",
     "name_en": "Martin Muursepp",
     "position": "SF",
     "height": 206,
@@ -14867,7 +14867,7 @@ module.exports = [
   },
   {
     "id": "marty-conlon",
-    "name": "Marty Conlon",
+    "name": "马尔蒂·科恩洛恩",
     "name_en": "Marty Conlon",
     "position": "SF",
     "height": 208,
@@ -14907,7 +14907,7 @@ module.exports = [
   },
   {
     "id": "matt-bullard",
-    "name": "Matt Bullard",
+    "name": "马特·布尔德",
     "name_en": "Matt Bullard",
     "position": "SF",
     "height": 208,
@@ -14945,7 +14945,7 @@ module.exports = [
   },
   {
     "id": "matt-fish",
-    "name": "Matt Fish",
+    "name": "马特·菲什",
     "name_en": "Matt Fish",
     "position": "C",
     "height": 211,
@@ -14981,7 +14981,7 @@ module.exports = [
   },
   {
     "id": "matt-geiger",
-    "name": "Matt Geiger",
+    "name": "马特·杰奇尔",
     "name_en": "Matt Geiger",
     "position": "C",
     "height": 206,
@@ -15019,7 +15019,7 @@ module.exports = [
   },
   {
     "id": "matt-maloney",
-    "name": "Matt Maloney",
+    "name": "马特·马隆伊",
     "name_en": "Matt Maloney",
     "position": "PG",
     "height": 190,
@@ -15059,7 +15059,7 @@ module.exports = [
   },
   {
     "id": "matt-steigenga",
-    "name": "Matt Steigenga",
+    "name": "马特·斯特埃奇恩加",
     "name_en": "Matt Steigenga",
     "position": "SF",
     "height": 201,
@@ -15095,7 +15095,7 @@ module.exports = [
   },
   {
     "id": "melvin-booker",
-    "name": "Melvin·布克",
+    "name": "梅尔维恩·博克尔",
     "name_en": "Melvin Booker",
     "position": "PG",
     "height": 188,
@@ -15131,7 +15131,7 @@ module.exports = [
   },
   {
     "id": "michael-cage",
-    "name": "迈克尔·Cage",
+    "name": "米奇阿尔·卡杰",
     "name_en": "Michael Cage",
     "position": "PF",
     "height": 206,
@@ -15211,7 +15211,7 @@ module.exports = [
   },
   {
     "id": "michael-finley",
-    "name": "迈克尔·Finley",
+    "name": "米奇阿尔·菲恩利",
     "name_en": "Michael Finley",
     "position": "SG",
     "height": 201,
@@ -15371,7 +15371,7 @@ module.exports = [
   },
   {
     "id": "mike-brown",
-    "name": "Mike·布朗",
+    "name": "米凯·布恩",
     "name_en": "Mike Brown",
     "position": "PF",
     "height": 208,
@@ -15407,7 +15407,7 @@ module.exports = [
   },
   {
     "id": "mitch-richmond",
-    "name": "Mitch Richmond",
+    "name": "米特奇·里奇莫恩德",
     "name_en": "Mitch Richmond",
     "position": "SG",
     "height": 196,
@@ -15447,7 +15447,7 @@ module.exports = [
   },
   {
     "id": "mitchell-butler",
-    "name": "Mitchell·巴特勒",
+    "name": "米特奇尔·布特勒尔",
     "name_en": "Mitchell Butler",
     "position": "SG",
     "height": 196,
@@ -15487,7 +15487,7 @@ module.exports = [
   },
   {
     "id": "monty-williams",
-    "name": "Monty·威廉姆斯",
+    "name": "莫恩蒂·威尔伊姆斯",
     "name_en": "Monty Williams",
     "position": "SF",
     "height": 203,
@@ -15529,7 +15529,7 @@ module.exports = [
   },
   {
     "id": "moochie-norris",
-    "name": "Moochie·诺里斯",
+    "name": "莫克希埃·诺尔里斯",
     "name_en": "Moochie Norris",
     "position": "SG",
     "height": 185,
@@ -15573,7 +15573,7 @@ module.exports = [
   },
   {
     "id": "muggsy-bogues",
-    "name": "Muggsy Bogues",
+    "name": "穆格西·博古斯",
     "name_en": "Muggsy Bogues",
     "position": "PG",
     "height": 160,
@@ -15613,7 +15613,7 @@ module.exports = [
   },
   {
     "id": "brent-scott",
-    "name": "Brent Scott",
+    "name": "布特·斯特",
     "name_en": "Brent Scott",
     "position": "PF",
     "height": 208,
@@ -15649,7 +15649,7 @@ module.exports = [
   },
   {
     "id": "lloyd-daniels",
-    "name": "Lloyd·丹尼尔斯",
+    "name": "尔德·达尼斯",
     "name_en": "Lloyd Daniels",
     "position": "PG",
     "height": 201,
@@ -15687,7 +15687,7 @@ module.exports = [
   },
   {
     "id": "tony-massenburg",
-    "name": "托尼·Massenburg",
+    "name": "顿伊·马斯森布尔格",
     "name_en": "Tony Massenburg",
     "position": "PF",
     "height": 206,
@@ -15735,7 +15735,7 @@ module.exports = [
   },
   {
     "id": "antonio-mcdyess",
-    "name": "Antonio McDyess",
+    "name": "特昂伊奥·麦克迪斯",
     "name_en": "Antonio McDyess",
     "position": "PF",
     "height": 206,
@@ -15777,7 +15777,7 @@ module.exports = [
   },
   {
     "id": "armen-gilliam",
-    "name": "Armen Gilliam",
+    "name": "尔梅恩·吉尔伊姆",
     "name_en": "Armen Gilliam",
     "position": "SF",
     "height": 206,
@@ -15815,7 +15815,7 @@ module.exports = [
   },
   {
     "id": "arvydas-sabonis",
-    "name": "Arvydas·萨博尼斯",
+    "name": "尔维伊达斯·萨邦斯",
     "name_en": "Arvydas Sabonis",
     "position": "C",
     "height": 221,
@@ -15851,7 +15851,7 @@ module.exports = [
   },
   {
     "id": "ashraf-amaya",
-    "name": "Ashraf Amaya",
+    "name": "什拉弗·姆伊阿",
     "name_en": "Ashraf Amaya",
     "position": "SF",
     "height": 203,
@@ -15887,7 +15887,7 @@ module.exports = [
   },
   {
     "id": "avery-johnson",
-    "name": "Avery·约翰逊",
+    "name": "夫里·乔赫恩森",
     "name_en": "Avery Johnson",
     "position": "SG",
     "height": 180,
@@ -15927,7 +15927,7 @@ module.exports = [
   },
   {
     "id": "bj-armstrong",
-    "name": "B.J. Armstrong",
+    "name": "布杰·尔姆斯特龙格",
     "name_en": "B.J. Armstrong",
     "position": "SG",
     "height": 188,
@@ -15969,7 +15969,7 @@ module.exports = [
   },
   {
     "id": "ben-davis",
-    "name": "Ben·戴维斯",
+    "name": "贝恩·达维斯",
     "name_en": "Ben Davis",
     "position": "SF",
     "height": 206,
@@ -16007,7 +16007,7 @@ module.exports = [
   },
   {
     "id": "ben-wallace",
-    "name": "Ben·华莱士",
+    "name": "贝恩·瓦尔克埃",
     "name_en": "Ben Wallace",
     "position": "PF",
     "height": 206,
@@ -16051,7 +16051,7 @@ module.exports = [
   },
   {
     "id": "benoit-benjamin",
-    "name": "Benoit Benjamin",
+    "name": "贝诺特·贝恩贾明",
     "name_en": "Benoit Benjamin",
     "position": "C",
     "height": 213,
@@ -16091,7 +16091,7 @@ module.exports = [
   },
   {
     "id": "antonio-lang",
-    "name": "Antonio Lang",
+    "name": "特昂伊奥·拉恩格",
     "name_en": "Antonio Lang",
     "position": "SF",
     "height": 203,
@@ -16131,7 +16131,7 @@ module.exports = [
   },
   {
     "id": "bill-wennington",
-    "name": "Bill Wennington",
+    "name": "比尔·韦恩尼恩格顿",
     "name_en": "Bill Wennington",
     "position": "C",
     "height": 213,
@@ -16169,7 +16169,7 @@ module.exports = [
   },
   {
     "id": "bimbo-coles",
-    "name": "Bimbo Coles",
+    "name": "比姆博·科勒斯",
     "name_en": "Bimbo Coles",
     "position": "SG",
     "height": 188,
@@ -16213,7 +16213,7 @@ module.exports = [
   },
   {
     "id": "bison-dele",
-    "name": "Bison Dele",
+    "name": "比森·德勒",
     "name_en": "Bison Dele",
     "position": "PF",
     "height": 211,
@@ -16251,7 +16251,7 @@ module.exports = [
   },
   {
     "id": "blue-edwards",
-    "name": "Blue·爱德华兹",
+    "name": "布卢埃·德瓦尔德斯",
     "name_en": "Blue Edwards",
     "position": "SG",
     "height": 193,
@@ -16289,7 +16289,7 @@ module.exports = [
   },
   {
     "id": "bo-outlaw",
-    "name": "Bo Outlaw",
+    "name": "博·特拉沃",
     "name_en": "Bo Outlaw",
     "position": "SF",
     "height": 203,
@@ -16331,7 +16331,7 @@ module.exports = [
   },
   {
     "id": "bob-sura",
-    "name": "Bob Sura",
+    "name": "博布·苏拉",
     "name_en": "Bob Sura",
     "position": "PG",
     "height": 196,
@@ -16373,7 +16373,7 @@ module.exports = [
   },
   {
     "id": "bobby-hurley",
-    "name": "博比·Hurley",
+    "name": "博布拜·胡尔利",
     "name_en": "Bobby Hurley",
     "position": "SG",
     "height": 183,
@@ -16411,7 +16411,7 @@ module.exports = [
   },
   {
     "id": "bobby-phills",
-    "name": "博比·Phills",
+    "name": "博布拜·菲尔斯",
     "name_en": "Bobby Phills",
     "position": "PG",
     "height": 196,
@@ -16449,7 +16449,7 @@ module.exports = [
   },
   {
     "id": "brad-lohaus",
-    "name": "Brad Lohaus",
+    "name": "布德·洛哈斯",
     "name_en": "Brad Lohaus",
     "position": "PF",
     "height": 211,
@@ -16487,7 +16487,7 @@ module.exports = [
   },
   {
     "id": "brent-price",
-    "name": "Brent Price",
+    "name": "布特·普斯",
     "name_en": "Brent Price",
     "position": "PG",
     "height": 185,
@@ -16527,7 +16527,7 @@ module.exports = [
   },
   {
     "id": "billy-owens",
-    "name": "Billy·欧文斯",
+    "name": "比尔伊·奥恩斯",
     "name_en": "Billy Owens",
     "position": "SF",
     "height": 203,
@@ -16569,7 +16569,7 @@ module.exports = [
   },
   {
     "id": "antonio-harvey",
-    "name": "Antonio·哈维",
+    "name": "特昂伊奥·哈尔维伊",
     "name_en": "Antonio Harvey",
     "position": "PF",
     "height": 211,
@@ -16609,7 +16609,7 @@ module.exports = [
   },
   {
     "id": "brent-barry",
-    "name": "Brent Barry",
+    "name": "布特·巴尔里",
     "name_en": "Brent Barry",
     "position": "SG",
     "height": 201,
@@ -16655,7 +16655,7 @@ module.exports = [
   },
   {
     "id": "antoine-walker",
-    "name": "Antoine·沃克",
+    "name": "特因埃·瓦尔克尔",
     "name_en": "Antoine Walker",
     "position": "SF",
     "height": 206,
@@ -16697,7 +16697,7 @@ module.exports = [
   },
   {
     "id": "ac-green",
-    "name": "A.C·格林",
+    "name": "克·格恩",
     "name_en": "A.C. Green",
     "position": "SF",
     "height": 206,
@@ -16737,7 +16737,7 @@ module.exports = [
   },
   {
     "id": "aaron-mckie",
-    "name": "阿龙·Mckie",
+    "name": "阿尔昂·麦克基埃",
     "name_en": "Aaron McKie",
     "position": "SG",
     "height": 196,
@@ -16825,7 +16825,7 @@ module.exports = [
   },
   {
     "id": "acie-earl",
-    "name": "Acie Earl",
+    "name": "克伊埃·尔",
     "name_en": "Acie Earl",
     "position": "PF",
     "height": 211,
@@ -16861,7 +16861,7 @@ module.exports = [
   },
   {
     "id": "adam-keefe",
-    "name": "Adam Keefe",
+    "name": "德姆·凯夫埃",
     "name_en": "Adam Keefe",
     "position": "SF",
     "height": 206,
@@ -16899,7 +16899,7 @@ module.exports = [
   },
   {
     "id": "adrian-caldwell",
-    "name": "Adrian Caldwell",
+    "name": "德里恩·卡尔德韦尔",
     "name_en": "Adrian Caldwell",
     "position": "SF",
     "height": 203,
@@ -16937,7 +16937,7 @@ module.exports = [
   },
   {
     "id": "antonio-davis",
-    "name": "Antonio·戴维斯",
+    "name": "特昂伊奥·达维斯",
     "name_en": "Antonio Davis",
     "position": "PF",
     "height": 206,
@@ -16977,7 +16977,7 @@ module.exports = [
   },
   {
     "id": "aleksandar-djordjevic",
-    "name": "Aleksandar Djordjevic",
+    "name": "尔克萨恩达尔·德乔尔德杰维克",
     "name_en": "Aleksandar Djordjevic",
     "position": "SG",
     "height": 188,
@@ -17013,7 +17013,7 @@ module.exports = [
   },
   {
     "id": "allan-houston",
-    "name": "Allan·休斯顿",
+    "name": "尔恩·霍斯特昂",
     "name_en": "Allan Houston",
     "position": "PG",
     "height": 198,
@@ -17049,7 +17049,7 @@ module.exports = [
   },
   {
     "id": "allen-iverson",
-    "name": "阿伦·Iverson",
+    "name": "尔恩·夫尔森",
     "name_en": "Allen Iverson",
     "position": "SG",
     "height": 183,
@@ -17089,7 +17089,7 @@ module.exports = [
   },
   {
     "id": "alan-henderson",
-    "name": "Alan Henderson",
+    "name": "尔恩·赫恩德尔森",
     "name_en": "Alan Henderson",
     "position": "PF",
     "height": 206,
@@ -17131,7 +17131,7 @@ module.exports = [
   },
   {
     "id": "alton-lister",
-    "name": "Alton Lister",
+    "name": "尔顿·利斯特",
     "name_en": "Alton Lister",
     "position": "PF",
     "height": 213,
@@ -17169,7 +17169,7 @@ module.exports = [
   },
   {
     "id": "antoine-carr",
-    "name": "Antoine Carr",
+    "name": "特因埃·卡尔",
     "name_en": "Antoine Carr",
     "position": "SF",
     "height": 206,
@@ -17209,7 +17209,7 @@ module.exports = [
   },
   {
     "id": "alonzo-mourning",
-    "name": "阿隆佐·Mourning",
+    "name": "尔昂佐·莫恩英",
     "name_en": "Alonzo Mourning",
     "position": "C",
     "height": 208,
@@ -17327,7 +17327,7 @@ module.exports = [
   },
   {
     "id": "anthony-goldwire",
-    "name": "安东尼·Goldwire",
+    "name": "特霍尼·戈尔德威雷",
     "name_en": "Anthony Goldwire",
     "position": "PG",
     "height": 188,
@@ -17371,7 +17371,7 @@ module.exports = [
   },
   {
     "id": "anthony-peeler",
-    "name": "安东尼·Peeler",
+    "name": "特霍尼·佩尔",
     "name_en": "Anthony Peeler",
     "position": "SG",
     "height": 193,
@@ -17413,7 +17413,7 @@ module.exports = [
   },
   {
     "id": "andrew-lang",
-    "name": "Andrew Lang",
+    "name": "德雷沃·拉恩格",
     "name_en": "Andrew Lang",
     "position": "C",
     "height": 211,
@@ -17453,7 +17453,7 @@ module.exports = [
   },
   {
     "id": "andrew-declercq",
-    "name": "Andrew DeClercq",
+    "name": "德雷沃·德克尔克奎",
     "name_en": "Andrew DeClercq",
     "position": "C",
     "height": 208,
@@ -17495,7 +17495,7 @@ module.exports = [
   },
   {
     "id": "amal-mccaskill",
-    "name": "Amal McCaskill",
+    "name": "姆尔·麦克卡斯克尔",
     "name_en": "Amal McCaskill",
     "position": "C",
     "height": 211,
@@ -17537,7 +17537,7 @@ module.exports = [
   },
   {
     "id": "anfernee-hardaway",
-    "name": "Anfernee·哈达威",
+    "name": "恩费恩埃·哈德奥伊",
     "name_en": "Anfernee Hardaway",
     "position": "SG",
     "height": 201,
@@ -17579,7 +17579,7 @@ module.exports = [
   },
   {
     "id": "micheal-williams",
-    "name": "Micheal·威廉姆斯",
+    "name": "米奇埃尔·威尔伊姆斯",
     "name_en": "Micheal Williams",
     "position": "PG",
     "height": 188,
@@ -17653,7 +17653,7 @@ module.exports = [
   },
   {
     "id": "maurice-taylor",
-    "name": "Maurice·泰勒",
+    "name": "马尔斯·塔伊尔",
     "name_en": "Maurice Taylor",
     "position": "SF",
     "height": 206,
@@ -17739,7 +17739,7 @@ module.exports = [
   },
   {
     "id": "rick-brunson",
-    "name": "Rick·布伦森",
+    "name": "里克·布斯昂",
     "name_en": "Rick Brunson",
     "position": "SG",
     "height": 193,
@@ -17783,7 +17783,7 @@ module.exports = [
   },
   {
     "id": "reggie-hanson",
-    "name": "雷吉·Hanson",
+    "name": "雷格吉埃·哈恩斯昂",
     "name_en": "Reggie Hanson",
     "position": "SF",
     "height": 203,
@@ -17819,7 +17819,7 @@ module.exports = [
   },
   {
     "id": "pete-myers",
-    "name": "Pete·迈尔斯",
+    "name": "佩特·迈斯",
     "name_en": "Pete Myers",
     "position": "SG",
     "height": 198,
@@ -17895,7 +17895,7 @@ module.exports = [
   },
   {
     "id": "kiwane-garris",
-    "name": "Kiwane Garris",
+    "name": "基瓦内·加尔里斯",
     "name_en": "Kiwane Garris",
     "position": "SG",
     "height": 188,
@@ -17933,7 +17933,7 @@ module.exports = [
   },
   {
     "id": "kevin-ollie",
-    "name": "凯文·Ollie",
+    "name": "凯文·尔伊埃",
     "name_en": "Kevin Ollie",
     "position": "SG",
     "height": 188,
@@ -17981,7 +17981,7 @@ module.exports = [
   },
   {
     "id": "kelvin-cato",
-    "name": "Kelvin Cato",
+    "name": "凯尔维恩·卡托",
     "name_en": "Kelvin Cato",
     "position": "C",
     "height": 211,
@@ -18025,7 +18025,7 @@ module.exports = [
   },
   {
     "id": "keith-van-horn",
-    "name": "Keith Van Horn",
+    "name": "凯斯·霍尔恩",
     "name_en": "Keith Van Horn",
     "position": "SF",
     "height": 208,
@@ -18067,7 +18067,7 @@ module.exports = [
   },
   {
     "id": "keith-closs",
-    "name": "Keith Closs",
+    "name": "凯斯·克斯",
     "name_en": "Keith Closs",
     "position": "C",
     "height": 221,
@@ -18103,7 +18103,7 @@ module.exports = [
   },
   {
     "id": "lawrence-funderburke",
-    "name": "Lawrence Funderburke",
+    "name": "拉尔恩塞·富恩德尔布尔凯",
     "name_en": "Lawrence Funderburke",
     "position": "SF",
     "height": 206,
@@ -18141,7 +18141,7 @@ module.exports = [
   },
   {
     "id": "marko-milic",
-    "name": "Marko Milic",
+    "name": "马尔科·米利克",
     "name_en": "Marko Milic",
     "position": "SF",
     "height": 198,
@@ -18217,7 +18217,7 @@ module.exports = [
   },
   {
     "id": "mario-bennett",
-    "name": "Mario Bennett",
+    "name": "马里奥·贝恩内特",
     "name_en": "Mario Bennett",
     "position": "PF",
     "height": 198,
@@ -18257,7 +18257,7 @@ module.exports = [
   },
   {
     "id": "ledell-eackles",
-    "name": "Ledell Eackles",
+    "name": "勒德尔·埃克斯",
     "name_en": "Ledell Eackles",
     "position": "PG",
     "height": 196,
@@ -18293,7 +18293,7 @@ module.exports = [
   },
   {
     "id": "sean-higgins",
-    "name": "Sean·希金斯",
+    "name": "塞恩·希格金斯",
     "name_en": "Sean Higgins",
     "position": "SG",
     "height": 206,
@@ -18329,7 +18329,7 @@ module.exports = [
   },
   {
     "id": "tracy-mcgrady",
-    "name": "特雷西·Mcgrady",
+    "name": "特克伊·麦克格德伊",
     "name_en": "Tracy McGrady",
     "position": "SG",
     "height": 203,
@@ -18375,7 +18375,7 @@ module.exports = [
   },
   {
     "id": "tony-farmer",
-    "name": "托尼·Farmer",
+    "name": "顿伊·法姆尔",
     "name_en": "Tony Farmer",
     "position": "SF",
     "height": 206,
@@ -18413,7 +18413,7 @@ module.exports = [
   },
   {
     "id": "tony-battie",
-    "name": "托尼·Battie",
+    "name": "顿伊·巴特蒂埃",
     "name_en": "Tony Battie",
     "position": "C",
     "height": 211,
@@ -18543,7 +18543,7 @@ module.exports = [
   },
   {
     "id": "tim-breaux",
-    "name": "蒂姆·Breaux",
+    "name": "蒂姆·布埃阿克斯",
     "name_en": "Tim Breaux",
     "position": "SF",
     "height": 201,
@@ -18579,7 +18579,7 @@ module.exports = [
   },
   {
     "id": "travis-williams",
-    "name": "Travis·威廉姆斯",
+    "name": "特夫斯·威尔伊姆斯",
     "name_en": "Travis Williams",
     "position": "SF",
     "height": 198,
@@ -18615,7 +18615,7 @@ module.exports = [
   },
   {
     "id": "troy-hudson",
-    "name": "Troy·哈德森",
+    "name": "特伊·胡德森",
     "name_en": "Troy Hudson",
     "position": "PG",
     "height": 185,
@@ -18659,7 +18659,7 @@ module.exports = [
   },
   {
     "id": "chuck-person",
-    "name": "Chuck Person",
+    "name": "奇克·佩尔森",
     "name_en": "Chuck Person",
     "position": "SF",
     "height": 203,
@@ -18699,7 +18699,7 @@ module.exports = [
   },
   {
     "id": "zydrunas-ilgauskas",
-    "name": "Zydrunas Ilgauskas",
+    "name": "兹伊德恩斯·尔加斯克斯",
     "name_en": "Zydrunas Ilgauskas",
     "position": "C",
     "height": 221,
@@ -18775,7 +18775,7 @@ module.exports = [
   },
   {
     "id": "keith-booth",
-    "name": "Keith Booth",
+    "name": "凯斯·博斯",
     "name_en": "Keith Booth",
     "position": "SF",
     "height": 198,
@@ -18811,7 +18811,7 @@ module.exports = [
   },
   {
     "id": "scot-pollard",
-    "name": "Scot Pollard",
+    "name": "斯特·波尔德",
     "name_en": "Scot Pollard",
     "position": "PF",
     "height": 211,
@@ -18855,7 +18855,7 @@ module.exports = [
   },
   {
     "id": "rusty-larue",
-    "name": "Rusty LaRue",
+    "name": "鲁斯特伊·拉鲁埃",
     "name_en": "Rusty LaRue",
     "position": "SG",
     "height": 190,
@@ -18895,7 +18895,7 @@ module.exports = [
   },
   {
     "id": "ron-mercer",
-    "name": "Ron Mercer",
+    "name": "罗恩·梅尔塞尔",
     "name_en": "Ron Mercer",
     "position": "SF",
     "height": 201,
@@ -18941,7 +18941,7 @@ module.exports = [
   },
   {
     "id": "rodrick-rhodes",
-    "name": "Rodrick·罗兹",
+    "name": "罗德克·尔德斯",
     "name_en": "Rodrick Rhodes",
     "position": "SG",
     "height": 198,
@@ -19019,7 +19019,7 @@ module.exports = [
   },
   {
     "id": "tariq-abdul-wahad",
-    "name": "Tariq Abdul-Wahad",
+    "name": "塔里奎·布杜尔-瓦哈德",
     "name_en": "Tariq Abdul-Wahad",
     "position": "SF",
     "height": 198,
@@ -19059,7 +19059,7 @@ module.exports = [
   },
   {
     "id": "steve-henson",
-    "name": "Steve Henson",
+    "name": "斯特夫·赫恩森",
     "name_en": "Steve Henson",
     "position": "SG",
     "height": 180,
@@ -19095,7 +19095,7 @@ module.exports = [
   },
   {
     "id": "spud-webb",
-    "name": "Spud·韦伯",
+    "name": "斯德·韦布",
     "name_en": "Spud Webb",
     "position": "PG",
     "height": 168,
@@ -19131,7 +19131,7 @@ module.exports = [
   },
   {
     "id": "shea-seals",
-    "name": "Shea Seals",
+    "name": "什埃阿·塞尔斯",
     "name_en": "Shea Seals",
     "position": "PG",
     "height": 196,
@@ -19167,7 +19167,7 @@ module.exports = [
   },
   {
     "id": "adonal-foyle",
-    "name": "Adonal Foyle",
+    "name": "德昂尔·福尔",
     "name_en": "Adonal Foyle",
     "position": "C",
     "height": 208,
@@ -19205,7 +19205,7 @@ module.exports = [
   },
   {
     "id": "alvin-williams",
-    "name": "Alvin·威廉姆斯",
+    "name": "尔维恩·威尔伊姆斯",
     "name_en": "Alvin Williams",
     "position": "SG",
     "height": 196,
@@ -19243,7 +19243,7 @@ module.exports = [
   },
   {
     "id": "anthony-bowie",
-    "name": "安东尼·Bowie",
+    "name": "特霍尼·鲍伊埃",
     "name_en": "Anthony Bowie",
     "position": "PG",
     "height": 198,
@@ -19367,7 +19367,7 @@ module.exports = [
   },
   {
     "id": "antonio-daniels",
-    "name": "Antonio·丹尼尔斯",
+    "name": "特昂伊奥·达尼斯",
     "name_en": "Antonio Daniels",
     "position": "SG",
     "height": 193,
@@ -19415,7 +19415,7 @@ module.exports = [
   },
   {
     "id": "dejuan-wheat",
-    "name": "DeJuan Wheat",
+    "name": "德朱恩·惠埃特",
     "name_en": "DeJuan Wheat",
     "position": "SG",
     "height": 183,
@@ -19453,7 +19453,7 @@ module.exports = [
   },
   {
     "id": "david-benoit",
-    "name": "大卫·Benoit",
+    "name": "达维德·贝诺特",
     "name_en": "David Benoit",
     "position": "SF",
     "height": 203,
@@ -19491,7 +19491,7 @@ module.exports = [
   },
   {
     "id": "danny-fortson",
-    "name": "Danny Fortson",
+    "name": "达恩尼·福尔特森",
     "name_en": "Danny Fortson",
     "position": "PF",
     "height": 203,
@@ -19535,7 +19535,7 @@ module.exports = [
   },
   {
     "id": "corey-beck",
-    "name": "Corey Beck",
+    "name": "科尔伊·贝克",
     "name_en": "Corey Beck",
     "position": "PG",
     "height": 190,
@@ -19571,7 +19571,7 @@ module.exports = [
   },
   {
     "id": "austin-croshere",
-    "name": "Austin Croshere",
+    "name": "阿斯特因·克什尔",
     "name_en": "Austin Croshere",
     "position": "SF",
     "height": 208,
@@ -19613,7 +19613,7 @@ module.exports = [
   },
   {
     "id": "chauncey-billups",
-    "name": "Chauncey Billups",
+    "name": "奇昂塞伊·比尔普斯",
     "name_en": "Chauncey Billups",
     "position": "SG",
     "height": 190,
@@ -19659,7 +19659,7 @@ module.exports = [
   },
   {
     "id": "charles-obannon",
-    "name": "查尔斯·O'Bannon",
+    "name": "奇尔勒斯·奥巴恩诺恩",
     "name_en": "Charles O'Bannon",
     "position": "SG",
     "height": 196,
@@ -19695,7 +19695,7 @@ module.exports = [
   },
   {
     "id": "cedric-henderson",
-    "name": "Cedric Henderson",
+    "name": "塞德克·赫恩德斯昂",
     "name_en": "Cedric Henderson",
     "position": "SF",
     "height": 201,
@@ -19733,7 +19733,7 @@ module.exports = [
   },
   {
     "id": "brian-oliver",
-    "name": "Brian·奥利弗",
+    "name": "布伊恩·尔夫尔",
     "name_en": "Brian Oliver",
     "position": "SG",
     "height": 193,
@@ -19769,7 +19769,7 @@ module.exports = [
   },
   {
     "id": "brevin-knight",
-    "name": "Brevin·奈特",
+    "name": "布夫因·恩伊特",
     "name_en": "Brevin Knight",
     "position": "SG",
     "height": 178,
@@ -19817,7 +19817,7 @@ module.exports = [
   },
   {
     "id": "kebu-stewart",
-    "name": "Kebu·斯图尔特",
+    "name": "凯布·斯特尤特",
     "name_en": "Kebu Stewart",
     "position": "SF",
     "height": 203,
@@ -19853,7 +19853,7 @@ module.exports = [
   },
   {
     "id": "bubba-wells",
-    "name": "Bubba Wells",
+    "name": "布巴·韦尔斯",
     "name_en": "Bubba Wells",
     "position": "SF",
     "height": 196,
@@ -19889,7 +19889,7 @@ module.exports = [
   },
   {
     "id": "chris-anstey",
-    "name": "克里斯·Anstey",
+    "name": "奇里斯·恩斯特伊",
     "name_en": "Chris Anstey",
     "position": "C",
     "height": 213,
@@ -19927,7 +19927,7 @@ module.exports = [
   },
   {
     "id": "bill-curley",
-    "name": "Bill Curley",
+    "name": "比尔·库尔利",
     "name_en": "Bill Curley",
     "position": "SF",
     "height": 206,
@@ -19965,7 +19965,7 @@ module.exports = [
   },
   {
     "id": "bob-mccann",
-    "name": "Bob McCann",
+    "name": "博布·麦克卡恩",
     "name_en": "Bob McCann",
     "position": "SF",
     "height": 198,
@@ -20089,7 +20089,7 @@ module.exports = [
   },
   {
     "id": "chris-garner",
-    "name": "克里斯·Garner",
+    "name": "奇里斯·加尔内尔",
     "name_en": "Chris Garner",
     "position": "PG",
     "height": 178,
@@ -20163,7 +20163,7 @@ module.exports = [
   },
   {
     "id": "james-cotton",
-    "name": "詹姆斯·Cotton",
+    "name": "贾梅斯·科特顿",
     "name_en": "James Cotton",
     "position": "SG",
     "height": 196,
@@ -20235,7 +20235,7 @@ module.exports = [
   },
   {
     "id": "jacque-vaughn",
-    "name": "Jacque·沃恩",
+    "name": "贾克奎乌埃·瓦夫恩",
     "name_en": "Jacque Vaughn",
     "position": "PG",
     "height": 185,
@@ -20279,7 +20279,7 @@ module.exports = [
   },
   {
     "id": "jr-reid",
-    "name": "J.R·里德",
+    "name": "杰尔·雷德",
     "name_en": "J.R. Reid",
     "position": "PF",
     "height": 206,
@@ -20321,7 +20321,7 @@ module.exports = [
   },
   {
     "id": "harold-ellis",
-    "name": "Harold·埃利斯",
+    "name": "哈罗尔德·尔斯",
     "name_en": "Harold Ellis",
     "position": "SF",
     "height": 196,
@@ -20393,7 +20393,7 @@ module.exports = [
   },
   {
     "id": "johnny-taylor",
-    "name": "Johnny·泰勒",
+    "name": "乔赫恩尼·塔伊尔",
     "name_en": "Johnny Taylor",
     "position": "SF",
     "height": 206,
@@ -20471,7 +20471,7 @@ module.exports = [
   },
   {
     "id": "jerald-honeycutt",
-    "name": "Jerald Honeycutt",
+    "name": "杰拉尔德·霍尼库特",
     "name_en": "Jerald Honeycutt",
     "position": "SF",
     "height": 206,
@@ -20509,7 +20509,7 @@ module.exports = [
   },
   {
     "id": "jeff-nordgaard",
-    "name": "杰夫·Nordgaard",
+    "name": "杰弗·诺尔德加德",
     "name_en": "Jeff Nordgaard",
     "position": "SF",
     "height": 201,
@@ -20545,7 +20545,7 @@ module.exports = [
   },
   {
     "id": "ed-stokes",
-    "name": "Ed·斯托克斯",
+    "name": "德·斯特克斯",
     "name_en": "Ed Stokes",
     "position": "C",
     "height": 213,
@@ -20581,7 +20581,7 @@ module.exports = [
   },
   {
     "id": "ed-gray",
-    "name": "Ed·格雷",
+    "name": "德·格伊",
     "name_en": "Ed Gray",
     "position": "PG",
     "height": 190,
@@ -20617,7 +20617,7 @@ module.exports = [
   },
   {
     "id": "drew-barry",
-    "name": "Drew Barry",
+    "name": "德尤·巴尔里",
     "name_en": "Drew Barry",
     "position": "SG",
     "height": 196,
@@ -20655,7 +20655,7 @@ module.exports = [
   },
   {
     "id": "dontae-jones",
-    "name": "Dontae'·琼斯",
+    "name": "登塔埃'·乔内斯",
     "name_en": "Dontae' Jones",
     "position": "SF",
     "height": 203,
@@ -20691,7 +20691,7 @@ module.exports = [
   },
   {
     "id": "derek-grimm",
-    "name": "德里克·Grimm",
+    "name": "德雷克·格姆",
     "name_en": "Derek Grimm",
     "position": "SF",
     "height": 206,
@@ -20773,7 +20773,7 @@ module.exports = [
   },
   {
     "id": "god-shammgod",
-    "name": "God Shammgod",
+    "name": "戈德·什姆戈德",
     "name_en": "God Shammgod",
     "position": "PG",
     "height": 183,
@@ -20809,7 +20809,7 @@ module.exports = [
   },
   {
     "id": "gerald-madkins",
-    "name": "杰拉德·Madkins",
+    "name": "杰拉尔德·马德基恩斯",
     "name_en": "Gerald Madkins",
     "position": "SG",
     "height": 193,
@@ -20845,7 +20845,7 @@ module.exports = [
   },
   {
     "id": "etdrick-bohannon",
-    "name": "Etdrick Bohannon",
+    "name": "特德克·博哈恩诺恩",
     "name_en": "Etdrick Bohannon",
     "position": "SF",
     "height": 206,
@@ -20997,7 +20997,7 @@ module.exports = [
   },
   {
     "id": "earl-boykins",
-    "name": "Earl Boykins",
+    "name": "尔·博伊金斯",
     "name_en": "Earl Boykins",
     "position": "PG",
     "height": 165,
@@ -21047,7 +21047,7 @@ module.exports = [
   },
   {
     "id": "cory-carr",
-    "name": "科里·Carr",
+    "name": "科里·卡尔",
     "name_en": "Cory Carr",
     "position": "PG",
     "height": 193,
@@ -21083,7 +21083,7 @@ module.exports = [
   },
   {
     "id": "cuttino-mobley",
-    "name": "Cuttino·莫布利",
+    "name": "库特蒂诺·莫布利",
     "name_en": "Cuttino Mobley",
     "position": "SG",
     "height": 193,
@@ -21123,7 +21123,7 @@ module.exports = [
   },
   {
     "id": "damon-jones",
-    "name": "Damon·琼斯",
+    "name": "达莫恩·乔内斯",
     "name_en": "Damon Jones",
     "position": "PG",
     "height": 190,
@@ -21173,7 +21173,7 @@ module.exports = [
   },
   {
     "id": "gerard-king",
-    "name": "Gerard·金",
+    "name": "杰拉尔德·基恩格",
     "name_en": "Gerard King",
     "position": "PF",
     "height": 206,
@@ -21211,7 +21211,7 @@ module.exports = [
   },
   {
     "id": "jr-henderson",
-    "name": "J.R. Henderson",
+    "name": "杰尔·赫恩德斯昂",
     "name_en": "J.R. Henderson",
     "position": "SF",
     "height": 203,
@@ -21283,7 +21283,7 @@ module.exports = [
   },
   {
     "id": "felipe-lopez",
-    "name": "Felipe·洛佩兹",
+    "name": "费利佩·洛佩兹",
     "name_en": "Felipe Lopez",
     "position": "SG",
     "height": 196,
@@ -21321,7 +21321,7 @@ module.exports = [
   },
   {
     "id": "corey-benjamin",
-    "name": "Corey Benjamin",
+    "name": "科尔伊·贝恩贾明",
     "name_en": "Corey Benjamin",
     "position": "PG",
     "height": 198,
@@ -21359,7 +21359,7 @@ module.exports = [
   },
   {
     "id": "adonis-jordan",
-    "name": "Adonis·乔丹",
+    "name": "德昂斯·乔尔达恩",
     "name_en": "Adonis Jordan",
     "position": "PG",
     "height": 180,
@@ -21443,7 +21443,7 @@ module.exports = [
   },
   {
     "id": "alvin-sims",
-    "name": "Alvin·西姆斯",
+    "name": "尔维恩·西姆斯",
     "name_en": "Alvin Sims",
     "position": "SG",
     "height": 193,
@@ -21479,7 +21479,7 @@ module.exports = [
   },
   {
     "id": "andrae-patterson",
-    "name": "Andrae·帕特森",
+    "name": "德拉埃·帕特尔森",
     "name_en": "Andrae Patterson",
     "position": "SF",
     "height": 206,
@@ -21515,7 +21515,7 @@ module.exports = [
   },
   {
     "id": "andrew-gaze",
-    "name": "Andrew Gaze",
+    "name": "德雷沃·加泽",
     "name_en": "Andrew Gaze",
     "position": "SF",
     "height": 201,
@@ -21551,7 +21551,7 @@ module.exports = [
   },
   {
     "id": "antawn-jamison",
-    "name": "Antawn Jamison",
+    "name": "特恩·贾米森",
     "name_en": "Antawn Jamison",
     "position": "SF",
     "height": 206,
@@ -21597,7 +21597,7 @@ module.exports = [
   },
   {
     "id": "anthony-avent",
-    "name": "安东尼·Avent",
+    "name": "特霍尼·夫特",
     "name_en": "Anthony Avent",
     "position": "C",
     "height": 206,
@@ -21635,7 +21635,7 @@ module.exports = [
   },
   {
     "id": "bonzi-wells",
-    "name": "Bonzi Wells",
+    "name": "博恩齐·韦尔斯",
     "name_en": "Bonzi Wells",
     "position": "SG",
     "height": 196,
@@ -21679,7 +21679,7 @@ module.exports = [
   },
   {
     "id": "brad-miller",
-    "name": "Brad·米勒",
+    "name": "布德·米尔",
     "name_en": "Brad Miller",
     "position": "PF",
     "height": 213,
@@ -21761,7 +21761,7 @@ module.exports = [
   },
   {
     "id": "charles-shackleford",
-    "name": "查尔斯·Shackleford",
+    "name": "奇尔勒斯·什克夫德",
     "name_en": "Charles Shackleford",
     "position": "C",
     "height": 211,
@@ -21835,7 +21835,7 @@ module.exports = [
   },
   {
     "id": "brian-skinner",
-    "name": "Brian Skinner",
+    "name": "布伊恩·斯克因内尔",
     "name_en": "Brian Skinner",
     "position": "PF",
     "height": 206,
@@ -21885,7 +21885,7 @@ module.exports = [
   },
   {
     "id": "bruno-sundov",
-    "name": "布鲁诺·Sundov",
+    "name": "布恩奥·苏恩多维",
     "name_en": "Bruno Sundov",
     "position": "C",
     "height": 218,
@@ -21927,7 +21927,7 @@ module.exports = [
   },
   {
     "id": "bryce-drew",
-    "name": "Bryce Drew",
+    "name": "布斯·德尤",
     "name_en": "Bryce Drew",
     "position": "SG",
     "height": 190,
@@ -21969,7 +21969,7 @@ module.exports = [
   },
   {
     "id": "casey-shaw",
-    "name": "Casey·肖",
+    "name": "卡塞伊·什奥",
     "name_en": "Casey Shaw",
     "position": "C",
     "height": 211,
@@ -22005,7 +22005,7 @@ module.exports = [
   },
   {
     "id": "jahidi-white",
-    "name": "Jahidi·怀特",
+    "name": "贾希迪·惠特",
     "name_en": "Jahidi White",
     "position": "PF",
     "height": 206,
@@ -22045,7 +22045,7 @@ module.exports = [
   },
   {
     "id": "roshown-mcleod",
-    "name": "Roshown McLeod",
+    "name": "罗什恩·麦克勒德",
     "name_en": "Roshown McLeod",
     "position": "SF",
     "height": 203,
@@ -22083,7 +22083,7 @@ module.exports = [
   },
   {
     "id": "ruben-patterson",
-    "name": "Ruben·帕特森",
+    "name": "鲁贝恩·帕特尔森",
     "name_en": "Ruben Patterson",
     "position": "SF",
     "height": 196,
@@ -22129,7 +22129,7 @@ module.exports = [
   },
   {
     "id": "ryan-stack",
-    "name": "Ryan Stack",
+    "name": "里恩·斯特克",
     "name_en": "Ryan Stack",
     "position": "SF",
     "height": 211,
@@ -22165,7 +22165,7 @@ module.exports = [
   },
   {
     "id": "sam-jacobson",
-    "name": "萨姆·Jacobson",
+    "name": "萨姆·贾科布森",
     "name_en": "Sam Jacobson",
     "position": "SG",
     "height": 193,
@@ -22205,7 +22205,7 @@ module.exports = [
   },
   {
     "id": "robert-traylor",
-    "name": "罗伯特·Traylor",
+    "name": "罗贝尔特·特伊洛尔",
     "name_en": "Robert Traylor",
     "position": "PF",
     "height": 203,
@@ -22247,7 +22247,7 @@ module.exports = [
   },
   {
     "id": "sean-marks",
-    "name": "Sean Marks",
+    "name": "塞恩·马尔克斯",
     "name_en": "Sean Marks",
     "position": "PF",
     "height": 208,
@@ -22293,7 +22293,7 @@ module.exports = [
   },
   {
     "id": "pat-garrity",
-    "name": "帕特·Garrity",
+    "name": "帕特·加尔里蒂",
     "name_en": "Pat Garrity",
     "position": "SF",
     "height": 206,
@@ -22411,7 +22411,7 @@ module.exports = [
   },
   {
     "id": "peja-stojakovic",
-    "name": "Peja Stojakovic",
+    "name": "佩贾·斯特奥贾科维克",
     "name_en": "Peja Stojakovic",
     "position": "SF",
     "height": 208,
@@ -22455,7 +22455,7 @@ module.exports = [
   },
   {
     "id": "peter-aluma",
-    "name": "Peter Aluma",
+    "name": "佩特尔·尔姆阿",
     "name_en": "Peter Aluma",
     "position": "C",
     "height": 208,
@@ -22491,7 +22491,7 @@ module.exports = [
   },
   {
     "id": "raef-lafrentz",
-    "name": "Raef LaFrentz",
+    "name": "拉夫·拉弗特兹",
     "name_en": "Raef LaFrentz",
     "position": "PF",
     "height": 211,
@@ -22533,7 +22533,7 @@ module.exports = [
   },
   {
     "id": "randell-jackson",
-    "name": "Randell·杰克逊",
+    "name": "拉恩德尔·贾克森",
     "name_en": "Randell Jackson",
     "position": "SF",
     "height": 211,
@@ -22571,7 +22571,7 @@ module.exports = [
   },
   {
     "id": "rasho-nesterovic",
-    "name": "Rasho Nesterovic",
+    "name": "拉什奥·内斯特夫克",
     "name_en": "Rasho Nesterovic",
     "position": "C",
     "height": 213,
@@ -22659,7 +22659,7 @@ module.exports = [
   },
   {
     "id": "rashard-lewis",
-    "name": "Rashard·刘易斯",
+    "name": "拉什德·勒威斯",
     "name_en": "Rashard Lewis",
     "position": "SF",
     "height": 208,
@@ -22701,7 +22701,7 @@ module.exports = [
   },
   {
     "id": "trevor-winter",
-    "name": "Trevor Winter",
+    "name": "特夫尔·威恩特尔",
     "name_en": "Trevor Winter",
     "position": "C",
     "height": 213,
@@ -22737,7 +22737,7 @@ module.exports = [
   },
   {
     "id": "tyrone-nesby",
-    "name": "Tyrone Nesby",
+    "name": "蒂罗内·内斯拜",
     "name_en": "Tyrone Nesby",
     "position": "SF",
     "height": 198,
@@ -22775,7 +22775,7 @@ module.exports = [
   },
   {
     "id": "tyronn-lue",
-    "name": "Tyronn Lue",
+    "name": "蒂龙恩·卢埃",
     "name_en": "Tyronn Lue",
     "position": "SG",
     "height": 183,
@@ -22819,7 +22819,7 @@ module.exports = [
   },
   {
     "id": "tyson-wheeler",
-    "name": "Tyson·惠勒",
+    "name": "蒂森·惠尔",
     "name_en": "Tyson Wheeler",
     "position": "SG",
     "height": 178,
@@ -22855,7 +22855,7 @@ module.exports = [
   },
   {
     "id": "vladimir-stepania",
-    "name": "Vladimir Stepania",
+    "name": "维拉迪米尔·斯特普恩伊阿",
     "name_en": "Vladimir Stepania",
     "position": "C",
     "height": 216,
@@ -22947,7 +22947,7 @@ module.exports = [
   },
   {
     "id": "thurl-bailey",
-    "name": "Thurl Bailey",
+    "name": "斯尔·巴尔伊",
     "name_en": "Thurl Bailey",
     "position": "SF",
     "height": 211,
@@ -22983,7 +22983,7 @@ module.exports = [
   },
   {
     "id": "toby-bailey",
-    "name": "Toby Bailey",
+    "name": "托拜·巴尔伊",
     "name_en": "Toby Bailey",
     "position": "PG",
     "height": 198,
@@ -23019,7 +23019,7 @@ module.exports = [
   },
   {
     "id": "shammond-williams",
-    "name": "Shammond·威廉姆斯",
+    "name": "什姆莫恩德·威尔伊姆斯",
     "name_en": "Shammond Williams",
     "position": "PG",
     "height": 185,
@@ -23063,7 +23063,7 @@ module.exports = [
   },
   {
     "id": "jonathan-kerner",
-    "name": "乔纳森·Kerner",
+    "name": "乔纳斯恩·凯恩尔",
     "name_en": "Jonathan Kerner",
     "position": "C",
     "height": 211,
@@ -23099,7 +23099,7 @@ module.exports = [
   },
   {
     "id": "kelly-mccarty",
-    "name": "Kelly McCarty",
+    "name": "凯尔伊·麦克卡特伊",
     "name_en": "Kelly McCarty",
     "position": "SG",
     "height": 201,
@@ -23135,7 +23135,7 @@ module.exports = [
   },
   {
     "id": "keon-clark",
-    "name": "Keon·克拉克",
+    "name": "凯昂·克",
     "name_en": "Keon Clark",
     "position": "PF",
     "height": 211,
@@ -23177,7 +23177,7 @@ module.exports = [
   },
   {
     "id": "korleone-young",
-    "name": "Korleone·杨",
+    "name": "科尔勒恩·约昂",
     "name_en": "Korleone Young",
     "position": "SF",
     "height": 201,
@@ -23213,7 +23213,7 @@ module.exports = [
   },
   {
     "id": "kornel-david",
-    "name": "Kornel David",
+    "name": "科尔内尔·达维德",
     "name_en": "Kornel David",
     "position": "SF",
     "height": 206,
@@ -23295,7 +23295,7 @@ module.exports = [
   },
   {
     "id": "john-coker",
-    "name": "约翰·Coker",
+    "name": "乔赫恩·科凯尔",
     "name_en": "John Coker",
     "position": "C",
     "height": 213,
@@ -23333,7 +23333,7 @@ module.exports = [
   },
   {
     "id": "jeff-sheppard",
-    "name": "杰夫·Sheppard",
+    "name": "杰弗·什普帕尔德",
     "name_en": "Jeff Sheppard",
     "position": "SG",
     "height": 190,
@@ -23369,7 +23369,7 @@ module.exports = [
   },
   {
     "id": "jerome-james",
-    "name": "Jerome·詹姆斯",
+    "name": "杰罗梅·贾梅斯",
     "name_en": "Jerome James",
     "position": "C",
     "height": 216,
@@ -23409,7 +23409,7 @@ module.exports = [
   },
   {
     "id": "jelani-mccoy",
-    "name": "Jelani·麦考伊",
+    "name": "杰兰伊·麦克科伊",
     "name_en": "Jelani McCoy",
     "position": "SF",
     "height": 208,
@@ -23455,7 +23455,7 @@ module.exports = [
   },
   {
     "id": "mikki-moore",
-    "name": "Mikki·摩尔",
+    "name": "米克基·莫尔",
     "name_en": "Mikki Moore",
     "position": "PF",
     "height": 213,
@@ -23507,7 +23507,7 @@ module.exports = [
   },
   {
     "id": "mike-bibby",
-    "name": "Mike Bibby",
+    "name": "米凯·比布拜",
     "name_en": "Mike Bibby",
     "position": "PG",
     "height": 188,
@@ -23551,7 +23551,7 @@ module.exports = [
   },
   {
     "id": "michael-olowokandi",
-    "name": "迈克尔·Olowokandi",
+    "name": "米奇阿尔·尔奥克德伊",
     "name_en": "Michael Olowokandi",
     "position": "C",
     "height": 213,
@@ -23591,7 +23591,7 @@ module.exports = [
   },
   {
     "id": "michael-doleac",
-    "name": "迈克尔·Doleac",
+    "name": "米奇阿尔·多勒克",
     "name_en": "Michael Doleac",
     "position": "C",
     "height": 211,
@@ -23637,7 +23637,7 @@ module.exports = [
   },
   {
     "id": "michael-dickerson",
-    "name": "迈克尔·Dickerson",
+    "name": "米奇阿尔·迪克斯昂",
     "name_en": "Michael Dickerson",
     "position": "SG",
     "height": 196,
@@ -23677,7 +23677,7 @@ module.exports = [
   },
   {
     "id": "matt-harpring",
-    "name": "Matt Harpring",
+    "name": "马特·哈尔普英",
     "name_en": "Matt Harpring",
     "position": "SF",
     "height": 201,
@@ -23719,7 +23719,7 @@ module.exports = [
   },
   {
     "id": "marlon-garnett",
-    "name": "Marlon Garnett",
+    "name": "马尔洛恩·加尔内特",
     "name_en": "Marlon Garnett",
     "position": "PG",
     "height": 188,
@@ -23755,7 +23755,7 @@ module.exports = [
   },
   {
     "id": "mark-macon",
-    "name": "马克·Macon",
+    "name": "马尔克·马科恩",
     "name_en": "Mark Macon",
     "position": "PG",
     "height": 193,
@@ -23791,7 +23791,7 @@ module.exports = [
   },
   {
     "id": "miles-simon",
-    "name": "迈尔斯·Simon",
+    "name": "米勒斯·西莫恩",
     "name_en": "Miles Simon",
     "position": "PG",
     "height": 190,
@@ -23877,7 +23877,7 @@ module.exports = [
   },
   {
     "id": "nazr-mohammed",
-    "name": "Nazr Mohammed",
+    "name": "纳兹尔·莫哈姆梅德",
     "name_en": "Nazr Mohammed",
     "position": "C",
     "height": 208,
@@ -23927,7 +23927,7 @@ module.exports = [
   },
   {
     "id": "negele-knight",
-    "name": "Negele·奈特",
+    "name": "内杰勒·恩伊特",
     "name_en": "Negele Knight",
     "position": "PG",
     "height": 185,
@@ -23999,7 +23999,7 @@ module.exports = [
   },
   {
     "id": "michael-ruffin",
-    "name": "迈克尔·Ruffin",
+    "name": "米奇阿尔·鲁弗菲恩",
     "name_en": "Michael Ruffin",
     "position": "PF",
     "height": 203,
@@ -24045,7 +24045,7 @@ module.exports = [
   },
   {
     "id": "metta-world-peace",
-    "name": "Metta World Peace",
+    "name": "梅特塔·佩克埃",
     "name_en": "Metta World Peace",
     "position": "SF",
     "height": 201,
@@ -24091,7 +24091,7 @@ module.exports = [
   },
   {
     "id": "mirsad-turkcan",
-    "name": "Mirsad Turkcan",
+    "name": "米尔萨德·图尔克卡恩",
     "name_en": "Mirsad Turkcan",
     "position": "SF",
     "height": 206,
@@ -24127,7 +24127,7 @@ module.exports = [
   },
   {
     "id": "obinna-ekezie",
-    "name": "Obinna Ekezie",
+    "name": "布因纳·克兹伊埃",
     "name_en": "Obinna Ekezie",
     "position": "PF",
     "height": 206,
@@ -24169,7 +24169,7 @@ module.exports = [
   },
   {
     "id": "milt-palacio",
-    "name": "Milt Palacio",
+    "name": "米尔特·帕拉西奥",
     "name_en": "Milt Palacio",
     "position": "PG",
     "height": 193,
@@ -24215,7 +24215,7 @@ module.exports = [
   },
   {
     "id": "jonathan-bender",
-    "name": "乔纳森·Bender",
+    "name": "乔纳斯恩·贝恩德尔",
     "name_en": "Jonathan Bender",
     "position": "SF",
     "height": 213,
@@ -24253,7 +24253,7 @@ module.exports = [
   },
   {
     "id": "jumaine-jones",
-    "name": "Jumaine·琼斯",
+    "name": "朱马因·乔内斯",
     "name_en": "Jumaine Jones",
     "position": "SF",
     "height": 203,
@@ -24299,7 +24299,7 @@ module.exports = [
   },
   {
     "id": "kenny-thomas",
-    "name": "Kenny·托马斯",
+    "name": "凯恩尼·斯姆斯",
     "name_en": "Kenny Thomas",
     "position": "SF",
     "height": 201,
@@ -24339,7 +24339,7 @@ module.exports = [
   },
   {
     "id": "john-amaechi",
-    "name": "约翰·Amaechi",
+    "name": "乔赫恩·姆阿克希",
     "name_en": "John Amaechi",
     "position": "PF",
     "height": 208,
@@ -24377,7 +24377,7 @@ module.exports = [
   },
   {
     "id": "john-celestand",
-    "name": "约翰·Celestand",
+    "name": "乔赫恩·塞勒斯特德",
     "name_en": "John Celestand",
     "position": "SG",
     "height": 193,
@@ -24413,7 +24413,7 @@ module.exports = [
   },
   {
     "id": "john-salley",
-    "name": "约翰·Salley",
+    "name": "乔赫恩·萨尔伊",
     "name_en": "John Salley",
     "position": "PF",
     "height": 211,
@@ -24449,7 +24449,7 @@ module.exports = [
   },
   {
     "id": "lazaro-borrell",
-    "name": "Lazaro Borrell",
+    "name": "拉扎罗·博尔雷尔",
     "name_en": "Lazaro Borrell",
     "position": "SF",
     "height": 203,
@@ -24485,7 +24485,7 @@ module.exports = [
   },
   {
     "id": "lamar-odom",
-    "name": "Lamar Odom",
+    "name": "拉马尔·德姆",
     "name_en": "Lamar Odom",
     "position": "SF",
     "height": 208,
@@ -24527,7 +24527,7 @@ module.exports = [
   },
   {
     "id": "lari-ketner",
-    "name": "Lari Ketner",
+    "name": "拉里·凯特内尔",
     "name_en": "Lari Ketner",
     "position": "PF",
     "height": 206,
@@ -24565,7 +24565,7 @@ module.exports = [
   },
   {
     "id": "laron-profit",
-    "name": "Laron Profit",
+    "name": "拉罗恩·普夫特",
     "name_en": "Laron Profit",
     "position": "SG",
     "height": 196,
@@ -24603,7 +24603,7 @@ module.exports = [
   },
   {
     "id": "jermaine-jackson",
-    "name": "Jermaine·杰克逊",
+    "name": "杰尔马因·贾克森",
     "name_en": "Jermaine Jackson",
     "position": "PG",
     "height": 196,
@@ -24647,7 +24647,7 @@ module.exports = [
   },
   {
     "id": "todd-macculloch",
-    "name": "Todd MacCulloch",
+    "name": "托德·马克库尔克赫",
     "name_en": "Todd MacCulloch",
     "position": "C",
     "height": 213,
@@ -24797,7 +24797,7 @@ module.exports = [
   },
   {
     "id": "steve-francis",
-    "name": "Steve Francis",
+    "name": "斯特夫·弗恩西斯",
     "name_en": "Steve Francis",
     "position": "PG",
     "height": 190,
@@ -24837,7 +24837,7 @@ module.exports = [
   },
   {
     "id": "jeff-foster",
-    "name": "杰夫·Foster",
+    "name": "杰弗·福斯特",
     "name_en": "Jeff Foster",
     "position": "PF",
     "height": 211,
@@ -24873,7 +24873,7 @@ module.exports = [
   },
   {
     "id": "william-avery",
-    "name": "威廉·Avery",
+    "name": "威尔伊姆·夫里",
     "name_en": "William Avery",
     "position": "PG",
     "height": 188,
@@ -24909,7 +24909,7 @@ module.exports = [
   },
   {
     "id": "wayne-turner",
-    "name": "Wayne·特纳",
+    "name": "瓦因·图尔内尔",
     "name_en": "Wayne Turner",
     "position": "SG",
     "height": 188,
@@ -24945,7 +24945,7 @@ module.exports = [
   },
   {
     "id": "wally-szczerbiak",
-    "name": "Wally Szczerbiak",
+    "name": "瓦尔伊·斯兹克泽尔比克",
     "name_en": "Wally Szczerbiak",
     "position": "SG",
     "height": 201,
@@ -24985,7 +24985,7 @@ module.exports = [
   },
   {
     "id": "vonteego-cummings",
-    "name": "Vonteego Cummings",
+    "name": "沃恩特格奥·库姆米恩格斯",
     "name_en": "Vonteego Cummings",
     "position": "PG",
     "height": 190,
@@ -25023,7 +25023,7 @@ module.exports = [
   },
   {
     "id": "trajan-langdon",
-    "name": "Trajan Langdon",
+    "name": "特阿贾恩·拉恩格多恩",
     "name_en": "Trajan Langdon",
     "position": "PG",
     "height": 190,
@@ -25059,7 +25059,7 @@ module.exports = [
   },
   {
     "id": "shawn-marion",
-    "name": "Shawn Marion",
+    "name": "什恩·马里昂",
     "name_en": "Shawn Marion",
     "position": "SG",
     "height": 201,
@@ -25103,7 +25103,7 @@ module.exports = [
   },
   {
     "id": "rick-hughes",
-    "name": "Rick·休斯",
+    "name": "里克·胡格斯",
     "name_en": "Rick Hughes",
     "position": "SF",
     "height": 206,
@@ -25139,7 +25139,7 @@ module.exports = [
   },
   {
     "id": "richard-hamilton",
-    "name": "Richard·汉密尔顿",
+    "name": "里奇德·哈米尔顿",
     "name_en": "Richard Hamilton",
     "position": "PG",
     "height": 201,
@@ -25179,7 +25179,7 @@ module.exports = [
   },
   {
     "id": "rafer-alston",
-    "name": "Rafer Alston",
+    "name": "拉费尔·尔斯特昂",
     "name_en": "Rafer Alston",
     "position": "PG",
     "height": 188,
@@ -25223,7 +25223,7 @@ module.exports = [
   },
   {
     "id": "quincy-lewis",
-    "name": "Quincy·刘易斯",
+    "name": "奎因赛·勒威斯",
     "name_en": "Quincy Lewis",
     "position": "SG",
     "height": 201,
@@ -25261,7 +25261,7 @@ module.exports = [
   },
   {
     "id": "rodney-buford",
-    "name": "Rodney Buford",
+    "name": "罗德尼·布福德",
     "name_en": "Rodney Buford",
     "position": "SF",
     "height": 196,
@@ -25305,7 +25305,7 @@ module.exports = [
   },
   {
     "id": "scott-padgett",
-    "name": "Scott Padgett",
+    "name": "斯特·帕德杰特",
     "name_en": "Scott Padgett",
     "position": "SF",
     "height": 206,
@@ -25347,7 +25347,7 @@ module.exports = [
   },
   {
     "id": "ryan-robertson",
-    "name": "Ryan·罗伯特森",
+    "name": "里恩·罗贝特森",
     "name_en": "Ryan Robertson",
     "position": "SG",
     "height": 196,
@@ -25383,7 +25383,7 @@ module.exports = [
   },
   {
     "id": "ryan-bowen",
-    "name": "Ryan Bowen",
+    "name": "里恩·鲍恩",
     "name_en": "Ryan Bowen",
     "position": "SF",
     "height": 206,
@@ -25425,7 +25425,7 @@ module.exports = [
   },
   {
     "id": "jason-miskiri",
-    "name": "杰森·Miskiri",
+    "name": "贾森·米斯克尔伊",
     "name_en": "Jason Miskiri",
     "position": "SG",
     "height": 188,
@@ -25461,7 +25461,7 @@ module.exports = [
   },
   {
     "id": "calvin-booth",
-    "name": "Calvin Booth",
+    "name": "卡尔维恩·博斯",
     "name_en": "Calvin Booth",
     "position": "C",
     "height": 211,
@@ -25507,7 +25507,7 @@ module.exports = [
   },
   {
     "id": "cal-bowdler",
-    "name": "Cal Bowdler",
+    "name": "卡尔·博沃德勒尔",
     "name_en": "Cal Bowdler",
     "position": "SF",
     "height": 208,
@@ -25543,7 +25543,7 @@ module.exports = [
   },
   {
     "id": "corey-maggette",
-    "name": "Corey Maggette",
+    "name": "科尔伊·马格杰特",
     "name_en": "Corey Maggette",
     "position": "SF",
     "height": 198,
@@ -25589,7 +25589,7 @@ module.exports = [
   },
   {
     "id": "chucky-atkins",
-    "name": "Chucky Atkins",
+    "name": "奇克伊·特金斯",
     "name_en": "Chucky Atkins",
     "position": "PG",
     "height": 180,
@@ -25637,7 +25637,7 @@ module.exports = [
   },
   {
     "id": "chris-herren",
-    "name": "克里斯·Herren",
+    "name": "奇里斯·赫尔雷恩",
     "name_en": "Chris Herren",
     "position": "PG",
     "height": 188,
@@ -25771,7 +25771,7 @@ module.exports = [
   },
   {
     "id": "aleksandar-radojevic",
-    "name": "Aleksandar Radojevic",
+    "name": "尔克萨恩达尔·拉多杰维克",
     "name_en": "Aleksandar Radojevic",
     "position": "C",
     "height": 221,
@@ -25809,7 +25809,7 @@ module.exports = [
   },
   {
     "id": "adrian-griffin",
-    "name": "Adrian·格里芬",
+    "name": "德里恩·格夫因",
     "name_en": "Adrian Griffin",
     "position": "SG",
     "height": 196,
@@ -25853,7 +25853,7 @@ module.exports = [
   },
   {
     "id": "aj-bramlett",
-    "name": "A.J. Bramlett",
+    "name": "阿杰·布姆勒特",
     "name_en": "A.J. Bramlett",
     "position": "C",
     "height": 208,
@@ -25889,7 +25889,7 @@ module.exports = [
   },
   {
     "id": "baron-davis",
-    "name": "Baron·戴维斯",
+    "name": "巴罗恩·达维斯",
     "name_en": "Baron Davis",
     "position": "PG",
     "height": 190,
@@ -25935,7 +25935,7 @@ module.exports = [
   },
   {
     "id": "jason-terry",
-    "name": "杰森·Terry",
+    "name": "贾森·特尔里",
     "name_en": "Jason Terry",
     "position": "SG",
     "height": 188,
@@ -25981,7 +25981,7 @@ module.exports = [
   },
   {
     "id": "fred-vinson",
-    "name": "弗雷德·Vinson",
+    "name": "弗德·文森",
     "name_en": "Fred Vinson",
     "position": "PG",
     "height": 193,
@@ -26017,7 +26017,7 @@ module.exports = [
   },
   {
     "id": "evan-eschmeyer",
-    "name": "埃文·Eschmeyer",
+    "name": "夫恩·斯奇梅耶",
     "name_en": "Evan Eschmeyer",
     "position": "C",
     "height": 211,
@@ -26055,7 +26055,7 @@ module.exports = [
   },
   {
     "id": "greg-buckner",
-    "name": "Greg Buckner",
+    "name": "格·布克内尔",
     "name_en": "Greg Buckner",
     "position": "SG",
     "height": 193,
@@ -26099,7 +26099,7 @@ module.exports = [
   },
   {
     "id": "james-posey",
-    "name": "詹姆斯·Posey",
+    "name": "贾梅斯·波塞伊",
     "name_en": "James Posey",
     "position": "SF",
     "height": 203,
@@ -26147,7 +26147,7 @@ module.exports = [
   },
   {
     "id": "harold-jamison",
-    "name": "Harold Jamison",
+    "name": "哈罗尔德·贾米森",
     "name_en": "Harold Jamison",
     "position": "SF",
     "height": 206,
@@ -26185,7 +26185,7 @@ module.exports = [
   },
   {
     "id": "ira-bowman",
-    "name": "Ira Bowman",
+    "name": "尔阿·博沃曼",
     "name_en": "Ira Bowman",
     "position": "SG",
     "height": 196,
@@ -26223,7 +26223,7 @@ module.exports = [
   },
   {
     "id": "elton-brand",
-    "name": "Elton Brand",
+    "name": "特昂·布德",
     "name_en": "Elton Brand",
     "position": "SF",
     "height": 206,
@@ -26303,7 +26303,7 @@ module.exports = [
   },
   {
     "id": "dedric-willoughby",
-    "name": "Dedric Willoughby",
+    "name": "德克·威尔夫拜",
     "name_en": "Dedric Willoughby",
     "position": "SG",
     "height": 190,
@@ -26339,7 +26339,7 @@ module.exports = [
   },
   {
     "id": "demarco-johnson",
-    "name": "Demarco·约翰逊",
+    "name": "德马尔科·乔赫恩森",
     "name_en": "DeMarco Johnson",
     "position": "SF",
     "height": 206,
@@ -26375,7 +26375,7 @@ module.exports = [
   },
   {
     "id": "eddie-robinson",
-    "name": "Eddie·罗宾逊",
+    "name": "德迪埃·罗比恩森",
     "name_en": "Eddie Robinson",
     "position": "SF",
     "height": 206,
@@ -26413,7 +26413,7 @@ module.exports = [
   },
   {
     "id": "devean-george",
-    "name": "Devean·乔治",
+    "name": "德维恩·杰格埃",
     "name_en": "Devean George",
     "position": "SF",
     "height": 203,
@@ -26453,7 +26453,7 @@ module.exports = [
   },
   {
     "id": "dion-glover",
-    "name": "Dion Glover",
+    "name": "迪昂·格夫尔",
     "name_en": "Dion Glover",
     "position": "PG",
     "height": 196,
@@ -26493,7 +26493,7 @@ module.exports = [
   },
   {
     "id": "derrick-dial",
-    "name": "德里克·Dial",
+    "name": "德尔里克·迪尔",
     "name_en": "Derrick Dial",
     "position": "SG",
     "height": 193,
@@ -26583,7 +26583,7 @@ module.exports = [
   },
   {
     "id": "jason-collier",
-    "name": "杰森·Collier",
+    "name": "贾森·科尔",
     "name_en": "Jason Collier",
     "position": "C",
     "height": 213,
@@ -26621,7 +26621,7 @@ module.exports = [
   },
   {
     "id": "jerome-moiso",
-    "name": "Jerome Moiso",
+    "name": "杰罗梅·莫斯奥",
     "name_en": "Jerome Moiso",
     "position": "SF",
     "height": 208,
@@ -26665,7 +26665,7 @@ module.exports = [
   },
   {
     "id": "jamel-thomas",
-    "name": "Jamel·托马斯",
+    "name": "贾梅尔·斯姆斯",
     "name_en": "Jamel Thomas",
     "position": "SF",
     "height": 198,
@@ -26701,7 +26701,7 @@ module.exports = [
   },
   {
     "id": "joel-przybilla",
-    "name": "乔尔·Przybilla",
+    "name": "乔尔·普兹伊比尔阿",
     "name_en": "Joel Przybilla",
     "position": "C",
     "height": 216,
@@ -26831,7 +26831,7 @@ module.exports = [
   },
   {
     "id": "garth-joseph",
-    "name": "Garth·约瑟夫",
+    "name": "加尔斯·乔塞菲",
     "name_en": "Garth Joseph",
     "position": "C",
     "height": 218,
@@ -26867,7 +26867,7 @@ module.exports = [
   },
   {
     "id": "hedo-turkoglu",
-    "name": "Hedo Turkoglu",
+    "name": "赫多·图尔科格乌",
     "name_en": "Hedo Turkoglu",
     "position": "SF",
     "height": 208,
@@ -26911,7 +26911,7 @@ module.exports = [
   },
   {
     "id": "jamaal-magloire",
-    "name": "Jamaal Magloire",
+    "name": "贾马尔·马格尔埃",
     "name_en": "Jamaal Magloire",
     "position": "C",
     "height": 211,
@@ -26959,7 +26959,7 @@ module.exports = [
   },
   {
     "id": "jake-voskuhl",
-    "name": "Jake Voskuhl",
+    "name": "贾凯·沃斯克赫尔",
     "name_en": "Jake Voskuhl",
     "position": "C",
     "height": 211,
@@ -27003,7 +27003,7 @@ module.exports = [
   },
   {
     "id": "jake-tsakalidis",
-    "name": "Jake Tsakalidis",
+    "name": "贾凯·特萨卡利迪斯",
     "name_en": "Jake Tsakalidis",
     "position": "C",
     "height": 218,
@@ -27043,7 +27043,7 @@ module.exports = [
   },
   {
     "id": "jabari-smith",
-    "name": "Jabari·史密斯",
+    "name": "贾巴里·斯",
     "name_en": "Jabari Smith",
     "position": "C",
     "height": 211,
@@ -27083,7 +27083,7 @@ module.exports = [
   },
   {
     "id": "hanno-mottola",
-    "name": "Hanno Mottola",
+    "name": "哈恩诺·莫特托拉",
     "name_en": "Hanno Mottola",
     "position": "PF",
     "height": 211,
@@ -27119,7 +27119,7 @@ module.exports = [
   },
   {
     "id": "ira-newble",
-    "name": "Ira Newble",
+    "name": "尔阿·内沃布勒",
     "name_en": "Ira Newble",
     "position": "SG",
     "height": 201,
@@ -27161,7 +27161,7 @@ module.exports = [
   },
   {
     "id": "michael-redd",
-    "name": "迈克尔·Redd",
+    "name": "米奇阿尔·雷德",
     "name_en": "Michael Redd",
     "position": "PG",
     "height": 198,
@@ -27199,7 +27199,7 @@ module.exports = [
   },
   {
     "id": "mateen-cleaves",
-    "name": "Mateen Cleaves",
+    "name": "马特恩·克埃夫斯",
     "name_en": "Mateen Cleaves",
     "position": "SG",
     "height": 188,
@@ -27241,7 +27241,7 @@ module.exports = [
   },
   {
     "id": "mark-madsen",
-    "name": "马克·Madsen",
+    "name": "马尔克·马德塞恩",
     "name_en": "Mark Madsen",
     "position": "SF",
     "height": 206,
@@ -27279,7 +27279,7 @@ module.exports = [
   },
   {
     "id": "olumide-oyedeji",
-    "name": "Olumide Oyedeji",
+    "name": "尔姆德·伊德吉",
     "name_en": "Olumide Oyedeji",
     "position": "C",
     "height": 208,
@@ -27317,7 +27317,7 @@ module.exports = [
   },
   {
     "id": "morris-peterson",
-    "name": "Morris·彼得森",
+    "name": "莫尔里斯·佩特尔森",
     "name_en": "Morris Peterson",
     "position": "PG",
     "height": 201,
@@ -27357,7 +27357,7 @@ module.exports = [
   },
   {
     "id": "mike-smith",
-    "name": "Mike·史密斯",
+    "name": "米凯·斯",
     "name_en": "Mike Smith",
     "position": "SF",
     "height": 203,
@@ -27393,7 +27393,7 @@ module.exports = [
   },
   {
     "id": "mike-penberthy",
-    "name": "Mike Penberthy",
+    "name": "米凯·佩恩贝特海",
     "name_en": "Mike Penberthy",
     "position": null,
     "height": 190,
@@ -27429,7 +27429,7 @@ module.exports = [
   },
   {
     "id": "mike-miller",
-    "name": "Mike·米勒",
+    "name": "米凯·米尔",
     "name_en": "Mike Miller",
     "position": "SG",
     "height": 203,
@@ -27477,7 +27477,7 @@ module.exports = [
   },
   {
     "id": "mark-blount",
-    "name": "马克·Blount",
+    "name": "马尔克·布洛特",
     "name_en": "Mark Blount",
     "position": "PF",
     "height": 213,
@@ -27517,7 +27517,7 @@ module.exports = [
   },
   {
     "id": "khalid-el-amin",
-    "name": "Khalid El-Amin",
+    "name": "克尔德·尔-姆因",
     "name_en": "Khalid El-Amin",
     "position": "PG",
     "height": 178,
@@ -27553,7 +27553,7 @@ module.exports = [
   },
   {
     "id": "kenyon-martin",
-    "name": "Kenyon·马丁",
+    "name": "肯约恩·马特因",
     "name_en": "Kenyon Martin",
     "position": "SF",
     "height": 206,
@@ -27597,7 +27597,7 @@ module.exports = [
   },
   {
     "id": "keyon-dooling",
-    "name": "Keyon Dooling",
+    "name": "凯约恩·多尔英",
     "name_en": "Keyon Dooling",
     "position": "SG",
     "height": 190,
@@ -27645,7 +27645,7 @@ module.exports = [
   },
   {
     "id": "marcus-fizer",
-    "name": "马库斯·Fizer",
+    "name": "马尔库斯·菲泽尔",
     "name_en": "Marcus Fizer",
     "position": "SF",
     "height": 203,
@@ -27727,7 +27727,7 @@ module.exports = [
   },
   {
     "id": "mamadou-ndiaye",
-    "name": "Mamadou N'diaye",
+    "name": "马多乌·恩德伊耶",
     "name_en": "Mamadou N'diaye",
     "position": "C",
     "height": 213,
@@ -27767,7 +27767,7 @@ module.exports = [
   },
   {
     "id": "lee-nailon",
-    "name": "Lee Nailon",
+    "name": "勒埃·纳尔昂",
     "name_en": "Lee Nailon",
     "position": "SF",
     "height": 206,
@@ -27811,7 +27811,7 @@ module.exports = [
   },
   {
     "id": "lavor-postell",
-    "name": "Lavor Postell",
+    "name": "拉沃尔·波斯特尔",
     "name_en": "Lavor Postell",
     "position": "SG",
     "height": 196,
@@ -27847,7 +27847,7 @@ module.exports = [
   },
   {
     "id": "brian-cardinal",
-    "name": "Brian Cardinal",
+    "name": "布伊恩·卡尔迪纳尔",
     "name_en": "Brian Cardinal",
     "position": "SF",
     "height": 203,
@@ -27893,7 +27893,7 @@ module.exports = [
   },
   {
     "id": "chris-mihm",
-    "name": "克里斯·Mihm",
+    "name": "奇里斯·米赫姆",
     "name_en": "Chris Mihm",
     "position": "C",
     "height": 213,
@@ -27969,7 +27969,7 @@ module.exports = [
   },
   {
     "id": "andy-panko",
-    "name": "Andy Panko",
+    "name": "德伊·帕恩克奥",
     "name_en": "Andy Panko",
     "position": "SF",
     "height": 206,
@@ -28005,7 +28005,7 @@ module.exports = [
   },
   {
     "id": "aj-guyton",
-    "name": "A.J. Guyton",
+    "name": "阿杰·古伊顿",
     "name_en": "A.J. Guyton",
     "position": "PG",
     "height": 185,
@@ -28043,7 +28043,7 @@ module.exports = [
   },
   {
     "id": "art-long",
-    "name": "Art·朗",
+    "name": "特·洛恩格",
     "name_en": "Art Long",
     "position": "SF",
     "height": 206,
@@ -28083,7 +28083,7 @@ module.exports = [
   },
   {
     "id": "donnell-harvey",
-    "name": "Donnell·哈维",
+    "name": "登内尔·哈尔维伊",
     "name_en": "Donnell Harvey",
     "position": "SF",
     "height": 203,
@@ -28125,7 +28125,7 @@ module.exports = [
   },
   {
     "id": "dragan-tarlac",
-    "name": "Dragan Tarlac",
+    "name": "德格恩·塔尔拉克",
     "name_en": "Dragan Tarlac",
     "position": "PF",
     "height": 211,
@@ -28161,7 +28161,7 @@ module.exports = [
   },
   {
     "id": "desmond-mason",
-    "name": "Desmond·梅森",
+    "name": "德斯德·马森",
     "name_en": "Desmond Mason",
     "position": "SG",
     "height": 196,
@@ -28205,7 +28205,7 @@ module.exports = [
   },
   {
     "id": "eddie-gill",
-    "name": "Eddie Gill",
+    "name": "德迪埃·吉尔",
     "name_en": "Eddie Gill",
     "position": "SG",
     "height": 183,
@@ -28251,7 +28251,7 @@ module.exports = [
   },
   {
     "id": "erick-barkley",
-    "name": "Erick Barkley",
+    "name": "里克·巴尔克伊",
     "name_en": "Erick Barkley",
     "position": "SG",
     "height": 185,
@@ -28287,7 +28287,7 @@ module.exports = [
   },
   {
     "id": "eduardo-najera",
-    "name": "Eduardo Najera",
+    "name": "德乌德奥·纳杰拉",
     "name_en": "Eduardo Najera",
     "position": "SF",
     "height": 203,
@@ -28329,7 +28329,7 @@ module.exports = [
   },
   {
     "id": "eddie-house",
-    "name": "Eddie·豪斯",
+    "name": "德迪埃·霍斯",
     "name_en": "Eddie House",
     "position": "SG",
     "height": 185,
@@ -28377,7 +28377,7 @@ module.exports = [
   },
   {
     "id": "dermarr-johnson",
-    "name": "Dermarr·约翰逊",
+    "name": "德尔马尔·乔赫恩森",
     "name_en": "DerMarr Johnson",
     "position": "SF",
     "height": 206,
@@ -28419,7 +28419,7 @@ module.exports = [
   },
   {
     "id": "dan-langhi",
-    "name": "Dan Langhi",
+    "name": "达恩·兰格伊",
     "name_en": "Dan Langhi",
     "position": "SF",
     "height": 211,
@@ -28459,7 +28459,7 @@ module.exports = [
   },
   {
     "id": "dalibor-bagaric",
-    "name": "Dalibor Bagaric",
+    "name": "达利博尔·巴加里克",
     "name_en": "Dalibor Bagaric",
     "position": "C",
     "height": 216,
@@ -28495,7 +28495,7 @@ module.exports = [
   },
   {
     "id": "courtney-alexander",
-    "name": "Courtney Alexander",
+    "name": "科特尼·尔克斯德尔",
     "name_en": "Courtney Alexander",
     "position": "PG",
     "height": 196,
@@ -28533,7 +28533,7 @@ module.exports = [
   },
   {
     "id": "dan-mcclintock",
-    "name": "Dan McClintock",
+    "name": "达恩·麦克特克",
     "name_en": "Dan McClintock",
     "position": "C",
     "height": 213,
@@ -28569,7 +28569,7 @@ module.exports = [
   },
   {
     "id": "daniel-santiago",
-    "name": "丹尼尔·Santiago",
+    "name": "达尼尔·萨恩蒂格奥",
     "name_en": "Daniel Santiago",
     "position": "C",
     "height": 216,
@@ -28607,7 +28607,7 @@ module.exports = [
   },
   {
     "id": "deshawn-stevenson",
-    "name": "DeShawn Stevenson",
+    "name": "德什恩·斯特夫恩森",
     "name_en": "DeShawn Stevenson",
     "position": "SF",
     "height": 196,
@@ -28653,7 +28653,7 @@ module.exports = [
   },
   {
     "id": "david-vanterpool",
-    "name": "大卫·Vanterpool",
+    "name": "达维德·瓦恩特尔波尔",
     "name_en": "David Vanterpool",
     "position": "SG",
     "height": 196,
@@ -28689,7 +28689,7 @@ module.exports = [
   },
   {
     "id": "darius-miles",
-    "name": "Darius Miles",
+    "name": "达里斯·米勒斯",
     "name_en": "Darius Miles",
     "position": "SF",
     "height": 206,
@@ -28731,7 +28731,7 @@ module.exports = [
   },
   {
     "id": "terrance-roberson",
-    "name": "特伦斯·Roberson",
+    "name": "特尔拉恩塞·罗贝尔森",
     "name_en": "Terrance Roberson",
     "position": null,
     "height": 201,
@@ -28767,7 +28767,7 @@ module.exports = [
   },
   {
     "id": "stromile-swift",
-    "name": "Stromile Swift",
+    "name": "斯特罗米勒·斯特",
     "name_en": "Stromile Swift",
     "position": "PF",
     "height": 208,
@@ -28811,7 +28811,7 @@ module.exports = [
   },
   {
     "id": "steve-goodrich",
-    "name": "Steve Goodrich",
+    "name": "斯特夫·戈德里奇",
     "name_en": "Steve Goodrich",
     "position": "C",
     "height": 208,
@@ -28849,7 +28849,7 @@ module.exports = [
   },
   {
     "id": "zendon-hamilton",
-    "name": "Zendon·汉密尔顿",
+    "name": "泽恩多恩·哈米尔顿",
     "name_en": "Zendon Hamilton",
     "position": "C",
     "height": 211,
@@ -28893,7 +28893,7 @@ module.exports = [
   },
   {
     "id": "wang-zhi-zhi",
-    "name": "王·Zhi-Zhi",
+    "name": "瓦恩格·兹希-兹希",
     "name_en": "Wang Zhi-zhi",
     "position": "C",
     "height": 216,
@@ -28981,7 +28981,7 @@ module.exports = [
   },
   {
     "id": "ruben-wolkowyski",
-    "name": "Ruben Wolkowyski",
+    "name": "鲁贝恩·沃尔克奥伊斯克伊",
     "name_en": "Ruben Wolkowyski",
     "position": "SF",
     "height": 208,
@@ -29019,7 +29019,7 @@ module.exports = [
   },
   {
     "id": "slava-medvedenko",
-    "name": "Slava Medvedenko",
+    "name": "斯夫阿·梅德维德恩科",
     "name_en": "Slava Medvedenko",
     "position": "SF",
     "height": 208,
@@ -29057,7 +29057,7 @@ module.exports = [
   },
   {
     "id": "quentin-richardson",
-    "name": "Quentin·理查德森",
+    "name": "奎乌特因·里奇德森",
     "name_en": "Quentin Richardson",
     "position": "SF",
     "height": 198,
@@ -29101,7 +29101,7 @@ module.exports = [
   },
   {
     "id": "pepe-sanchez",
-    "name": "Pepe·桑切斯",
+    "name": "佩·萨恩奇兹",
     "name_en": "Pepe Sanchez",
     "position": "SG",
     "height": 193,
@@ -29139,7 +29139,7 @@ module.exports = [
   },
   {
     "id": "paul-mcpherson",
-    "name": "保罗·Mcpherson",
+    "name": "帕尔·麦克菲斯昂",
     "name_en": "Paul McPherson",
     "position": "SG",
     "height": 193,
@@ -29175,7 +29175,7 @@ module.exports = [
   },
   {
     "id": "soumaila-samake",
-    "name": "Soumaila Samake",
+    "name": "索姆阿尔阿·萨马凯",
     "name_en": "Soumaila Samake",
     "position": "C",
     "height": 208,
@@ -29213,7 +29213,7 @@ module.exports = [
   },
   {
     "id": "raja-bell",
-    "name": "Raja·贝尔",
+    "name": "拉贾·贝尔",
     "name_en": "Raja Bell",
     "position": "PG",
     "height": 196,
@@ -29259,7 +29259,7 @@ module.exports = [
   },
   {
     "id": "sean-colson",
-    "name": "Sean Colson",
+    "name": "塞恩·科尔森",
     "name_en": "Sean Colson",
     "position": "PG",
     "height": 183,
@@ -29295,7 +29295,7 @@ module.exports = [
   },
   {
     "id": "ruben-garces",
-    "name": "Ruben Garces",
+    "name": "鲁贝恩·加尔塞斯",
     "name_en": "Ruben Garces",
     "position": "SF",
     "height": 206,
@@ -29331,7 +29331,7 @@ module.exports = [
   },
   {
     "id": "ratko-varda",
-    "name": "Ratko Varda",
+    "name": "拉特科·瓦尔达",
     "name_en": "Ratko Varda",
     "position": "C",
     "height": 216,
@@ -29367,7 +29367,7 @@ module.exports = [
   },
   {
     "id": "predrag-drobnjak",
-    "name": "Predrag Drobnjak",
+    "name": "普德拉格·德布恩贾克",
     "name_en": "Predrag Drobnjak",
     "position": "C",
     "height": 211,
@@ -29407,7 +29407,7 @@ module.exports = [
   },
   {
     "id": "primoz-brezec",
-    "name": "Primoz Brezec",
+    "name": "普姆兹·布兹克",
     "name_en": "Primoz Brezec",
     "position": "C",
     "height": 216,
@@ -29449,7 +29449,7 @@ module.exports = [
   },
   {
     "id": "rodney-white",
-    "name": "Rodney·怀特",
+    "name": "罗德尼·惠特",
     "name_en": "Rodney White",
     "position": "SF",
     "height": 206,
@@ -29489,7 +29489,7 @@ module.exports = [
   },
   {
     "id": "ruben-boumtje-boumtje",
-    "name": "Ruben Boumtje-Boumtje",
+    "name": "鲁贝恩·博姆特杰-博姆特杰",
     "name_en": "Ruben Boumtje-Boumtje",
     "position": "C",
     "height": 213,
@@ -29525,7 +29525,7 @@ module.exports = [
   },
   {
     "id": "richard-jefferson",
-    "name": "Richard·杰弗森",
+    "name": "里奇德·杰弗费尔森",
     "name_en": "Richard Jefferson",
     "position": "SF",
     "height": 201,
@@ -29659,7 +29659,7 @@ module.exports = [
   },
   {
     "id": "mengke-bateer",
-    "name": "Mengke Bateer",
+    "name": "门格凯·巴特尔",
     "name_en": "Mengke Bateer",
     "position": "C",
     "height": 211,
@@ -29699,7 +29699,7 @@ module.exports = [
   },
   {
     "id": "maurice-evans",
-    "name": "Maurice·埃文斯",
+    "name": "马尔斯·夫恩斯",
     "name_en": "Maurice Evans",
     "position": "SG",
     "height": 196,
@@ -29747,7 +29747,7 @@ module.exports = [
   },
   {
     "id": "mike-james",
-    "name": "Mike·詹姆斯",
+    "name": "米凯·贾梅斯",
     "name_en": "Mike James",
     "position": "SG",
     "height": 185,
@@ -29803,7 +29803,7 @@ module.exports = [
   },
   {
     "id": "oscar-torres",
-    "name": "Oscar·托雷斯",
+    "name": "斯卡尔·托尔雷斯",
     "name_en": "Oscar Torres",
     "position": "SG",
     "height": 198,
@@ -29877,7 +29877,7 @@ module.exports = [
   },
   {
     "id": "troy-murphy",
-    "name": "Troy·墨菲",
+    "name": "特伊·穆普海",
     "name_en": "Troy Murphy",
     "position": "PF",
     "height": 211,
@@ -29921,7 +29921,7 @@ module.exports = [
   },
   {
     "id": "trenton-hassell",
-    "name": "Trenton Hassell",
+    "name": "特昂·哈斯塞尔",
     "name_en": "Trenton Hassell",
     "position": "SF",
     "height": 196,
@@ -29961,7 +29961,7 @@ module.exports = [
   },
   {
     "id": "tremaine-fowlkes",
-    "name": "Tremaine Fowlkes",
+    "name": "特姆恩埃·福沃尔凯斯",
     "name_en": "Tremaine Fowlkes",
     "position": "SF",
     "height": 203,
@@ -30001,7 +30001,7 @@ module.exports = [
   },
   {
     "id": "tyson-chandler",
-    "name": "Tyson Chandler",
+    "name": "蒂森·奇德勒尔",
     "name_en": "Tyson Chandler",
     "position": "C",
     "height": 213,
@@ -30091,7 +30091,7 @@ module.exports = [
   },
   {
     "id": "victor-alexander",
-    "name": "Victor Alexander",
+    "name": "维克托尔·尔克斯德尔",
     "name_en": "Victor Alexander",
     "position": "SF",
     "height": 208,
@@ -30127,7 +30127,7 @@ module.exports = [
   },
   {
     "id": "zeljko-rebraca",
-    "name": "Zeljko Rebraca",
+    "name": "泽尔杰科·雷布克阿",
     "name_en": "Zeljko Rebraca",
     "position": "C",
     "height": 213,
@@ -30167,7 +30167,7 @@ module.exports = [
   },
   {
     "id": "zach-randolph",
-    "name": "扎克·Randolph",
+    "name": "扎奇·拉恩多尔菲",
     "name_en": "Zach Randolph",
     "position": "SF",
     "height": 206,
@@ -30211,7 +30211,7 @@ module.exports = [
   },
   {
     "id": "will-solomon",
-    "name": "Will Solomon",
+    "name": "威尔·索洛莫恩",
     "name_en": "Will Solomon",
     "position": "SG",
     "height": 185,
@@ -30249,7 +30249,7 @@ module.exports = [
   },
   {
     "id": "vladimir-radmanovic",
-    "name": "Vladimir Radmanovic",
+    "name": "维拉迪米尔·拉德曼夫克",
     "name_en": "Vladimir Radmanovic",
     "position": "SF",
     "height": 208,
@@ -30297,7 +30297,7 @@ module.exports = [
   },
   {
     "id": "shane-battier",
-    "name": "Shane Battier",
+    "name": "什恩·巴特蒂尔",
     "name_en": "Shane Battier",
     "position": "SF",
     "height": 203,
@@ -30337,7 +30337,7 @@ module.exports = [
   },
   {
     "id": "samuel-dalembert",
-    "name": "Samuel Dalembert",
+    "name": "萨穆尔·达勒姆贝特",
     "name_en": "Samuel Dalembert",
     "position": "C",
     "height": 211,
@@ -30383,7 +30383,7 @@ module.exports = [
   },
   {
     "id": "speedy-claxton",
-    "name": "Speedy Claxton",
+    "name": "斯德伊·克斯顿",
     "name_en": "Speedy Claxton",
     "position": "PG",
     "height": 180,
@@ -30429,7 +30429,7 @@ module.exports = [
   },
   {
     "id": "tierre-brown",
-    "name": "Tierre·布朗",
+    "name": "蒂尔雷·布恩",
     "name_en": "Tierre Brown",
     "position": "PG",
     "height": 188,
@@ -30471,7 +30471,7 @@ module.exports = [
   },
   {
     "id": "terence-morris",
-    "name": "Terence·莫里斯",
+    "name": "特雷恩塞·莫尔里斯",
     "name_en": "Terence Morris",
     "position": "SF",
     "height": 206,
@@ -30509,7 +30509,7 @@ module.exports = [
   },
   {
     "id": "tang-hamilton",
-    "name": "Tang·汉密尔顿",
+    "name": "塔恩格·哈米尔顿",
     "name_en": "Tang Hamilton",
     "position": "SF",
     "height": 203,
@@ -30589,7 +30589,7 @@ module.exports = [
   },
   {
     "id": "gilbert-arenas",
-    "name": "Gilbert Arenas",
+    "name": "吉尔贝尔特·尔纳斯",
     "name_en": "Gilbert Arenas",
     "position": "PG",
     "height": 193,
@@ -30677,7 +30677,7 @@ module.exports = [
   },
   {
     "id": "etan-thomas",
-    "name": "Etan·托马斯",
+    "name": "塔恩·斯姆斯",
     "name_en": "Etan Thomas",
     "position": "C",
     "height": 208,
@@ -30717,7 +30717,7 @@ module.exports = [
   },
   {
     "id": "ike-fontaine",
-    "name": "Ike Fontaine",
+    "name": "克·福恩塔因",
     "name_en": "Ike Fontaine",
     "position": null,
     "height": 193,
@@ -30753,7 +30753,7 @@ module.exports = [
   },
   {
     "id": "ernest-brown",
-    "name": "Ernest·布朗",
+    "name": "恩斯特·布恩",
     "name_en": "Ernest Brown",
     "position": "C",
     "height": 213,
@@ -30789,7 +30789,7 @@ module.exports = [
   },
   {
     "id": "earl-watson",
-    "name": "Earl·沃森",
+    "name": "尔·瓦特森",
     "name_en": "Earl Watson",
     "position": "SG",
     "height": 185,
@@ -30835,7 +30835,7 @@ module.exports = [
   },
   {
     "id": "eddy-curry",
-    "name": "Eddy·库里",
+    "name": "德迪·库尔里",
     "name_en": "Eddy Curry",
     "position": "C",
     "height": 213,
@@ -30877,7 +30877,7 @@ module.exports = [
   },
   {
     "id": "eddie-griffin",
-    "name": "Eddie·格里芬",
+    "name": "德迪埃·格夫因",
     "name_en": "Eddie Griffin",
     "position": "C",
     "height": 206,
@@ -30915,7 +30915,7 @@ module.exports = [
   },
   {
     "id": "jamaal-tinsley",
-    "name": "Jamaal Tinsley",
+    "name": "贾马尔·廷斯伊",
     "name_en": "Jamaal Tinsley",
     "position": "PG",
     "height": 190,
@@ -30955,7 +30955,7 @@ module.exports = [
   },
   {
     "id": "kwame-brown",
-    "name": "Kwame·布朗",
+    "name": "克瓦梅·布恩",
     "name_en": "Kwame Brown",
     "position": "C",
     "height": 211,
@@ -31003,7 +31003,7 @@ module.exports = [
   },
   {
     "id": "kirk-haston",
-    "name": "Kirk Haston",
+    "name": "基尔克·哈斯特昂",
     "name_en": "Kirk Haston",
     "position": "SF",
     "height": 206,
@@ -31041,7 +31041,7 @@ module.exports = [
   },
   {
     "id": "kenny-satterfield",
-    "name": "Kenny Satterfield",
+    "name": "凯恩尼·萨特尔菲德",
     "name_en": "Kenny Satterfield",
     "position": "SG",
     "height": 188,
@@ -31079,7 +31079,7 @@ module.exports = [
   },
   {
     "id": "malik-allen",
-    "name": "马利克·Allen",
+    "name": "马利克·尔恩",
     "name_en": "Malik Allen",
     "position": "SF",
     "height": 208,
@@ -31127,7 +31127,7 @@ module.exports = [
   },
   {
     "id": "loren-woods",
-    "name": "Loren Woods",
+    "name": "洛雷恩·伍德斯",
     "name_en": "Loren Woods",
     "position": "C",
     "height": 218,
@@ -31169,7 +31169,7 @@ module.exports = [
   },
   {
     "id": "leon-smith",
-    "name": "Leon·史密斯",
+    "name": "勒昂·斯",
     "name_en": "Leon Smith",
     "position": "SF",
     "height": 208,
@@ -31207,7 +31207,7 @@ module.exports = [
   },
   {
     "id": "kedrick-brown",
-    "name": "Kedrick·布朗",
+    "name": "凯德克·布恩",
     "name_en": "Kedrick Brown",
     "position": "SG",
     "height": 201,
@@ -31247,7 +31247,7 @@ module.exports = [
   },
   {
     "id": "jeff-trepagnier",
-    "name": "杰夫·Trepagnier",
+    "name": "杰弗·特普格尼尔",
     "name_en": "Jeff Trepagnier",
     "position": "PG",
     "height": 193,
@@ -31375,7 +31375,7 @@ module.exports = [
   },
   {
     "id": "jarron-collins",
-    "name": "Jarron·科林斯",
+    "name": "贾尔罗恩·科尔斯",
     "name_en": "Jarron Collins",
     "position": "C",
     "height": 211,
@@ -31415,7 +31415,7 @@ module.exports = [
   },
   {
     "id": "jamison-brewer",
-    "name": "Jamison Brewer",
+    "name": "贾米森·布尤尔",
     "name_en": "Jamison Brewer",
     "position": "PG",
     "height": 193,
@@ -31453,7 +31453,7 @@ module.exports = [
   },
   {
     "id": "joseph-forte",
-    "name": "约瑟夫·Forte",
+    "name": "乔塞菲·福尔特",
     "name_en": "Joseph Forte",
     "position": "SG",
     "height": 193,
@@ -31539,7 +31539,7 @@ module.exports = [
   },
   {
     "id": "joe-crispin",
-    "name": "乔·Crispin",
+    "name": "乔埃·克斯皮恩",
     "name_en": "Joe Crispin",
     "position": "SG",
     "height": 183,
@@ -31575,7 +31575,7 @@ module.exports = [
   },
   {
     "id": "jeryl-sasser",
-    "name": "Jeryl Sasser",
+    "name": "杰里尔·萨斯塞尔",
     "name_en": "Jeryl Sasser",
     "position": "PG",
     "height": 198,
@@ -31611,7 +31611,7 @@ module.exports = [
   },
   {
     "id": "charlie-bell",
-    "name": "Charlie·贝尔",
+    "name": "奇尔利埃·贝尔",
     "name_en": "Charlie Bell",
     "position": "PG",
     "height": 190,
@@ -31651,7 +31651,7 @@ module.exports = [
   },
   {
     "id": "carlos-arroyo",
-    "name": "Carlos Arroyo",
+    "name": "卡尔洛斯·尔罗约",
     "name_en": "Carlos Arroyo",
     "position": "SG",
     "height": 188,
@@ -31697,7 +31697,7 @@ module.exports = [
   },
   {
     "id": "chris-andersen",
-    "name": "克里斯·Andersen",
+    "name": "奇里斯·德斯恩",
     "name_en": "Chris Andersen",
     "position": "PF",
     "height": 208,
@@ -31743,7 +31743,7 @@ module.exports = [
   },
   {
     "id": "brandon-armstrong",
-    "name": "布兰登·Armstrong",
+    "name": "布德昂·尔姆斯特罗恩格",
     "name_en": "Brandon Armstrong",
     "position": "SG",
     "height": 196,
@@ -31779,7 +31779,7 @@ module.exports = [
   },
   {
     "id": "brendan-haywood",
-    "name": "Brendan Haywood",
+    "name": "布德恩·哈尤德",
     "name_en": "Brendan Haywood",
     "position": "C",
     "height": 213,
@@ -31821,7 +31821,7 @@ module.exports = [
   },
   {
     "id": "brian-scalabrine",
-    "name": "Brian Scalabrine",
+    "name": "布伊恩·斯尔布里内",
     "name_en": "Brian Scalabrine",
     "position": "SF",
     "height": 206,
@@ -31897,7 +31897,7 @@ module.exports = [
   },
   {
     "id": "desagana-diop",
-    "name": "DeSagana Diop",
+    "name": "德萨加纳·迪普",
     "name_en": "DeSagana Diop",
     "position": "C",
     "height": 213,
@@ -31939,7 +31939,7 @@ module.exports = [
   },
   {
     "id": "damone-brown",
-    "name": "Damone·布朗",
+    "name": "达莫内·布恩",
     "name_en": "Damone Brown",
     "position": "SG",
     "height": 203,
@@ -31981,7 +31981,7 @@ module.exports = [
   },
   {
     "id": "andrei-kirilenko",
-    "name": "Andrei Kirilenko",
+    "name": "德雷伊·基里伦科",
     "name_en": "Andrei Kirilenko",
     "position": "SF",
     "height": 206,
@@ -32021,7 +32021,7 @@ module.exports = [
   },
   {
     "id": "alvin-jones",
-    "name": "Alvin·琼斯",
+    "name": "尔维恩·乔内斯",
     "name_en": "Alvin Jones",
     "position": "C",
     "height": 211,
@@ -32057,7 +32057,7 @@ module.exports = [
   },
   {
     "id": "alton-ford",
-    "name": "Alton·福特",
+    "name": "尔顿·福德",
     "name_en": "Alton Ford",
     "position": "SF",
     "height": 206,
@@ -32139,7 +32139,7 @@ module.exports = [
   },
   {
     "id": "ansu-sesay",
-    "name": "Ansu Sesay",
+    "name": "恩苏·塞萨伊",
     "name_en": "Ansu Sesay",
     "position": "SF",
     "height": 206,
@@ -32177,7 +32177,7 @@ module.exports = [
   },
   {
     "id": "antonis-fotsis",
-    "name": "Antonis Fotsis",
+    "name": "特昂斯·福特西斯",
     "name_en": "Antonis Fotsis",
     "position": "SF",
     "height": 208,
@@ -32213,7 +32213,7 @@ module.exports = [
   },
   {
     "id": "predrag-savovic",
-    "name": "Predrag Savovic",
+    "name": "普德拉格·萨沃维克",
     "name_en": "Predrag Savovic",
     "position": "SG",
     "height": 198,
@@ -32249,7 +32249,7 @@ module.exports = [
   },
   {
     "id": "melvin-ely",
-    "name": "Melvin Ely",
+    "name": "梅尔维恩·利",
     "name_en": "Melvin Ely",
     "position": "PF",
     "height": 208,
@@ -32295,7 +32295,7 @@ module.exports = [
   },
   {
     "id": "mehmet-okur",
-    "name": "Mehmet Okur",
+    "name": "梅赫梅特·克尔",
     "name_en": "Mehmet Okur",
     "position": "PF",
     "height": 211,
@@ -32335,7 +32335,7 @@ module.exports = [
   },
   {
     "id": "marko-jaric",
-    "name": "Marko Jaric",
+    "name": "马尔科·贾里克",
     "name_en": "Marko Jaric",
     "position": "PG",
     "height": 201,
@@ -32375,7 +32375,7 @@ module.exports = [
   },
   {
     "id": "mike-wilks",
-    "name": "Mike Wilks",
+    "name": "米凯·威尔克斯",
     "name_en": "Mike Wilks",
     "position": "PG",
     "height": 178,
@@ -32419,7 +32419,7 @@ module.exports = [
   },
   {
     "id": "mike-batiste",
-    "name": "Mike Batiste",
+    "name": "米凯·巴蒂斯特埃",
     "name_en": "Mike Batiste",
     "position": "SF",
     "height": 203,
@@ -32455,7 +32455,7 @@ module.exports = [
   },
   {
     "id": "mike-dunleavy",
-    "name": "Mike Dunleavy",
+    "name": "米凯·杜恩勒夫伊",
     "name_en": "Mike Dunleavy",
     "position": "SG",
     "height": 206,
@@ -32499,7 +32499,7 @@ module.exports = [
   },
   {
     "id": "paul-shirley",
-    "name": "保罗·Shirley",
+    "name": "帕尔·什尔伊",
     "name_en": "Paul Shirley",
     "position": "SF",
     "height": 208,
@@ -32539,7 +32539,7 @@ module.exports = [
   },
   {
     "id": "nene",
-    "name": "Nene",
+    "name": "内·内",
     "name_en": "Nene",
     "position": "PF",
     "height": 211,
@@ -32579,7 +32579,7 @@ module.exports = [
   },
   {
     "id": "nikoloz-tskitishvili",
-    "name": "Nikoloz Tskitishvili",
+    "name": "尼科洛兹·特斯克特什维利",
     "name_en": "Nikoloz Tskitishvili",
     "position": "SF",
     "height": 213,
@@ -32657,7 +32657,7 @@ module.exports = [
   },
   {
     "id": "nate-huffman",
-    "name": "Nate Huffman",
+    "name": "纳特·胡弗曼",
     "name_en": "Nate Huffman",
     "position": "C",
     "height": 216,
@@ -32693,7 +32693,7 @@ module.exports = [
   },
   {
     "id": "marcus-haislip",
-    "name": "马库斯·Haislip",
+    "name": "马尔库斯·哈斯利普",
     "name_en": "Marcus Haislip",
     "position": "SF",
     "height": 208,
@@ -32733,7 +32733,7 @@ module.exports = [
   },
   {
     "id": "ken-johnson",
-    "name": "Ken·约翰逊",
+    "name": "凯恩·乔赫恩森",
     "name_en": "Ken Johnson",
     "position": "PF",
     "height": 208,
@@ -32769,7 +32769,7 @@ module.exports = [
   },
   {
     "id": "kareem-rush",
-    "name": "Kareem Rush",
+    "name": "卡雷姆·鲁什",
     "name_en": "Kareem Rush",
     "position": "SG",
     "height": 198,
@@ -32813,7 +32813,7 @@ module.exports = [
   },
   {
     "id": "junior-harrington",
-    "name": "Junior·哈林顿",
+    "name": "朱尼尔·哈尔林格顿",
     "name_en": "Junior Harrington",
     "position": "PG",
     "height": 193,
@@ -32853,7 +32853,7 @@ module.exports = [
   },
   {
     "id": "juaquin-hawkins",
-    "name": "Juaquin·霍金斯",
+    "name": "朱阿奎因·哈沃基恩斯",
     "name_en": "Juaquin Hawkins",
     "position": "SF",
     "height": 201,
@@ -32889,7 +32889,7 @@ module.exports = [
   },
   {
     "id": "juan-dixon",
-    "name": "Juan·迪克森",
+    "name": "朱恩·迪克斯昂",
     "name_en": "Juan Dixon",
     "position": "PG",
     "height": 190,
@@ -32967,7 +32967,7 @@ module.exports = [
   },
   {
     "id": "maceo-baston",
-    "name": "Maceo Baston",
+    "name": "马塞奥·巴斯特昂",
     "name_en": "Maceo Baston",
     "position": "SF",
     "height": 208,
@@ -33005,7 +33005,7 @@ module.exports = [
   },
   {
     "id": "lonny-baxter",
-    "name": "Lonny Baxter",
+    "name": "洛恩尼·巴克斯特尔",
     "name_en": "Lonny Baxter",
     "position": "SF",
     "height": 203,
@@ -33047,7 +33047,7 @@ module.exports = [
   },
   {
     "id": "sean-lampley",
-    "name": "Sean Lampley",
+    "name": "塞恩·拉姆普伊",
     "name_en": "Sean Lampley",
     "position": "SF",
     "height": 198,
@@ -33085,7 +33085,7 @@ module.exports = [
   },
   {
     "id": "smush-parker",
-    "name": "Smush·帕克",
+    "name": "斯什·帕尔凯尔",
     "name_en": "Smush Parker",
     "position": "SG",
     "height": 193,
@@ -33127,7 +33127,7 @@ module.exports = [
   },
   {
     "id": "ryan-humphrey",
-    "name": "Ryan Humphrey",
+    "name": "里恩·胡姆菲雷",
     "name_en": "Ryan Humphrey",
     "position": "SF",
     "height": 203,
@@ -33163,7 +33163,7 @@ module.exports = [
   },
   {
     "id": "rasual-butler",
-    "name": "Rasual·巴特勒",
+    "name": "拉苏尔·布特勒尔",
     "name_en": "Rasual Butler",
     "position": "SF",
     "height": 201,
@@ -33263,7 +33263,7 @@ module.exports = [
   },
   {
     "id": "robert-archibald",
-    "name": "罗伯特·Archibald",
+    "name": "罗贝尔特·尔奇布尔德",
     "name_en": "Robert Archibald",
     "position": "SF",
     "height": 211,
@@ -33301,7 +33301,7 @@ module.exports = [
   },
   {
     "id": "roger-mason-jr",
-    "name": "Roger·二世",
+    "name": "罗杰尔·杰尔",
     "name_en": "Roger Mason Jr.",
     "position": "SG",
     "height": 196,
@@ -33349,7 +33349,7 @@ module.exports = [
   },
   {
     "id": "qyntel-woods",
-    "name": "Qyntel Woods",
+    "name": "奎伊恩特尔·伍德斯",
     "name_en": "Qyntel Woods",
     "position": "SF",
     "height": 203,
@@ -33389,7 +33389,7 @@ module.exports = [
   },
   {
     "id": "vincent-yarbrough",
-    "name": "Vincent Yarbrough",
+    "name": "维恩塞恩特·亚尔布夫",
     "name_en": "Vincent Yarbrough",
     "position": "SF",
     "height": 201,
@@ -33461,7 +33461,7 @@ module.exports = [
   },
   {
     "id": "tamar-slay",
-    "name": "Tamar Slay",
+    "name": "塔马尔·斯伊",
     "name_en": "Tamar Slay",
     "position": "PG",
     "height": 203,
@@ -33499,7 +33499,7 @@ module.exports = [
   },
   {
     "id": "tayshaun-prince",
-    "name": "Tayshaun·普林斯",
+    "name": "塔伊什昂·普因塞",
     "name_en": "Tayshaun Prince",
     "position": "SF",
     "height": 206,
@@ -33539,7 +33539,7 @@ module.exports = [
   },
   {
     "id": "tito-maddox",
-    "name": "Tito Maddox",
+    "name": "蒂托·马德多克斯",
     "name_en": "Tito Maddox",
     "position": "PG",
     "height": 193,
@@ -33575,7 +33575,7 @@ module.exports = [
   },
   {
     "id": "john-salmons",
-    "name": "约翰·Salmons",
+    "name": "乔赫恩·萨尔莫恩斯",
     "name_en": "John Salmons",
     "position": "SF",
     "height": 198,
@@ -33621,7 +33621,7 @@ module.exports = [
   },
   {
     "id": "chris-jefferies",
-    "name": "克里斯·Jefferies",
+    "name": "奇里斯·杰弗费里斯",
     "name_en": "Chris Jefferies",
     "position": "SF",
     "height": 203,
@@ -33659,7 +33659,7 @@ module.exports = [
   },
   {
     "id": "casey-jacobsen",
-    "name": "Casey Jacobsen",
+    "name": "卡塞伊·贾科布森",
     "name_en": "Casey Jacobsen",
     "position": "PG",
     "height": 198,
@@ -33699,7 +33699,7 @@ module.exports = [
   },
   {
     "id": "caron-butler",
-    "name": "Caron·巴特勒",
+    "name": "卡罗恩·布特勒尔",
     "name_en": "Caron Butler",
     "position": "SF",
     "height": 201,
@@ -33749,7 +33749,7 @@ module.exports = [
   },
   {
     "id": "carlos-boozer",
-    "name": "Carlos Boozer",
+    "name": "卡尔洛斯·博兹尔",
     "name_en": "Carlos Boozer",
     "position": "SF",
     "height": 206,
@@ -33791,7 +33791,7 @@ module.exports = [
   },
   {
     "id": "cezary-trybanski",
-    "name": "Cezary Trybanski",
+    "name": "塞扎里·特伊巴恩斯基",
     "name_en": "Cezary Trybanski",
     "position": "C",
     "height": 218,
@@ -33865,7 +33865,7 @@ module.exports = [
   },
   {
     "id": "dan-gadzuric",
-    "name": "Dan Gadzuric",
+    "name": "达恩·加德祖里克",
     "name_en": "Dan Gadzuric",
     "position": "C",
     "height": 211,
@@ -33905,7 +33905,7 @@ module.exports = [
   },
   {
     "id": "dan-dickau",
-    "name": "Dan Dickau",
+    "name": "达恩·迪克阿乌",
     "name_en": "Dan Dickau",
     "position": "SG",
     "height": 183,
@@ -33949,7 +33949,7 @@ module.exports = [
   },
   {
     "id": "dajuan-wagner",
-    "name": "Dajuan·瓦格纳",
+    "name": "达朱恩·瓦格内尔",
     "name_en": "Dajuan Wagner",
     "position": "PG",
     "height": 190,
@@ -34031,7 +34031,7 @@ module.exports = [
   },
   {
     "id": "amare-stoudemire",
-    "name": "Amar'e Stoudemire",
+    "name": "姆尔埃·斯特德姆尔",
     "name_en": "Amar'e Stoudemire",
     "position": "PF",
     "height": 208,
@@ -34073,7 +34073,7 @@ module.exports = [
   },
   {
     "id": "adam-harrington",
-    "name": "Adam·哈林顿",
+    "name": "德姆·哈尔里恩格顿",
     "name_en": "Adam Harrington",
     "position": "PG",
     "height": 196,
@@ -34109,7 +34109,7 @@ module.exports = [
   },
   {
     "id": "bostjan-nachbar",
-    "name": "Bostjan Nachbar",
+    "name": "博斯特贾恩·纳奇巴尔",
     "name_en": "Bostjan Nachbar",
     "position": "SF",
     "height": 206,
@@ -34149,7 +34149,7 @@ module.exports = [
   },
   {
     "id": "antoine-rigaudeau",
-    "name": "Antoine Rigaudeau",
+    "name": "特因埃·里加德阿乌",
     "name_en": "Antoine Rigaudeau",
     "position": "PG",
     "height": 201,
@@ -34185,7 +34185,7 @@ module.exports = [
   },
   {
     "id": "jamal-sampson",
-    "name": "贾马尔·Sampson",
+    "name": "贾马尔·萨姆普森",
     "name_en": "Jamal Sampson",
     "position": "PF",
     "height": 211,
@@ -34229,7 +34229,7 @@ module.exports = [
   },
   {
     "id": "jannero-pargo",
-    "name": "Jannero Pargo",
+    "name": "贾恩内罗·帕尔戈",
     "name_en": "Jannero Pargo",
     "position": "SG",
     "height": 185,
@@ -34275,7 +34275,7 @@ module.exports = [
   },
   {
     "id": "jr-bremer",
-    "name": "J.R. Bremer",
+    "name": "杰尔·布姆尔",
     "name_en": "J.R. Bremer",
     "position": "SG",
     "height": 188,
@@ -34313,7 +34313,7 @@ module.exports = [
   },
   {
     "id": "igor-rakocevic",
-    "name": "Igor Rakocevic",
+    "name": "格尔·拉科塞维克",
     "name_en": "Igor Rakocevic",
     "position": "PG",
     "height": 188,
@@ -34349,7 +34349,7 @@ module.exports = [
   },
   {
     "id": "guy-rucker",
-    "name": "Guy Rucker",
+    "name": "古伊·鲁克尔",
     "name_en": "Guy Rucker",
     "position": "PF",
     "height": 206,
@@ -34385,7 +34385,7 @@ module.exports = [
   },
   {
     "id": "jared-jeffries",
-    "name": "Jared Jeffries",
+    "name": "贾雷德·杰弗伊斯",
     "name_en": "Jared Jeffries",
     "position": "SF",
     "height": 211,
@@ -34427,7 +34427,7 @@ module.exports = [
   },
   {
     "id": "jiri-welsch",
-    "name": "Jiri Welsch",
+    "name": "吉里·韦尔斯赫",
     "name_en": "Jiri Welsch",
     "position": "SF",
     "height": 201,
@@ -34469,7 +34469,7 @@ module.exports = [
   },
   {
     "id": "jay-williams",
-    "name": "Jay·威廉姆斯",
+    "name": "贾伊·威尔伊姆斯",
     "name_en": "Jay Williams",
     "position": "PG",
     "height": 188,
@@ -34505,7 +34505,7 @@ module.exports = [
   },
   {
     "id": "gordan-giricek",
-    "name": "Gordan Giricek",
+    "name": "戈尔达恩·吉里塞克",
     "name_en": "Gordan Giricek",
     "position": "SG",
     "height": 198,
@@ -34545,7 +34545,7 @@ module.exports = [
   },
   {
     "id": "drew-gooden",
-    "name": "Drew Gooden",
+    "name": "德尤·戈德恩",
     "name_en": "Drew Gooden",
     "position": "SF",
     "height": 208,
@@ -34683,7 +34683,7 @@ module.exports = [
   },
   {
     "id": "frank-williams",
-    "name": "Frank·威廉姆斯",
+    "name": "弗克·威尔伊姆斯",
     "name_en": "Frank Williams",
     "position": "PG",
     "height": 190,
@@ -34721,7 +34721,7 @@ module.exports = [
   },
   {
     "id": "flip-murray",
-    "name": "Flip·穆雷",
+    "name": "弗普·穆尔拉伊",
     "name_en": "Flip Murray",
     "position": "SG",
     "height": 190,
@@ -34767,7 +34767,7 @@ module.exports = [
   },
   {
     "id": "efthimios-rentzias",
-    "name": "Efthimios Rentzias",
+    "name": "夫斯姆伊斯·雷恩特齐斯",
     "name_en": "Efthimios Rentzias",
     "position": "C",
     "height": 211,
@@ -34803,7 +34803,7 @@ module.exports = [
   },
   {
     "id": "chris-kaman",
-    "name": "克里斯·Kaman",
+    "name": "奇里斯·卡曼",
     "name_en": "Chris Kaman",
     "position": "C",
     "height": 213,
@@ -34847,7 +34847,7 @@ module.exports = [
   },
   {
     "id": "chris-bosh",
-    "name": "克里斯·Bosh",
+    "name": "奇里斯·博什",
     "name_en": "Chris Bosh",
     "position": "SF",
     "height": 211,
@@ -34885,7 +34885,7 @@ module.exports = [
   },
   {
     "id": "carmelo-anthony",
-    "name": "卡梅隆·Anthony",
+    "name": "卡尔梅洛·特霍尼",
     "name_en": "Carmelo Anthony",
     "position": "SF",
     "height": 201,
@@ -34931,7 +34931,7 @@ module.exports = [
   },
   {
     "id": "darko-milicic",
-    "name": "Darko Milicic",
+    "name": "达尔科·米利西克",
     "name_en": "Darko Milicic",
     "position": "C",
     "height": 213,
@@ -34975,7 +34975,7 @@ module.exports = [
   },
   {
     "id": "darius-songaila",
-    "name": "Darius Songaila",
+    "name": "达里斯·森加尔阿",
     "name_en": "Darius Songaila",
     "position": "SF",
     "height": 206,
@@ -35019,7 +35019,7 @@ module.exports = [
   },
   {
     "id": "dahntay-jones",
-    "name": "Dahntay·琼斯",
+    "name": "达赫恩特伊·乔内斯",
     "name_en": "Dahntay Jones",
     "position": "SG",
     "height": 198,
@@ -35067,7 +35067,7 @@ module.exports = [
   },
   {
     "id": "curtis-borchardt",
-    "name": "Curtis Borchardt",
+    "name": "库尔蒂斯·博尔奇德特",
     "name_en": "Curtis Borchardt",
     "position": "C",
     "height": 213,
@@ -35147,7 +35147,7 @@ module.exports = [
   },
   {
     "id": "ben-handlogten",
-    "name": "Ben Handlogten",
+    "name": "贝恩·哈恩德洛格特恩",
     "name_en": "Ben Handlogten",
     "position": "C",
     "height": 208,
@@ -35183,7 +35183,7 @@ module.exports = [
   },
   {
     "id": "boris-diaw",
-    "name": "Boris Diaw",
+    "name": "博里斯·迪奥",
     "name_en": "Boris Diaw",
     "position": "PF",
     "height": 203,
@@ -35265,7 +35265,7 @@ module.exports = [
   },
   {
     "id": "brian-cook",
-    "name": "Brian Cook",
+    "name": "布伊恩·科克",
     "name_en": "Brian Cook",
     "position": "PF",
     "height": 206,
@@ -35347,7 +35347,7 @@ module.exports = [
   },
   {
     "id": "britton-johnsen",
-    "name": "Britton Johnsen",
+    "name": "布特昂·乔赫恩斯恩",
     "name_en": "Britton Johnsen",
     "position": "SF",
     "height": 208,
@@ -35385,7 +35385,7 @@ module.exports = [
   },
   {
     "id": "jarvis-hayes",
-    "name": "Jarvis·海耶斯",
+    "name": "贾尔维斯·哈耶斯",
     "name_en": "Jarvis Hayes",
     "position": "SF",
     "height": 203,
@@ -35469,7 +35469,7 @@ module.exports = [
   },
   {
     "id": "ime-udoka",
-    "name": "Ime Udoka",
+    "name": "姆·德克阿",
     "name_en": "Ime Udoka",
     "position": "SG",
     "height": 196,
@@ -35513,7 +35513,7 @@ module.exports = [
   },
   {
     "id": "jason-kapono",
-    "name": "杰森·Kapono",
+    "name": "贾森·卡波诺",
     "name_en": "Jason Kapono",
     "position": "SF",
     "height": 203,
@@ -35643,7 +35643,7 @@ module.exports = [
   },
   {
     "id": "kaniel-dickens",
-    "name": "Kaniel Dickens",
+    "name": "卡尼尔·迪克斯",
     "name_en": "Kaniel Dickens",
     "position": "SF",
     "height": 203,
@@ -35683,7 +35683,7 @@ module.exports = [
   },
   {
     "id": "jerome-beasley",
-    "name": "Jerome Beasley",
+    "name": "杰罗梅·贝斯利",
     "name_en": "Jerome Beasley",
     "position": "SF",
     "height": 206,
@@ -35719,7 +35719,7 @@ module.exports = [
   },
   {
     "id": "hiram-fuller",
-    "name": "Hiram·富勒",
+    "name": "希拉姆·富尔",
     "name_en": "Hiram Fuller",
     "position": "SF",
     "height": 206,
@@ -35793,7 +35793,7 @@ module.exports = [
   },
   {
     "id": "desmond-penigar",
-    "name": "Desmond Penigar",
+    "name": "德斯德·佩尼加尔",
     "name_en": "Desmond Penigar",
     "position": "SF",
     "height": 201,
@@ -35829,7 +35829,7 @@ module.exports = [
   },
   {
     "id": "desmond-ferguson",
-    "name": "Desmond·弗格森",
+    "name": "德斯德·费尔古森",
     "name_en": "Desmond Ferguson",
     "position": "SF",
     "height": 201,
@@ -35865,7 +35865,7 @@ module.exports = [
   },
   {
     "id": "francisco-elson",
-    "name": "Francisco Elson",
+    "name": "弗恩西斯奥·斯昂",
     "name_en": "Francisco Elson",
     "position": "PF",
     "height": 213,
@@ -35911,7 +35911,7 @@ module.exports = [
   },
   {
     "id": "keith-bogans",
-    "name": "Keith Bogans",
+    "name": "凯斯·博加恩斯",
     "name_en": "Keith Bogans",
     "position": "SG",
     "height": 196,
@@ -35963,7 +35963,7 @@ module.exports = [
   },
   {
     "id": "sasha-pavlovic",
-    "name": "Sasha Pavlovic",
+    "name": "萨什阿·帕维洛维克",
     "name_en": "Sasha Pavlovic",
     "position": "SG",
     "height": 201,
@@ -36007,7 +36007,7 @@ module.exports = [
   },
   {
     "id": "slavko-vranes",
-    "name": "Slavko Vranes",
+    "name": "斯夫科·维拉内斯",
     "name_en": "Slavko Vranes",
     "position": "C",
     "height": 226,
@@ -36079,7 +36079,7 @@ module.exports = [
   },
   {
     "id": "reece-gaines",
-    "name": "Reece Gaines",
+    "name": "雷克埃·加因斯",
     "name_en": "Reece Gaines",
     "position": "PG",
     "height": 198,
@@ -36117,7 +36117,7 @@ module.exports = [
   },
   {
     "id": "richie-frahm",
-    "name": "Richie Frahm",
+    "name": "里奇伊埃·弗赫姆",
     "name_en": "Richie Frahm",
     "position": "PG",
     "height": 196,
@@ -36159,7 +36159,7 @@ module.exports = [
   },
   {
     "id": "ronald-dupree",
-    "name": "Ronald Dupree",
+    "name": "龙尔德·杜普埃",
     "name_en": "Ronald Dupree",
     "position": "SF",
     "height": 201,
@@ -36203,7 +36203,7 @@ module.exports = [
   },
   {
     "id": "steve-blake",
-    "name": "Steve Blake",
+    "name": "斯特夫·布拉凯",
     "name_en": "Steve Blake",
     "position": "PG",
     "height": 190,
@@ -36251,7 +36251,7 @@ module.exports = [
   },
   {
     "id": "udonis-haslem",
-    "name": "Udonis Haslem",
+    "name": "德昂斯·哈斯姆",
     "name_en": "Udonis Haslem",
     "position": "SF",
     "height": 201,
@@ -36287,7 +36287,7 @@ module.exports = [
   },
   {
     "id": "willie-green",
-    "name": "Willie·格林",
+    "name": "威尔伊埃·格恩",
     "name_en": "Willie Green",
     "position": "SG",
     "height": 190,
@@ -36331,7 +36331,7 @@ module.exports = [
   },
   {
     "id": "zarko-cabarkapa",
-    "name": "Zarko Cabarkapa",
+    "name": "扎尔科·卡巴尔卡帕",
     "name_en": "Zarko Cabarkapa",
     "position": "PF",
     "height": 211,
@@ -36369,7 +36369,7 @@ module.exports = [
   },
   {
     "id": "zaza-pachulia",
-    "name": "Zaza Pachulia",
+    "name": "扎·帕奇尔伊阿",
     "name_en": "Zaza Pachulia",
     "position": "C",
     "height": 211,
@@ -36415,7 +36415,7 @@ module.exports = [
   },
   {
     "id": "zoran-planinic",
-    "name": "Zoran Planinic",
+    "name": "佐拉恩·普恩因克",
     "name_en": "Zoran Planinic",
     "position": "SG",
     "height": 201,
@@ -36451,7 +36451,7 @@ module.exports = [
   },
   {
     "id": "troy-bell",
-    "name": "Troy·贝尔",
+    "name": "特伊·贝尔",
     "name_en": "Troy Bell",
     "position": "SG",
     "height": 185,
@@ -36487,7 +36487,7 @@ module.exports = [
   },
   {
     "id": "tj-ford",
-    "name": "T.J·福特",
+    "name": "特杰·福德",
     "name_en": "T.J. Ford",
     "position": "SG",
     "height": 183,
@@ -36529,7 +36529,7 @@ module.exports = [
   },
   {
     "id": "theron-smith",
-    "name": "Theron·史密斯",
+    "name": "斯罗恩·斯",
     "name_en": "Theron Smith",
     "position": "SF",
     "height": 203,
@@ -36567,7 +36567,7 @@ module.exports = [
   },
   {
     "id": "torraye-braggs",
-    "name": "Torraye Braggs",
+    "name": "托尔拉耶·布格斯",
     "name_en": "Torraye Braggs",
     "position": "SF",
     "height": 203,
@@ -36605,7 +36605,7 @@ module.exports = [
   },
   {
     "id": "travis-hansen",
-    "name": "Travis·汉森",
+    "name": "特夫斯·哈恩塞恩",
     "name_en": "Travis Hansen",
     "position": "SG",
     "height": 198,
@@ -36641,7 +36641,7 @@ module.exports = [
   },
   {
     "id": "travis-outlaw",
-    "name": "Travis Outlaw",
+    "name": "特夫斯·特拉沃",
     "name_en": "Travis Outlaw",
     "position": "SF",
     "height": 206,
@@ -36683,7 +36683,7 @@ module.exports = [
   },
   {
     "id": "keith-mcleod",
-    "name": "Keith McLeod",
+    "name": "凯斯·麦克勒德",
     "name_en": "Keith McLeod",
     "position": "SG",
     "height": 188,
@@ -36723,7 +36723,7 @@ module.exports = [
   },
   {
     "id": "luke-ridnour",
-    "name": "Luke Ridnour",
+    "name": "卢凯·里德诺尔",
     "name_en": "Luke Ridnour",
     "position": "PG",
     "height": 188,
@@ -36767,7 +36767,7 @@ module.exports = [
   },
   {
     "id": "luke-walton",
-    "name": "Luke·沃尔顿",
+    "name": "卢凯·瓦尔顿",
     "name_en": "Luke Walton",
     "position": "SF",
     "height": 203,
@@ -36805,7 +36805,7 @@ module.exports = [
   },
   {
     "id": "maciej-lampe",
-    "name": "Maciej Lampe",
+    "name": "马西埃杰·拉姆佩",
     "name_en": "Maciej Lampe",
     "position": "SF",
     "height": 211,
@@ -36845,7 +36845,7 @@ module.exports = [
   },
   {
     "id": "marcus-banks",
-    "name": "马库斯·Banks",
+    "name": "马尔库斯·巴恩克斯",
     "name_en": "Marcus Banks",
     "position": "SG",
     "height": 188,
@@ -36889,7 +36889,7 @@ module.exports = [
   },
   {
     "id": "marquis-daniels",
-    "name": "Marquis·丹尼尔斯",
+    "name": "马尔奎乌斯·达尼斯",
     "name_en": "Marquis Daniels",
     "position": "SF",
     "height": 198,
@@ -36931,7 +36931,7 @@ module.exports = [
   },
   {
     "id": "linton-johnson",
-    "name": "Linton·约翰逊",
+    "name": "利恩顿·乔赫恩森",
     "name_en": "Linton Johnson",
     "position": "SF",
     "height": 203,
@@ -36973,7 +36973,7 @@ module.exports = [
   },
   {
     "id": "kendrick-perkins",
-    "name": "Kendrick Perkins",
+    "name": "凯恩德克·佩尔基恩斯",
     "name_en": "Kendrick Perkins",
     "position": "C",
     "height": 208,
@@ -37015,7 +37015,7 @@ module.exports = [
   },
   {
     "id": "matt-barnes",
-    "name": "Matt·巴恩斯",
+    "name": "马特·巴尔内斯",
     "name_en": "Matt Barnes",
     "position": "SF",
     "height": 201,
@@ -37065,7 +37065,7 @@ module.exports = [
   },
   {
     "id": "kirk-penney",
-    "name": "Kirk Penney",
+    "name": "基尔克·佩恩尼",
     "name_en": "Kirk Penney",
     "position": "SG",
     "height": 196,
@@ -37103,7 +37103,7 @@ module.exports = [
   },
   {
     "id": "kyle-korver",
-    "name": "凯尔·Korver",
+    "name": "凯勒·科尔维尔",
     "name_en": "Kyle Korver",
     "position": "SG",
     "height": 201,
@@ -37189,7 +37189,7 @@ module.exports = [
   },
   {
     "id": "leandro-barbosa",
-    "name": "Leandro Barbosa",
+    "name": "勒德罗·巴尔博萨",
     "name_en": "Leandro Barbosa",
     "position": "SG",
     "height": 190,
@@ -37233,7 +37233,7 @@ module.exports = [
   },
   {
     "id": "kirk-hinrich",
-    "name": "Kirk Hinrich",
+    "name": "基尔克·希恩里奇",
     "name_en": "Kirk Hinrich",
     "position": "SG",
     "height": 193,
@@ -37271,7 +37271,7 @@ module.exports = [
   },
   {
     "id": "matt-carroll",
-    "name": "Matt·卡罗尔",
+    "name": "马特·卡尔罗尔",
     "name_en": "Matt Carroll",
     "position": "PG",
     "height": 198,
@@ -37311,7 +37311,7 @@ module.exports = [
   },
   {
     "id": "maurice-carter",
-    "name": "Maurice·卡特",
+    "name": "马尔斯·卡尔特尔",
     "name_en": "Maurice Carter",
     "position": "SG",
     "height": 196,
@@ -37347,7 +37347,7 @@ module.exports = [
   },
   {
     "id": "omar-cook",
-    "name": "Omar Cook",
+    "name": "姆尔·科克",
     "name_en": "Omar Cook",
     "position": "PG",
     "height": 185,
@@ -37385,7 +37385,7 @@ module.exports = [
   },
   {
     "id": "ndudi-ebi",
-    "name": "Ndudi Ebi",
+    "name": "恩杜迪·布伊",
     "name_en": "Ndudi Ebi",
     "position": "SF",
     "height": 206,
@@ -37421,7 +37421,7 @@ module.exports = [
   },
   {
     "id": "michael-sweetney",
-    "name": "迈克尔·Sweetney",
+    "name": "米奇阿尔·斯特尼",
     "name_en": "Michael Sweetney",
     "position": "SF",
     "height": 203,
@@ -37459,7 +37459,7 @@ module.exports = [
   },
   {
     "id": "mickael-pietrus",
-    "name": "Mickael Pietrus",
+    "name": "米克阿尔·皮特鲁斯",
     "name_en": "Mickael Pietrus",
     "position": "SF",
     "height": 198,
@@ -37549,7 +37549,7 @@ module.exports = [
   },
   {
     "id": "maurice-baker",
-    "name": "Maurice·贝克",
+    "name": "马尔斯·巴凯尔",
     "name_en": "Maurice Baker",
     "position": "SG",
     "height": 188,
@@ -37585,7 +37585,7 @@ module.exports = [
   },
   {
     "id": "matt-freije",
-    "name": "Matt Freije",
+    "name": "马特·弗埃伊杰",
     "name_en": "Matt Freije",
     "position": "SF",
     "height": 206,
@@ -37623,7 +37623,7 @@ module.exports = [
   },
   {
     "id": "matt-bonner",
-    "name": "Matt Bonner",
+    "name": "马特·博恩内尔",
     "name_en": "Matt Bonner",
     "position": "PF",
     "height": 208,
@@ -37697,7 +37697,7 @@ module.exports = [
   },
   {
     "id": "mario-kasun",
-    "name": "Mario Kasun",
+    "name": "马里奥·卡苏恩",
     "name_en": "Mario Kasun",
     "position": "C",
     "height": 216,
@@ -37733,7 +37733,7 @@ module.exports = [
   },
   {
     "id": "pape-sow",
-    "name": "Pape Sow",
+    "name": "帕佩·索沃",
     "name_en": "Pape Sow",
     "position": "SF",
     "height": 208,
@@ -37769,7 +37769,7 @@ module.exports = [
   },
   {
     "id": "nick-collison",
-    "name": "尼克·Collison",
+    "name": "尼克·科尔斯昂",
     "name_en": "Nick Collison",
     "position": "PF",
     "height": 208,
@@ -37807,7 +37807,7 @@ module.exports = [
   },
   {
     "id": "nenad-krstic",
-    "name": "Nenad Krstic",
+    "name": "内纳德·克斯特克",
     "name_en": "Nenad Krstic",
     "position": "C",
     "height": 213,
@@ -37847,7 +37847,7 @@ module.exports = [
   },
   {
     "id": "kris-humphries",
-    "name": "Kris Humphries",
+    "name": "克斯·胡姆菲里斯",
     "name_en": "Kris Humphries",
     "position": "SF",
     "height": 206,
@@ -37895,7 +37895,7 @@ module.exports = [
   },
   {
     "id": "kirk-snyder",
-    "name": "Kirk Snyder",
+    "name": "基尔克·斯伊德尔",
     "name_en": "Kirk Snyder",
     "position": "SF",
     "height": 198,
@@ -37981,7 +37981,7 @@ module.exports = [
   },
   {
     "id": "luol-deng",
-    "name": "Luol Deng",
+    "name": "卢尔·登格",
     "name_en": "Luol Deng",
     "position": "SF",
     "height": 206,
@@ -38025,7 +38025,7 @@ module.exports = [
   },
   {
     "id": "luke-jackson",
-    "name": "Luke·杰克逊",
+    "name": "卢凯·贾克森",
     "name_en": "Luke Jackson",
     "position": "SF",
     "height": 201,
@@ -38065,7 +38065,7 @@ module.exports = [
   },
   {
     "id": "luis-flores",
-    "name": "Luis·弗洛雷斯",
+    "name": "卢斯·弗尔斯",
     "name_en": "Luis Flores",
     "position": "SG",
     "height": 188,
@@ -38101,7 +38101,7 @@ module.exports = [
   },
   {
     "id": "lionel-chalmers",
-    "name": "Lionel Chalmers",
+    "name": "利恩尔·奇尔梅尔斯",
     "name_en": "Lionel Chalmers",
     "position": "PG",
     "height": 183,
@@ -38137,7 +38137,7 @@ module.exports = [
   },
   {
     "id": "pavel-podkolzin",
-    "name": "Pavel Podkolzin",
+    "name": "帕维尔·波德科尔齐恩",
     "name_en": "Pavel Podkolzin",
     "position": "C",
     "height": 226,
@@ -38173,7 +38173,7 @@ module.exports = [
   },
   {
     "id": "peter-john-ramos",
-    "name": "Peter·拉莫斯",
+    "name": "佩特尔·拉莫斯",
     "name_en": "Peter John Ramos",
     "position": "C",
     "height": 221,
@@ -38209,7 +38209,7 @@ module.exports = [
   },
   {
     "id": "tony-bobbitt",
-    "name": "托尼·Bobbitt",
+    "name": "顿伊·博布比特",
     "name_en": "Tony Bobbitt",
     "position": "SG",
     "height": 193,
@@ -38245,7 +38245,7 @@ module.exports = [
   },
   {
     "id": "tony-allen",
-    "name": "托尼·Allen",
+    "name": "顿伊·尔恩",
     "name_en": "Tony Allen",
     "position": "SG",
     "height": 193,
@@ -38285,7 +38285,7 @@ module.exports = [
   },
   {
     "id": "yuta-tabuse",
-    "name": "Yuta Tabuse",
+    "name": "尤塔·塔布塞",
     "name_en": "Yuta Tabuse",
     "position": "PG",
     "height": 175,
@@ -38321,7 +38321,7 @@ module.exports = [
   },
   {
     "id": "viktor-khryapa",
-    "name": "Viktor Khryapa",
+    "name": "维克托尔·克里普阿",
     "name_en": "Viktor Khryapa",
     "position": "SF",
     "height": 206,
@@ -38359,7 +38359,7 @@ module.exports = [
   },
   {
     "id": "trevor-ariza",
-    "name": "Trevor Ariza",
+    "name": "特夫尔·尔兹阿",
     "name_en": "Trevor Ariza",
     "position": "SF",
     "height": 203,
@@ -38409,7 +38409,7 @@ module.exports = [
   },
   {
     "id": "robert-swift",
-    "name": "罗伯特·Swift",
+    "name": "罗贝尔特·斯特",
     "name_en": "Robert Swift",
     "position": "C",
     "height": 216,
@@ -38447,7 +38447,7 @@ module.exports = [
   },
   {
     "id": "rafael-araujo",
-    "name": "Rafael Araujo",
+    "name": "拉法尔·尔阿乌乔",
     "name_en": "Rafael Araujo",
     "position": "C",
     "height": 211,
@@ -38485,7 +38485,7 @@ module.exports = [
   },
   {
     "id": "quinton-ross",
-    "name": "Quinton Ross",
+    "name": "奎因顿·罗斯",
     "name_en": "Quinton Ross",
     "position": "SG",
     "height": 198,
@@ -38527,7 +38527,7 @@ module.exports = [
   },
   {
     "id": "shaun-livingston",
-    "name": "肖恩·Livingston",
+    "name": "什昂·利文格斯特昂",
     "name_en": "Shaun Livingston",
     "position": "SG",
     "height": 201,
@@ -38577,7 +38577,7 @@ module.exports = [
   },
   {
     "id": "sebastian-telfair",
-    "name": "Sebastian Telfair",
+    "name": "塞巴斯特伊恩·特尔法尔",
     "name_en": "Sebastian Telfair",
     "position": "SG",
     "height": 183,
@@ -38625,7 +38625,7 @@ module.exports = [
   },
   {
     "id": "justin-reed",
-    "name": "Justin·里德",
+    "name": "朱斯特因·雷德",
     "name_en": "Justin Reed",
     "position": "SF",
     "height": 203,
@@ -38663,7 +38663,7 @@ module.exports = [
   },
   {
     "id": "sasha-vujacic",
-    "name": "Sasha Vujacic",
+    "name": "萨什阿·武贾西克",
     "name_en": "Sasha Vujacic",
     "position": "PG",
     "height": 201,
@@ -38705,7 +38705,7 @@ module.exports = [
   },
   {
     "id": "royal-ivey",
-    "name": "Royal Ivey",
+    "name": "罗亚尔·夫伊",
     "name_en": "Royal Ivey",
     "position": "PG",
     "height": 193,
@@ -38747,7 +38747,7 @@ module.exports = [
   },
   {
     "id": "chris-duhon",
-    "name": "克里斯·Duhon",
+    "name": "奇里斯·杜霍恩",
     "name_en": "Chris Duhon",
     "position": "PG",
     "height": 185,
@@ -38789,7 +38789,7 @@ module.exports = [
   },
   {
     "id": "carlos-delfino",
-    "name": "Carlos Delfino",
+    "name": "卡尔洛斯·德尔菲诺",
     "name_en": "Carlos Delfino",
     "position": "SG",
     "height": 198,
@@ -38867,7 +38867,7 @@ module.exports = [
   },
   {
     "id": "damien-wilkins",
-    "name": "Damien·威尔金斯",
+    "name": "达米恩·威尔克斯",
     "name_en": "Damien Wilkins",
     "position": "SG",
     "height": 198,
@@ -38915,7 +38915,7 @@ module.exports = [
   },
   {
     "id": "dj-mbenga",
-    "name": "DJ Mbenga",
+    "name": "德杰·姆贝恩加",
     "name_en": "DJ Mbenga",
     "position": "C",
     "height": 213,
@@ -38955,7 +38955,7 @@ module.exports = [
   },
   {
     "id": "corsley-edwards",
-    "name": "Corsley·爱德华兹",
+    "name": "科尔斯伊·德瓦尔德斯",
     "name_en": "Corsley Edwards",
     "position": "SF",
     "height": 206,
@@ -38991,7 +38991,7 @@ module.exports = [
   },
   {
     "id": "andris-biedrins",
-    "name": "Andris Biedrins",
+    "name": "德里斯·比德里恩斯",
     "name_en": "Andris Biedrins",
     "position": "C",
     "height": 213,
@@ -39029,7 +39029,7 @@ module.exports = [
   },
   {
     "id": "andres-nocioni",
-    "name": "Andres Nocioni",
+    "name": "德雷斯·诺西昂伊",
     "name_en": "Andres Nocioni",
     "position": "SF",
     "height": 201,
@@ -39111,7 +39111,7 @@ module.exports = [
   },
   {
     "id": "andre-emmett",
-    "name": "安德烈·Emmett",
+    "name": "德雷·姆梅特",
     "name_en": "Andre Emmett",
     "position": "PG",
     "height": 196,
@@ -39193,7 +39193,7 @@ module.exports = [
   },
   {
     "id": "anderson-varejao",
-    "name": "Anderson Varejao",
+    "name": "德斯昂·瓦雷贾奥",
     "name_en": "Anderson Varejao",
     "position": "SF",
     "height": 211,
@@ -39231,7 +39231,7 @@ module.exports = [
   },
   {
     "id": "andre-barrett",
-    "name": "安德烈·Barrett",
+    "name": "德雷·巴尔雷特",
     "name_en": "Andre Barrett",
     "position": "SG",
     "height": 178,
@@ -39273,7 +39273,7 @@ module.exports = [
   },
   {
     "id": "brandin-knight",
-    "name": "Brandin·奈特",
+    "name": "布德因·恩伊特",
     "name_en": "Brandin Knight",
     "position": "SG",
     "height": 183,
@@ -39309,7 +39309,7 @@ module.exports = [
   },
   {
     "id": "billy-thomas",
-    "name": "Billy·托马斯",
+    "name": "比尔伊·斯姆斯",
     "name_en": "Billy Thomas",
     "position": "PG",
     "height": 196,
@@ -39349,7 +39349,7 @@ module.exports = [
   },
   {
     "id": "bernard-robinson",
-    "name": "Bernard·罗宾逊",
+    "name": "贝尔纳尔德·罗比恩森",
     "name_en": "Bernard Robinson",
     "position": "SG",
     "height": 198,
@@ -39387,7 +39387,7 @@ module.exports = [
   },
   {
     "id": "beno-udrih",
-    "name": "Beno Udrih",
+    "name": "贝诺·德里赫",
     "name_en": "Beno Udrih",
     "position": "PG",
     "height": 190,
@@ -39433,7 +39433,7 @@ module.exports = [
   },
   {
     "id": "ben-gordon",
-    "name": "Ben·戈登",
+    "name": "贝恩·戈尔多恩",
     "name_en": "Ben Gordon",
     "position": "SG",
     "height": 190,
@@ -39475,7 +39475,7 @@ module.exports = [
   },
   {
     "id": "awvee-storey",
-    "name": "Awvee Storey",
+    "name": "奥维埃·斯特尔伊",
     "name_en": "Awvee Storey",
     "position": "SF",
     "height": 198,
@@ -39515,7 +39515,7 @@ module.exports = [
   },
   {
     "id": "antonio-burks",
-    "name": "Antonio·伯克斯",
+    "name": "特昂伊奥·布尔克斯",
     "name_en": "Antonio Burks",
     "position": "SG",
     "height": 183,
@@ -39551,7 +39551,7 @@ module.exports = [
   },
   {
     "id": "delonte-west",
-    "name": "Delonte·韦斯特",
+    "name": "德洛恩特·韦斯特",
     "name_en": "Delonte West",
     "position": "SG",
     "height": 190,
@@ -39591,7 +39591,7 @@ module.exports = [
   },
   {
     "id": "jared-reiner",
-    "name": "Jared Reiner",
+    "name": "贾雷德·雷因尔",
     "name_en": "Jared Reiner",
     "position": "C",
     "height": 211,
@@ -39667,7 +39667,7 @@ module.exports = [
   },
   {
     "id": "jameer-nelson",
-    "name": "Jameer·尼尔森",
+    "name": "贾梅尔·内尔森",
     "name_en": "Jameer Nelson",
     "position": "PG",
     "height": 183,
@@ -39707,7 +39707,7 @@ module.exports = [
   },
   {
     "id": "jackson-vroman",
-    "name": "Jackson Vroman",
+    "name": "贾克森·维罗曼",
     "name_en": "Jackson Vroman",
     "position": "PF",
     "height": 208,
@@ -39745,7 +39745,7 @@ module.exports = [
   },
   {
     "id": "jackie-butler",
-    "name": "Jackie·巴特勒",
+    "name": "贾克伊埃·布特勒尔",
     "name_en": "Jackie Butler",
     "position": "C",
     "height": 208,
@@ -39783,7 +39783,7 @@ module.exports = [
   },
   {
     "id": "jr-smith",
-    "name": "Jr·史密斯",
+    "name": "杰尔·斯",
     "name_en": "JR Smith",
     "position": "PG",
     "height": 198,
@@ -39871,7 +39871,7 @@ module.exports = [
   },
   {
     "id": "josh-childress",
-    "name": "约什·Childress",
+    "name": "乔什·奇尔德斯",
     "name_en": "Josh Childress",
     "position": "SF",
     "height": 203,
@@ -39951,7 +39951,7 @@ module.exports = [
   },
   {
     "id": "ibrahim-kutluay",
-    "name": "Ibrahim Kutluay",
+    "name": "布拉希姆·库特卢伊",
     "name_en": "Ibrahim Kutluay",
     "position": "PG",
     "height": 198,
@@ -40035,7 +40035,7 @@ module.exports = [
   },
   {
     "id": "horace-jenkins",
-    "name": "Horace Jenkins",
+    "name": "霍拉塞·杰恩基恩斯",
     "name_en": "Horace Jenkins",
     "position": "PG",
     "height": 185,
@@ -40115,7 +40115,7 @@ module.exports = [
   },
   {
     "id": "donta-smith",
-    "name": "Donta·史密斯",
+    "name": "多恩塔·斯",
     "name_en": "Donta Smith",
     "position": "PG",
     "height": 201,
@@ -40151,7 +40151,7 @@ module.exports = [
   },
   {
     "id": "emeka-okafor",
-    "name": "Emeka Okafor",
+    "name": "姆卡·克夫尔",
     "name_en": "Emeka Okafor",
     "position": "C",
     "height": 208,
@@ -40193,7 +40193,7 @@ module.exports = [
   },
   {
     "id": "ha-ha",
-    "name": "Ha Ha",
+    "name": "哈·哈",
     "name_en": "Ha Ha",
     "position": "C",
     "height": 221,
@@ -40229,7 +40229,7 @@ module.exports = [
   },
   {
     "id": "geno-carlisle",
-    "name": "Geno Carlisle",
+    "name": "杰诺·卡尔斯勒",
     "name_en": "Geno Carlisle",
     "position": "SG",
     "height": 190,
@@ -40265,7 +40265,7 @@ module.exports = [
   },
   {
     "id": "erik-daniels",
-    "name": "Erik·丹尼尔斯",
+    "name": "里克·达尼斯",
     "name_en": "Erik Daniels",
     "position": "SF",
     "height": 203,
@@ -40301,7 +40301,7 @@ module.exports = [
   },
   {
     "id": "dorell-wright",
-    "name": "Dorell·赖特",
+    "name": "多雷尔·尔伊特",
     "name_en": "Dorell Wright",
     "position": "SF",
     "height": 206,
@@ -40343,7 +40343,7 @@ module.exports = [
   },
   {
     "id": "travis-diener",
-    "name": "Travis Diener",
+    "name": "特夫斯·迪尼尔",
     "name_en": "Travis Diener",
     "position": "SG",
     "height": 185,
@@ -40383,7 +40383,7 @@ module.exports = [
   },
   {
     "id": "sarunas-jasikevicius",
-    "name": "Sarunas Jasikevicius",
+    "name": "萨鲁纳斯·贾西凯维西斯",
     "name_en": "Sarunas Jasikevicius",
     "position": "PG",
     "height": 193,
@@ -40421,7 +40421,7 @@ module.exports = [
   },
   {
     "id": "ryan-gomes",
-    "name": "Ryan Gomes",
+    "name": "里恩·戈梅斯",
     "name_en": "Ryan Gomes",
     "position": "SF",
     "height": 201,
@@ -40463,7 +40463,7 @@ module.exports = [
   },
   {
     "id": "ronnie-price",
-    "name": "Ronnie Price",
+    "name": "龙尼埃·普斯",
     "name_en": "Ronnie Price",
     "position": "SG",
     "height": 188,
@@ -40509,7 +40509,7 @@ module.exports = [
   },
   {
     "id": "ronny-turiaf",
-    "name": "Ronny Turiaf",
+    "name": "龙尼·图里夫",
     "name_en": "Ronny Turiaf",
     "position": "C",
     "height": 208,
@@ -40555,7 +40555,7 @@ module.exports = [
   },
   {
     "id": "salim-stoudamire",
-    "name": "Salim Stoudamire",
+    "name": "萨利姆·斯特德姆尔",
     "name_en": "Salim Stoudamire",
     "position": "PG",
     "height": 185,
@@ -40591,7 +40591,7 @@ module.exports = [
   },
   {
     "id": "sean-may",
-    "name": "Sean·梅",
+    "name": "塞恩·马伊",
     "name_en": "Sean May",
     "position": "PF",
     "height": 206,
@@ -40629,7 +40629,7 @@ module.exports = [
   },
   {
     "id": "sergei-monia",
-    "name": "Sergei Monia",
+    "name": "塞尔杰伊·蒙伊阿",
     "name_en": "Sergei Monia",
     "position": "SF",
     "height": 203,
@@ -40709,7 +40709,7 @@ module.exports = [
   },
   {
     "id": "shavlik-randolph",
-    "name": "Shavlik Randolph",
+    "name": "什夫利克·拉恩多尔菲",
     "name_en": "Shavlik Randolph",
     "position": "SF",
     "height": 208,
@@ -40753,7 +40753,7 @@ module.exports = [
   },
   {
     "id": "sharrod-ford",
-    "name": "Sharrod·福特",
+    "name": "什尔罗德·福德",
     "name_en": "Sharrod Ford",
     "position": "SF",
     "height": 206,
@@ -40789,7 +40789,7 @@ module.exports = [
   },
   {
     "id": "von-wafer",
-    "name": "Von Wafer",
+    "name": "沃恩·瓦费尔",
     "name_en": "Von Wafer",
     "position": "PG",
     "height": 196,
@@ -40835,7 +40835,7 @@ module.exports = [
   },
   {
     "id": "jason-maxiell",
-    "name": "杰森·Maxiell",
+    "name": "贾森·马克斯伊尔",
     "name_en": "Jason Maxiell",
     "position": "SF",
     "height": 201,
@@ -40875,7 +40875,7 @@ module.exports = [
   },
   {
     "id": "jarrett-jack",
-    "name": "贾勒特·Jack",
+    "name": "贾尔雷特·贾克",
     "name_en": "Jarrett Jack",
     "position": "SG",
     "height": 190,
@@ -40967,7 +40967,7 @@ module.exports = [
   },
   {
     "id": "ike-diogu",
-    "name": "Ike Diogu",
+    "name": "克·迪格乌",
     "name_en": "Ike Diogu",
     "position": "SF",
     "height": 206,
@@ -41011,7 +41011,7 @@ module.exports = [
   },
   {
     "id": "wayne-simien",
-    "name": "Wayne Simien",
+    "name": "瓦因·西米恩",
     "name_en": "Wayne Simien",
     "position": "SF",
     "height": 206,
@@ -41047,7 +41047,7 @@ module.exports = [
   },
   {
     "id": "will-bynum",
-    "name": "Will Bynum",
+    "name": "威尔·拜努姆",
     "name_en": "Will Bynum",
     "position": "SG",
     "height": 183,
@@ -41087,7 +41087,7 @@ module.exports = [
   },
   {
     "id": "yaroslav-korolev",
-    "name": "Yaroslav Korolev",
+    "name": "亚罗斯夫·科罗勒维",
     "name_en": "Yaroslav Korolev",
     "position": "SF",
     "height": 206,
@@ -41169,7 +41169,7 @@ module.exports = [
   },
   {
     "id": "johan-petro",
-    "name": "Johan Petro",
+    "name": "乔哈恩·佩特奥",
     "name_en": "Johan Petro",
     "position": "C",
     "height": 213,
@@ -41211,7 +41211,7 @@ module.exports = [
   },
   {
     "id": "joey-graham",
-    "name": "Joey·格雷厄姆",
+    "name": "乔伊·格赫姆",
     "name_en": "Joey Graham",
     "position": "SF",
     "height": 201,
@@ -41251,7 +41251,7 @@ module.exports = [
   },
   {
     "id": "robert-whaley",
-    "name": "罗伯特·Whaley",
+    "name": "罗贝特·惠尔伊",
     "name_en": "Robert Whaley",
     "position": "C",
     "height": 208,
@@ -41287,7 +41287,7 @@ module.exports = [
   },
   {
     "id": "luke-schenscher",
-    "name": "Luke Schenscher",
+    "name": "卢凯·斯赫恩斯赫尔",
     "name_en": "Luke Schenscher",
     "position": "C",
     "height": 216,
@@ -41325,7 +41325,7 @@ module.exports = [
   },
   {
     "id": "lou-williams",
-    "name": "Lou·威廉姆斯",
+    "name": "洛乌·威尔伊姆斯",
     "name_en": "Lou Williams",
     "position": "PG",
     "height": 188,
@@ -41371,7 +41371,7 @@ module.exports = [
   },
   {
     "id": "linas-kleiza",
-    "name": "Linas Kleiza",
+    "name": "利纳斯·克埃兹阿",
     "name_en": "Linas Kleiza",
     "position": "SF",
     "height": 203,
@@ -41409,7 +41409,7 @@ module.exports = [
   },
   {
     "id": "lawrence-roberts",
-    "name": "Lawrence·罗伯茨",
+    "name": "拉尔恩塞·罗贝尔特斯",
     "name_en": "Lawrence Roberts",
     "position": "SF",
     "height": 206,
@@ -41445,7 +41445,7 @@ module.exports = [
   },
   {
     "id": "luther-head",
-    "name": "Luther Head",
+    "name": "卢斯尔·赫德",
     "name_en": "Luther Head",
     "position": "SG",
     "height": 190,
@@ -41487,7 +41487,7 @@ module.exports = [
   },
   {
     "id": "marvin-williams",
-    "name": "Marvin·威廉姆斯",
+    "name": "马尔维恩·威尔伊姆斯",
     "name_en": "Marvin Williams",
     "position": "SF",
     "height": 203,
@@ -41529,7 +41529,7 @@ module.exports = [
   },
   {
     "id": "martynas-andriuskevicius",
-    "name": "Martynas Andriuskevicius",
+    "name": "马尔蒂纳斯·德里斯克夫克厄斯",
     "name_en": "Martynas Andriuskevicius",
     "position": "C",
     "height": 218,
@@ -41565,7 +41565,7 @@ module.exports = [
   },
   {
     "id": "martell-webster",
-    "name": "Martell·韦伯斯特",
+    "name": "马尔特尔·韦布斯特",
     "name_en": "Martell Webster",
     "position": "SF",
     "height": 201,
@@ -41605,7 +41605,7 @@ module.exports = [
   },
   {
     "id": "julius-hodge",
-    "name": "朱利叶斯·Hodge",
+    "name": "朱利斯·霍德杰",
     "name_en": "Julius Hodge",
     "position": "PG",
     "height": 201,
@@ -41643,7 +41643,7 @@ module.exports = [
   },
   {
     "id": "jose-calderon",
-    "name": "Jose Calderon",
+    "name": "乔塞·卡尔德罗恩",
     "name_en": "Jose Calderon",
     "position": "SG",
     "height": 190,
@@ -41735,7 +41735,7 @@ module.exports = [
   },
   {
     "id": "kevin-burleson",
-    "name": "凯文·Burleson",
+    "name": "凯维恩·布尔勒森",
     "name_en": "Kevin Burleson",
     "position": "PG",
     "height": 190,
@@ -41771,7 +41771,7 @@ module.exports = [
   },
   {
     "id": "randy-holcomb",
-    "name": "Randy Holcomb",
+    "name": "拉恩迪·霍尔科姆布",
     "name_en": "Randy Holcomb",
     "position": "SF",
     "height": 206,
@@ -41807,7 +41807,7 @@ module.exports = [
   },
   {
     "id": "raymond-felton",
-    "name": "Raymond Felton",
+    "name": "拉伊蒙德·费尔特昂",
     "name_en": "Raymond Felton",
     "position": "PG",
     "height": 185,
@@ -41855,7 +41855,7 @@ module.exports = [
   },
   {
     "id": "rawle-marshall",
-    "name": "Rawle·马歇尔",
+    "name": "拉沃勒·马尔什尔",
     "name_en": "Rawle Marshall",
     "position": "SG",
     "height": 201,
@@ -41893,7 +41893,7 @@ module.exports = [
   },
   {
     "id": "rashad-mccants",
-    "name": "Rashad McCants",
+    "name": "拉什德·麦克卡恩特斯",
     "name_en": "Rashad McCants",
     "position": "SG",
     "height": 193,
@@ -41931,7 +41931,7 @@ module.exports = [
   },
   {
     "id": "orien-greene",
-    "name": "Orien Greene",
+    "name": "尔伊恩·格恩埃",
     "name_en": "Orien Greene",
     "position": "PG",
     "height": 193,
@@ -41973,7 +41973,7 @@ module.exports = [
   },
   {
     "id": "matt-walsh",
-    "name": "Matt Walsh",
+    "name": "马特·瓦尔什",
     "name_en": "Matt Walsh",
     "position": "SG",
     "height": 198,
@@ -42009,7 +42009,7 @@ module.exports = [
   },
   {
     "id": "melvin-sanders",
-    "name": "Melvin Sanders",
+    "name": "梅尔维恩·萨恩德尔斯",
     "name_en": "Melvin Sanders",
     "position": "SG",
     "height": 196,
@@ -42045,7 +42045,7 @@ module.exports = [
   },
   {
     "id": "nate-robinson",
-    "name": "Nate·罗宾逊",
+    "name": "纳特·罗比恩森",
     "name_en": "Nate Robinson",
     "position": "SG",
     "height": 175,
@@ -42093,7 +42093,7 @@ module.exports = [
   },
   {
     "id": "monta-ellis",
-    "name": "Monta·埃利斯",
+    "name": "蒙塔·尔斯",
     "name_en": "Monta Ellis",
     "position": "PG",
     "height": 190,
@@ -42135,7 +42135,7 @@ module.exports = [
   },
   {
     "id": "noel-felix",
-    "name": "Noel Felix",
+    "name": "诺尔·费利克斯",
     "name_en": "Noel Felix",
     "position": "SF",
     "height": 206,
@@ -42171,7 +42171,7 @@ module.exports = [
   },
   {
     "id": "brandon-bass",
-    "name": "布兰登·Bass",
+    "name": "布德昂·巴斯",
     "name_en": "Brandon Bass",
     "position": "SF",
     "height": 203,
@@ -42217,7 +42217,7 @@ module.exports = [
   },
   {
     "id": "bracey-wright",
-    "name": "Bracey·赖特",
+    "name": "布克伊·尔伊特",
     "name_en": "Bracey Wright",
     "position": "SG",
     "height": 190,
@@ -42253,7 +42253,7 @@ module.exports = [
   },
   {
     "id": "boniface-ndong",
-    "name": "Boniface Ndong",
+    "name": "博尼法塞·恩多恩格",
     "name_en": "Boniface Ndong",
     "position": "C",
     "height": 213,
@@ -42289,7 +42289,7 @@ module.exports = [
   },
   {
     "id": "charlie-villanueva",
-    "name": "Charlie Villanueva",
+    "name": "奇尔利埃·维尔恩乌夫阿",
     "name_en": "Charlie Villanueva",
     "position": "SF",
     "height": 211,
@@ -42331,7 +42331,7 @@ module.exports = [
   },
   {
     "id": "channing-frye",
-    "name": "Channing Frye",
+    "name": "奇恩尼恩格·弗耶",
     "name_en": "Channing Frye",
     "position": "PF",
     "height": 213,
@@ -42377,7 +42377,7 @@ module.exports = [
   },
   {
     "id": "cj-miles",
-    "name": "CJ Miles",
+    "name": "克杰·米勒斯",
     "name_en": "CJ Miles",
     "position": "SF",
     "height": 198,
@@ -42425,7 +42425,7 @@ module.exports = [
   },
   {
     "id": "arvydas-macijauskas",
-    "name": "Arvydas Macijauskas",
+    "name": "尔维伊达斯·马西贾斯克斯",
     "name_en": "Arvydas Macijauskas",
     "position": "PG",
     "height": 193,
@@ -42461,7 +42461,7 @@ module.exports = [
   },
   {
     "id": "amir-johnson",
-    "name": "Amir·约翰逊",
+    "name": "姆尔·乔赫恩森",
     "name_en": "Amir Johnson",
     "position": "PF",
     "height": 206,
@@ -42503,7 +42503,7 @@ module.exports = [
   },
   {
     "id": "alex-scales",
-    "name": "亚历克斯·Scales",
+    "name": "尔克斯·斯尔斯",
     "name_en": "Alex Scales",
     "position": "PG",
     "height": 193,
@@ -42539,7 +42539,7 @@ module.exports = [
   },
   {
     "id": "alex-acker",
-    "name": "亚历克斯·Acker",
+    "name": "尔克斯·克凯尔",
     "name_en": "Alex Acker",
     "position": "SG",
     "height": 196,
@@ -42577,7 +42577,7 @@ module.exports = [
   },
   {
     "id": "andray-blatche",
-    "name": "Andray Blatche",
+    "name": "德拉伊·布拉特奇埃",
     "name_en": "Andray Blatche",
     "position": "PF",
     "height": 211,
@@ -42615,7 +42615,7 @@ module.exports = [
   },
   {
     "id": "aaron-miles",
-    "name": "阿龙·Miles",
+    "name": "阿尔昂·米勒斯",
     "name_en": "Aaron Miles",
     "position": "SG",
     "height": 185,
@@ -42651,7 +42651,7 @@ module.exports = [
   },
   {
     "id": "alan-anderson",
-    "name": "Alan·安德森",
+    "name": "尔恩·德斯昂",
     "name_en": "Alan Anderson",
     "position": "SF",
     "height": 198,
@@ -42695,7 +42695,7 @@ module.exports = [
   },
   {
     "id": "antoine-wright",
-    "name": "Antoine·赖特",
+    "name": "特因埃·尔伊特",
     "name_en": "Antoine Wright",
     "position": "SF",
     "height": 201,
@@ -42737,7 +42737,7 @@ module.exports = [
   },
   {
     "id": "anthony-roberson",
-    "name": "安东尼·Roberson",
+    "name": "特霍尼·罗贝尔森",
     "name_en": "Anthony Roberson",
     "position": "PG",
     "height": 188,
@@ -42777,7 +42777,7 @@ module.exports = [
   },
   {
     "id": "anthony-grundy",
-    "name": "安东尼·Grundy",
+    "name": "特霍尼·格德伊",
     "name_en": "Anthony Grundy",
     "position": "PG",
     "height": 190,
@@ -42813,7 +42813,7 @@ module.exports = [
   },
   {
     "id": "hakim-warrick",
-    "name": "Hakim Warrick",
+    "name": "哈基姆·瓦尔里克",
     "name_en": "Hakim Warrick",
     "position": "SF",
     "height": 206,
@@ -42855,7 +42855,7 @@ module.exports = [
   },
   {
     "id": "andrew-bynum",
-    "name": "Andrew Bynum",
+    "name": "德雷沃·拜努姆",
     "name_en": "Andrew Bynum",
     "position": "C",
     "height": 213,
@@ -42893,7 +42893,7 @@ module.exports = [
   },
   {
     "id": "andrew-bogut",
-    "name": "Andrew Bogut",
+    "name": "德雷沃·博古特",
     "name_en": "Andrew Bogut",
     "position": "C",
     "height": 213,
@@ -42973,7 +42973,7 @@ module.exports = [
   },
   {
     "id": "chris-taft",
-    "name": "克里斯·Taft",
+    "name": "奇里斯·塔弗特",
     "name_en": "Chris Taft",
     "position": "SF",
     "height": 208,
@@ -43009,7 +43009,7 @@ module.exports = [
   },
   {
     "id": "eddie-basden",
-    "name": "Eddie Basden",
+    "name": "德迪埃·巴斯德恩",
     "name_en": "Eddie Basden",
     "position": "PG",
     "height": 196,
@@ -43045,7 +43045,7 @@ module.exports = [
   },
   {
     "id": "dwayne-jones",
-    "name": "Dwayne·琼斯",
+    "name": "德瓦因·乔内斯",
     "name_en": "Dwayne Jones",
     "position": "PF",
     "height": 208,
@@ -43087,7 +43087,7 @@ module.exports = [
   },
   {
     "id": "earl-barron",
-    "name": "Earl Barron",
+    "name": "尔·巴尔罗恩",
     "name_en": "Earl Barron",
     "position": "PF",
     "height": 213,
@@ -43225,7 +43225,7 @@ module.exports = [
   },
   {
     "id": "gerald-fitch",
-    "name": "杰拉德·Fitch",
+    "name": "杰拉尔德·菲特奇",
     "name_en": "Gerald Fitch",
     "position": "PG",
     "height": 190,
@@ -43261,7 +43261,7 @@ module.exports = [
   },
   {
     "id": "francisco-garcia",
-    "name": "Francisco·加西亚",
+    "name": "弗恩西斯奥·加尔西阿",
     "name_en": "Francisco Garcia",
     "position": "SG",
     "height": 201,
@@ -43299,7 +43299,7 @@ module.exports = [
   },
   {
     "id": "fabricio-oberto",
-    "name": "Fabricio Oberto",
+    "name": "法布克伊奥·布特奥",
     "name_en": "Fabricio Oberto",
     "position": "PF",
     "height": 208,
@@ -43339,7 +43339,7 @@ module.exports = [
   },
   {
     "id": "donell-taylor",
-    "name": "Donell·泰勒",
+    "name": "登尔·塔伊尔",
     "name_en": "Donell Taylor",
     "position": "SG",
     "height": 196,
@@ -43375,7 +43375,7 @@ module.exports = [
   },
   {
     "id": "esteban-batista",
-    "name": "Esteban Batista",
+    "name": "斯特布恩·巴蒂斯特阿",
     "name_en": "Esteban Batista",
     "position": "PF",
     "height": 208,
@@ -43411,7 +43411,7 @@ module.exports = [
   },
   {
     "id": "dijon-thompson",
-    "name": "Dijon·汤普森",
+    "name": "迪乔恩·斯普森",
     "name_en": "Dijon Thompson",
     "position": "SG",
     "height": 203,
@@ -43449,7 +43449,7 @@ module.exports = [
   },
   {
     "id": "danny-granger",
-    "name": "Danny Granger",
+    "name": "达恩尼·格尔",
     "name_en": "Danny Granger",
     "position": "SF",
     "height": 206,
@@ -43489,7 +43489,7 @@ module.exports = [
   },
   {
     "id": "daniel-ewing",
-    "name": "丹尼尔·Ewing",
+    "name": "达尼尔·尤英",
     "name_en": "Daniel Ewing",
     "position": "SG",
     "height": 190,
@@ -43525,7 +43525,7 @@ module.exports = [
   },
   {
     "id": "chuck-hayes",
-    "name": "Chuck·海耶斯",
+    "name": "奇克·哈耶斯",
     "name_en": "Chuck Hayes",
     "position": "PF",
     "height": 198,
@@ -43639,7 +43639,7 @@ module.exports = [
   },
   {
     "id": "deron-williams",
-    "name": "Deron·威廉姆斯",
+    "name": "德罗恩·威尔伊姆斯",
     "name_en": "Deron Williams",
     "position": "PG",
     "height": 190,
@@ -43683,7 +43683,7 @@ module.exports = [
   },
   {
     "id": "deng-gai",
-    "name": "Deng Gai",
+    "name": "登格·加伊",
     "name_en": "Deng Gai",
     "position": "SF",
     "height": 206,
@@ -43761,7 +43761,7 @@ module.exports = [
   },
   {
     "id": "chris-mccray",
-    "name": "克里斯·Mccray",
+    "name": "奇里斯·麦克伊",
     "name_en": "Chris McCray",
     "position": "SG",
     "height": 196,
@@ -43839,7 +43839,7 @@ module.exports = [
   },
   {
     "id": "cedric-simmons",
-    "name": "Cedric·西蒙斯",
+    "name": "塞德克·西姆蒙斯",
     "name_en": "Cedric Simmons",
     "position": "SF",
     "height": 206,
@@ -43879,7 +43879,7 @@ module.exports = [
   },
   {
     "id": "cedric-bozeman",
-    "name": "Cedric Bozeman",
+    "name": "塞德克·博泽曼",
     "name_en": "Cedric Bozeman",
     "position": "SG",
     "height": 198,
@@ -43987,7 +43987,7 @@ module.exports = [
   },
   {
     "id": "damir-markota",
-    "name": "Damir Markota",
+    "name": "达米尔·马尔科塔",
     "name_en": "Damir Markota",
     "position": "SF",
     "height": 208,
@@ -44023,7 +44023,7 @@ module.exports = [
   },
   {
     "id": "craig-smith",
-    "name": "Craig·史密斯",
+    "name": "克阿格·斯",
     "name_en": "Craig Smith",
     "position": "SF",
     "height": 201,
@@ -44063,7 +44063,7 @@ module.exports = [
   },
   {
     "id": "andreas-glyniadakis",
-    "name": "Andreas Glyniadakis",
+    "name": "德雷斯·格伊尼德克斯",
     "name_en": "Andreas Glyniadakis",
     "position": "C",
     "height": 216,
@@ -44099,7 +44099,7 @@ module.exports = [
   },
   {
     "id": "andrea-bargnani",
-    "name": "Andrea Bargnani",
+    "name": "德雷阿·巴尔格纳尼",
     "name_en": "Andrea Bargnani",
     "position": "PF",
     "height": 213,
@@ -44179,7 +44179,7 @@ module.exports = [
   },
   {
     "id": "allan-ray",
-    "name": "Allan Ray",
+    "name": "尔恩·拉伊",
     "name_en": "Allan Ray",
     "position": "PG",
     "height": 188,
@@ -44215,7 +44215,7 @@ module.exports = [
   },
   {
     "id": "alexander-johnson",
-    "name": "Alexander·约翰逊",
+    "name": "尔克斯德尔·乔赫恩斯昂",
     "name_en": "Alexander Johnson",
     "position": "SF",
     "height": 206,
@@ -44253,7 +44253,7 @@ module.exports = [
   },
   {
     "id": "adam-morrison",
-    "name": "Adam Morrison",
+    "name": "德姆·莫尔里森",
     "name_en": "Adam Morrison",
     "position": "SF",
     "height": 203,
@@ -44291,7 +44291,7 @@ module.exports = [
   },
   {
     "id": "brandon-roy",
-    "name": "布兰登·Roy",
+    "name": "布德昂·罗伊",
     "name_en": "Brandon Roy",
     "position": "SG",
     "height": 198,
@@ -44367,7 +44367,7 @@ module.exports = [
   },
   {
     "id": "quincy-douby",
-    "name": "Quincy Douby",
+    "name": "奎因赛·多布伊",
     "name_en": "Quincy Douby",
     "position": "PG",
     "height": 190,
@@ -44405,7 +44405,7 @@ module.exports = [
   },
   {
     "id": "pops-mensah-bonsu",
-    "name": "Pops Mensah-Bonsu",
+    "name": "波普斯·门萨赫-邦苏",
     "name_en": "Pops Mensah-Bonsu",
     "position": "SF",
     "height": 206,
@@ -44445,7 +44445,7 @@ module.exports = [
   },
   {
     "id": "paul-millsap",
-    "name": "保罗·Millsap",
+    "name": "帕尔·米尔萨普",
     "name_en": "Paul Millsap",
     "position": "SF",
     "height": 201,
@@ -44525,7 +44525,7 @@ module.exports = [
   },
   {
     "id": "patrick-obryant",
-    "name": "帕特里克·O'Bryant",
+    "name": "帕特克·奥布亚恩特",
     "name_en": "Patrick O'Bryant",
     "position": "C",
     "height": 213,
@@ -44563,7 +44563,7 @@ module.exports = [
   },
   {
     "id": "rajon-rondo",
-    "name": "拉简·Rondo",
+    "name": "拉乔恩·罗恩多",
     "name_en": "Rajon Rondo",
     "position": "SG",
     "height": 185,
@@ -44613,7 +44613,7 @@ module.exports = [
   },
   {
     "id": "randolph-morris",
-    "name": "Randolph·莫里斯",
+    "name": "拉恩多尔菲·莫尔里斯",
     "name_en": "Randolph Morris",
     "position": "C",
     "height": 211,
@@ -44651,7 +44651,7 @@ module.exports = [
   },
   {
     "id": "randy-foye",
-    "name": "Randy Foye",
+    "name": "拉恩迪·福耶",
     "name_en": "Randy Foye",
     "position": "PG",
     "height": 193,
@@ -44699,7 +44699,7 @@ module.exports = [
   },
   {
     "id": "rodney-carney",
-    "name": "Rodney Carney",
+    "name": "罗德尼·卡恩伊",
     "name_en": "Rodney Carney",
     "position": "SF",
     "height": 201,
@@ -44739,7 +44739,7 @@ module.exports = [
   },
   {
     "id": "robert-hite",
-    "name": "罗伯特·Hite",
+    "name": "罗贝尔特·希特",
     "name_en": "Robert Hite",
     "position": "PG",
     "height": 188,
@@ -44775,7 +44775,7 @@ module.exports = [
   },
   {
     "id": "renaldo-major",
-    "name": "Renaldo Major",
+    "name": "雷纳尔多·马乔尔",
     "name_en": "Renaldo Major",
     "position": "SF",
     "height": 201,
@@ -44811,7 +44811,7 @@ module.exports = [
   },
   {
     "id": "renaldo-balkman",
-    "name": "Renaldo Balkman",
+    "name": "雷纳尔多·巴尔克曼",
     "name_en": "Renaldo Balkman",
     "position": "SF",
     "height": 203,
@@ -44849,7 +44849,7 @@ module.exports = [
   },
   {
     "id": "roger-powell",
-    "name": "Roger·鲍威尔",
+    "name": "罗杰尔·波韦尔",
     "name_en": "Roger Powell",
     "position": "SF",
     "height": 198,
@@ -44885,7 +44885,7 @@ module.exports = [
   },
   {
     "id": "pj-tucker",
-    "name": "Pj·塔克",
+    "name": "普杰·图克尔",
     "name_en": "PJ Tucker",
     "position": "SF",
     "height": 198,
@@ -44923,7 +44923,7 @@ module.exports = [
   },
   {
     "id": "maurice-ager",
-    "name": "Maurice Ager",
+    "name": "马尔斯·奇尔",
     "name_en": "Maurice Ager",
     "position": "SF",
     "height": 196,
@@ -44963,7 +44963,7 @@ module.exports = [
   },
   {
     "id": "mickael-gelabale",
-    "name": "Mickael Gelabale",
+    "name": "米克阿尔·杰拉巴勒",
     "name_en": "Mickael Gelabale",
     "position": "SF",
     "height": 201,
@@ -45001,7 +45001,7 @@ module.exports = [
   },
   {
     "id": "mouhamed-sene",
-    "name": "Mouhamed Sene",
+    "name": "莫赫姆德·塞内",
     "name_en": "Mouhamed Sene",
     "position": "C",
     "height": 211,
@@ -45039,7 +45039,7 @@ module.exports = [
   },
   {
     "id": "mile-ilic",
-    "name": "Mile Ilic",
+    "name": "米勒·尔克",
     "name_en": "Mile Ilic",
     "position": "C",
     "height": 216,
@@ -45075,7 +45075,7 @@ module.exports = [
   },
   {
     "id": "mike-hall",
-    "name": "Mike·霍尔",
+    "name": "米凯·哈尔",
     "name_en": "Mike Hall",
     "position": "SF",
     "height": 203,
@@ -45111,7 +45111,7 @@ module.exports = [
   },
   {
     "id": "thabo-sefolosha",
-    "name": "Thabo Sefolosha",
+    "name": "斯布奥·塞福洛什阿",
     "name_en": "Thabo Sefolosha",
     "position": "SF",
     "height": 198,
@@ -45155,7 +45155,7 @@ module.exports = [
   },
   {
     "id": "tarence-kinsey",
-    "name": "Tarence Kinsey",
+    "name": "塔伦塞·金塞伊",
     "name_en": "Tarence Kinsey",
     "position": "SG",
     "height": 198,
@@ -45193,7 +45193,7 @@ module.exports = [
   },
   {
     "id": "tyrus-thomas",
-    "name": "Tyrus·托马斯",
+    "name": "蒂鲁斯·斯姆斯",
     "name_en": "Tyrus Thomas",
     "position": "SF",
     "height": 208,
@@ -45233,7 +45233,7 @@ module.exports = [
   },
   {
     "id": "uros-slokar",
-    "name": "Uros Slokar",
+    "name": "尔斯·斯克尔",
     "name_en": "Uros Slokar",
     "position": "SF",
     "height": 208,
@@ -45269,7 +45269,7 @@ module.exports = [
   },
   {
     "id": "yakhouba-diawara",
-    "name": "Yakhouba Diawara",
+    "name": "亚克奥布阿·迪奥尔阿",
     "name_en": "Yakhouba Diawara",
     "position": "SF",
     "height": 201,
@@ -45307,7 +45307,7 @@ module.exports = [
   },
   {
     "id": "will-conroy",
-    "name": "Will Conroy",
+    "name": "威尔·康罗伊",
     "name_en": "Will Conroy",
     "position": "SG",
     "height": 188,
@@ -45347,7 +45347,7 @@ module.exports = [
   },
   {
     "id": "will-blalock",
-    "name": "Will Blalock",
+    "name": "威尔·布拉洛克",
     "name_en": "Will Blalock",
     "position": "SG",
     "height": 183,
@@ -45383,7 +45383,7 @@ module.exports = [
   },
   {
     "id": "walter-herrmann",
-    "name": "Walter Herrmann",
+    "name": "瓦尔特尔·赫尔曼恩",
     "name_en": "Walter Herrmann",
     "position": "SF",
     "height": 206,
@@ -45421,7 +45421,7 @@ module.exports = [
   },
   {
     "id": "vassilis-spanoulis",
-    "name": "Vassilis Spanoulis",
+    "name": "瓦斯西利斯·斯恩尔斯",
     "name_en": "Vassilis Spanoulis",
     "position": "PG",
     "height": 193,
@@ -45457,7 +45457,7 @@ module.exports = [
   },
   {
     "id": "ronnie-brewer",
-    "name": "Ronnie Brewer",
+    "name": "龙尼埃·布尤尔",
     "name_en": "Ronnie Brewer",
     "position": "SF",
     "height": 201,
@@ -45499,7 +45499,7 @@ module.exports = [
   },
   {
     "id": "ryan-hollins",
-    "name": "Ryan Hollins",
+    "name": "里恩·霍尔斯",
     "name_en": "Ryan Hollins",
     "position": "C",
     "height": 213,
@@ -45593,7 +45593,7 @@ module.exports = [
   },
   {
     "id": "sergio-rodriguez",
-    "name": "Sergio·罗德里格斯",
+    "name": "塞尔吉奥·罗德格乌兹",
     "name_en": "Sergio Rodriguez",
     "position": "SG",
     "height": 190,
@@ -45633,7 +45633,7 @@ module.exports = [
   },
   {
     "id": "shannon-brown",
-    "name": "Shannon·布朗",
+    "name": "什恩诺恩·布恩",
     "name_en": "Shannon Brown",
     "position": "SG",
     "height": 190,
@@ -45679,7 +45679,7 @@ module.exports = [
   },
   {
     "id": "steve-novak",
-    "name": "Steve Novak",
+    "name": "斯特夫·诺瓦克",
     "name_en": "Steve Novak",
     "position": "SF",
     "height": 208,
@@ -45727,7 +45727,7 @@ module.exports = [
   },
   {
     "id": "solomon-jones",
-    "name": "Solomon·琼斯",
+    "name": "索洛莫恩·乔内斯",
     "name_en": "Solomon Jones",
     "position": "SF",
     "height": 208,
@@ -45771,7 +45771,7 @@ module.exports = [
   },
   {
     "id": "shelden-williams",
-    "name": "Shelden·威廉姆斯",
+    "name": "什德恩·威尔伊姆斯",
     "name_en": "Shelden Williams",
     "position": "PF",
     "height": 206,
@@ -45817,7 +45817,7 @@ module.exports = [
   },
   {
     "id": "shawne-williams",
-    "name": "Shawne·威廉姆斯",
+    "name": "什恩埃·威尔伊姆斯",
     "name_en": "Shawne Williams",
     "position": "SF",
     "height": 208,
@@ -45863,7 +45863,7 @@ module.exports = [
   },
   {
     "id": "jj-redick",
-    "name": "JJ Redick",
+    "name": "杰·雷迪克",
     "name_en": "JJ Redick",
     "position": "SG",
     "height": 190,
@@ -45909,7 +45909,7 @@ module.exports = [
   },
   {
     "id": "jj-barea",
-    "name": "J.J. Barea",
+    "name": "杰·巴雷阿",
     "name_en": "J.J. Barea",
     "position": "SG",
     "height": 178,
@@ -45947,7 +45947,7 @@ module.exports = [
   },
   {
     "id": "ivan-mcfarlin",
-    "name": "Ivan McFarlin",
+    "name": "夫恩·麦克法尔利恩",
     "name_en": "Ivan McFarlin",
     "position": "SF",
     "height": 201,
@@ -45983,7 +45983,7 @@ module.exports = [
   },
   {
     "id": "hilton-armstrong",
-    "name": "Hilton Armstrong",
+    "name": "希尔顿·尔姆斯特罗恩格",
     "name_en": "Hilton Armstrong",
     "position": "PF",
     "height": 211,
@@ -46027,7 +46027,7 @@ module.exports = [
   },
   {
     "id": "hassan-adams",
-    "name": "Hassan·亚当斯",
+    "name": "哈斯萨恩·德姆斯",
     "name_en": "Hassan Adams",
     "position": "SF",
     "height": 193,
@@ -46105,7 +46105,7 @@ module.exports = [
   },
   {
     "id": "james-lang",
-    "name": "詹姆斯·Lang",
+    "name": "贾梅斯·拉恩格",
     "name_en": "James Lang",
     "position": "C",
     "height": 208,
@@ -46141,7 +46141,7 @@ module.exports = [
   },
   {
     "id": "james-augustine",
-    "name": "詹姆斯·Augustine",
+    "name": "贾梅斯·阿格斯特因",
     "name_en": "James Augustine",
     "position": "SF",
     "height": 208,
@@ -46177,7 +46177,7 @@ module.exports = [
   },
   {
     "id": "desmon-farmer",
-    "name": "Desmon Farmer",
+    "name": "德斯昂·法姆尔",
     "name_en": "Desmon Farmer",
     "position": "PG",
     "height": 196,
@@ -46215,7 +46215,7 @@ module.exports = [
   },
   {
     "id": "ersan-ilyasova",
-    "name": "Ersan Ilyasova",
+    "name": "斯恩·尔亚索瓦",
     "name_en": "Ersan Ilyasova",
     "position": "SF",
     "height": 206,
@@ -46259,7 +46259,7 @@ module.exports = [
   },
   {
     "id": "leon-powe",
-    "name": "Leon Powe",
+    "name": "勒昂·波韦",
     "name_en": "Leon Powe",
     "position": "SF",
     "height": 203,
@@ -46299,7 +46299,7 @@ module.exports = [
   },
   {
     "id": "lamarcus-aldridge",
-    "name": "Lamarcus·阿尔德里奇",
+    "name": "拉马尔库斯·尔德杰",
     "name_en": "LaMarcus Aldridge",
     "position": "PF",
     "height": 211,
@@ -46381,7 +46381,7 @@ module.exports = [
   },
   {
     "id": "lou-amundson",
-    "name": "Lou Amundson",
+    "name": "洛乌·姆德森",
     "name_en": "Lou Amundson",
     "position": "SF",
     "height": 206,
@@ -46429,7 +46429,7 @@ module.exports = [
   },
   {
     "id": "mardy-collins",
-    "name": "Mardy·科林斯",
+    "name": "马尔迪·科尔斯",
     "name_en": "Mardy Collins",
     "position": "PG",
     "height": 198,
@@ -46511,7 +46511,7 @@ module.exports = [
   },
   {
     "id": "marcus-vinicius",
-    "name": "马库斯·Vinicius",
+    "name": "马尔库斯·文克厄斯",
     "name_en": "Marcus Vinicius",
     "position": "SF",
     "height": 203,
@@ -46549,7 +46549,7 @@ module.exports = [
   },
   {
     "id": "kevinn-pinkney",
-    "name": "Kevinn Pinkney",
+    "name": "凯文恩·平恩伊",
     "name_en": "Kevinn Pinkney",
     "position": "SF",
     "height": 208,
@@ -46585,7 +46585,7 @@ module.exports = [
   },
   {
     "id": "lynn-greer",
-    "name": "Lynn Greer",
+    "name": "利恩·格尔",
     "name_en": "Lynn Greer",
     "position": "PG",
     "height": 188,
@@ -46621,7 +46621,7 @@ module.exports = [
   },
   {
     "id": "jorge-garbajosa",
-    "name": "Jorge Garbajosa",
+    "name": "乔尔杰·加尔巴乔萨",
     "name_en": "Jorge Garbajosa",
     "position": "SF",
     "height": 206,
@@ -46657,7 +46657,7 @@ module.exports = [
   },
   {
     "id": "jordan-farmar",
-    "name": "Jordan Farmar",
+    "name": "乔尔达恩·法尔马尔",
     "name_en": "Jordan Farmar",
     "position": "SG",
     "height": 188,
@@ -46741,7 +46741,7 @@ module.exports = [
   },
   {
     "id": "josh-boone",
-    "name": "约什·Boone",
+    "name": "乔什·博恩",
     "name_en": "Josh Boone",
     "position": "PF",
     "height": 208,
@@ -46777,7 +46777,7 @@ module.exports = [
   },
   {
     "id": "kelenna-azubuike",
-    "name": "Kelenna Azubuike",
+    "name": "凯勒恩纳·兹布乌克",
     "name_en": "Kelenna Azubuike",
     "position": "PG",
     "height": 196,
@@ -46815,7 +46815,7 @@ module.exports = [
   },
   {
     "id": "justin-williams",
-    "name": "Justin·威廉姆斯",
+    "name": "朱斯特因·威尔伊姆斯",
     "name_en": "Justin Williams",
     "position": "SF",
     "height": 208,
@@ -46853,7 +46853,7 @@ module.exports = [
   },
   {
     "id": "gabe-pruitt",
-    "name": "加布·Pruitt",
+    "name": "加贝·普特",
     "name_en": "Gabe Pruitt",
     "position": "PG",
     "height": 193,
@@ -46889,7 +46889,7 @@ module.exports = [
   },
   {
     "id": "glen-davis",
-    "name": "Glen·戴维斯",
+    "name": "格恩·达维斯",
     "name_en": "Glen Davis",
     "position": "PF",
     "height": 206,
@@ -46929,7 +46929,7 @@ module.exports = [
   },
   {
     "id": "guillermo-diaz",
-    "name": "Guillermo·迪亚兹",
+    "name": "古尔莫·迪兹",
     "name_en": "Guillermo Diaz",
     "position": "SG",
     "height": 188,
@@ -46965,7 +46965,7 @@ module.exports = [
   },
   {
     "id": "darryl-watkins",
-    "name": "Darryl Watkins",
+    "name": "达尔里尔·瓦特基恩斯",
     "name_en": "Darryl Watkins",
     "position": "C",
     "height": 211,
@@ -47003,7 +47003,7 @@ module.exports = [
   },
   {
     "id": "demetris-nichols",
-    "name": "Demetris·尼科尔斯",
+    "name": "德梅特斯·尼奇尔斯",
     "name_en": "Demetris Nichols",
     "position": "SF",
     "height": 203,
@@ -47041,7 +47041,7 @@ module.exports = [
   },
   {
     "id": "dominic-mcguire",
-    "name": "Dominic McGuire",
+    "name": "多米尼克·麦克古尔",
     "name_en": "Dominic McGuire",
     "position": "SF",
     "height": 206,
@@ -47127,7 +47127,7 @@ module.exports = [
   },
   {
     "id": "wilson-chandler",
-    "name": "Wilson Chandler",
+    "name": "威尔森·奇德勒尔",
     "name_en": "Wilson Chandler",
     "position": "SF",
     "height": 203,
@@ -47169,7 +47169,7 @@ module.exports = [
   },
   {
     "id": "ian-mahinmi",
-    "name": "Ian Mahinmi",
+    "name": "伊恩·马希恩米",
     "name_en": "Ian Mahinmi",
     "position": "C",
     "height": 211,
@@ -47211,7 +47211,7 @@ module.exports = [
   },
   {
     "id": "jared-dudley",
-    "name": "Jared Dudley",
+    "name": "贾雷德·杜德利",
     "name_en": "Jared Dudley",
     "position": "SF",
     "height": 198,
@@ -47259,7 +47259,7 @@ module.exports = [
   },
   {
     "id": "jamario-moon",
-    "name": "Jamario Moon",
+    "name": "贾马里奥·莫昂",
     "name_en": "Jamario Moon",
     "position": "SF",
     "height": 203,
@@ -47303,7 +47303,7 @@ module.exports = [
   },
   {
     "id": "darius-washington",
-    "name": "Darius·华盛顿",
+    "name": "达里斯·瓦什英顿",
     "name_en": "Darius Washington",
     "position": "SG",
     "height": 188,
@@ -47339,7 +47339,7 @@ module.exports = [
   },
   {
     "id": "arron-afflalo",
-    "name": "Arron Afflalo",
+    "name": "尔罗恩·夫弗尔奥",
     "name_en": "Arron Afflalo",
     "position": "SG",
     "height": 196,
@@ -47385,7 +47385,7 @@ module.exports = [
   },
   {
     "id": "blake-ahearn",
-    "name": "布雷克·Ahearn",
+    "name": "布拉凯·赫尔恩",
     "name_en": "Blake Ahearn",
     "position": "PG",
     "height": 188,
@@ -47513,7 +47513,7 @@ module.exports = [
   },
   {
     "id": "acie-law",
-    "name": "Acie Law",
+    "name": "克伊埃·拉沃",
     "name_en": "Acie Law",
     "position": "SG",
     "height": 190,
@@ -47633,7 +47633,7 @@ module.exports = [
   },
   {
     "id": "alando-tucker",
-    "name": "Alando·塔克",
+    "name": "尔德奥·图克尔",
     "name_en": "Alando Tucker",
     "position": "SF",
     "height": 198,
@@ -47671,7 +47671,7 @@ module.exports = [
   },
   {
     "id": "brandan-wright",
-    "name": "Brandan·赖特",
+    "name": "布德恩·尔伊特",
     "name_en": "Brandan Wright",
     "position": "SF",
     "height": 208,
@@ -47715,7 +47715,7 @@ module.exports = [
   },
   {
     "id": "chris-richard",
-    "name": "克里斯·Richard",
+    "name": "奇里斯·里奇德",
     "name_en": "Chris Richard",
     "position": "SF",
     "height": 206,
@@ -47753,7 +47753,7 @@ module.exports = [
   },
   {
     "id": "coby-karl",
-    "name": "Coby Karl",
+    "name": "科拜·卡尔",
     "name_en": "Coby Karl",
     "position": "PG",
     "height": 196,
@@ -47791,7 +47791,7 @@ module.exports = [
   },
   {
     "id": "corey-brewer",
-    "name": "Corey Brewer",
+    "name": "科尔伊·布尤尔",
     "name_en": "Corey Brewer",
     "position": "SG",
     "height": 206,
@@ -47839,7 +47839,7 @@ module.exports = [
   },
   {
     "id": "courtney-sims",
-    "name": "Courtney·西姆斯",
+    "name": "科特尼·西姆斯",
     "name_en": "Courtney Sims",
     "position": "C",
     "height": 211,
@@ -47877,7 +47877,7 @@ module.exports = [
   },
   {
     "id": "dj-strawberry",
-    "name": "DJ Strawberry",
+    "name": "德杰·斯特拉沃贝尔里",
     "name_en": "DJ Strawberry",
     "position": "PG",
     "height": 196,
@@ -47913,7 +47913,7 @@ module.exports = [
   },
   {
     "id": "daequan-cook",
-    "name": "Daequan Cook",
+    "name": "达埃奎乌恩·科克",
     "name_en": "Daequan Cook",
     "position": "SG",
     "height": 196,
@@ -47953,7 +47953,7 @@ module.exports = [
   },
   {
     "id": "cj-watson",
-    "name": "C.J·沃森",
+    "name": "克杰·瓦特森",
     "name_en": "C.J. Watson",
     "position": "SG",
     "height": 188,
@@ -47997,7 +47997,7 @@ module.exports = [
   },
   {
     "id": "carl-landry",
-    "name": "Carl Landry",
+    "name": "卡尔·兰里",
     "name_en": "Carl Landry",
     "position": "SF",
     "height": 206,
@@ -48041,7 +48041,7 @@ module.exports = [
   },
   {
     "id": "cheikh-samb",
-    "name": "Cheikh Samb",
+    "name": "奇埃克赫·萨姆布",
     "name_en": "Cheikh Samb",
     "position": "C",
     "height": 216,
@@ -48079,7 +48079,7 @@ module.exports = [
   },
   {
     "id": "luis-scola",
-    "name": "Luis Scola",
+    "name": "卢斯·斯尔阿",
     "name_en": "Luis Scola",
     "position": "SF",
     "height": 206,
@@ -48123,7 +48123,7 @@ module.exports = [
   },
   {
     "id": "lance-allred",
-    "name": "Lance Allred",
+    "name": "拉恩塞·尔雷德",
     "name_en": "Lance Allred",
     "position": "C",
     "height": 211,
@@ -48159,7 +48159,7 @@ module.exports = [
   },
   {
     "id": "kyrylo-fesenko",
-    "name": "Kyrylo Fesenko",
+    "name": "凯里洛·费塞恩科",
     "name_en": "Kyrylo Fesenko",
     "position": "C",
     "height": 216,
@@ -48197,7 +48197,7 @@ module.exports = [
   },
   {
     "id": "marco-belinelli",
-    "name": "Marco Belinelli",
+    "name": "马尔科·贝林尔伊",
     "name_en": "Marco Belinelli",
     "position": "SG",
     "height": 196,
@@ -48247,7 +48247,7 @@ module.exports = [
   },
   {
     "id": "marcin-gortat",
-    "name": "Marcin Gortat",
+    "name": "马尔西恩·戈尔塔特",
     "name_en": "Marcin Gortat",
     "position": "C",
     "height": 211,
@@ -48289,7 +48289,7 @@ module.exports = [
   },
   {
     "id": "mario-west",
-    "name": "Mario·韦斯特",
+    "name": "马里奥·韦斯特",
     "name_en": "Mario West",
     "position": "SG",
     "height": 196,
@@ -48327,7 +48327,7 @@ module.exports = [
   },
   {
     "id": "joel-anthony",
-    "name": "乔尔·Anthony",
+    "name": "乔尔·特霍尼",
     "name_en": "Joel Anthony",
     "position": "C",
     "height": 206,
@@ -48369,7 +48369,7 @@ module.exports = [
   },
   {
     "id": "joakim-noah",
-    "name": "Joakim Noah",
+    "name": "乔克姆·诺赫",
     "name_en": "Joakim Noah",
     "position": "PF",
     "height": 211,
@@ -48411,7 +48411,7 @@ module.exports = [
   },
   {
     "id": "jermareo-davidson",
-    "name": "Jermareo Davidson",
+    "name": "杰姆尔埃奥·达维德森",
     "name_en": "Jermareo Davidson",
     "position": "SF",
     "height": 208,
@@ -48505,7 +48505,7 @@ module.exports = [
   },
   {
     "id": "javaris-crittenton",
-    "name": "Javaris Crittenton",
+    "name": "贾瓦里斯·克特昂",
     "name_en": "Javaris Crittenton",
     "position": "SG",
     "height": 196,
@@ -48589,7 +48589,7 @@ module.exports = [
   },
   {
     "id": "josh-mcroberts",
-    "name": "约什·Mcroberts",
+    "name": "乔什·麦克罗贝尔特斯",
     "name_en": "Josh McRoberts",
     "position": "SF",
     "height": 208,
@@ -48635,7 +48635,7 @@ module.exports = [
   },
   {
     "id": "kosta-perovic",
-    "name": "Kosta Perovic",
+    "name": "科斯特阿·佩罗维克",
     "name_en": "Kosta Perovic",
     "position": "C",
     "height": 218,
@@ -48715,7 +48715,7 @@ module.exports = [
   },
   {
     "id": "keith-langford",
-    "name": "Keith Langford",
+    "name": "凯斯·拉恩格福德",
     "name_en": "Keith Langford",
     "position": "SG",
     "height": 193,
@@ -48751,7 +48751,7 @@ module.exports = [
   },
   {
     "id": "kasib-powell",
-    "name": "Kasib·鲍威尔",
+    "name": "卡西布·波韦尔",
     "name_en": "Kasib Powell",
     "position": "SF",
     "height": 201,
@@ -48787,7 +48787,7 @@ module.exports = [
   },
   {
     "id": "julian-wright",
-    "name": "Julian·赖特",
+    "name": "朱利恩·尔伊特",
     "name_en": "Julian Wright",
     "position": "SF",
     "height": 203,
@@ -48825,7 +48825,7 @@ module.exports = [
   },
   {
     "id": "juan-carlos-navarro",
-    "name": "Juan Carlos Navarro",
+    "name": "朱恩·纳瓦尔罗",
     "name_en": "Juan Carlos Navarro",
     "position": "PG",
     "height": 190,
@@ -48861,7 +48861,7 @@ module.exports = [
   },
   {
     "id": "sean-williams",
-    "name": "Sean·威廉姆斯",
+    "name": "塞恩·威尔伊姆斯",
     "name_en": "Sean Williams",
     "position": "PF",
     "height": 208,
@@ -48899,7 +48899,7 @@ module.exports = [
   },
   {
     "id": "rodney-stuckey",
-    "name": "Rodney Stuckey",
+    "name": "罗德尼·斯特克伊",
     "name_en": "Rodney Stuckey",
     "position": "PG",
     "height": 196,
@@ -48975,7 +48975,7 @@ module.exports = [
   },
   {
     "id": "thaddeus-young",
-    "name": "Thaddeus·杨",
+    "name": "斯德斯·约昂",
     "name_en": "Thaddeus Young",
     "position": "SF",
     "height": 203,
@@ -49019,7 +49019,7 @@ module.exports = [
   },
   {
     "id": "taurean-green",
-    "name": "Taurean·格林",
+    "name": "塔尔恩·格恩",
     "name_en": "Taurean Green",
     "position": "SG",
     "height": 183,
@@ -49055,7 +49055,7 @@ module.exports = [
   },
   {
     "id": "stephane-lasme",
-    "name": "Stephane Lasme",
+    "name": "斯特普哈内·拉斯埃",
     "name_en": "Stephane Lasme",
     "position": "SF",
     "height": 203,
@@ -49091,7 +49091,7 @@ module.exports = [
   },
   {
     "id": "spencer-hawes",
-    "name": "斯宾塞·Hawes",
+    "name": "斯恩塞尔·哈韦斯",
     "name_en": "Spencer Hawes",
     "position": "PF",
     "height": 216,
@@ -49137,7 +49137,7 @@ module.exports = [
   },
   {
     "id": "oleksiy-pecherov",
-    "name": "Oleksiy Pecherov",
+    "name": "尔克西伊·佩奇罗维",
     "name_en": "Oleksiy Pecherov",
     "position": "PF",
     "height": 213,
@@ -49221,7 +49221,7 @@ module.exports = [
   },
   {
     "id": "nick-fazekas",
-    "name": "尼克·Fazekas",
+    "name": "尼克·法泽卡斯",
     "name_en": "Nick Fazekas",
     "position": "SF",
     "height": 211,
@@ -49257,7 +49257,7 @@ module.exports = [
   },
   {
     "id": "morris-almond",
-    "name": "Morris Almond",
+    "name": "莫尔里斯·尔莫恩德",
     "name_en": "Morris Almond",
     "position": "SG",
     "height": 198,
@@ -49295,7 +49295,7 @@ module.exports = [
   },
   {
     "id": "mike-harris",
-    "name": "Mike·哈里斯",
+    "name": "米凯·哈尔里斯",
     "name_en": "Mike Harris",
     "position": "SF",
     "height": 198,
@@ -49333,7 +49333,7 @@ module.exports = [
   },
   {
     "id": "mike-conley",
-    "name": "Mike·康利",
+    "name": "米凯·科恩利",
     "name_en": "Mike Conley",
     "position": "SG",
     "height": 185,
@@ -49373,7 +49373,7 @@ module.exports = [
   },
   {
     "id": "ramon-sessions",
-    "name": "Ramon Sessions",
+    "name": "拉莫恩·塞斯西斯",
     "name_en": "Ramon Sessions",
     "position": "SG",
     "height": 190,
@@ -49419,7 +49419,7 @@ module.exports = [
   },
   {
     "id": "jerryd-bayless",
-    "name": "Jerryd Bayless",
+    "name": "杰尔里德·巴尔斯",
     "name_en": "Jerryd Bayless",
     "position": "PG",
     "height": 190,
@@ -49467,7 +49467,7 @@ module.exports = [
   },
   {
     "id": "joe-alexander",
-    "name": "乔·Alexander",
+    "name": "乔埃·尔克斯德尔",
     "name_en": "Joe Alexander",
     "position": "SF",
     "height": 203,
@@ -49541,7 +49541,7 @@ module.exports = [
   },
   {
     "id": "joey-dorsey",
-    "name": "Joey Dorsey",
+    "name": "乔伊·多尔塞伊",
     "name_en": "Joey Dorsey",
     "position": "PF",
     "height": 206,
@@ -49619,7 +49619,7 @@ module.exports = [
   },
   {
     "id": "jawad-williams",
-    "name": "Jawad·威廉姆斯",
+    "name": "贾瓦德·威尔伊姆斯",
     "name_en": "Jawad Williams",
     "position": "SF",
     "height": 206,
@@ -49693,7 +49693,7 @@ module.exports = [
   },
   {
     "id": "luc-mbah-a-moute",
-    "name": "Luc Mbah a Moute",
+    "name": "卢克·莫特",
     "name_en": "Luc Mbah a Moute",
     "position": "SF",
     "height": 203,
@@ -49777,7 +49777,7 @@ module.exports = [
   },
   {
     "id": "kosta-koufos",
-    "name": "Kosta Koufos",
+    "name": "科斯特阿·科夫斯",
     "name_en": "Kosta Koufos",
     "position": "C",
     "height": 213,
@@ -49861,7 +49861,7 @@ module.exports = [
   },
   {
     "id": "donte-greene",
-    "name": "Donte Greene",
+    "name": "登特·格恩埃",
     "name_en": "Donte Greene",
     "position": "SF",
     "height": 211,
@@ -49897,7 +49897,7 @@ module.exports = [
   },
   {
     "id": "dontell-jefferson",
-    "name": "Dontell·杰弗森",
+    "name": "多恩特尔·杰弗费尔森",
     "name_en": "Dontell Jefferson",
     "position": "SG",
     "height": 196,
@@ -49969,7 +49969,7 @@ module.exports = [
   },
   {
     "id": "dj-white",
-    "name": "Dj·怀特",
+    "name": "德杰·惠特",
     "name_en": "DJ White",
     "position": "SF",
     "height": 206,
@@ -50053,7 +50053,7 @@ module.exports = [
   },
   {
     "id": "darnell-jackson",
-    "name": "Darnell·杰克逊",
+    "name": "达尔内尔·贾克森",
     "name_en": "Darnell Jackson",
     "position": "SF",
     "height": 206,
@@ -50093,7 +50093,7 @@ module.exports = [
   },
   {
     "id": "darrell-arthur",
-    "name": "Darrell Arthur",
+    "name": "达尔雷尔·特胡尔",
     "name_en": "Darrell Arthur",
     "position": "SF",
     "height": 206,
@@ -50175,7 +50175,7 @@ module.exports = [
   },
   {
     "id": "hamed-haddadi",
-    "name": "Hamed Haddadi",
+    "name": "哈梅德·哈德达迪",
     "name_en": "Hamed Haddadi",
     "position": "C",
     "height": 218,
@@ -50213,7 +50213,7 @@ module.exports = [
   },
   {
     "id": "henry-walker",
-    "name": "Henry·沃克",
+    "name": "赫恩里·瓦尔凯尔",
     "name_en": "Henry Walker",
     "position": "SF",
     "height": 198,
@@ -50253,7 +50253,7 @@ module.exports = [
   },
   {
     "id": "greg-oden",
-    "name": "Greg Oden",
+    "name": "格·德恩",
     "name_en": "Greg Oden",
     "position": "C",
     "height": 213,
@@ -50291,7 +50291,7 @@ module.exports = [
   },
   {
     "id": "jj-hickson",
-    "name": "JJ Hickson",
+    "name": "杰·希克森",
     "name_en": "JJ Hickson",
     "position": "PF",
     "height": 206,
@@ -50379,7 +50379,7 @@ module.exports = [
   },
   {
     "id": "jr-giddens",
-    "name": "J.R. Giddens",
+    "name": "杰尔·吉德登斯",
     "name_en": "J.R. Giddens",
     "position": "PG",
     "height": 196,
@@ -50549,7 +50549,7 @@ module.exports = [
   },
   {
     "id": "sonny-weems",
-    "name": "Sonny Weems",
+    "name": "森尼·韦姆斯",
     "name_en": "Sonny Weems",
     "position": "SF",
     "height": 198,
@@ -50589,7 +50589,7 @@ module.exports = [
   },
   {
     "id": "roko-ukic",
-    "name": "Roko Ukic",
+    "name": "罗科·克",
     "name_en": "Roko Ukic",
     "position": "SG",
     "height": 196,
@@ -50627,7 +50627,7 @@ module.exports = [
   },
   {
     "id": "roy-hibbert",
-    "name": "Roy Hibbert",
+    "name": "罗伊·希布贝特",
     "name_en": "Roy Hibbert",
     "position": "C",
     "height": 218,
@@ -50667,7 +50667,7 @@ module.exports = [
   },
   {
     "id": "rudy-fernandez",
-    "name": "鲁迪·Fernandez",
+    "name": "鲁迪·费尔纳恩德兹",
     "name_en": "Rudy Fernandez",
     "position": "PG",
     "height": 198,
@@ -50705,7 +50705,7 @@ module.exports = [
   },
   {
     "id": "sean-singletary",
-    "name": "Sean Singletary",
+    "name": "塞恩·辛格塔里",
     "name_en": "Sean Singletary",
     "position": "PG",
     "height": 183,
@@ -50741,7 +50741,7 @@ module.exports = [
   },
   {
     "id": "ryan-anderson",
-    "name": "Ryan·安德森",
+    "name": "里恩·德斯昂",
     "name_en": "Ryan Anderson",
     "position": "SF",
     "height": 206,
@@ -50867,7 +50867,7 @@ module.exports = [
   },
   {
     "id": "sun-sun",
-    "name": "孙·Sun",
+    "name": "苏恩·苏恩",
     "name_en": "Sun Sun",
     "position": null,
     "height": 206,
@@ -50903,7 +50903,7 @@ module.exports = [
   },
   {
     "id": "walter-sharpe",
-    "name": "Walter Sharpe",
+    "name": "瓦尔特尔·什尔佩",
     "name_en": "Walter Sharpe",
     "position": "SF",
     "height": 206,
@@ -50939,7 +50939,7 @@ module.exports = [
   },
   {
     "id": "trey-johnson",
-    "name": "Trey·约翰逊",
+    "name": "特伊·乔赫恩斯昂",
     "name_en": "Trey Johnson",
     "position": "SG",
     "height": 196,
@@ -50979,7 +50979,7 @@ module.exports = [
   },
   {
     "id": "robin-lopez",
-    "name": "Robin·洛佩兹",
+    "name": "罗比恩·洛佩兹",
     "name_en": "Robin Lopez",
     "position": "C",
     "height": 213,
@@ -51031,7 +51031,7 @@ module.exports = [
   },
   {
     "id": "michael-beasley",
-    "name": "迈克尔·Beasley",
+    "name": "米奇阿尔·贝斯利",
     "name_en": "Michael Beasley",
     "position": "SF",
     "height": 206,
@@ -51079,7 +51079,7 @@ module.exports = [
   },
   {
     "id": "mike-taylor",
-    "name": "Mike·泰勒",
+    "name": "米凯·塔伊尔",
     "name_en": "Mike Taylor",
     "position": "PG",
     "height": 188,
@@ -51115,7 +51115,7 @@ module.exports = [
   },
   {
     "id": "malik-hairston",
-    "name": "马利克·Hairston",
+    "name": "马利克·哈尔斯特昂",
     "name_en": "Malik Hairston",
     "position": "PG",
     "height": 198,
@@ -51191,7 +51191,7 @@ module.exports = [
   },
   {
     "id": "mario-chalmers",
-    "name": "Mario Chalmers",
+    "name": "马里奥·奇尔梅尔斯",
     "name_en": "Mario Chalmers",
     "position": "PG",
     "height": 188,
@@ -51229,7 +51229,7 @@ module.exports = [
   },
   {
     "id": "rob-kurz",
-    "name": "Rob Kurz",
+    "name": "罗布·库尔兹",
     "name_en": "Rob Kurz",
     "position": "SF",
     "height": 206,
@@ -51265,7 +51265,7 @@ module.exports = [
   },
   {
     "id": "nathan-jawai",
-    "name": "Nathan Jawai",
+    "name": "纳斯恩·贾瓦伊",
     "name_en": "Nathan Jawai",
     "position": "SF",
     "height": 208,
@@ -51343,7 +51343,7 @@ module.exports = [
   },
   {
     "id": "oj-mayo",
-    "name": "O.J. Mayo",
+    "name": "奥杰·马约",
     "name_en": "O.J. Mayo",
     "position": "PG",
     "height": 196,
@@ -51383,7 +51383,7 @@ module.exports = [
   },
   {
     "id": "othello-hunter",
-    "name": "Othello·亨特",
+    "name": "斯尔奥·胡恩特尔",
     "name_en": "Othello Hunter",
     "position": "SF",
     "height": 203,
@@ -51419,7 +51419,7 @@ module.exports = [
   },
   {
     "id": "dj-augustin",
-    "name": "D.J. Augustin",
+    "name": "德杰·阿格斯特因",
     "name_en": "D.J. Augustin",
     "position": "PG",
     "height": 180,
@@ -51469,7 +51469,7 @@ module.exports = [
   },
   {
     "id": "marreese-speights",
-    "name": "Marreese Speights",
+    "name": "马尔雷斯埃·斯埃伊特斯",
     "name_en": "Marreese Speights",
     "position": "PF",
     "height": 208,
@@ -51557,7 +51557,7 @@ module.exports = [
   },
   {
     "id": "brandon-rush",
-    "name": "布兰登·Rush",
+    "name": "布德昂·鲁什",
     "name_en": "Brandon Rush",
     "position": "SG",
     "height": 198,
@@ -51639,7 +51639,7 @@ module.exports = [
   },
   {
     "id": "courtney-lee",
-    "name": "Courtney·李",
+    "name": "科特尼·勒埃",
     "name_en": "Courtney Lee",
     "position": "PG",
     "height": 196,
@@ -51689,7 +51689,7 @@ module.exports = [
   },
   {
     "id": "chris-douglas-roberts",
-    "name": "克里斯·Douglas-Roberts",
+    "name": "奇里斯·多格拉斯-罗贝特斯",
     "name_en": "Chris Douglas-Roberts",
     "position": "PG",
     "height": 201,
@@ -51733,7 +51733,7 @@ module.exports = [
   },
   {
     "id": "cartier-martin",
-    "name": "Cartier·马丁",
+    "name": "卡特尔·马特因",
     "name_en": "Cartier Martin",
     "position": "SF",
     "height": 201,
@@ -51775,7 +51775,7 @@ module.exports = [
   },
   {
     "id": "anthony-tolliver",
-    "name": "安东尼·Tolliver",
+    "name": "特霍尼·托尔夫尔",
     "name_en": "Anthony Tolliver",
     "position": "SF",
     "height": 203,
@@ -51827,7 +51827,7 @@ module.exports = [
   },
   {
     "id": "anthony-randolph",
-    "name": "安东尼·Randolph",
+    "name": "特霍尼·拉恩多尔菲",
     "name_en": "Anthony Randolph",
     "position": "SF",
     "height": 211,
@@ -51867,7 +51867,7 @@ module.exports = [
   },
   {
     "id": "alexis-ajinca",
-    "name": "Alexis Ajinca",
+    "name": "尔克斯·阿吉恩卡",
     "name_en": "Alexis Ajinca",
     "position": "C",
     "height": 218,
@@ -51907,7 +51907,7 @@ module.exports = [
   },
   {
     "id": "anthony-morrow",
-    "name": "安东尼·Morrow",
+    "name": "特霍尼·莫尔罗沃",
     "name_en": "Anthony Morrow",
     "position": "PG",
     "height": 196,
@@ -51993,7 +51993,7 @@ module.exports = [
   },
   {
     "id": "rodrigue-beaubois",
-    "name": "Rodrigue Beaubois",
+    "name": "罗德格乌埃·贝阿布奥斯",
     "name_en": "Rodrigue Beaubois",
     "position": "PG",
     "height": 188,
@@ -52029,7 +52029,7 @@ module.exports = [
   },
   {
     "id": "brandon-jennings",
-    "name": "布兰登·Jennings",
+    "name": "布德昂·杰恩尼恩格斯",
     "name_en": "Brandon Jennings",
     "position": "PG",
     "height": 185,
@@ -52111,7 +52111,7 @@ module.exports = [
   },
   {
     "id": "othyus-jeffers",
-    "name": "Othyus Jeffers",
+    "name": "斯尤斯·杰弗费尔斯",
     "name_en": "Othyus Jeffers",
     "position": "SG",
     "height": 196,
@@ -52151,7 +52151,7 @@ module.exports = [
   },
   {
     "id": "omri-casspi",
-    "name": "Omri Casspi",
+    "name": "姆里·卡斯伊",
     "name_en": "Omri Casspi",
     "position": "SF",
     "height": 206,
@@ -52197,7 +52197,7 @@ module.exports = [
   },
   {
     "id": "oliver-lafayette",
-    "name": "Oliver Lafayette",
+    "name": "尔夫尔·拉法耶特",
     "name_en": "Oliver Lafayette",
     "position": "SG",
     "height": 188,
@@ -52233,7 +52233,7 @@ module.exports = [
   },
   {
     "id": "taj-gibson",
-    "name": "Taj·吉布森",
+    "name": "塔杰·吉布森",
     "name_en": "Taj Gibson",
     "position": "SF",
     "height": 206,
@@ -52277,7 +52277,7 @@ module.exports = [
   },
   {
     "id": "sundiata-gaines",
-    "name": "Sundiata Gaines",
+    "name": "苏恩迪特阿·加因斯",
     "name_en": "Sundiata Gaines",
     "position": "PG",
     "height": 185,
@@ -52351,7 +52351,7 @@ module.exports = [
   },
   {
     "id": "taylor-griffin",
-    "name": "Taylor·格里芬",
+    "name": "塔伊尔·格夫因",
     "name_en": "Taylor Griffin",
     "position": "SF",
     "height": 201,
@@ -52387,7 +52387,7 @@ module.exports = [
   },
   {
     "id": "tyler-hansbrough",
-    "name": "泰勒·Hansbrough",
+    "name": "蒂勒尔·哈恩斯布夫",
     "name_en": "Tyler Hansbrough",
     "position": "SF",
     "height": 206,
@@ -52427,7 +52427,7 @@ module.exports = [
   },
   {
     "id": "ty-lawson",
-    "name": "Ty·劳森",
+    "name": "蒂·拉沃森",
     "name_en": "Ty Lawson",
     "position": "PG",
     "height": 180,
@@ -52467,7 +52467,7 @@ module.exports = [
   },
   {
     "id": "trey-gilder",
-    "name": "Trey Gilder",
+    "name": "特伊·吉尔德尔",
     "name_en": "Trey Gilder",
     "position": "SF",
     "height": 206,
@@ -52503,7 +52503,7 @@ module.exports = [
   },
   {
     "id": "toney-douglas",
-    "name": "Toney·道格拉斯",
+    "name": "顿伊·多格拉斯",
     "name_en": "Toney Douglas",
     "position": "PG",
     "height": 188,
@@ -52547,7 +52547,7 @@ module.exports = [
   },
   {
     "id": "terrence-williams",
-    "name": "Terrence·威廉姆斯",
+    "name": "特尔雷恩塞·威尔伊姆斯",
     "name_en": "Terrence Williams",
     "position": "SG",
     "height": 198,
@@ -52589,7 +52589,7 @@ module.exports = [
   },
   {
     "id": "antonio-anderson",
-    "name": "Antonio·安德森",
+    "name": "特昂伊奥·德斯昂",
     "name_en": "Antonio Anderson",
     "position": "SG",
     "height": 198,
@@ -52625,7 +52625,7 @@ module.exports = [
   },
   {
     "id": "austin-daye",
-    "name": "Austin Daye",
+    "name": "阿斯特因·达耶",
     "name_en": "Austin Daye",
     "position": "SF",
     "height": 211,
@@ -52667,7 +52667,7 @@ module.exports = [
   },
   {
     "id": "serge-ibaka",
-    "name": "Serge Ibaka",
+    "name": "塞尔杰·布克阿",
     "name_en": "Serge Ibaka",
     "position": "SF",
     "height": 211,
@@ -52709,7 +52709,7 @@ module.exports = [
   },
   {
     "id": "aj-price",
-    "name": "AJ Price",
+    "name": "阿杰·普斯",
     "name_en": "AJ Price",
     "position": "SG",
     "height": 188,
@@ -52751,7 +52751,7 @@ module.exports = [
   },
   {
     "id": "alonzo-gee",
-    "name": "阿隆佐·Gee",
+    "name": "尔昂佐·杰埃",
     "name_en": "Alonzo Gee",
     "position": "SF",
     "height": 198,
@@ -52795,7 +52795,7 @@ module.exports = [
   },
   {
     "id": "tyreke-evans",
-    "name": "Tyreke·埃文斯",
+    "name": "蒂雷凯·夫恩斯",
     "name_en": "Tyreke Evans",
     "position": "SG",
     "height": 198,
@@ -52837,7 +52837,7 @@ module.exports = [
   },
   {
     "id": "garrett-temple",
-    "name": "Garrett Temple",
+    "name": "加尔雷特·特姆普埃",
     "name_en": "Garrett Temple",
     "position": "SG",
     "height": 198,
@@ -52887,7 +52887,7 @@ module.exports = [
   },
   {
     "id": "eric-maynor",
-    "name": "埃里克·Maynor",
+    "name": "里克·马伊诺尔",
     "name_en": "Eric Maynor",
     "position": "PG",
     "height": 190,
@@ -52927,7 +52927,7 @@ module.exports = [
   },
   {
     "id": "earl-clark",
-    "name": "Earl·克拉克",
+    "name": "尔·克",
     "name_en": "Earl Clark",
     "position": "SF",
     "height": 208,
@@ -52971,7 +52971,7 @@ module.exports = [
   },
   {
     "id": "gerald-henderson",
-    "name": "杰拉德·Henderson",
+    "name": "杰拉尔德·赫恩德尔森",
     "name_en": "Gerald Henderson",
     "position": "SG",
     "height": 196,
@@ -53105,7 +53105,7 @@ module.exports = [
   },
   {
     "id": "hasheem-thabeet",
-    "name": "Hasheem Thabeet",
+    "name": "哈什埃姆·斯布特",
     "name_en": "Hasheem Thabeet",
     "position": "C",
     "height": 221,
@@ -53183,7 +53183,7 @@ module.exports = [
   },
   {
     "id": "chase-budinger",
-    "name": "Chase Budinger",
+    "name": "奇斯埃·布迪恩杰尔",
     "name_en": "Chase Budinger",
     "position": "SF",
     "height": 201,
@@ -53223,7 +53223,7 @@ module.exports = [
   },
   {
     "id": "cedric-jackson",
-    "name": "Cedric·杰克逊",
+    "name": "塞德克·贾克森",
     "name_en": "Cedric Jackson",
     "position": "SG",
     "height": 190,
@@ -53297,7 +53297,7 @@ module.exports = [
   },
   {
     "id": "demarre-carroll",
-    "name": "Demarre·卡罗尔",
+    "name": "德马尔雷·卡尔罗尔",
     "name_en": "DeMarre Carroll",
     "position": "SF",
     "height": 198,
@@ -53343,7 +53343,7 @@ module.exports = [
   },
   {
     "id": "demar-derozan",
-    "name": "Demar·德罗赞",
+    "name": "德马尔·德罗扎恩",
     "name_en": "DeMar DeRozan",
     "position": "SG",
     "height": 198,
@@ -53383,7 +53383,7 @@ module.exports = [
   },
   {
     "id": "dejuan-blair",
-    "name": "DeJuan Blair",
+    "name": "德朱恩·布拉尔",
     "name_en": "DeJuan Blair",
     "position": "PF",
     "height": 201,
@@ -53423,7 +53423,7 @@ module.exports = [
   },
   {
     "id": "david-andersen",
-    "name": "大卫·Andersen",
+    "name": "达维德·德斯恩",
     "name_en": "David Andersen",
     "position": "C",
     "height": 211,
@@ -53461,7 +53461,7 @@ module.exports = [
   },
   {
     "id": "darren-collison",
-    "name": "Darren Collison",
+    "name": "达尔雷恩·科尔斯昂",
     "name_en": "Darren Collison",
     "position": "PG",
     "height": 183,
@@ -53507,7 +53507,7 @@ module.exports = [
   },
   {
     "id": "dante-cunningham",
-    "name": "Dante·坎宁安",
+    "name": "达恩特埃·库恩尼恩格哈姆",
     "name_en": "Dante Cunningham",
     "position": "SF",
     "height": 203,
@@ -53555,7 +53555,7 @@ module.exports = [
   },
   {
     "id": "danny-green",
-    "name": "Danny·格林",
+    "name": "达恩尼·格恩",
     "name_en": "Danny Green",
     "position": "SG",
     "height": 198,
@@ -53599,7 +53599,7 @@ module.exports = [
   },
   {
     "id": "dajuan-summers",
-    "name": "DaJuan Summers",
+    "name": "达朱恩·苏姆梅尔斯",
     "name_en": "DaJuan Summers",
     "position": "SF",
     "height": 203,
@@ -53639,7 +53639,7 @@ module.exports = [
   },
   {
     "id": "jameson-curry",
-    "name": "Jameson·库里",
+    "name": "贾梅森·库尔里",
     "name_en": "JamesOn Curry",
     "position": "SG",
     "height": 190,
@@ -53675,7 +53675,7 @@ module.exports = [
   },
   {
     "id": "lester-hudson",
-    "name": "Lester·哈德森",
+    "name": "勒斯特·胡德森",
     "name_en": "Lester Hudson",
     "position": "PG",
     "height": 190,
@@ -53715,7 +53715,7 @@ module.exports = [
   },
   {
     "id": "marcus-landry",
-    "name": "马库斯·Landry",
+    "name": "马尔库斯·兰里",
     "name_en": "Marcus Landry",
     "position": "SF",
     "height": 201,
@@ -53795,7 +53795,7 @@ module.exports = [
   },
   {
     "id": "byron-mullens",
-    "name": "Byron Mullens",
+    "name": "拜罗恩·穆尔斯",
     "name_en": "Byron Mullens",
     "position": "C",
     "height": 213,
@@ -53835,7 +53835,7 @@ module.exports = [
   },
   {
     "id": "jodie-meeks",
-    "name": "Jodie Meeks",
+    "name": "乔迪埃·梅克斯",
     "name_en": "Jodie Meeks",
     "position": "PG",
     "height": 193,
@@ -53881,7 +53881,7 @@ module.exports = [
   },
   {
     "id": "jermaine-taylor",
-    "name": "Jermaine·泰勒",
+    "name": "杰姆恩埃·塔伊尔",
     "name_en": "Jermaine Taylor",
     "position": "SG",
     "height": 193,
@@ -53919,7 +53919,7 @@ module.exports = [
   },
   {
     "id": "jeff-teague",
-    "name": "杰夫·Teague",
+    "name": "杰弗·特格乌埃",
     "name_en": "Jeff Teague",
     "position": "SG",
     "height": 190,
@@ -53961,7 +53961,7 @@ module.exports = [
   },
   {
     "id": "jeff-ayres",
-    "name": "杰夫·Ayres",
+    "name": "杰弗·伊雷斯",
     "name_en": "Jeff Ayres",
     "position": "PF",
     "height": 206,
@@ -54003,7 +54003,7 @@ module.exports = [
   },
   {
     "id": "jrue-holiday",
-    "name": "Jrue·霍勒迪",
+    "name": "杰鲁埃·霍利达伊",
     "name_en": "Jrue Holiday",
     "position": "PG",
     "height": 196,
@@ -54043,7 +54043,7 @@ module.exports = [
   },
   {
     "id": "jordan-hill",
-    "name": "Jordan·希尔",
+    "name": "乔尔达恩·希尔",
     "name_en": "Jordan Hill",
     "position": "PF",
     "height": 208,
@@ -54085,7 +54085,7 @@ module.exports = [
   },
   {
     "id": "jonny-flynn",
-    "name": "Jonny·弗林",
+    "name": "乔恩尼·弗伊恩",
     "name_en": "Jonny Flynn",
     "position": "PG",
     "height": 183,
@@ -54123,7 +54123,7 @@ module.exports = [
   },
   {
     "id": "jonas-jerebko",
-    "name": "约纳斯·Jerebko",
+    "name": "乔纳斯·杰雷布科",
     "name_en": "Jonas Jerebko",
     "position": "SF",
     "height": 208,
@@ -54165,7 +54165,7 @@ module.exports = [
   },
   {
     "id": "jon-brockman",
-    "name": "Jon Brockman",
+    "name": "乔恩·布克曼",
     "name_en": "Jon Brockman",
     "position": "SF",
     "height": 201,
@@ -54203,7 +54203,7 @@ module.exports = [
   },
   {
     "id": "wayne-ellington",
-    "name": "Wayne Ellington",
+    "name": "瓦因·尔英顿",
     "name_en": "Wayne Ellington",
     "position": "SG",
     "height": 193,
@@ -54253,7 +54253,7 @@ module.exports = [
   },
   {
     "id": "wesley-matthews",
-    "name": "Wesley·马修斯",
+    "name": "韦斯伊·马特斯尤斯",
     "name_en": "Wesley Matthews",
     "position": "PG",
     "height": 196,
@@ -54429,7 +54429,7 @@ module.exports = [
   },
   {
     "id": "gary-neal",
-    "name": "加里·Neal",
+    "name": "加里·内尔",
     "name_en": "Gary Neal",
     "position": "SG",
     "height": 193,
@@ -54473,7 +54473,7 @@ module.exports = [
   },
   {
     "id": "gordon-hayward",
-    "name": "Gordon·海沃德",
+    "name": "戈尔登·哈尤德",
     "name_en": "Gordon Hayward",
     "position": "SF",
     "height": 201,
@@ -54513,7 +54513,7 @@ module.exports = [
   },
   {
     "id": "greg-monroe",
-    "name": "Greg Monroe",
+    "name": "格·蒙罗埃",
     "name_en": "Greg Monroe",
     "position": "PF",
     "height": 208,
@@ -54557,7 +54557,7 @@ module.exports = [
   },
   {
     "id": "greivis-vasquez",
-    "name": "Greivis·瓦斯奎兹",
+    "name": "格埃夫斯·瓦斯乌兹",
     "name_en": "Greivis Vasquez",
     "position": "SG",
     "height": 198,
@@ -54601,7 +54601,7 @@ module.exports = [
   },
   {
     "id": "hamady-ndiaye",
-    "name": "Hamady Ndiaye",
+    "name": "哈马迪·恩迪耶",
     "name_en": "Hamady Ndiaye",
     "position": "C",
     "height": 213,
@@ -54639,7 +54639,7 @@ module.exports = [
   },
   {
     "id": "hassan-whiteside",
-    "name": "Hassan Whiteside",
+    "name": "哈斯萨恩·惠特西德",
     "name_en": "Hassan Whiteside",
     "position": "C",
     "height": 213,
@@ -54681,7 +54681,7 @@ module.exports = [
   },
   {
     "id": "kevin-seraphin",
-    "name": "凯文·Seraphin",
+    "name": "凯文·塞拉菲因",
     "name_en": "Kevin Seraphin",
     "position": "PF",
     "height": 208,
@@ -54721,7 +54721,7 @@ module.exports = [
   },
   {
     "id": "jeff-adrien",
-    "name": "杰夫·Adrien",
+    "name": "杰弗·德里恩",
     "name_en": "Jeff Adrien",
     "position": "SF",
     "height": 201,
@@ -54803,7 +54803,7 @@ module.exports = [
   },
   {
     "id": "jeremy-lin",
-    "name": "杰里米·Lin",
+    "name": "杰雷迈·利恩",
     "name_en": "Jeremy Lin",
     "position": "PG",
     "height": 190,
@@ -54891,7 +54891,7 @@ module.exports = [
   },
   {
     "id": "jordan-crawford",
-    "name": "Jordan·克劳福德",
+    "name": "乔尔达恩·克奥福德",
     "name_en": "Jordan Crawford",
     "position": "SG",
     "height": 196,
@@ -54933,7 +54933,7 @@ module.exports = [
   },
   {
     "id": "garret-siler",
-    "name": "Garret Siler",
+    "name": "加尔雷特·西勒尔",
     "name_en": "Garret Siler",
     "position": "C",
     "height": 211,
@@ -55015,7 +55015,7 @@ module.exports = [
   },
   {
     "id": "christian-eyenga",
-    "name": "Christian Eyenga",
+    "name": "奇里斯特伊恩·伊恩加",
     "name_en": "Christian Eyenga",
     "position": "SF",
     "height": 201,
@@ -55053,7 +55053,7 @@ module.exports = [
   },
   {
     "id": "cole-aldrich",
-    "name": "科尔·Aldrich",
+    "name": "科勒·尔德奇",
     "name_en": "Cole Aldrich",
     "position": "C",
     "height": 211,
@@ -55097,7 +55097,7 @@ module.exports = [
   },
   {
     "id": "craig-brackins",
-    "name": "Craig Brackins",
+    "name": "克阿格·布克基恩斯",
     "name_en": "Craig Brackins",
     "position": "SF",
     "height": 208,
@@ -55173,7 +55173,7 @@ module.exports = [
   },
   {
     "id": "ed-davis",
-    "name": "Ed·戴维斯",
+    "name": "德·达维斯",
     "name_en": "Ed Davis",
     "position": "PF",
     "height": 206,
@@ -55259,7 +55259,7 @@ module.exports = [
   },
   {
     "id": "eric-bledsoe",
-    "name": "埃里克·Bledsoe",
+    "name": "里克·布勒德索埃",
     "name_en": "Eric Bledsoe",
     "position": "SG",
     "height": 185,
@@ -55347,7 +55347,7 @@ module.exports = [
   },
   {
     "id": "ekpe-udoh",
-    "name": "Ekpe Udoh",
+    "name": "克佩·德赫",
     "name_en": "Ekpe Udoh",
     "position": "PF",
     "height": 208,
@@ -55389,7 +55389,7 @@ module.exports = [
   },
   {
     "id": "gani-lawal",
-    "name": "Gani Lawal",
+    "name": "加尼·拉瓦尔",
     "name_en": "Gani Lawal",
     "position": "SF",
     "height": 206,
@@ -55425,7 +55425,7 @@ module.exports = [
   },
   {
     "id": "dexter-pittman",
-    "name": "Dexter Pittman",
+    "name": "德克斯特尔·皮特曼",
     "name_en": "Dexter Pittman",
     "position": "C",
     "height": 211,
@@ -55509,7 +55509,7 @@ module.exports = [
   },
   {
     "id": "derrick-caracter",
-    "name": "德里克·Caracter",
+    "name": "德尔里克·卡拉克特尔",
     "name_en": "Derrick Caracter",
     "position": "SF",
     "height": 206,
@@ -55545,7 +55545,7 @@ module.exports = [
   },
   {
     "id": "derrick-favors",
-    "name": "德里克·Favors",
+    "name": "德尔里克·法沃尔斯",
     "name_en": "Derrick Favors",
     "position": "SF",
     "height": 206,
@@ -55585,7 +55585,7 @@ module.exports = [
   },
   {
     "id": "devin-ebanks",
-    "name": "德文·Ebanks",
+    "name": "德维恩·布克斯",
     "name_en": "Devin Ebanks",
     "position": "SF",
     "height": 206,
@@ -55621,7 +55621,7 @@ module.exports = [
   },
   {
     "id": "lance-stephenson",
-    "name": "Lance Stephenson",
+    "name": "拉恩塞·斯特普赫恩森",
     "name_en": "Lance Stephenson",
     "position": "SF",
     "height": 196,
@@ -55663,7 +55663,7 @@ module.exports = [
   },
   {
     "id": "tiago-splitter",
-    "name": "Tiago Splitter",
+    "name": "蒂格奥·斯利特尔",
     "name_en": "Tiago Splitter",
     "position": "PF",
     "height": 211,
@@ -55703,7 +55703,7 @@ module.exports = [
   },
   {
     "id": "timofey-mozgov",
-    "name": "Timofey Mozgov",
+    "name": "蒂莫费伊·莫兹戈维",
     "name_en": "Timofey Mozgov",
     "position": "C",
     "height": 216,
@@ -55745,7 +55745,7 @@ module.exports = [
   },
   {
     "id": "trevor-booker",
-    "name": "Trevor·布克",
+    "name": "特夫尔·博克尔",
     "name_en": "Trevor Booker",
     "position": "SF",
     "height": 203,
@@ -55787,7 +55787,7 @@ module.exports = [
   },
   {
     "id": "samardo-samuels",
-    "name": "Samardo Samuels",
+    "name": "萨马尔多·萨穆斯",
     "name_en": "Samardo Samuels",
     "position": "C",
     "height": 206,
@@ -55823,7 +55823,7 @@ module.exports = [
   },
   {
     "id": "semih-erden",
-    "name": "Semih Erden",
+    "name": "塞米赫·尔德恩",
     "name_en": "Semih Erden",
     "position": "C",
     "height": 213,
@@ -55859,7 +55859,7 @@ module.exports = [
   },
   {
     "id": "sherron-collins",
-    "name": "Sherron·科林斯",
+    "name": "什尔罗恩·科尔斯",
     "name_en": "Sherron Collins",
     "position": "SG",
     "height": 180,
@@ -55895,7 +55895,7 @@ module.exports = [
   },
   {
     "id": "solomon-alabi",
-    "name": "Solomon Alabi",
+    "name": "索洛莫恩·尔布伊",
     "name_en": "Solomon Alabi",
     "position": "C",
     "height": 216,
@@ -55931,7 +55931,7 @@ module.exports = [
   },
   {
     "id": "wesley-johnson",
-    "name": "Wesley·约翰逊",
+    "name": "韦斯伊·乔赫恩斯昂",
     "name_en": "Wesley Johnson",
     "position": "SF",
     "height": 201,
@@ -55975,7 +55975,7 @@ module.exports = [
   },
   {
     "id": "willie-warren",
-    "name": "Willie·沃伦",
+    "name": "威尔伊埃·瓦尔伦",
     "name_en": "Willie Warren",
     "position": "SG",
     "height": 193,
@@ -56011,7 +56011,7 @@ module.exports = [
   },
   {
     "id": "xavier-henry",
-    "name": "Xavier·亨利",
+    "name": "克斯夫尔·赫恩里",
     "name_en": "Xavier Henry",
     "position": "SF",
     "height": 198,
@@ -56051,7 +56051,7 @@ module.exports = [
   },
   {
     "id": "zabian-dowdell",
-    "name": "Zabian Dowdell",
+    "name": "扎比恩·道德尔",
     "name_en": "Zabian Dowdell",
     "position": "PG",
     "height": 190,
@@ -56129,7 +56129,7 @@ module.exports = [
   },
   {
     "id": "andy-rautins",
-    "name": "Andy Rautins",
+    "name": "德伊·拉特斯",
     "name_en": "Andy Rautins",
     "position": "SG",
     "height": 193,
@@ -56165,7 +56165,7 @@ module.exports = [
   },
   {
     "id": "armon-johnson",
-    "name": "Armon·约翰逊",
+    "name": "尔莫恩·乔赫恩森",
     "name_en": "Armon Johnson",
     "position": "PG",
     "height": 190,
@@ -56203,7 +56203,7 @@ module.exports = [
   },
   {
     "id": "avery-bradley",
-    "name": "Avery·布拉德利",
+    "name": "夫里·布德利",
     "name_en": "Avery Bradley",
     "position": "SG",
     "height": 190,
@@ -56247,7 +56247,7 @@ module.exports = [
   },
   {
     "id": "ben-uzoh",
-    "name": "Ben Uzoh",
+    "name": "贝恩·兹赫",
     "name_en": "Ben Uzoh",
     "position": "PG",
     "height": 190,
@@ -56285,7 +56285,7 @@ module.exports = [
   },
   {
     "id": "marcus-cousin",
-    "name": "马库斯·Cousin",
+    "name": "马尔库斯·科斯因",
     "name_en": "Marcus Cousin",
     "position": "SF",
     "height": 211,
@@ -56321,7 +56321,7 @@ module.exports = [
   },
   {
     "id": "landry-fields",
-    "name": "Landry·菲尔兹",
+    "name": "兰里·菲德斯",
     "name_en": "Landry Fields",
     "position": "SG",
     "height": 201,
@@ -56397,7 +56397,7 @@ module.exports = [
   },
   {
     "id": "larry-sanders",
-    "name": "拉里·Sanders",
+    "name": "拉尔里·萨恩德尔斯",
     "name_en": "Larry Sanders",
     "position": "C",
     "height": 211,
@@ -56435,7 +56435,7 @@ module.exports = [
   },
   {
     "id": "luke-babbitt",
-    "name": "Luke Babbitt",
+    "name": "卢凯·巴布比特",
     "name_en": "Luke Babbitt",
     "position": "SF",
     "height": 206,
@@ -56475,7 +56475,7 @@ module.exports = [
   },
   {
     "id": "luke-harangody",
-    "name": "Luke Harangody",
+    "name": "卢凯·哈拉恩戈迪",
     "name_en": "Luke Harangody",
     "position": "SF",
     "height": 201,
@@ -56511,7 +56511,7 @@ module.exports = [
   },
   {
     "id": "manny-harris",
-    "name": "Manny·哈里斯",
+    "name": "曼尼·哈尔里斯",
     "name_en": "Manny Harris",
     "position": "SG",
     "height": 196,
@@ -56551,7 +56551,7 @@ module.exports = [
   },
   {
     "id": "mustafa-shakur",
-    "name": "Mustafa Shakur",
+    "name": "穆斯特夫阿·什克尔",
     "name_en": "Mustafa Shakur",
     "position": "PG",
     "height": 190,
@@ -56589,7 +56589,7 @@ module.exports = [
   },
   {
     "id": "quincy-pondexter",
-    "name": "Quincy Pondexter",
+    "name": "奎因赛·波恩德克斯特尔",
     "name_en": "Quincy Pondexter",
     "position": "SF",
     "height": 201,
@@ -56633,7 +56633,7 @@ module.exports = [
   },
   {
     "id": "nikola-pekovic",
-    "name": "尼古拉·Pekovic",
+    "name": "尼科拉·佩科维克",
     "name_en": "Nikola Pekovic",
     "position": "C",
     "height": 211,
@@ -56669,7 +56669,7 @@ module.exports = [
   },
   {
     "id": "omer-asik",
-    "name": "Omer Asik",
+    "name": "姆尔·斯克",
     "name_en": "Omer Asik",
     "position": "C",
     "height": 213,
@@ -56709,7 +56709,7 @@ module.exports = [
   },
   {
     "id": "pape-sy",
-    "name": "Pape Sy",
+    "name": "帕佩·西",
     "name_en": "Pape Sy",
     "position": "SF",
     "height": 201,
@@ -56829,7 +56829,7 @@ module.exports = [
   },
   {
     "id": "pooh-jeter",
-    "name": "Pooh Jeter",
+    "name": "波赫·杰特尔",
     "name_en": "Pooh Jeter",
     "position": "PG",
     "height": 180,
@@ -56865,7 +56865,7 @@ module.exports = [
   },
   {
     "id": "lazar-hayward",
-    "name": "Lazar·海沃德",
+    "name": "拉扎尔·哈尤德",
     "name_en": "Lazar Hayward",
     "position": "SF",
     "height": 198,
@@ -56903,7 +56903,7 @@ module.exports = [
   },
   {
     "id": "al-farouq-aminu",
-    "name": "Al-Farouq Aminu",
+    "name": "尔-法罗乌奎·姆因乌",
     "name_en": "Al-Farouq Aminu",
     "position": "SF",
     "height": 203,
@@ -56951,7 +56951,7 @@ module.exports = [
   },
   {
     "id": "jimmer-fredette",
-    "name": "Jimmer Fredette",
+    "name": "吉姆梅尔·弗德特",
     "name_en": "Jimmer Fredette",
     "position": "SG",
     "height": 188,
@@ -57037,7 +57037,7 @@ module.exports = [
   },
   {
     "id": "jon-leuer",
-    "name": "Jon Leuer",
+    "name": "乔恩·勒乌尔",
     "name_en": "Jon Leuer",
     "position": "SF",
     "height": 208,
@@ -57079,7 +57079,7 @@ module.exports = [
   },
   {
     "id": "jerry-smith",
-    "name": "Jerry·史密斯",
+    "name": "杰尔里·斯",
     "name_en": "Jerry Smith",
     "position": "PG",
     "height": 188,
@@ -57115,7 +57115,7 @@ module.exports = [
   },
   {
     "id": "jerome-jordan",
-    "name": "Jerome·乔丹",
+    "name": "杰罗梅·乔尔达恩",
     "name_en": "Jerome Jordan",
     "position": "C",
     "height": 213,
@@ -57153,7 +57153,7 @@ module.exports = [
   },
   {
     "id": "dj-kennedy",
-    "name": "D.J·肯尼迪",
+    "name": "德杰·肯内迪",
     "name_en": "D.J. Kennedy",
     "position": "SG",
     "height": 196,
@@ -57189,7 +57189,7 @@ module.exports = [
   },
   {
     "id": "courtney-fortson",
-    "name": "Courtney Fortson",
+    "name": "科特尼·福尔特森",
     "name_en": "Courtney Fortson",
     "position": "PG",
     "height": 180,
@@ -57305,7 +57305,7 @@ module.exports = [
   },
   {
     "id": "jeff-foote",
-    "name": "杰夫·Foote",
+    "name": "杰弗·福特埃",
     "name_en": "Jeff Foote",
     "position": "PF",
     "height": 213,
@@ -57341,7 +57341,7 @@ module.exports = [
   },
   {
     "id": "jeremy-pargo",
-    "name": "杰里米·Pargo",
+    "name": "杰雷迈·帕尔戈",
     "name_en": "Jeremy Pargo",
     "position": "SG",
     "height": 188,
@@ -57381,7 +57381,7 @@ module.exports = [
   },
   {
     "id": "jeremy-tyler",
-    "name": "杰里米·Tyler",
+    "name": "杰雷迈·蒂勒尔",
     "name_en": "Jeremy Tyler",
     "position": "SF",
     "height": 208,
@@ -57421,7 +57421,7 @@ module.exports = [
   },
   {
     "id": "jerome-dyson",
-    "name": "Jerome Dyson",
+    "name": "杰罗梅·迪森",
     "name_en": "Jerome Dyson",
     "position": "SG",
     "height": 190,
@@ -57499,7 +57499,7 @@ module.exports = [
   },
   {
     "id": "lance-thomas",
-    "name": "Lance·托马斯",
+    "name": "拉恩塞·斯姆斯",
     "name_en": "Lance Thomas",
     "position": "SF",
     "height": 203,
@@ -57541,7 +57541,7 @@ module.exports = [
   },
   {
     "id": "lavoy-allen",
-    "name": "Lavoy Allen",
+    "name": "拉沃伊·尔恩",
     "name_en": "Lavoy Allen",
     "position": "PF",
     "height": 206,
@@ -57579,7 +57579,7 @@ module.exports = [
   },
   {
     "id": "malcolm-lee",
-    "name": "Malcolm·李",
+    "name": "马尔科尔姆·勒埃",
     "name_en": "Malcolm Lee",
     "position": "SG",
     "height": 196,
@@ -57617,7 +57617,7 @@ module.exports = [
   },
   {
     "id": "jordan-williams",
-    "name": "Jordan·威廉姆斯",
+    "name": "乔尔达恩·威尔伊姆斯",
     "name_en": "Jordan Williams",
     "position": "C",
     "height": 208,
@@ -57653,7 +57653,7 @@ module.exports = [
   },
   {
     "id": "josh-harrellson",
-    "name": "约什·Harrellson",
+    "name": "乔什·哈尔雷尔森",
     "name_en": "Josh Harrellson",
     "position": "PF",
     "height": 208,
@@ -57693,7 +57693,7 @@ module.exports = [
   },
   {
     "id": "josh-selby",
-    "name": "约什·Selby",
+    "name": "乔什·塞尔拜",
     "name_en": "Josh Selby",
     "position": "PG",
     "height": 188,
@@ -57729,7 +57729,7 @@ module.exports = [
   },
   {
     "id": "julyan-stone",
-    "name": "Julyan·斯通",
+    "name": "朱利恩·斯特恩",
     "name_en": "Julyan Stone",
     "position": "PG",
     "height": 198,
@@ -57769,7 +57769,7 @@ module.exports = [
   },
   {
     "id": "justin-dentmon",
-    "name": "Justin Dentmon",
+    "name": "朱斯特因·登特蒙",
     "name_en": "Justin Dentmon",
     "position": "PG",
     "height": 180,
@@ -57807,7 +57807,7 @@ module.exports = [
   },
   {
     "id": "justin-harper",
-    "name": "Justin·哈珀",
+    "name": "朱斯特因·哈普尔",
     "name_en": "Justin Harper",
     "position": "PF",
     "height": 208,
@@ -57847,7 +57847,7 @@ module.exports = [
   },
   {
     "id": "jordan-hamilton",
-    "name": "Jordan·汉密尔顿",
+    "name": "乔尔达恩·哈米尔顿",
     "name_en": "Jordan Hamilton",
     "position": "SG",
     "height": 201,
@@ -57929,7 +57929,7 @@ module.exports = [
   },
   {
     "id": "kemba-walker",
-    "name": "Kemba·沃克",
+    "name": "凯姆巴·瓦尔凯尔",
     "name_en": "Kemba Walker",
     "position": "SG",
     "height": 183,
@@ -57973,7 +57973,7 @@ module.exports = [
   },
   {
     "id": "kenneth-faried",
-    "name": "Kenneth Faried",
+    "name": "肯内斯·法里德",
     "name_en": "Kenneth Faried",
     "position": "PF",
     "height": 203,
@@ -58047,7 +58047,7 @@ module.exports = [
   },
   {
     "id": "keith-benson",
-    "name": "Keith Benson",
+    "name": "凯斯·贝恩森",
     "name_en": "Keith Benson",
     "position": "PF",
     "height": 211,
@@ -58083,7 +58083,7 @@ module.exports = [
   },
   {
     "id": "gustavo-ayon",
-    "name": "Gustavo Ayon",
+    "name": "古斯特夫奥·伊昂",
     "name_en": "Gustavo Ayon",
     "position": "PF",
     "height": 208,
@@ -58123,7 +58123,7 @@ module.exports = [
   },
   {
     "id": "greg-stiemsma",
-    "name": "Greg Stiemsma",
+    "name": "格·斯特伊姆斯阿",
     "name_en": "Greg Stiemsma",
     "position": "C",
     "height": 211,
@@ -58165,7 +58165,7 @@ module.exports = [
   },
   {
     "id": "greg-smith",
-    "name": "Greg·史密斯",
+    "name": "格·斯",
     "name_en": "Greg Smith",
     "position": "SF",
     "height": 208,
@@ -58205,7 +58205,7 @@ module.exports = [
   },
   {
     "id": "iman-shumpert",
-    "name": "Iman Shumpert",
+    "name": "姆恩·什普特",
     "name_en": "Iman Shumpert",
     "position": "PG",
     "height": 196,
@@ -58249,7 +58249,7 @@ module.exports = [
   },
   {
     "id": "jan-vesely",
-    "name": "Jan Vesely",
+    "name": "贾恩·维塞利",
     "name_en": "Jan Vesely",
     "position": "SF",
     "height": 213,
@@ -58287,7 +58287,7 @@ module.exports = [
   },
   {
     "id": "jajuan-johnson",
-    "name": "Jajuan·约翰逊",
+    "name": "贾朱恩·乔赫恩斯昂",
     "name_en": "JaJuan Johnson",
     "position": "SF",
     "height": 208,
@@ -58323,7 +58323,7 @@ module.exports = [
   },
   {
     "id": "ivan-johnson",
-    "name": "Ivan·约翰逊",
+    "name": "夫恩·乔赫恩森",
     "name_en": "Ivan Johnson",
     "position": "SF",
     "height": 203,
@@ -58407,7 +58407,7 @@ module.exports = [
   },
   {
     "id": "eric-dawson",
-    "name": "埃里克·Dawson",
+    "name": "里克·达沃森",
     "name_en": "Eric Dawson",
     "position": "SF",
     "height": 206,
@@ -58443,7 +58443,7 @@ module.exports = [
   },
   {
     "id": "derrick-byars",
-    "name": "德里克·Byars",
+    "name": "德尔里克·拜尔斯",
     "name_en": "Derrick Byars",
     "position": "SG",
     "height": 201,
@@ -58479,7 +58479,7 @@ module.exports = [
   },
   {
     "id": "dennis-horner",
-    "name": "丹尼斯·Horner",
+    "name": "德恩尼斯·霍尔内尔",
     "name_en": "Dennis Horner",
     "position": "SF",
     "height": 206,
@@ -58515,7 +58515,7 @@ module.exports = [
   },
   {
     "id": "deandre-liggins",
-    "name": "德安德烈·Liggins",
+    "name": "德雷·利格吉恩斯",
     "name_en": "DeAndre Liggins",
     "position": "SG",
     "height": 198,
@@ -58559,7 +58559,7 @@ module.exports = [
   },
   {
     "id": "darius-morris",
-    "name": "Darius·莫里斯",
+    "name": "达里斯·莫尔里斯",
     "name_en": "Darius Morris",
     "position": "SG",
     "height": 193,
@@ -58599,7 +58599,7 @@ module.exports = [
   },
   {
     "id": "darington-hobson",
-    "name": "Darington Hobson",
+    "name": "达里恩格顿·霍布森",
     "name_en": "Darington Hobson",
     "position": "SG",
     "height": 201,
@@ -58635,7 +58635,7 @@ module.exports = [
   },
   {
     "id": "malcolm-thomas",
-    "name": "Malcolm·托马斯",
+    "name": "马尔科尔姆·斯姆斯",
     "name_en": "Malcolm Thomas",
     "position": "SF",
     "height": 206,
@@ -58677,7 +58677,7 @@ module.exports = [
   },
   {
     "id": "daniel-orton",
-    "name": "丹尼尔·Orton",
+    "name": "达尼尔·特昂",
     "name_en": "Daniel Orton",
     "position": "C",
     "height": 208,
@@ -58717,7 +58717,7 @@ module.exports = [
   },
   {
     "id": "enes-kanter",
-    "name": "Enes Kanter",
+    "name": "尼斯·卡恩特尔",
     "name_en": "Enes Kanter",
     "position": null,
     "height": 208,
@@ -58761,7 +58761,7 @@ module.exports = [
   },
   {
     "id": "elliot-williams",
-    "name": "Elliot·威廉姆斯",
+    "name": "尔伊特·威尔伊姆斯",
     "name_en": "Elliot Williams",
     "position": "PG",
     "height": 196,
@@ -58801,7 +58801,7 @@ module.exports = [
   },
   {
     "id": "edwin-ubiles",
-    "name": "Edwin Ubiles",
+    "name": "德威恩·布尔斯",
     "name_en": "Edwin Ubiles",
     "position": "SF",
     "height": 198,
@@ -58881,7 +58881,7 @@ module.exports = [
   },
   {
     "id": "etwaun-moore",
-    "name": "E'Twaun·摩尔",
+    "name": "特瓦恩·莫尔",
     "name_en": "E'Twaun Moore",
     "position": "PG",
     "height": 190,
@@ -58925,7 +58925,7 @@ module.exports = [
   },
   {
     "id": "donald-sloan",
-    "name": "Donald Sloan",
+    "name": "多纳尔德·斯安",
     "name_en": "Donald Sloan",
     "position": "SG",
     "height": 190,
@@ -58967,7 +58967,7 @@ module.exports = [
   },
   {
     "id": "marshon-brooks",
-    "name": "Marshon·布鲁克斯",
+    "name": "马尔什昂·布克斯",
     "name_en": "MarShon Brooks",
     "position": "SG",
     "height": 196,
@@ -59009,7 +59009,7 @@ module.exports = [
   },
   {
     "id": "xavier-silas",
-    "name": "Xavier Silas",
+    "name": "克斯夫尔·西拉斯",
     "name_en": "Xavier Silas",
     "position": "PG",
     "height": 196,
@@ -59123,7 +59123,7 @@ module.exports = [
   },
   {
     "id": "charles-jenkins",
-    "name": "查尔斯·Jenkins",
+    "name": "奇尔勒斯·杰恩基恩斯",
     "name_en": "Charles Jenkins",
     "position": "PG",
     "height": 190,
@@ -59161,7 +59161,7 @@ module.exports = [
   },
   {
     "id": "chandler-parsons",
-    "name": "Chandler·帕森斯",
+    "name": "奇德勒尔·帕尔森斯",
     "name_en": "Chandler Parsons",
     "position": "SF",
     "height": 206,
@@ -59203,7 +59203,7 @@ module.exports = [
   },
   {
     "id": "travis-leslie",
-    "name": "Travis Leslie",
+    "name": "特夫斯·勒斯伊埃",
     "name_en": "Travis Leslie",
     "position": "SG",
     "height": 193,
@@ -59239,7 +59239,7 @@ module.exports = [
   },
   {
     "id": "trey-thompkins",
-    "name": "Trey Thompkins",
+    "name": "特伊·斯普金斯",
     "name_en": "Trey Thompkins",
     "position": "SF",
     "height": 208,
@@ -59275,7 +59275,7 @@ module.exports = [
   },
   {
     "id": "tristan-thompson",
-    "name": "Tristan·汤普森",
+    "name": "特斯特恩·斯普森",
     "name_en": "Tristan Thompson",
     "position": "PF",
     "height": 206,
@@ -59315,7 +59315,7 @@ module.exports = [
   },
   {
     "id": "tyler-honeycutt",
-    "name": "泰勒·Honeycutt",
+    "name": "蒂勒尔·霍尼库特",
     "name_en": "Tyler Honeycutt",
     "position": "SF",
     "height": 203,
@@ -59351,7 +59351,7 @@ module.exports = [
   },
   {
     "id": "vernon-macklin",
-    "name": "Vernon Macklin",
+    "name": "维尔诺恩·马克利恩",
     "name_en": "Vernon Macklin",
     "position": "SF",
     "height": 208,
@@ -59387,7 +59387,7 @@ module.exports = [
   },
   {
     "id": "walker-russell",
-    "name": "Walker·拉塞尔",
+    "name": "瓦尔凯尔·鲁斯塞尔",
     "name_en": "Walker Russell",
     "position": "PG",
     "height": 183,
@@ -59423,7 +59423,7 @@ module.exports = [
   },
   {
     "id": "andrew-goudelock",
-    "name": "Andrew Goudelock",
+    "name": "德雷沃·戈德洛克",
     "name_en": "Andrew Goudelock",
     "position": "SG",
     "height": 190,
@@ -59505,7 +59505,7 @@ module.exports = [
   },
   {
     "id": "carldell-johnson",
-    "name": "Carldell·约翰逊",
+    "name": "卡尔德尔·乔赫恩森",
     "name_en": "Carldell Johnson",
     "position": "SG",
     "height": 178,
@@ -59585,7 +59585,7 @@ module.exports = [
   },
   {
     "id": "bismack-biyombo",
-    "name": "俾斯麦·Biyombo",
+    "name": "比斯克·比约姆博",
     "name_en": "Bismack Biyombo",
     "position": "C",
     "height": 203,
@@ -59671,7 +59671,7 @@ module.exports = [
   },
   {
     "id": "mychel-thompson",
-    "name": "Mychel·汤普森",
+    "name": "迈奇尔·斯普森",
     "name_en": "Mychel Thompson",
     "position": "SF",
     "height": 198,
@@ -59747,7 +59747,7 @@ module.exports = [
   },
   {
     "id": "nolan-smith",
-    "name": "Nolan·史密斯",
+    "name": "诺拉恩·斯",
     "name_en": "Nolan Smith",
     "position": "PG",
     "height": 188,
@@ -59783,7 +59783,7 @@ module.exports = [
   },
   {
     "id": "norris-cole",
-    "name": "Norris·科尔",
+    "name": "诺尔里斯·科勒",
     "name_en": "Norris Cole",
     "position": "PG",
     "height": 188,
@@ -59863,7 +59863,7 @@ module.exports = [
   },
   {
     "id": "markieff-morris",
-    "name": "Markieff·莫里斯",
+    "name": "马尔基夫弗·莫尔里斯",
     "name_en": "Markieff Morris",
     "position": "SF",
     "height": 206,
@@ -59909,7 +59909,7 @@ module.exports = [
   },
   {
     "id": "mickell-gladness",
-    "name": "Mickell Gladness",
+    "name": "米克尔·格德内斯",
     "name_en": "Mickell Gladness",
     "position": "C",
     "height": 211,
@@ -59945,7 +59945,7 @@ module.exports = [
   },
   {
     "id": "shelvin-mack",
-    "name": "Shelvin·麦克",
+    "name": "什尔维恩·马克",
     "name_en": "Shelvin Mack",
     "position": "SG",
     "height": 190,
@@ -59989,7 +59989,7 @@ module.exports = [
   },
   {
     "id": "terrel-harris",
-    "name": "Terrel·哈里斯",
+    "name": "特尔雷尔·哈尔里斯",
     "name_en": "Terrel Harris",
     "position": "PG",
     "height": 193,
@@ -60113,7 +60113,7 @@ module.exports = [
   },
   {
     "id": "ryan-reid",
-    "name": "Ryan·里德",
+    "name": "里恩·雷德",
     "name_en": "Ryan Reid",
     "position": "SF",
     "height": 203,
@@ -60149,7 +60149,7 @@ module.exports = [
   },
   {
     "id": "tornike-shengelia",
-    "name": "Tornike Shengelia",
+    "name": "托尔尼凯·什恩杰利阿",
     "name_en": "Tornike Shengelia",
     "position": "SF",
     "height": 206,
@@ -60187,7 +60187,7 @@ module.exports = [
   },
   {
     "id": "tony-wroten",
-    "name": "托尼·Wroten",
+    "name": "顿伊·尔特恩",
     "name_en": "Tony Wroten",
     "position": "PG",
     "height": 198,
@@ -60227,7 +60227,7 @@ module.exports = [
   },
   {
     "id": "tim-ohlbrecht",
-    "name": "蒂姆·Ohlbrecht",
+    "name": "蒂姆·赫尔布克赫特",
     "name_en": "Tim Ohlbrecht",
     "position": "PF",
     "height": 211,
@@ -60307,7 +60307,7 @@ module.exports = [
   },
   {
     "id": "terrence-ross",
-    "name": "Terrence Ross",
+    "name": "特尔雷恩塞·罗斯",
     "name_en": "Terrence Ross",
     "position": "SG",
     "height": 201,
@@ -60347,7 +60347,7 @@ module.exports = [
   },
   {
     "id": "terrence-jones",
-    "name": "Terrence·琼斯",
+    "name": "特尔雷恩塞·乔内斯",
     "name_en": "Terrence Jones",
     "position": "SF",
     "height": 206,
@@ -60385,7 +60385,7 @@ module.exports = [
   },
   {
     "id": "will-barton",
-    "name": "Will·巴顿",
+    "name": "威尔·巴尔顿",
     "name_en": "Will Barton",
     "position": "PG",
     "height": 196,
@@ -60425,7 +60425,7 @@ module.exports = [
   },
   {
     "id": "victor-claver",
-    "name": "Victor Claver",
+    "name": "维克托尔·克夫尔",
     "name_en": "Victor Claver",
     "position": "SF",
     "height": 206,
@@ -60461,7 +60461,7 @@ module.exports = [
   },
   {
     "id": "viacheslav-kravtsov",
-    "name": "Viacheslav Kravtsov",
+    "name": "维克赫斯夫·克夫特索维",
     "name_en": "Viacheslav Kravtsov",
     "position": "C",
     "height": 211,
@@ -60499,7 +60499,7 @@ module.exports = [
   },
   {
     "id": "tyshawn-taylor",
-    "name": "Tyshawn·泰勒",
+    "name": "蒂什恩·塔伊尔",
     "name_en": "Tyshawn Taylor",
     "position": "PG",
     "height": 190,
@@ -60535,7 +60535,7 @@ module.exports = [
   },
   {
     "id": "tyler-zeller",
-    "name": "泰勒·Zeller",
+    "name": "蒂勒尔·泽尔",
     "name_en": "Tyler Zeller",
     "position": "PF",
     "height": 211,
@@ -60615,7 +60615,7 @@ module.exports = [
   },
   {
     "id": "robert-sacre",
-    "name": "罗伯特·Sacre",
+    "name": "罗贝特·萨克埃",
     "name_en": "Robert Sacre",
     "position": "C",
     "height": 213,
@@ -60651,7 +60651,7 @@ module.exports = [
   },
   {
     "id": "quincy-miller",
-    "name": "Quincy·米勒",
+    "name": "奎因赛·米尔",
     "name_en": "Quincy Miller",
     "position": "SF",
     "height": 206,
@@ -60689,7 +60689,7 @@ module.exports = [
   },
   {
     "id": "quincy-acy",
-    "name": "Quincy Acy",
+    "name": "奎因赛·克伊",
     "name_en": "Quincy Acy",
     "position": "SF",
     "height": 201,
@@ -60733,7 +60733,7 @@ module.exports = [
   },
   {
     "id": "perry-jones-iii",
-    "name": "Perry·三世",
+    "name": "佩尔里·伊",
     "name_en": "Perry Jones III",
     "position": "SF",
     "height": 211,
@@ -60769,7 +60769,7 @@ module.exports = [
   },
   {
     "id": "scott-machado",
-    "name": "Scott Machado",
+    "name": "斯特·马奇德奥",
     "name_en": "Scott Machado",
     "position": "PG",
     "height": 185,
@@ -60807,7 +60807,7 @@ module.exports = [
   },
   {
     "id": "doron-lamb",
-    "name": "Doron·兰姆",
+    "name": "多罗恩·拉姆布",
     "name_en": "Doron Lamb",
     "position": "PG",
     "height": 193,
@@ -60843,7 +60843,7 @@ module.exports = [
   },
   {
     "id": "donatas-motiejunas",
-    "name": "Donatas Motiejunas",
+    "name": "多纳塔斯·莫蒂埃朱纳斯",
     "name_en": "Donatas Motiejunas",
     "position": "PF",
     "height": 213,
@@ -60883,7 +60883,7 @@ module.exports = [
   },
   {
     "id": "brian-roberts",
-    "name": "Brian·罗伯茨",
+    "name": "布伊恩·罗贝尔特斯",
     "name_en": "Brian Roberts",
     "position": "PG",
     "height": 185,
@@ -60925,7 +60925,7 @@ module.exports = [
   },
   {
     "id": "chris-copeland",
-    "name": "克里斯·Copeland",
+    "name": "奇里斯·科佩兰",
     "name_en": "Chris Copeland",
     "position": "SF",
     "height": 206,
@@ -60965,7 +60965,7 @@ module.exports = [
   },
   {
     "id": "andrew-nicholson",
-    "name": "Andrew Nicholson",
+    "name": "德雷沃·尼奇尔森",
     "name_en": "Andrew Nicholson",
     "position": "SF",
     "height": 206,
@@ -61043,7 +61043,7 @@ module.exports = [
   },
   {
     "id": "arnett-moultrie",
-    "name": "Arnett Moultrie",
+    "name": "尔内特·莫特里埃",
     "name_en": "Arnett Moultrie",
     "position": "SF",
     "height": 208,
@@ -61079,7 +61079,7 @@ module.exports = [
   },
   {
     "id": "aron-baynes",
-    "name": "Aron Baynes",
+    "name": "尔昂·巴因斯",
     "name_en": "Aron Baynes",
     "position": "PF",
     "height": 208,
@@ -61123,7 +61123,7 @@ module.exports = [
   },
   {
     "id": "austin-rivers",
-    "name": "Austin·里弗斯",
+    "name": "阿斯特因·里维尔斯",
     "name_en": "Austin Rivers",
     "position": "SG",
     "height": 193,
@@ -61169,7 +61169,7 @@ module.exports = [
   },
   {
     "id": "ben-hansbrough",
-    "name": "Ben Hansbrough",
+    "name": "贝恩·哈恩斯布夫",
     "name_en": "Ben Hansbrough",
     "position": "PG",
     "height": 190,
@@ -61205,7 +61205,7 @@ module.exports = [
   },
   {
     "id": "bernard-james",
-    "name": "Bernard·詹姆斯",
+    "name": "贝尔纳尔德·贾梅斯",
     "name_en": "Bernard James",
     "position": "C",
     "height": 208,
@@ -61277,7 +61277,7 @@ module.exports = [
   },
   {
     "id": "dequan-jones",
-    "name": "Dequan·琼斯",
+    "name": "德奎乌恩·乔内斯",
     "name_en": "DeQuan Jones",
     "position": "SF",
     "height": 203,
@@ -61313,7 +61313,7 @@ module.exports = [
   },
   {
     "id": "diante-garrett",
-    "name": "Diante·加勒特",
+    "name": "迪特埃·加尔雷特",
     "name_en": "Diante Garrett",
     "position": "SG",
     "height": 193,
@@ -61351,7 +61351,7 @@ module.exports = [
   },
   {
     "id": "dion-waiters",
-    "name": "Dion Waiters",
+    "name": "迪昂·瓦特尔斯",
     "name_en": "Dion Waiters",
     "position": "SG",
     "height": 190,
@@ -61429,7 +61429,7 @@ module.exports = [
   },
   {
     "id": "darius-johnson-odom",
-    "name": "Darius Johnson-Odom",
+    "name": "达里斯·乔赫恩斯昂-德姆",
     "name_en": "Darius Johnson-Odom",
     "position": "PG",
     "height": 188,
@@ -61467,7 +61467,7 @@ module.exports = [
   },
   {
     "id": "darius-miller",
-    "name": "Darius·米勒",
+    "name": "达里斯·米尔",
     "name_en": "Darius Miller",
     "position": "SF",
     "height": 198,
@@ -61549,7 +61549,7 @@ module.exports = [
   },
   {
     "id": "pablo-prigioni",
-    "name": "Pablo Prigioni",
+    "name": "帕布洛·普格昂伊",
     "name_en": "Pablo Prigioni",
     "position": "PG",
     "height": 190,
@@ -61631,7 +61631,7 @@ module.exports = [
   },
   {
     "id": "jeffery-taylor",
-    "name": "Jeffery·泰勒",
+    "name": "杰弗费里·塔伊尔",
     "name_en": "Jeffery Taylor",
     "position": "SF",
     "height": 201,
@@ -61667,7 +61667,7 @@ module.exports = [
   },
   {
     "id": "jarvis-varnado",
-    "name": "Jarvis Varnado",
+    "name": "贾尔维斯·瓦尔纳多",
     "name_en": "Jarvis Varnado",
     "position": "PF",
     "height": 206,
@@ -61705,7 +61705,7 @@ module.exports = [
   },
   {
     "id": "jared-sullinger",
-    "name": "Jared Sullinger",
+    "name": "贾雷德·苏尔英尔",
     "name_en": "Jared Sullinger",
     "position": "PF",
     "height": 206,
@@ -61743,7 +61743,7 @@ module.exports = [
   },
   {
     "id": "jared-cunningham",
-    "name": "Jared·坎宁安",
+    "name": "贾雷德·库恩尼恩格哈姆",
     "name_en": "Jared Cunningham",
     "position": "PG",
     "height": 193,
@@ -61785,7 +61785,7 @@ module.exports = [
   },
   {
     "id": "josh-akognon",
-    "name": "约什·Akognon",
+    "name": "乔什·克格诺恩",
     "name_en": "Josh Akognon",
     "position": "PG",
     "height": 180,
@@ -61861,7 +61861,7 @@ module.exports = [
   },
   {
     "id": "john-henson",
-    "name": "约翰·Henson",
+    "name": "乔赫恩·赫恩森",
     "name_en": "John Henson",
     "position": "PF",
     "height": 206,
@@ -61901,7 +61901,7 @@ module.exports = [
   },
   {
     "id": "joel-freeland",
-    "name": "乔尔·Freeland",
+    "name": "乔尔·弗尔德",
     "name_en": "Joel Freeland",
     "position": "PF",
     "height": 208,
@@ -61937,7 +61937,7 @@ module.exports = [
   },
   {
     "id": "john-jenkins",
-    "name": "约翰·Jenkins",
+    "name": "乔赫恩·杰恩基恩斯",
     "name_en": "John Jenkins",
     "position": "SG",
     "height": 193,
@@ -61977,7 +61977,7 @@ module.exports = [
   },
   {
     "id": "festus-ezeli",
-    "name": "Festus Ezeli",
+    "name": "费斯特斯·兹尔伊",
     "name_en": "Festus Ezeli",
     "position": "C",
     "height": 211,
@@ -62013,7 +62013,7 @@ module.exports = [
   },
   {
     "id": "fab-melo",
-    "name": "Fab Melo",
+    "name": "法布·梅洛",
     "name_en": "Fab Melo",
     "position": "C",
     "height": 213,
@@ -62049,7 +62049,7 @@ module.exports = [
   },
   {
     "id": "evan-fournier",
-    "name": "埃文·Fournier",
+    "name": "夫恩·福恩尔",
     "name_en": "Evan Fournier",
     "position": "SG",
     "height": 198,
@@ -62137,7 +62137,7 @@ module.exports = [
   },
   {
     "id": "henry-sims",
-    "name": "Henry·西姆斯",
+    "name": "赫恩里·西姆斯",
     "name_en": "Henry Sims",
     "position": "PF",
     "height": 208,
@@ -62177,7 +62177,7 @@ module.exports = [
   },
   {
     "id": "harrison-barnes",
-    "name": "Harrison·巴恩斯",
+    "name": "哈尔里森·巴尔内斯",
     "name_en": "Harrison Barnes",
     "position": "SF",
     "height": 203,
@@ -62217,7 +62217,7 @@ module.exports = [
   },
   {
     "id": "meyers-leonard",
-    "name": "Meyers·伦纳德",
+    "name": "梅耶斯·勒昂德",
     "name_en": "Meyers Leonard",
     "position": "PF",
     "height": 213,
@@ -62257,7 +62257,7 @@ module.exports = [
   },
   {
     "id": "maurice-harkless",
-    "name": "Maurice Harkless",
+    "name": "马尔斯·哈尔克斯",
     "name_en": "Maurice Harkless",
     "position": "SF",
     "height": 201,
@@ -62299,7 +62299,7 @@ module.exports = [
   },
   {
     "id": "marquis-teague",
-    "name": "Marquis Teague",
+    "name": "马尔奎乌斯·特格乌埃",
     "name_en": "Marquis Teague",
     "position": "SG",
     "height": 188,
@@ -62339,7 +62339,7 @@ module.exports = [
   },
   {
     "id": "maalik-wayns",
-    "name": "Maalik Wayns",
+    "name": "马尔克·瓦伊恩斯",
     "name_en": "Maalik Wayns",
     "position": "PG",
     "height": 185,
@@ -62375,7 +62375,7 @@ module.exports = [
   },
   {
     "id": "michael-kidd-gilchrist",
-    "name": "迈克尔·Kidd-Gilchrist",
+    "name": "米奇阿尔·基德-吉尔奇里斯特",
     "name_en": "Michael Kidd-Gilchrist",
     "position": "SF",
     "height": 198,
@@ -62413,7 +62413,7 @@ module.exports = [
   },
   {
     "id": "orlando-johnson",
-    "name": "Orlando·约翰逊",
+    "name": "尔兰奥·乔赫恩森",
     "name_en": "Orlando Johnson",
     "position": "PG",
     "height": 196,
@@ -62453,7 +62453,7 @@ module.exports = [
   },
   {
     "id": "nando-de-colo",
-    "name": "Nando De Colo",
+    "name": "纳恩多·科洛",
     "name_en": "Nando De Colo",
     "position": "SG",
     "height": 196,
@@ -62491,7 +62491,7 @@ module.exports = [
   },
   {
     "id": "mirza-teletovic",
-    "name": "Mirza Teletovic",
+    "name": "米尔扎·特勒托维克",
     "name_en": "Mirza Teletovic",
     "position": "SF",
     "height": 206,
@@ -62575,7 +62575,7 @@ module.exports = [
   },
   {
     "id": "mike-scott",
-    "name": "Mike Scott",
+    "name": "米凯·斯特",
     "name_en": "Mike Scott",
     "position": "SF",
     "height": 201,
@@ -62615,7 +62615,7 @@ module.exports = [
   },
   {
     "id": "luke-zeller",
-    "name": "Luke Zeller",
+    "name": "卢凯·泽尔",
     "name_en": "Luke Zeller",
     "position": "PF",
     "height": 211,
@@ -62651,7 +62651,7 @@ module.exports = [
   },
   {
     "id": "kim-english",
-    "name": "Kim English",
+    "name": "基姆·恩格什",
     "name_en": "Kim English",
     "position": "PG",
     "height": 198,
@@ -62687,7 +62687,7 @@ module.exports = [
   },
   {
     "id": "khris-middleton",
-    "name": "Khris·米德尔顿",
+    "name": "克里斯·米德勒顿",
     "name_en": "Khris Middleton",
     "position": "SF",
     "height": 201,
@@ -62797,7 +62797,7 @@ module.exports = [
   },
   {
     "id": "kent-bazemore",
-    "name": "Kent Bazemore",
+    "name": "凯恩特·巴泽莫雷",
     "name_en": "Kent Bazemore",
     "position": "SG",
     "height": 193,
@@ -62839,7 +62839,7 @@ module.exports = [
   },
   {
     "id": "kendall-marshall",
-    "name": "Kendall·马歇尔",
+    "name": "凯恩达尔·马尔什尔",
     "name_en": "Kendall Marshall",
     "position": "PG",
     "height": 193,
@@ -62881,7 +62881,7 @@ module.exports = [
   },
   {
     "id": "justin-holiday",
-    "name": "Justin·霍勒迪",
+    "name": "朱斯特因·霍利达伊",
     "name_en": "Justin Holiday",
     "position": "SF",
     "height": 198,
@@ -62931,7 +62931,7 @@ module.exports = [
   },
   {
     "id": "kyle-singler",
-    "name": "凯尔·Singler",
+    "name": "凯勒·辛格尔",
     "name_en": "Kyle Singler",
     "position": "SF",
     "height": 203,
@@ -62969,7 +62969,7 @@ module.exports = [
   },
   {
     "id": "kyle-oquinn",
-    "name": "凯尔·O'Quinn",
+    "name": "凯勒·奥奎因恩",
     "name_en": "Kyle O'Quinn",
     "position": "PF",
     "height": 206,
@@ -63011,7 +63011,7 @@ module.exports = [
   },
   {
     "id": "kris-joseph",
-    "name": "Kris·约瑟夫",
+    "name": "克斯·乔塞菲",
     "name_en": "Kris Joseph",
     "position": "SF",
     "height": 201,
@@ -63091,7 +63091,7 @@ module.exports = [
   },
   {
     "id": "alexey-shved",
-    "name": "Alexey Shved",
+    "name": "尔克斯伊·什维德",
     "name_en": "Alexey Shved",
     "position": "SG",
     "height": 198,
@@ -63129,7 +63129,7 @@ module.exports = [
   },
   {
     "id": "ian-clark",
-    "name": "Ian·克拉克",
+    "name": "伊恩·克",
     "name_en": "Ian Clark",
     "position": "PG",
     "height": 190,
@@ -63171,7 +63171,7 @@ module.exports = [
   },
   {
     "id": "isaiah-canaan",
-    "name": "以赛亚·Canaan",
+    "name": "斯阿伊赫·卡纳恩",
     "name_en": "Isaiah Canaan",
     "position": "SG",
     "height": 183,
@@ -63215,7 +63215,7 @@ module.exports = [
   },
   {
     "id": "gorgui-dieng",
-    "name": "Gorgui·迪昂",
+    "name": "戈尔古伊·迪恩格",
     "name_en": "Gorgui Dieng",
     "position": "C",
     "height": 208,
@@ -63257,7 +63257,7 @@ module.exports = [
   },
   {
     "id": "hollis-thompson",
-    "name": "Hollis·汤普森",
+    "name": "霍尔斯·斯普森",
     "name_en": "Hollis Thompson",
     "position": "SG",
     "height": 203,
@@ -63295,7 +63295,7 @@ module.exports = [
   },
   {
     "id": "elias-harris",
-    "name": "Elias·哈里斯",
+    "name": "尔伊斯·哈尔里斯",
     "name_en": "Elias Harris",
     "position": "SF",
     "height": 203,
@@ -63331,7 +63331,7 @@ module.exports = [
   },
   {
     "id": "erik-murphy",
-    "name": "Erik·墨菲",
+    "name": "里克·穆普海",
     "name_en": "Erik Murphy",
     "position": "SF",
     "height": 208,
@@ -63367,7 +63367,7 @@ module.exports = [
   },
   {
     "id": "gal-mekel",
-    "name": "Gal Mekel",
+    "name": "加尔·梅凯尔",
     "name_en": "Gal Mekel",
     "position": "SG",
     "height": 190,
@@ -63403,7 +63403,7 @@ module.exports = [
   },
   {
     "id": "jamaal-franklin",
-    "name": "Jamaal·富兰克林",
+    "name": "贾马尔·弗克林",
     "name_en": "Jamaal Franklin",
     "position": "SG",
     "height": 196,
@@ -63477,7 +63477,7 @@ module.exports = [
   },
   {
     "id": "gigi-datome",
-    "name": "Gigi Datome",
+    "name": "吉·达托梅",
     "name_en": "Gigi Datome",
     "position": "SF",
     "height": 203,
@@ -63515,7 +63515,7 @@ module.exports = [
   },
   {
     "id": "jorge-gutierrez",
-    "name": "Jorge·古铁雷斯",
+    "name": "乔尔杰·古蒂尔雷兹",
     "name_en": "Jorge Gutierrez",
     "position": "PG",
     "height": 190,
@@ -63555,7 +63555,7 @@ module.exports = [
   },
   {
     "id": "james-nunnally",
-    "name": "詹姆斯·Nunnally",
+    "name": "贾梅斯·努恩纳尔伊",
     "name_en": "James Nunnally",
     "position": "SF",
     "height": 201,
@@ -63595,7 +63595,7 @@ module.exports = [
   },
   {
     "id": "james-southerland",
-    "name": "詹姆斯·Southerland",
+    "name": "贾梅斯·索斯尔兰",
     "name_en": "James Southerland",
     "position": "SF",
     "height": 203,
@@ -63631,7 +63631,7 @@ module.exports = [
   },
   {
     "id": "jeff-withey",
-    "name": "杰夫·Withey",
+    "name": "杰弗·威斯伊",
     "name_en": "Jeff Withey",
     "position": "C",
     "height": 213,
@@ -63671,7 +63671,7 @@ module.exports = [
   },
   {
     "id": "brandon-davies",
-    "name": "布兰登·Davies",
+    "name": "布德昂·达维斯",
     "name_en": "Brandon Davies",
     "position": "SF",
     "height": 208,
@@ -63707,7 +63707,7 @@ module.exports = [
   },
   {
     "id": "cj-mccollum",
-    "name": "Cj·麦科勒姆",
+    "name": "克杰·麦克科尔姆",
     "name_en": "CJ McCollum",
     "position": "PG",
     "height": 190,
@@ -63745,7 +63745,7 @@ module.exports = [
   },
   {
     "id": "carrick-felix",
-    "name": "Carrick Felix",
+    "name": "卡尔里克·费利克斯",
     "name_en": "Carrick Felix",
     "position": "SG",
     "height": 198,
@@ -63781,7 +63781,7 @@ module.exports = [
   },
   {
     "id": "casper-ware",
-    "name": "Casper Ware",
+    "name": "卡斯尔·瓦雷",
     "name_en": "Casper Ware",
     "position": "PG",
     "height": 178,
@@ -63817,7 +63817,7 @@ module.exports = [
   },
   {
     "id": "chris-babb",
-    "name": "克里斯·Babb",
+    "name": "奇里斯·巴布",
     "name_en": "Chris Babb",
     "position": "SG",
     "height": 196,
@@ -63853,7 +63853,7 @@ module.exports = [
   },
   {
     "id": "andre-roberson",
-    "name": "安德烈·Roberson",
+    "name": "德雷·罗贝尔森",
     "name_en": "Andre Roberson",
     "position": "SG",
     "height": 201,
@@ -63891,7 +63891,7 @@ module.exports = [
   },
   {
     "id": "anthony-bennett",
-    "name": "安东尼·Bennett",
+    "name": "特霍尼·贝恩内特",
     "name_en": "Anthony Bennett",
     "position": "SF",
     "height": 203,
@@ -63933,7 +63933,7 @@ module.exports = [
   },
   {
     "id": "archie-goodwin",
-    "name": "Archie Goodwin",
+    "name": "尔奇伊埃·戈德威恩",
     "name_en": "Archie Goodwin",
     "position": "PG",
     "height": 196,
@@ -63971,7 +63971,7 @@ module.exports = [
   },
   {
     "id": "arinze-onuaku",
-    "name": "Arinze Onuaku",
+    "name": "尔因泽·昂乌克乌",
     "name_en": "Arinze Onuaku",
     "position": "PF",
     "height": 206,
@@ -64011,7 +64011,7 @@ module.exports = [
   },
   {
     "id": "ben-mclemore",
-    "name": "Ben·麦克勒莫",
+    "name": "贝恩·麦克勒莫雷",
     "name_en": "Ben McLemore",
     "position": "SG",
     "height": 190,
@@ -64097,7 +64097,7 @@ module.exports = [
   },
   {
     "id": "dewayne-dedmon",
-    "name": "Dewayne Dedmon",
+    "name": "德瓦因·德莫恩",
     "name_en": "Dewayne Dedmon",
     "position": "C",
     "height": 208,
@@ -64141,7 +64141,7 @@ module.exports = [
   },
   {
     "id": "dionte-christmas",
-    "name": "Dionte Christmas",
+    "name": "迪特埃·奇里斯特马斯",
     "name_en": "Dionte Christmas",
     "position": "SG",
     "height": 196,
@@ -64177,7 +64177,7 @@ module.exports = [
   },
   {
     "id": "dwight-buycks",
-    "name": "德怀特·Buycks",
+    "name": "德威格特·布克斯",
     "name_en": "Dwight Buycks",
     "position": "SG",
     "height": 190,
@@ -64253,7 +64253,7 @@ module.exports = [
   },
   {
     "id": "cody-zeller",
-    "name": "科迪·Zeller",
+    "name": "科迪·泽尔",
     "name_en": "Cody Zeller",
     "position": "PF",
     "height": 211,
@@ -64293,7 +64293,7 @@ module.exports = [
   },
   {
     "id": "dj-stephens",
-    "name": "DJ Stephens",
+    "name": "德杰·斯特普赫恩斯",
     "name_en": "DJ Stephens",
     "position": "SG",
     "height": 196,
@@ -64405,7 +64405,7 @@ module.exports = [
   },
   {
     "id": "ryan-kelly",
-    "name": "Ryan·凯利",
+    "name": "里恩·凯尔伊",
     "name_en": "Ryan Kelly",
     "position": "SF",
     "height": 211,
@@ -64443,7 +64443,7 @@ module.exports = [
   },
   {
     "id": "scotty-hopson",
-    "name": "斯科蒂·Hopson",
+    "name": "斯特伊·霍普森",
     "name_en": "Scotty Hopson",
     "position": "PG",
     "height": 201,
@@ -64483,7 +64483,7 @@ module.exports = [
   },
   {
     "id": "sergey-karasev",
-    "name": "Sergey Karasev",
+    "name": "塞尔杰伊·卡拉塞维",
     "name_en": "Sergey Karasev",
     "position": "SG",
     "height": 201,
@@ -64521,7 +64521,7 @@ module.exports = [
   },
   {
     "id": "seth-curry",
-    "name": "Seth·库里",
+    "name": "塞斯·库尔里",
     "name_en": "Seth Curry",
     "position": "PG",
     "height": 185,
@@ -64569,7 +64569,7 @@ module.exports = [
   },
   {
     "id": "shabazz-muhammad",
-    "name": "Shabazz Muhammad",
+    "name": "什布兹·穆哈姆马德",
     "name_en": "Shabazz Muhammad",
     "position": "SG",
     "height": 198,
@@ -64607,7 +64607,7 @@ module.exports = [
   },
   {
     "id": "shane-edwards",
-    "name": "Shane·爱德华兹",
+    "name": "什恩·德瓦尔德斯",
     "name_en": "Shane Edwards",
     "position": null,
     "height": 201,
@@ -64643,7 +64643,7 @@ module.exports = [
   },
   {
     "id": "shane-larkin",
-    "name": "Shane Larkin",
+    "name": "什恩·拉尔基恩",
     "name_en": "Shane Larkin",
     "position": "PG",
     "height": 180,
@@ -64685,7 +64685,7 @@ module.exports = [
   },
   {
     "id": "solomon-hill",
-    "name": "Solomon·希尔",
+    "name": "索洛莫恩·希尔",
     "name_en": "Solomon Hill",
     "position": "SF",
     "height": 198,
@@ -64727,7 +64727,7 @@ module.exports = [
   },
   {
     "id": "ray-mccallum",
-    "name": "雷·Mccallum",
+    "name": "拉伊·麦克卡尔姆",
     "name_en": "Ray McCallum",
     "position": "PG",
     "height": 190,
@@ -64765,7 +64765,7 @@ module.exports = [
   },
   {
     "id": "reggie-bullock",
-    "name": "雷吉·Bullock",
+    "name": "雷格吉埃·布尔克",
     "name_en": "Reggie Bullock",
     "position": "SF",
     "height": 198,
@@ -64811,7 +64811,7 @@ module.exports = [
   },
   {
     "id": "ricky-ledo",
-    "name": "里基·Ledo",
+    "name": "里克伊·勒多",
     "name_en": "Ricky Ledo",
     "position": "SG",
     "height": 201,
@@ -64849,7 +64849,7 @@ module.exports = [
   },
   {
     "id": "robbie-hummel",
-    "name": "Robbie Hummel",
+    "name": "罗布比埃·胡姆梅尔",
     "name_en": "Robbie Hummel",
     "position": "SF",
     "height": 206,
@@ -64929,7 +64929,7 @@ module.exports = [
   },
   {
     "id": "phil-pressey",
-    "name": "Phil Pressey",
+    "name": "菲尔·普斯伊",
     "name_en": "Phil Pressey",
     "position": "SG",
     "height": 180,
@@ -64967,7 +64967,7 @@ module.exports = [
   },
   {
     "id": "troy-daniels",
-    "name": "Troy·丹尼尔斯",
+    "name": "特伊·达尼斯",
     "name_en": "Troy Daniels",
     "position": "SG",
     "height": 193,
@@ -65011,7 +65011,7 @@ module.exports = [
   },
   {
     "id": "vander-blue",
-    "name": "Vander Blue",
+    "name": "瓦恩德尔·布卢埃",
     "name_en": "Vander Blue",
     "position": "SG",
     "height": 196,
@@ -65049,7 +65049,7 @@ module.exports = [
   },
   {
     "id": "victor-oladipo",
-    "name": "Victor·奥拉迪波",
+    "name": "维克托尔·尔德普奥",
     "name_en": "Victor Oladipo",
     "position": "SG",
     "height": 190,
@@ -65091,7 +65091,7 @@ module.exports = [
   },
   {
     "id": "vitor-faverani",
-    "name": "Vitor Faverani",
+    "name": "维托尔·法维拉尼",
     "name_en": "Vitor Faverani",
     "position": "C",
     "height": 211,
@@ -65127,7 +65127,7 @@ module.exports = [
   },
   {
     "id": "trey-burke",
-    "name": "Trey·伯克",
+    "name": "特伊·布尔凯",
     "name_en": "Trey Burke",
     "position": "PG",
     "height": 183,
@@ -65287,7 +65287,7 @@ module.exports = [
   },
   {
     "id": "tony-snell",
-    "name": "托尼·Snell",
+    "name": "顿伊·斯尔",
     "name_en": "Tony Snell",
     "position": "PG",
     "height": 198,
@@ -65331,7 +65331,7 @@ module.exports = [
   },
   {
     "id": "toure-murry",
-    "name": "Toure' Murry",
+    "name": "托尔'·穆尔里",
     "name_en": "Toure' Murry",
     "position": "SG",
     "height": 196,
@@ -65369,7 +65369,7 @@ module.exports = [
   },
   {
     "id": "peyton-siva",
-    "name": "Peyton Siva",
+    "name": "佩伊顿·西瓦",
     "name_en": "Peyton Siva",
     "position": "PG",
     "height": 183,
@@ -65405,7 +65405,7 @@ module.exports = [
   },
   {
     "id": "pero-antic",
-    "name": "Pero Antic",
+    "name": "佩罗·特克",
     "name_en": "Pero Antic",
     "position": "PF",
     "height": 211,
@@ -65441,7 +65441,7 @@ module.exports = [
   },
   {
     "id": "lorenzo-brown",
-    "name": "Lorenzo·布朗",
+    "name": "洛雷恩佐·布恩",
     "name_en": "Lorenzo Brown",
     "position": "PG",
     "height": 196,
@@ -65483,7 +65483,7 @@ module.exports = [
   },
   {
     "id": "justin-hamilton",
-    "name": "Justin·汉密尔顿",
+    "name": "朱斯特因·哈米尔特昂",
     "name_en": "Justin Hamilton",
     "position": "C",
     "height": 213,
@@ -65523,7 +65523,7 @@ module.exports = [
   },
   {
     "id": "kelly-olynyk",
-    "name": "Kelly·奥利尼克",
+    "name": "凯尔伊·利尼克",
     "name_en": "Kelly Olynyk",
     "position": "PF",
     "height": 211,
@@ -65567,7 +65567,7 @@ module.exports = [
   },
   {
     "id": "kentavious-caldwell-pope",
-    "name": "肯塔维厄斯·Caldwell-Pope",
+    "name": "肯塔维斯·卡尔德韦尔-波佩",
     "name_en": "Kentavious Caldwell-Pope",
     "position": "PG",
     "height": 196,
@@ -65609,7 +65609,7 @@ module.exports = [
   },
   {
     "id": "nemanja-nedovic",
-    "name": "Nemanja Nedovic",
+    "name": "内曼贾·内多维克",
     "name_en": "Nemanja Nedovic",
     "position": "SG",
     "height": 190,
@@ -65645,7 +65645,7 @@ module.exports = [
   },
   {
     "id": "nick-calathes",
-    "name": "尼克·Calathes",
+    "name": "尼克·卡拉斯",
     "name_en": "Nick Calathes",
     "position": "SG",
     "height": 198,
@@ -65681,7 +65681,7 @@ module.exports = [
   },
   {
     "id": "ognjen-kuzmic",
-    "name": "Ognjen Kuzmic",
+    "name": "格恩杰恩·库兹米克",
     "name_en": "Ognjen Kuzmic",
     "position": "C",
     "height": 213,
@@ -65761,7 +65761,7 @@ module.exports = [
   },
   {
     "id": "nate-wolters",
-    "name": "Nate Wolters",
+    "name": "纳特·沃尔特尔斯",
     "name_en": "Nate Wolters",
     "position": "PG",
     "height": 193,
@@ -65799,7 +65799,7 @@ module.exports = [
   },
   {
     "id": "mason-plumlee",
-    "name": "Mason·普拉姆利",
+    "name": "马森·普姆勒埃",
     "name_en": "Mason Plumlee",
     "position": "PF",
     "height": 213,
@@ -65845,7 +65845,7 @@ module.exports = [
   },
   {
     "id": "matthew-dellavedova",
-    "name": "Matthew Dellavedova",
+    "name": "马特斯尤·德尔夫德夫阿",
     "name_en": "Matthew Dellavedova",
     "position": "PG",
     "height": 190,
@@ -65885,7 +65885,7 @@ module.exports = [
   },
   {
     "id": "michael-carter-williams",
-    "name": "迈克尔·Carter-Williams",
+    "name": "米奇阿尔·卡特尔-威尔伊姆斯",
     "name_en": "Michael Carter-Williams",
     "position": "SG",
     "height": 196,
@@ -65929,7 +65929,7 @@ module.exports = [
   },
   {
     "id": "mike-muscala",
-    "name": "Mike Muscala",
+    "name": "米凯·穆斯尔阿",
     "name_en": "Mike Muscala",
     "position": "PF",
     "height": 211,
@@ -65971,7 +65971,7 @@ module.exports = [
   },
   {
     "id": "miroslav-raduljica",
-    "name": "Miroslav Raduljica",
+    "name": "米罗斯夫·拉杜尔吉卡",
     "name_en": "Miroslav Raduljica",
     "position": "C",
     "height": 213,
@@ -66009,7 +66009,7 @@ module.exports = [
   },
   {
     "id": "adonis-thomas",
-    "name": "Adonis·托马斯",
+    "name": "德昂斯·斯姆斯",
     "name_en": "Adonis Thomas",
     "position": "SG",
     "height": 201,
@@ -66045,7 +66045,7 @@ module.exports = [
   },
   {
     "id": "alex-len",
-    "name": "亚历克斯·Len",
+    "name": "尔克斯·勒恩",
     "name_en": "Alex Len",
     "position": "C",
     "height": 218,
@@ -66087,7 +66087,7 @@ module.exports = [
   },
   {
     "id": "allen-crabbe",
-    "name": "阿伦·Crabbe",
+    "name": "尔恩·克布贝",
     "name_en": "Allen Crabbe",
     "position": "SG",
     "height": 196,
@@ -66127,7 +66127,7 @@ module.exports = [
   },
   {
     "id": "patrick-christopher",
-    "name": "帕特里克·Christopher",
+    "name": "帕特克·奇里斯特普赫尔",
     "name_en": "Patrick Christopher",
     "position": null,
     "height": 196,
@@ -66163,7 +66163,7 @@ module.exports = [
   },
   {
     "id": "pj-hairston",
-    "name": "PJ Hairston",
+    "name": "普杰·哈尔斯特昂",
     "name_en": "PJ Hairston",
     "position": "SF",
     "height": 198,
@@ -66201,7 +66201,7 @@ module.exports = [
   },
   {
     "id": "noah-vonleh",
-    "name": "Noah Vonleh",
+    "name": "诺赫·沃恩勒赫",
     "name_en": "Noah Vonleh",
     "position": "SF",
     "height": 208,
@@ -66249,7 +66249,7 @@ module.exports = [
   },
   {
     "id": "nikola-mirotic",
-    "name": "尼古拉·Mirotic",
+    "name": "尼科拉·米罗蒂克",
     "name_en": "Nikola Mirotic",
     "position": "SF",
     "height": 208,
@@ -66289,7 +66289,7 @@ module.exports = [
   },
   {
     "id": "russ-smith",
-    "name": "Russ·史密斯",
+    "name": "鲁斯·斯",
     "name_en": "Russ Smith",
     "position": "PG",
     "height": 183,
@@ -66325,7 +66325,7 @@ module.exports = [
   },
   {
     "id": "rodney-hood",
-    "name": "Rodney·胡德",
+    "name": "罗德尼·霍德",
     "name_en": "Rodney Hood",
     "position": "SG",
     "height": 203,
@@ -66369,7 +66369,7 @@ module.exports = [
   },
   {
     "id": "nik-stauskas",
-    "name": "Nik Stauskas",
+    "name": "尼克·斯特阿斯克斯",
     "name_en": "Nik Stauskas",
     "position": "SG",
     "height": 198,
@@ -66449,7 +66449,7 @@ module.exports = [
   },
   {
     "id": "markel-brown",
-    "name": "Markel·布朗",
+    "name": "马尔凯尔·布恩",
     "name_en": "Markel Brown",
     "position": "SG",
     "height": 190,
@@ -66523,7 +66523,7 @@ module.exports = [
   },
   {
     "id": "lucas-nogueira",
-    "name": "Lucas Nogueira",
+    "name": "卢卡斯·诺古埃尔阿",
     "name_en": "Lucas Nogueira",
     "position": "C",
     "height": 213,
@@ -66559,7 +66559,7 @@ module.exports = [
   },
   {
     "id": "larry-drew-ii",
-    "name": "拉里·Ii",
+    "name": "拉尔里·伊",
     "name_en": "Larry Drew II",
     "position": "PG",
     "height": 188,
@@ -66597,7 +66597,7 @@ module.exports = [
   },
   {
     "id": "langston-galloway",
-    "name": "Langston Galloway",
+    "name": "兰格斯特昂·加尔奥伊",
     "name_en": "Langston Galloway",
     "position": "SG",
     "height": 185,
@@ -66641,7 +66641,7 @@ module.exports = [
   },
   {
     "id": "nerlens-noel",
-    "name": "Nerlens·诺埃尔",
+    "name": "内尔斯·诺尔",
     "name_en": "Nerlens Noel",
     "position": "PF",
     "height": 208,
@@ -66685,7 +66685,7 @@ module.exports = [
   },
   {
     "id": "sean-kilpatrick",
-    "name": "Sean Kilpatrick",
+    "name": "塞恩·基尔普特里克",
     "name_en": "Sean Kilpatrick",
     "position": "PG",
     "height": 193,
@@ -66725,7 +66725,7 @@ module.exports = [
   },
   {
     "id": "mitch-mcgary",
-    "name": "Mitch McGary",
+    "name": "米特奇·麦克加里",
     "name_en": "Mitch McGary",
     "position": "SF",
     "height": 208,
@@ -66805,7 +66805,7 @@ module.exports = [
   },
   {
     "id": "andre-dawkins",
-    "name": "安德烈·Dawkins",
+    "name": "德雷·达沃基恩斯",
     "name_en": "Andre Dawkins",
     "position": "SG",
     "height": 196,
@@ -66841,7 +66841,7 @@ module.exports = [
   },
   {
     "id": "travis-wear",
-    "name": "Travis Wear",
+    "name": "特夫斯·韦尔",
     "name_en": "Travis Wear",
     "position": "SF",
     "height": 208,
@@ -66959,7 +66959,7 @@ module.exports = [
   },
   {
     "id": "andrew-wiggins",
-    "name": "Andrew·维金斯",
+    "name": "德雷沃·威格吉恩斯",
     "name_en": "Andrew Wiggins",
     "position": "SF",
     "height": 201,
@@ -66997,7 +66997,7 @@ module.exports = [
   },
   {
     "id": "tarik-black",
-    "name": "Tarik Black",
+    "name": "塔里克·布拉克",
     "name_en": "Tarik Black",
     "position": "PF",
     "height": 206,
@@ -67035,7 +67035,7 @@ module.exports = [
   },
   {
     "id": "tj-warren",
-    "name": "TJ·沃伦",
+    "name": "特杰·瓦尔伦",
     "name_en": "TJ Warren",
     "position": "SF",
     "height": 203,
@@ -67113,7 +67113,7 @@ module.exports = [
   },
   {
     "id": "sim-bhullar",
-    "name": "Sim Bhullar",
+    "name": "西姆·布胡尔",
     "name_en": "Sim Bhullar",
     "position": "C",
     "height": 226,
@@ -67149,7 +67149,7 @@ module.exports = [
   },
   {
     "id": "shayne-whittington",
-    "name": "Shayne Whittington",
+    "name": "什恩埃·惠特英顿",
     "name_en": "Shayne Whittington",
     "position": "PF",
     "height": 211,
@@ -67185,7 +67185,7 @@ module.exports = [
   },
   {
     "id": "shabazz-napier",
-    "name": "Shabazz Napier",
+    "name": "什布兹·纳皮尔",
     "name_en": "Shabazz Napier",
     "position": "PG",
     "height": 183,
@@ -67229,7 +67229,7 @@ module.exports = [
   },
   {
     "id": "tim-frazier",
-    "name": "蒂姆·Frazier",
+    "name": "蒂姆·弗兹尔",
     "name_en": "Tim Frazier",
     "position": "PG",
     "height": 183,
@@ -67277,7 +67277,7 @@ module.exports = [
   },
   {
     "id": "alex-kirk",
-    "name": "亚历克斯·Kirk",
+    "name": "尔克斯·基尔克",
     "name_en": "Alex Kirk",
     "position": "C",
     "height": 213,
@@ -67313,7 +67313,7 @@ module.exports = [
   },
   {
     "id": "adreian-payne",
-    "name": "Adreian·佩恩",
+    "name": "德雷伊恩·帕因",
     "name_en": "Adreian Payne",
     "position": "SF",
     "height": 208,
@@ -67389,7 +67389,7 @@ module.exports = [
   },
   {
     "id": "will-cherry",
-    "name": "Will Cherry",
+    "name": "威尔·奇尔里",
     "name_en": "Will Cherry",
     "position": null,
     "height": 183,
@@ -67463,7 +67463,7 @@ module.exports = [
   },
   {
     "id": "zoran-dragic",
-    "name": "Zoran·德拉季奇",
+    "name": "佐拉恩·德格克",
     "name_en": "Zoran Dragic",
     "position": "SG",
     "height": 196,
@@ -67535,7 +67535,7 @@ module.exports = [
   },
   {
     "id": "drew-gordon",
-    "name": "Drew·戈登",
+    "name": "德尤·戈尔多恩",
     "name_en": "Drew Gordon",
     "position": "PF",
     "height": 206,
@@ -67571,7 +67571,7 @@ module.exports = [
   },
   {
     "id": "elfrid-payton",
-    "name": "Elfrid·佩顿",
+    "name": "尔弗德·帕伊顿",
     "name_en": "Elfrid Payton",
     "position": "PG",
     "height": 190,
@@ -67613,7 +67613,7 @@ module.exports = [
   },
   {
     "id": "doug-mcdermott",
-    "name": "道格·Mcdermott",
+    "name": "多格·麦克德姆特",
     "name_en": "Doug McDermott",
     "position": "SF",
     "height": 198,
@@ -67657,7 +67657,7 @@ module.exports = [
   },
   {
     "id": "devyn-marble",
-    "name": "Devyn Marble",
+    "name": "德维伊恩·马尔布勒",
     "name_en": "Devyn Marble",
     "position": "SF",
     "height": 198,
@@ -67693,7 +67693,7 @@ module.exports = [
   },
   {
     "id": "elijah-millsap",
-    "name": "Elijah Millsap",
+    "name": "尔伊贾赫·米尔萨普",
     "name_en": "Elijah Millsap",
     "position": "SG",
     "height": 201,
@@ -67731,7 +67731,7 @@ module.exports = [
   },
   {
     "id": "glenn-robinson-iii",
-    "name": "Glenn·三世",
+    "name": "格恩·伊",
     "name_en": "Glenn Robinson III",
     "position": "SF",
     "height": 198,
@@ -67811,7 +67811,7 @@ module.exports = [
   },
   {
     "id": "furkan-aldemir",
-    "name": "Furkan Aldemir",
+    "name": "富尔卡恩·尔德米尔",
     "name_en": "Furkan Aldemir",
     "position": "PF",
     "height": 208,
@@ -67847,7 +67847,7 @@ module.exports = [
   },
   {
     "id": "erick-green",
-    "name": "Erick·格林",
+    "name": "里克·格恩",
     "name_en": "Erick Green",
     "position": "PG",
     "height": 193,
@@ -67883,7 +67883,7 @@ module.exports = [
   },
   {
     "id": "eric-moreland",
-    "name": "埃里克·Moreland",
+    "name": "里克·莫雷兰",
     "name_en": "Eric Moreland",
     "position": "PF",
     "height": 208,
@@ -67923,7 +67923,7 @@ module.exports = [
   },
   {
     "id": "cameron-bairstow",
-    "name": "卡梅伦·Bairstow",
+    "name": "卡梅罗恩·巴尔斯特奥",
     "name_en": "Cameron Bairstow",
     "position": "PF",
     "height": 206,
@@ -67961,7 +67961,7 @@ module.exports = [
   },
   {
     "id": "cj-wilcox",
-    "name": "Cj·威尔科克斯",
+    "name": "克杰·威尔科克斯",
     "name_en": "CJ Wilcox",
     "position": "PG",
     "height": 196,
@@ -67999,7 +67999,7 @@ module.exports = [
   },
   {
     "id": "bryce-cotton",
-    "name": "Bryce Cotton",
+    "name": "布斯·科特顿",
     "name_en": "Bryce Cotton",
     "position": "PG",
     "height": 185,
@@ -68079,7 +68079,7 @@ module.exports = [
   },
   {
     "id": "grant-jerrett",
-    "name": "Grant Jerrett",
+    "name": "格特·杰尔雷特",
     "name_en": "Grant Jerrett",
     "position": "SF",
     "height": 208,
@@ -68115,7 +68115,7 @@ module.exports = [
   },
   {
     "id": "david-wear",
-    "name": "大卫·Wear",
+    "name": "达维德·韦尔",
     "name_en": "David Wear",
     "position": "SF",
     "height": 208,
@@ -68151,7 +68151,7 @@ module.exports = [
   },
   {
     "id": "david-stockton",
-    "name": "大卫·Stockton",
+    "name": "达维德·斯特克顿",
     "name_en": "David Stockton",
     "position": "PG",
     "height": 180,
@@ -68189,7 +68189,7 @@ module.exports = [
   },
   {
     "id": "dante-exum",
-    "name": "Dante Exum",
+    "name": "达恩特·克斯姆",
     "name_en": "Dante Exum",
     "position": "PG",
     "height": 196,
@@ -68229,7 +68229,7 @@ module.exports = [
   },
   {
     "id": "damjan-rudez",
-    "name": "Damjan Rudez",
+    "name": "达姆贾恩·鲁德兹",
     "name_en": "Damjan Rudez",
     "position": "SF",
     "height": 208,
@@ -68345,7 +68345,7 @@ module.exports = [
   },
   {
     "id": "cleanthony-early",
-    "name": "Cleanthony Early",
+    "name": "克安斯昂伊·尔利",
     "name_en": "Cleanthony Early",
     "position": "SF",
     "height": 203,
@@ -68421,7 +68421,7 @@ module.exports = [
   },
   {
     "id": "jordan-clarkson",
-    "name": "Jordan·克拉克森",
+    "name": "乔尔达恩·克森",
     "name_en": "Jordan Clarkson",
     "position": "PG",
     "height": 196,
@@ -68461,7 +68461,7 @@ module.exports = [
   },
   {
     "id": "jordan-adams",
-    "name": "Jordan·亚当斯",
+    "name": "乔尔达恩·德姆斯",
     "name_en": "Jordan Adams",
     "position": "SG",
     "height": 196,
@@ -68497,7 +68497,7 @@ module.exports = [
   },
   {
     "id": "johnny-obryant-iii",
-    "name": "Johnny·三世",
+    "name": "乔赫恩尼·伊",
     "name_en": "Johnny O'Bryant III",
     "position": "PF",
     "height": 206,
@@ -68535,7 +68535,7 @@ module.exports = [
   },
   {
     "id": "joffrey-lauvergne",
-    "name": "Joffrey Lauvergne",
+    "name": "乔弗伊·拉夫尔格内",
     "name_en": "Joffrey Lauvergne",
     "position": "C",
     "height": 211,
@@ -68575,7 +68575,7 @@ module.exports = [
   },
   {
     "id": "joe-ingles",
-    "name": "乔·Ingles",
+    "name": "乔埃·英勒斯",
     "name_en": "Joe Ingles",
     "position": "SF",
     "height": 206,
@@ -68653,7 +68653,7 @@ module.exports = [
   },
   {
     "id": "kj-mcdaniels",
-    "name": "KJ McDaniels",
+    "name": "克杰·麦克达尼斯",
     "name_en": "KJ McDaniels",
     "position": "SG",
     "height": 198,
@@ -68731,7 +68731,7 @@ module.exports = [
   },
   {
     "id": "kostas-papanikolaou",
-    "name": "Kostas Papanikolaou",
+    "name": "科斯特斯·帕尼科拉奥乌",
     "name_en": "Kostas Papanikolaou",
     "position": "SF",
     "height": 203,
@@ -68769,7 +68769,7 @@ module.exports = [
   },
   {
     "id": "kalin-lucas",
-    "name": "Kalin·卢卡斯",
+    "name": "卡利恩·卢卡斯",
     "name_en": "Kalin Lucas",
     "position": "SG",
     "height": 185,
@@ -68807,7 +68807,7 @@ module.exports = [
   },
   {
     "id": "jusuf-nurkic",
-    "name": "Jusuf·努尔基奇",
+    "name": "朱苏弗·努尔基克",
     "name_en": "Jusuf Nurkic",
     "position": null,
     "height": 213,
@@ -68845,7 +68845,7 @@ module.exports = [
   },
   {
     "id": "jack-cooley",
-    "name": "Jack Cooley",
+    "name": "贾克·科尔伊",
     "name_en": "Jack Cooley",
     "position": "PF",
     "height": 208,
@@ -68883,7 +68883,7 @@ module.exports = [
   },
   {
     "id": "jabari-parker",
-    "name": "Jabari·帕克",
+    "name": "贾巴里·帕尔凯尔",
     "name_en": "Jabari Parker",
     "position": "SF",
     "height": 201,
@@ -68925,7 +68925,7 @@ module.exports = [
   },
   {
     "id": "jabari-brown",
-    "name": "Jabari·布朗",
+    "name": "贾巴里·布恩",
     "name_en": "Jabari Brown",
     "position": "SG",
     "height": 196,
@@ -68961,7 +68961,7 @@ module.exports = [
   },
   {
     "id": "jamychal-green",
-    "name": "Jamychal·格林",
+    "name": "贾迈奇尔·格恩",
     "name_en": "JaMychal Green",
     "position": "PF",
     "height": 206,
@@ -69003,7 +69003,7 @@ module.exports = [
   },
   {
     "id": "jakarr-sampson",
-    "name": "JaKarr Sampson",
+    "name": "贾卡尔·萨姆普森",
     "name_en": "JaKarr Sampson",
     "position": "SF",
     "height": 201,
@@ -69095,7 +69095,7 @@ module.exports = [
   },
   {
     "id": "jerrelle-benimon",
-    "name": "Jerrelle Benimon",
+    "name": "杰尔雷尔埃·贝尼蒙",
     "name_en": "Jerrelle Benimon",
     "position": null,
     "height": 203,
@@ -69131,7 +69131,7 @@ module.exports = [
   },
   {
     "id": "jerel-mcneal",
-    "name": "Jerel McNeal",
+    "name": "杰雷尔·麦克内尔",
     "name_en": "Jerel McNeal",
     "position": "PG",
     "height": 190,
@@ -69211,7 +69211,7 @@ module.exports = [
   },
   {
     "id": "jarnell-stokes",
-    "name": "Jarnell·斯托克斯",
+    "name": "贾尔内尔·斯特克斯",
     "name_en": "Jarnell Stokes",
     "position": "PF",
     "height": 206,
@@ -69287,7 +69287,7 @@ module.exports = [
   },
   {
     "id": "james-michael-mcadoo",
-    "name": "詹姆斯·Mcadoo",
+    "name": "贾梅斯·麦克德奥",
     "name_en": "James Michael McAdoo",
     "position": "SF",
     "height": 206,
@@ -69325,7 +69325,7 @@ module.exports = [
   },
   {
     "id": "frank-kaminsky",
-    "name": "Frank Kaminsky",
+    "name": "弗克·卡明斯克伊",
     "name_en": "Frank Kaminsky",
     "position": "PF",
     "height": 213,
@@ -69365,7 +69365,7 @@ module.exports = [
   },
   {
     "id": "duje-dukan",
-    "name": "Duje Dukan",
+    "name": "杜杰·杜卡恩",
     "name_en": "Duje Dukan",
     "position": "SF",
     "height": 206,
@@ -69401,7 +69401,7 @@ module.exports = [
   },
   {
     "id": "edy-tavares",
-    "name": "Edy Tavares",
+    "name": "德伊·塔瓦雷斯",
     "name_en": "Edy Tavares",
     "position": "C",
     "height": 221,
@@ -69439,7 +69439,7 @@ module.exports = [
   },
   {
     "id": "emmanuel-mudiay",
-    "name": "Emmanuel Mudiay",
+    "name": "姆曼乌尔·穆迪伊",
     "name_en": "Emmanuel Mudiay",
     "position": "PG",
     "height": 190,
@@ -69481,7 +69481,7 @@ module.exports = [
   },
   {
     "id": "jj-obrien",
-    "name": "JJ O'Brien",
+    "name": "杰·奥布伊恩",
     "name_en": "JJ O'Brien",
     "position": "SF",
     "height": 201,
@@ -69517,7 +69517,7 @@ module.exports = [
   },
   {
     "id": "jerian-grant",
-    "name": "Jerian·格兰特",
+    "name": "杰里恩·格特",
     "name_en": "Jerian Grant",
     "position": "SG",
     "height": 193,
@@ -69595,7 +69595,7 @@ module.exports = [
   },
   {
     "id": "jonathon-simmons",
-    "name": "Jonathon·西蒙斯",
+    "name": "乔纳斯昂·西姆蒙斯",
     "name_en": "Jonathon Simmons",
     "position": "SF",
     "height": 198,
@@ -69635,7 +69635,7 @@ module.exports = [
   },
   {
     "id": "jahlil-okafor",
-    "name": "Jahlil Okafor",
+    "name": "贾赫利尔·克夫尔",
     "name_en": "Jahlil Okafor",
     "position": "PF",
     "height": 208,
@@ -69677,7 +69677,7 @@ module.exports = [
   },
   {
     "id": "jarell-eddie",
-    "name": "Jarell Eddie",
+    "name": "贾雷尔·德迪埃",
     "name_en": "Jarell Eddie",
     "position": "SG",
     "height": 201,
@@ -69717,7 +69717,7 @@ module.exports = [
   },
   {
     "id": "jarell-martin",
-    "name": "Jarell·马丁",
+    "name": "贾雷尔·马尔蒂恩",
     "name_en": "Jarell Martin",
     "position": "SF",
     "height": 208,
@@ -69755,7 +69755,7 @@ module.exports = [
   },
   {
     "id": "axel-toupane",
-    "name": "Axel Toupane",
+    "name": "克斯尔·托普恩",
     "name_en": "Axel Toupane",
     "position": "SG",
     "height": 201,
@@ -69795,7 +69795,7 @@ module.exports = [
   },
   {
     "id": "boban-marjanovic",
-    "name": "Boban Marjanovic",
+    "name": "博巴恩·马尔贾诺维克",
     "name_en": "Boban Marjanovic",
     "position": null,
     "height": 224,
@@ -69841,7 +69841,7 @@ module.exports = [
   },
   {
     "id": "bobby-portis",
-    "name": "博比·Portis",
+    "name": "博布拜·波尔蒂斯",
     "name_en": "Bobby Portis",
     "position": "SF",
     "height": 211,
@@ -69883,7 +69883,7 @@ module.exports = [
   },
   {
     "id": "branden-dawson",
-    "name": "Branden Dawson",
+    "name": "布德恩·达沃森",
     "name_en": "Branden Dawson",
     "position": "SF",
     "height": 198,
@@ -69919,7 +69919,7 @@ module.exports = [
   },
   {
     "id": "briante-weber",
-    "name": "Briante Weber",
+    "name": "布伊特埃·韦贝尔",
     "name_en": "Briante Weber",
     "position": "PG",
     "height": 188,
@@ -70037,7 +70037,7 @@ module.exports = [
   },
   {
     "id": "alan-williams",
-    "name": "Alan·威廉姆斯",
+    "name": "尔恩·威尔伊姆斯",
     "name_en": "Alan Williams",
     "position": "PF",
     "height": 203,
@@ -70075,7 +70075,7 @@ module.exports = [
   },
   {
     "id": "alex-stepheson",
-    "name": "亚历克斯·Stepheson",
+    "name": "尔克斯·斯特普赫森",
     "name_en": "Alex Stepheson",
     "position": "SF",
     "height": 208,
@@ -70111,7 +70111,7 @@ module.exports = [
   },
   {
     "id": "bryce-dejean-jones",
-    "name": "Bryce Dejean-Jones",
+    "name": "布斯·德杰恩-乔内斯",
     "name_en": "Bryce Dejean-Jones",
     "position": "SG",
     "height": 198,
@@ -70147,7 +70147,7 @@ module.exports = [
   },
   {
     "id": "coty-clarke",
-    "name": "Coty Clarke",
+    "name": "科蒂·克埃",
     "name_en": "Coty Clarke",
     "position": "SF",
     "height": 201,
@@ -70183,7 +70183,7 @@ module.exports = [
   },
   {
     "id": "cristiano-felicio",
-    "name": "Cristiano Felicio",
+    "name": "克斯特伊恩奥·费利西奥",
     "name_en": "Cristiano Felicio",
     "position": "PF",
     "height": 211,
@@ -70219,7 +70219,7 @@ module.exports = [
   },
   {
     "id": "dangelo-russell",
-    "name": "D'Angelo·拉塞尔",
+    "name": "达恩格尔奥·鲁斯塞尔",
     "name_en": "D'Angelo Russell",
     "position": "SG",
     "height": 193,
@@ -70259,7 +70259,7 @@ module.exports = [
   },
   {
     "id": "damien-inglis",
-    "name": "Damien Inglis",
+    "name": "达米恩·英利斯",
     "name_en": "Damien Inglis",
     "position": "SF",
     "height": 203,
@@ -70295,7 +70295,7 @@ module.exports = [
   },
   {
     "id": "darrun-hilliard",
-    "name": "Darrun Hilliard",
+    "name": "达尔鲁恩·希尔伊德",
     "name_en": "Darrun Hilliard",
     "position": "PG",
     "height": 198,
@@ -70333,7 +70333,7 @@ module.exports = [
   },
   {
     "id": "delon-wright",
-    "name": "Delon·赖特",
+    "name": "德洛恩·尔伊特",
     "name_en": "Delon Wright",
     "position": "PG",
     "height": 196,
@@ -70457,7 +70457,7 @@ module.exports = [
   },
   {
     "id": "chris-mccullough",
-    "name": "克里斯·Mccullough",
+    "name": "奇里斯·麦克库尔夫",
     "name_en": "Chris McCullough",
     "position": "SF",
     "height": 206,
@@ -70495,7 +70495,7 @@ module.exports = [
   },
   {
     "id": "christian-wood",
-    "name": "Christian·伍德",
+    "name": "奇里斯特伊恩·伍德",
     "name_en": "Christian Wood",
     "position": "SF",
     "height": 206,
@@ -70541,7 +70541,7 @@ module.exports = [
   },
   {
     "id": "cliff-alexander",
-    "name": "Cliff Alexander",
+    "name": "克夫·尔克斯德尔",
     "name_en": "Cliff Alexander",
     "position": "SF",
     "height": 203,
@@ -70577,7 +70577,7 @@ module.exports = [
   },
   {
     "id": "jordan-mickey",
-    "name": "Jordan Mickey",
+    "name": "乔德恩·米克伊",
     "name_en": "Jordan Mickey",
     "position": "PF",
     "height": 203,
@@ -70615,7 +70615,7 @@ module.exports = [
   },
   {
     "id": "rondae-hollis-jefferson",
-    "name": "朗戴·Hollis-Jefferson",
+    "name": "龙达埃·霍尔斯-杰弗费尔森",
     "name_en": "Rondae Hollis-Jefferson",
     "position": "SF",
     "height": 198,
@@ -70655,7 +70655,7 @@ module.exports = [
   },
   {
     "id": "salah-mejri",
-    "name": "Salah Mejri",
+    "name": "萨拉赫·梅杰里",
     "name_en": "Salah Mejri",
     "position": "C",
     "height": 218,
@@ -70691,7 +70691,7 @@ module.exports = [
   },
   {
     "id": "sam-dekker",
-    "name": "萨姆·Dekker",
+    "name": "萨姆·德克凯尔",
     "name_en": "Sam Dekker",
     "position": "SF",
     "height": 203,
@@ -70733,7 +70733,7 @@ module.exports = [
   },
   {
     "id": "sasha-kaun",
-    "name": "Sasha Kaun",
+    "name": "萨什阿·卡恩",
     "name_en": "Sasha Kaun",
     "position": "C",
     "height": 211,
@@ -70769,7 +70769,7 @@ module.exports = [
   },
   {
     "id": "richaun-holmes",
-    "name": "Richaun·霍姆斯",
+    "name": "里奇昂·霍尔梅斯",
     "name_en": "Richaun Holmes",
     "position": "SF",
     "height": 203,
@@ -70809,7 +70809,7 @@ module.exports = [
   },
   {
     "id": "pat-connaughton",
-    "name": "帕特·Connaughton",
+    "name": "帕特·科恩纳夫顿",
     "name_en": "Pat Connaughton",
     "position": "SG",
     "height": 196,
@@ -70847,7 +70847,7 @@ module.exports = [
   },
   {
     "id": "rakeem-christmas",
-    "name": "Rakeem Christmas",
+    "name": "拉凯姆·奇里斯特马斯",
     "name_en": "Rakeem Christmas",
     "position": "SF",
     "height": 206,
@@ -70883,7 +70883,7 @@ module.exports = [
   },
   {
     "id": "rashad-vaughn",
-    "name": "Rashad·沃恩",
+    "name": "拉什德·瓦夫恩",
     "name_en": "Rashad Vaughn",
     "position": "PG",
     "height": 198,
@@ -70919,7 +70919,7 @@ module.exports = [
   },
   {
     "id": "raul-neto",
-    "name": "劳尔·Neto",
+    "name": "拉尔·内托",
     "name_en": "Raul Neto",
     "position": "PG",
     "height": 188,
@@ -70961,7 +70961,7 @@ module.exports = [
   },
   {
     "id": "rj-hunter",
-    "name": "Rj·亨特",
+    "name": "尔杰·胡恩特尔",
     "name_en": "RJ Hunter",
     "position": "SG",
     "height": 196,
@@ -71001,7 +71001,7 @@ module.exports = [
   },
   {
     "id": "trey-lyles",
-    "name": "Trey Lyles",
+    "name": "特伊·利勒斯",
     "name_en": "Trey Lyles",
     "position": "SF",
     "height": 206,
@@ -71043,7 +71043,7 @@ module.exports = [
   },
   {
     "id": "willie-cauley-stein",
-    "name": "Willie Cauley-Stein",
+    "name": "威尔伊埃·卡尔伊-斯特因",
     "name_en": "Willie Cauley-Stein",
     "position": "C",
     "height": 213,
@@ -71083,7 +71083,7 @@ module.exports = [
   },
   {
     "id": "willie-reed",
-    "name": "Willie·里德",
+    "name": "威尔伊埃·雷德",
     "name_en": "Willie Reed",
     "position": "PF",
     "height": 211,
@@ -71123,7 +71123,7 @@ module.exports = [
   },
   {
     "id": "xavier-munford",
-    "name": "Xavier Munford",
+    "name": "克斯夫尔·穆恩福德",
     "name_en": "Xavier Munford",
     "position": "PG",
     "height": 193,
@@ -71161,7 +71161,7 @@ module.exports = [
   },
   {
     "id": "jordan-mcrae",
-    "name": "Jordan McRae",
+    "name": "乔德恩·麦克拉埃",
     "name_en": "Jordan McRae",
     "position": "SG",
     "height": 196,
@@ -71239,7 +71239,7 @@ module.exports = [
   },
   {
     "id": "stanley-johnson",
-    "name": "Stanley·约翰逊",
+    "name": "斯特恩利·乔赫恩森",
     "name_en": "Stanley Johnson",
     "position": "SF",
     "height": 198,
@@ -71283,7 +71283,7 @@ module.exports = [
   },
   {
     "id": "tj-mcconnell",
-    "name": "T.J. McConnell",
+    "name": "特杰·麦克康内尔",
     "name_en": "T.J. McConnell",
     "position": "SG",
     "height": 185,
@@ -71321,7 +71321,7 @@ module.exports = [
   },
   {
     "id": "thanasis-antetokounmpo",
-    "name": "Thanasis·阿德托昆博",
+    "name": "斯恩斯·特克奥恩姆波",
     "name_en": "Thanasis Antetokounmpo",
     "position": "SF",
     "height": 201,
@@ -71359,7 +71359,7 @@ module.exports = [
   },
   {
     "id": "tibor-pleiss",
-    "name": "Tibor Pleiss",
+    "name": "蒂博尔·普埃斯",
     "name_en": "Tibor Pleiss",
     "position": "C",
     "height": 221,
@@ -71433,7 +71433,7 @@ module.exports = [
   },
   {
     "id": "kristaps-porzingis",
-    "name": "Kristaps·波尔津吉斯",
+    "name": "克斯特普斯·波尔齐恩吉斯",
     "name_en": "Kristaps Porzingis",
     "position": null,
     "height": 221,
@@ -71473,7 +71473,7 @@ module.exports = [
   },
   {
     "id": "lamar-patterson",
-    "name": "Lamar·帕特森",
+    "name": "拉马尔·帕特尔森",
     "name_en": "Lamar Patterson",
     "position": "SG",
     "height": 196,
@@ -71549,7 +71549,7 @@ module.exports = [
   },
   {
     "id": "josh-huestis",
-    "name": "约什·Huestis",
+    "name": "乔什·胡斯特斯",
     "name_en": "Josh Huestis",
     "position": "SG",
     "height": 201,
@@ -71629,7 +71629,7 @@ module.exports = [
   },
   {
     "id": "justin-anderson",
-    "name": "Justin·安德森",
+    "name": "朱斯特因·德斯昂",
     "name_en": "Justin Anderson",
     "position": "SF",
     "height": 196,
@@ -71673,7 +71673,7 @@ module.exports = [
   },
   {
     "id": "justise-winslow",
-    "name": "Justise Winslow",
+    "name": "朱斯特斯·威恩斯奥",
     "name_en": "Justise Winslow",
     "position": "SF",
     "height": 198,
@@ -71713,7 +71713,7 @@ module.exports = [
   },
   {
     "id": "karl-anthony-towns",
-    "name": "Karl-Anthony·唐斯",
+    "name": "卡尔-特霍尼·托恩斯",
     "name_en": "Karl-Anthony Towns",
     "position": "PF",
     "height": 213,
@@ -71749,7 +71749,7 @@ module.exports = [
   },
   {
     "id": "keith-appling",
-    "name": "Keith Appling",
+    "name": "凯斯·普英",
     "name_en": "Keith Appling",
     "position": "PG",
     "height": 185,
@@ -71785,7 +71785,7 @@ module.exports = [
   },
   {
     "id": "kelly-oubre-jr",
-    "name": "Kelly·二世",
+    "name": "凯尔伊·杰尔",
     "name_en": "Kelly Oubre Jr.",
     "position": "SF",
     "height": 198,
@@ -71827,7 +71827,7 @@ module.exports = [
   },
   {
     "id": "kevon-looney",
-    "name": "Kevon·卢尼",
+    "name": "凯沃恩·洛恩伊",
     "name_en": "Kevon Looney",
     "position": "SF",
     "height": 206,
@@ -71863,7 +71863,7 @@ module.exports = [
   },
   {
     "id": "luis-montero",
-    "name": "Luis Montero",
+    "name": "卢斯·蒙特罗",
     "name_en": "Luis Montero",
     "position": "SG",
     "height": 201,
@@ -71981,7 +71981,7 @@ module.exports = [
   },
   {
     "id": "nemanja-bjelica",
-    "name": "Nemanja·别利察",
+    "name": "内曼贾·布杰利卡",
     "name_en": "Nemanja Bjelica",
     "position": "SF",
     "height": 206,
@@ -72099,7 +72099,7 @@ module.exports = [
   },
   {
     "id": "marcelo-huertas",
-    "name": "Marcelo Huertas",
+    "name": "马尔塞洛·胡特斯",
     "name_en": "Marcelo Huertas",
     "position": "PG",
     "height": 190,
@@ -72135,7 +72135,7 @@ module.exports = [
   },
   {
     "id": "mario-hezonja",
-    "name": "Mario Hezonja",
+    "name": "马里奥·赫佐恩贾",
     "name_en": "Mario Hezonja",
     "position": "SF",
     "height": 203,
@@ -72175,7 +72175,7 @@ module.exports = [
   },
   {
     "id": "maurice-ndour",
-    "name": "Maurice Ndour",
+    "name": "马尔斯·恩多尔",
     "name_en": "Maurice Ndour",
     "position": "SF",
     "height": 206,
@@ -72211,7 +72211,7 @@ module.exports = [
   },
   {
     "id": "michael-gbinije",
-    "name": "迈克尔·Gbinije",
+    "name": "米奇阿尔·格比尼杰",
     "name_en": "Michael Gbinije",
     "position": "SG",
     "height": 201,
@@ -72247,7 +72247,7 @@ module.exports = [
   },
   {
     "id": "marshall-plumlee",
-    "name": "Marshall·普拉姆利",
+    "name": "马尔什尔·普姆勒埃",
     "name_en": "Marshall Plumlee",
     "position": "C",
     "height": 213,
@@ -72285,7 +72285,7 @@ module.exports = [
   },
   {
     "id": "marquese-chriss",
-    "name": "马基斯·Chriss",
+    "name": "马尔奎乌斯埃·奇里斯",
     "name_en": "Marquese Chriss",
     "position": "SF",
     "height": 206,
@@ -72327,7 +72327,7 @@ module.exports = [
   },
   {
     "id": "marcus-georges-hunt",
-    "name": "马库斯·Georges-Hunt",
+    "name": "马尔库斯·杰格斯-胡恩特",
     "name_en": "Marcus Georges-Hunt",
     "position": "PG",
     "height": 196,
@@ -72365,7 +72365,7 @@ module.exports = [
   },
   {
     "id": "mike-tobey",
-    "name": "Mike Tobey",
+    "name": "米凯·托贝伊",
     "name_en": "Mike Tobey",
     "position": "C",
     "height": 213,
@@ -72437,7 +72437,7 @@ module.exports = [
   },
   {
     "id": "okaro-white",
-    "name": "Okaro·怀特",
+    "name": "克尔奥·惠特",
     "name_en": "Okaro White",
     "position": "SF",
     "height": 203,
@@ -72477,7 +72477,7 @@ module.exports = [
   },
   {
     "id": "nicolas-brussino",
-    "name": "尼古拉斯·Brussino",
+    "name": "尼科拉斯·布斯因奥",
     "name_en": "Nicolas Brussino",
     "position": "SF",
     "height": 203,
@@ -72515,7 +72515,7 @@ module.exports = [
   },
   {
     "id": "mindaugas-kuzminskas",
-    "name": "Mindaugas Kuzminskas",
+    "name": "米恩达格斯·库兹米恩斯克斯",
     "name_en": "Mindaugas Kuzminskas",
     "position": "SF",
     "height": 206,
@@ -72551,7 +72551,7 @@ module.exports = [
   },
   {
     "id": "nicolas-laprovittola",
-    "name": "尼古拉斯·Laprovittola",
+    "name": "尼科拉斯·拉普夫特尔阿",
     "name_en": "Nicolas Laprovittola",
     "position": "PG",
     "height": 193,
@@ -72587,7 +72587,7 @@ module.exports = [
   },
   {
     "id": "malik-beasley",
-    "name": "马利克·Beasley",
+    "name": "马利克·贝斯利",
     "name_en": "Malik Beasley",
     "position": "SG",
     "height": 193,
@@ -72627,7 +72627,7 @@ module.exports = [
   },
   {
     "id": "kay-felder",
-    "name": "Kay Felder",
+    "name": "卡伊·费尔德尔",
     "name_en": "Kay Felder",
     "position": "SG",
     "height": 175,
@@ -72665,7 +72665,7 @@ module.exports = [
   },
   {
     "id": "juancho-hernangomez",
-    "name": "Juancho Hernangomez",
+    "name": "朱恩奇奥·赫尔纳恩戈梅兹",
     "name_en": "Juancho Hernangomez",
     "position": "SF",
     "height": 206,
@@ -72707,7 +72707,7 @@ module.exports = [
   },
   {
     "id": "kris-dunn",
-    "name": "Kris·邓恩",
+    "name": "克斯·杜恩",
     "name_en": "Kris Dunn",
     "position": "PG",
     "height": 190,
@@ -72751,7 +72751,7 @@ module.exports = [
   },
   {
     "id": "malcolm-delaney",
-    "name": "Malcolm Delaney",
+    "name": "马尔科尔姆·德兰伊",
     "name_en": "Malcolm Delaney",
     "position": "PG",
     "height": 190,
@@ -72787,7 +72787,7 @@ module.exports = [
   },
   {
     "id": "malcolm-brogdon",
-    "name": "Malcolm Brogdon",
+    "name": "马尔科尔姆·布格多恩",
     "name_en": "Malcolm Brogdon",
     "position": "SG",
     "height": 193,
@@ -72827,7 +72827,7 @@ module.exports = [
   },
   {
     "id": "malachi-richardson",
-    "name": "Malachi·理查德森",
+    "name": "马拉奇伊·里奇德森",
     "name_en": "Malachi Richardson",
     "position": "PG",
     "height": 198,
@@ -72865,7 +72865,7 @@ module.exports = [
   },
   {
     "id": "kyle-wiltjer",
-    "name": "凯尔·Wiltjer",
+    "name": "凯勒·威尔特杰尔",
     "name_en": "Kyle Wiltjer",
     "position": "SF",
     "height": 208,
@@ -72901,7 +72901,7 @@ module.exports = [
   },
   {
     "id": "patricio-garino",
-    "name": "Patricio Garino",
+    "name": "帕特克伊奥·加里诺",
     "name_en": "Patricio Garino",
     "position": "SG",
     "height": 198,
@@ -72937,7 +72937,7 @@ module.exports = [
   },
   {
     "id": "patrick-mccaw",
-    "name": "帕特里克·Mccaw",
+    "name": "帕特克·麦克卡沃",
     "name_en": "Patrick McCaw",
     "position": "PG",
     "height": 201,
@@ -72975,7 +72975,7 @@ module.exports = [
   },
   {
     "id": "treveon-graham",
-    "name": "Treveon·格雷厄姆",
+    "name": "特夫昂·格赫姆",
     "name_en": "Treveon Graham",
     "position": "SG",
     "height": 196,
@@ -73015,7 +73015,7 @@ module.exports = [
   },
   {
     "id": "tomas-satoransky",
-    "name": "Tomas Satoransky",
+    "name": "托马斯·萨托尔恩斯克伊",
     "name_en": "Tomas Satoransky",
     "position": "SG",
     "height": 201,
@@ -73053,7 +73053,7 @@ module.exports = [
   },
   {
     "id": "timothe-luwawu-cabarrot",
-    "name": "Timothe Luwawu-Cabarrot",
+    "name": "蒂莫斯埃·卢瓦吴-卡巴尔罗特",
     "name_en": "Timothe Luwawu-Cabarrot",
     "position": "SG",
     "height": 201,
@@ -73095,7 +73095,7 @@ module.exports = [
   },
   {
     "id": "tim-quarterman",
-    "name": "蒂姆·Quarterman",
+    "name": "蒂姆·奎乌特尔曼",
     "name_en": "Tim Quarterman",
     "position": "PG",
     "height": 198,
@@ -73133,7 +73133,7 @@ module.exports = [
   },
   {
     "id": "thon-maker",
-    "name": "Thon Maker",
+    "name": "斯昂·马凯尔",
     "name_en": "Thon Maker",
     "position": "PF",
     "height": 213,
@@ -73173,7 +73173,7 @@ module.exports = [
   },
   {
     "id": "taurean-prince",
-    "name": "Taurean·普林斯",
+    "name": "塔尔恩·普因塞",
     "name_en": "Taurean Prince",
     "position": "SF",
     "height": 198,
@@ -73215,7 +73215,7 @@ module.exports = [
   },
   {
     "id": "yogi-ferrell",
-    "name": "Yogi Ferrell",
+    "name": "约吉·费尔雷尔",
     "name_en": "Yogi Ferrell",
     "position": "PG",
     "height": 183,
@@ -73255,7 +73255,7 @@ module.exports = [
   },
   {
     "id": "willy-hernangomez",
-    "name": "Willy Hernangomez",
+    "name": "威尔伊·赫恩格姆兹",
     "name_en": "Willy Hernangomez",
     "position": "PF",
     "height": 211,
@@ -73295,7 +73295,7 @@ module.exports = [
   },
   {
     "id": "wayne-selden",
-    "name": "Wayne Selden",
+    "name": "瓦因·塞尔德恩",
     "name_en": "Wayne Selden",
     "position": "SG",
     "height": 193,
@@ -73335,7 +73335,7 @@ module.exports = [
   },
   {
     "id": "wade-baldwin-iv",
-    "name": "Wade Baldwin IV",
+    "name": "瓦德·夫",
     "name_en": "Wade Baldwin IV",
     "position": "PG",
     "height": 193,
@@ -73373,7 +73373,7 @@ module.exports = [
   },
   {
     "id": "tyler-ulis",
-    "name": "泰勒·Ulis",
+    "name": "蒂勒尔·尔斯",
     "name_en": "Tyler Ulis",
     "position": "SG",
     "height": 178,
@@ -73411,7 +73411,7 @@ module.exports = [
   },
   {
     "id": "troy-williams",
-    "name": "Troy·威廉姆斯",
+    "name": "特伊·威尔伊姆斯",
     "name_en": "Troy Williams",
     "position": "SF",
     "height": 201,
@@ -73451,7 +73451,7 @@ module.exports = [
   },
   {
     "id": "quinn-cook",
-    "name": "Quinn Cook",
+    "name": "奎因恩·科克",
     "name_en": "Quinn Cook",
     "position": "SG",
     "height": 185,
@@ -73493,7 +73493,7 @@ module.exports = [
   },
   {
     "id": "pierre-jackson",
-    "name": "Pierre·杰克逊",
+    "name": "皮尔雷·贾克森",
     "name_en": "Pierre Jackson",
     "position": "SG",
     "height": 178,
@@ -73529,7 +73529,7 @@ module.exports = [
   },
   {
     "id": "paul-zipser",
-    "name": "保罗·Zipser",
+    "name": "帕尔·齐普塞尔",
     "name_en": "Paul Zipser",
     "position": "SF",
     "height": 203,
@@ -73565,7 +73565,7 @@ module.exports = [
   },
   {
     "id": "rodney-mcgruder",
-    "name": "Rodney McGruder",
+    "name": "罗德尼·麦克格德尔",
     "name_en": "Rodney McGruder",
     "position": "SG",
     "height": 193,
@@ -73605,7 +73605,7 @@ module.exports = [
   },
   {
     "id": "ron-baker",
-    "name": "Ron·贝克",
+    "name": "罗恩·巴凯尔",
     "name_en": "Ron Baker",
     "position": "SG",
     "height": 193,
@@ -73643,7 +73643,7 @@ module.exports = [
   },
   {
     "id": "skal-labissiere",
-    "name": "Skal Labissiere",
+    "name": "斯克尔·拉比斯西尔",
     "name_en": "Skal Labissiere",
     "position": "PF",
     "height": 208,
@@ -73683,7 +73683,7 @@ module.exports = [
   },
   {
     "id": "sheldon-mac",
-    "name": "Sheldon Mac",
+    "name": "什德昂·马克",
     "name_en": "Sheldon Mac",
     "position": "SG",
     "height": 198,
@@ -73719,7 +73719,7 @@ module.exports = [
   },
   {
     "id": "shawn-long",
-    "name": "Shawn·朗",
+    "name": "什恩·洛恩格",
     "name_en": "Shawn Long",
     "position": "SF",
     "height": 206,
@@ -73755,7 +73755,7 @@ module.exports = [
   },
   {
     "id": "semaj-christon",
-    "name": "Semaj Christon",
+    "name": "塞马杰·奇里斯特昂",
     "name_en": "Semaj Christon",
     "position": "PG",
     "height": 190,
@@ -73869,7 +73869,7 @@ module.exports = [
   },
   {
     "id": "chinanu-onuaku",
-    "name": "Chinanu Onuaku",
+    "name": "奇纳努·昂乌克乌",
     "name_en": "Chinanu Onuaku",
     "position": "C",
     "height": 208,
@@ -73905,7 +73905,7 @@ module.exports = [
   },
   {
     "id": "cheick-diallo",
-    "name": "Cheick Diallo",
+    "name": "奇埃克·迪尔奥",
     "name_en": "Cheick Diallo",
     "position": "PF",
     "height": 203,
@@ -73945,7 +73945,7 @@ module.exports = [
   },
   {
     "id": "chasson-randle",
-    "name": "Chasson·兰德尔",
+    "name": "奇斯森·拉恩德勒",
     "name_en": "Chasson Randle",
     "position": "SG",
     "height": 188,
@@ -73987,7 +73987,7 @@ module.exports = [
   },
   {
     "id": "caris-levert",
-    "name": "卡里斯·Levert",
+    "name": "卡里斯·勒维尔特",
     "name_en": "Caris LeVert",
     "position": "SG",
     "height": 198,
@@ -74027,7 +74027,7 @@ module.exports = [
   },
   {
     "id": "daniel-ochefu",
-    "name": "丹尼尔·Ochefu",
+    "name": "达尼尔·克赫富",
     "name_en": "Daniel Ochefu",
     "position": "SF",
     "height": 211,
@@ -74105,7 +74105,7 @@ module.exports = [
   },
   {
     "id": "denzel-valentine",
-    "name": "Denzel Valentine",
+    "name": "德恩泽尔·瓦勒恩蒂内",
     "name_en": "Denzel Valentine",
     "position": "PG",
     "height": 193,
@@ -74143,7 +74143,7 @@ module.exports = [
   },
   {
     "id": "demetrius-jackson",
-    "name": "Demetrius·杰克逊",
+    "name": "德梅特厄斯·贾克森",
     "name_en": "Demetrius Jackson",
     "position": "PG",
     "height": 185,
@@ -74219,7 +74219,7 @@ module.exports = [
   },
   {
     "id": "deandre-bembry",
-    "name": "DeAndre' Bembry",
+    "name": "德雷'·贝姆布伊",
     "name_en": "DeAndre' Bembry",
     "position": "SG",
     "height": 196,
@@ -74259,7 +74259,7 @@ module.exports = [
   },
   {
     "id": "davis-bertans",
-    "name": "Davis·贝尔坦斯",
+    "name": "达维斯·贝尔塔恩斯",
     "name_en": "Davis Bertans",
     "position": "SG",
     "height": 208,
@@ -74299,7 +74299,7 @@ module.exports = [
   },
   {
     "id": "david-nwaba",
-    "name": "大卫·Nwaba",
+    "name": "达维德·恩瓦巴",
     "name_en": "David Nwaba",
     "position": "SG",
     "height": 196,
@@ -74383,7 +74383,7 @@ module.exports = [
   },
   {
     "id": "danuel-house",
-    "name": "Danuel·豪斯",
+    "name": "达努尔·霍斯",
     "name_en": "Danuel House",
     "position": "SF",
     "height": 201,
@@ -74457,7 +74457,7 @@ module.exports = [
   },
   {
     "id": "bryn-forbes",
-    "name": "Bryn·福布斯",
+    "name": "布伊恩·福尔贝斯",
     "name_en": "Bryn Forbes",
     "position": "SG",
     "height": 188,
@@ -74499,7 +74499,7 @@ module.exports = [
   },
   {
     "id": "andrew-harrison",
-    "name": "Andrew·哈里森",
+    "name": "德雷沃·哈尔里森",
     "name_en": "Andrew Harrison",
     "position": "PG",
     "height": 198,
@@ -74537,7 +74537,7 @@ module.exports = [
   },
   {
     "id": "alex-poythress",
-    "name": "亚历克斯·Poythress",
+    "name": "尔克斯·波斯雷斯",
     "name_en": "Alex Poythress",
     "position": "SF",
     "height": 206,
@@ -74577,7 +74577,7 @@ module.exports = [
   },
   {
     "id": "alex-abrines",
-    "name": "亚历克斯·Abrines",
+    "name": "尔克斯·布里内斯",
     "name_en": "Alex Abrines",
     "position": "SG",
     "height": 198,
@@ -74613,7 +74613,7 @@ module.exports = [
   },
   {
     "id": "aj-hammons",
-    "name": "AJ Hammons",
+    "name": "阿杰·哈姆蒙斯",
     "name_en": "AJ Hammons",
     "position": "C",
     "height": 213,
@@ -74649,7 +74649,7 @@ module.exports = [
   },
   {
     "id": "brice-johnson",
-    "name": "Brice·约翰逊",
+    "name": "布斯·乔赫恩森",
     "name_en": "Brice Johnson",
     "position": "SF",
     "height": 208,
@@ -74723,7 +74723,7 @@ module.exports = [
   },
   {
     "id": "ben-bentil",
-    "name": "Ben Bentil",
+    "name": "贝恩·贝恩蒂尔",
     "name_en": "Ben Bentil",
     "position": "SF",
     "height": 206,
@@ -74795,7 +74795,7 @@ module.exports = [
   },
   {
     "id": "jarrod-uthoff",
-    "name": "Jarrod Uthoff",
+    "name": "贾尔罗德·斯夫",
     "name_en": "Jarrod Uthoff",
     "position": "SF",
     "height": 206,
@@ -74869,7 +74869,7 @@ module.exports = [
   },
   {
     "id": "jakob-poeltl",
-    "name": "Jakob·珀尔特尔",
+    "name": "贾科布·波特尔",
     "name_en": "Jakob Poeltl",
     "position": "C",
     "height": 216,
@@ -74907,7 +74907,7 @@ module.exports = [
   },
   {
     "id": "jake-layman",
-    "name": "Jake Layman",
+    "name": "贾凯·拉伊曼",
     "name_en": "Jake Layman",
     "position": "SF",
     "height": 203,
@@ -75019,7 +75019,7 @@ module.exports = [
   },
   {
     "id": "joel-bolomboy",
-    "name": "乔尔·Bolomboy",
+    "name": "乔尔·博洛姆博伊",
     "name_en": "Joel Bolomboy",
     "position": "SF",
     "height": 206,
@@ -75091,7 +75091,7 @@ module.exports = [
   },
   {
     "id": "dragan-bender",
-    "name": "Dragan Bender",
+    "name": "德格恩·贝恩德尔",
     "name_en": "Dragan Bender",
     "position": "SF",
     "height": 213,
@@ -75207,7 +75207,7 @@ module.exports = [
   },
   {
     "id": "diamond-stone",
-    "name": "Diamond·斯通",
+    "name": "迪姆德·斯特恩",
     "name_en": "Diamond Stone",
     "position": "C",
     "height": 211,
@@ -75243,7 +75243,7 @@ module.exports = [
   },
   {
     "id": "deyonta-davis",
-    "name": "Deyonta·戴维斯",
+    "name": "德约恩塔·达维斯",
     "name_en": "Deyonta Davis",
     "position": "PF",
     "height": 211,
@@ -75281,7 +75281,7 @@ module.exports = [
   },
   {
     "id": "isaiah-whitehead",
-    "name": "以赛亚·Whitehead",
+    "name": "斯阿伊赫·惠特赫德",
     "name_en": "Isaiah Whitehead",
     "position": "SG",
     "height": 193,
@@ -75317,7 +75317,7 @@ module.exports = [
   },
   {
     "id": "ivica-zubac",
-    "name": "Ivica·祖巴茨",
+    "name": "夫克阿·祖巴克",
     "name_en": "Ivica Zubac",
     "position": "C",
     "height": 213,
@@ -75393,7 +75393,7 @@ module.exports = [
   },
   {
     "id": "henry-ellenson",
-    "name": "Henry Ellenson",
+    "name": "赫恩里·尔斯昂",
     "name_en": "Henry Ellenson",
     "position": "SF",
     "height": 208,
@@ -75435,7 +75435,7 @@ module.exports = [
   },
   {
     "id": "georgios-papagiannis",
-    "name": "Georgios Papagiannis",
+    "name": "杰格伊斯·帕吉恩尼斯",
     "name_en": "Georgios Papagiannis",
     "position": "C",
     "height": 216,
@@ -75473,7 +75473,7 @@ module.exports = [
   },
   {
     "id": "georges-niang",
-    "name": "Georges·尼昂",
+    "name": "杰格斯·尼格",
     "name_en": "Georges Niang",
     "position": "SF",
     "height": 201,
@@ -75513,7 +75513,7 @@ module.exports = [
   },
   {
     "id": "gary-payton-ii",
-    "name": "加里·Ii",
+    "name": "加里·伊",
     "name_en": "Gary Payton II",
     "position": "PG",
     "height": 188,
@@ -75555,7 +75555,7 @@ module.exports = [
   },
   {
     "id": "matt-costello",
-    "name": "Matt Costello",
+    "name": "马特·科斯特尔奥",
     "name_en": "Matt Costello",
     "position": "PF",
     "height": 208,
@@ -75591,7 +75591,7 @@ module.exports = [
   },
   {
     "id": "matt-williams-jr",
-    "name": "Matt·二世",
+    "name": "马特·杰尔",
     "name_en": "Matt Williams Jr.",
     "position": "PG",
     "height": 196,
@@ -75627,7 +75627,7 @@ module.exports = [
   },
   {
     "id": "markelle-fultz",
-    "name": "Markelle·富尔茨",
+    "name": "马尔凯尔埃·富尔特兹",
     "name_en": "Markelle Fultz",
     "position": "PG",
     "height": 193,
@@ -75665,7 +75665,7 @@ module.exports = [
   },
   {
     "id": "marcus-paige",
-    "name": "马库斯·Paige",
+    "name": "马尔库斯·帕奇",
     "name_en": "Marcus Paige",
     "position": "SG",
     "height": 183,
@@ -75701,7 +75701,7 @@ module.exports = [
   },
   {
     "id": "marcus-morris-sr",
-    "name": "马库斯·Sr",
+    "name": "马尔库斯·斯尔",
     "name_en": "Marcus Morris Sr.",
     "position": "SF",
     "height": 203,
@@ -75739,7 +75739,7 @@ module.exports = [
   },
   {
     "id": "malcolm-miller",
-    "name": "Malcolm·米勒",
+    "name": "马尔科尔姆·米尔",
     "name_en": "Malcolm Miller",
     "position": "SG",
     "height": 201,
@@ -75815,7 +75815,7 @@ module.exports = [
   },
   {
     "id": "mangok-mathiang",
-    "name": "Mangok Mathiang",
+    "name": "曼戈克·马斯伊格",
     "name_en": "Mangok Mathiang",
     "position": "PF",
     "height": 208,
@@ -75851,7 +75851,7 @@ module.exports = [
   },
   {
     "id": "maxi-kleber",
-    "name": "Maxi·克勒贝尔",
+    "name": "马克斯伊·克布尔",
     "name_en": "Maxi Kleber",
     "position": "SF",
     "height": 208,
@@ -75887,7 +75887,7 @@ module.exports = [
   },
   {
     "id": "nigel-hayes",
-    "name": "Nigel·海耶斯",
+    "name": "尼杰尔·哈耶斯",
     "name_en": "Nigel Hayes",
     "position": "SF",
     "height": 201,
@@ -75923,7 +75923,7 @@ module.exports = [
   },
   {
     "id": "naz-mitrou-long",
-    "name": "Naz Mitrou-Long",
+    "name": "纳兹·米特奥乌-隆格",
     "name_en": "Naz Mitrou-Long",
     "position": "PG",
     "height": 190,
@@ -75961,7 +75961,7 @@ module.exports = [
   },
   {
     "id": "myke-henry",
-    "name": "Myke·亨利",
+    "name": "迈凯·赫恩里",
     "name_en": "Myke Henry",
     "position": "SF",
     "height": 198,
@@ -75997,7 +75997,7 @@ module.exports = [
   },
   {
     "id": "monte-morris",
-    "name": "Monte·莫里斯",
+    "name": "莫恩特·莫尔里斯",
     "name_en": "Monte Morris",
     "position": "SF",
     "height": 188,
@@ -76035,7 +76035,7 @@ module.exports = [
   },
   {
     "id": "milton-doyle",
-    "name": "Milton·多伊尔",
+    "name": "米尔顿·多尔",
     "name_en": "Milton Doyle",
     "position": "PG",
     "height": 193,
@@ -76071,7 +76071,7 @@ module.exports = [
   },
   {
     "id": "milos-teodosic",
-    "name": "Milos Teodosic",
+    "name": "米洛斯·特德斯克",
     "name_en": "Milos Teodosic",
     "position": "PG",
     "height": 196,
@@ -76107,7 +76107,7 @@ module.exports = [
   },
   {
     "id": "kadeem-allen",
-    "name": "Kadeem Allen",
+    "name": "卡德姆·尔恩",
     "name_en": "Kadeem Allen",
     "position": "SG",
     "height": 185,
@@ -76145,7 +76145,7 @@ module.exports = [
   },
   {
     "id": "justin-jackson",
-    "name": "Justin·杰克逊",
+    "name": "朱斯特因·贾克森",
     "name_en": "Justin Jackson",
     "position": "SF",
     "height": 203,
@@ -76189,7 +76189,7 @@ module.exports = [
   },
   {
     "id": "josh-magette",
-    "name": "约什·Magette",
+    "name": "乔什·马杰特",
     "name_en": "Josh Magette",
     "position": "SG",
     "height": 185,
@@ -76311,7 +76311,7 @@ module.exports = [
   },
   {
     "id": "og-anunoby",
-    "name": "OG Anunoby",
+    "name": "格·恩布伊",
     "name_en": "OG Anunoby",
     "position": "SF",
     "height": 201,
@@ -76347,7 +76347,7 @@ module.exports = [
   },
   {
     "id": "justin-patton",
-    "name": "Justin·巴顿",
+    "name": "朱斯特因·帕特顿",
     "name_en": "Justin Patton",
     "position": "C",
     "height": 211,
@@ -76389,7 +76389,7 @@ module.exports = [
   },
   {
     "id": "khem-birch",
-    "name": "Khem Birch",
+    "name": "克姆·比尔奇",
     "name_en": "Khem Birch",
     "position": "C",
     "height": 203,
@@ -76429,7 +76429,7 @@ module.exports = [
   },
   {
     "id": "luke-kornet",
-    "name": "Luke Kornet",
+    "name": "卢凯·科尔内特",
     "name_en": "Luke Kornet",
     "position": "PF",
     "height": 218,
@@ -76469,7 +76469,7 @@ module.exports = [
   },
   {
     "id": "luke-kennard",
-    "name": "Luke·肯纳德",
+    "name": "卢凯·凯恩纳尔德",
     "name_en": "Luke Kennard",
     "position": "PG",
     "height": 196,
@@ -76509,7 +76509,7 @@ module.exports = [
   },
   {
     "id": "lonzo-ball",
-    "name": "Lonzo·鲍尔",
+    "name": "洛恩佐·巴尔",
     "name_en": "Lonzo Ball",
     "position": "PG",
     "height": 198,
@@ -76549,7 +76549,7 @@ module.exports = [
   },
   {
     "id": "london-perrantes",
-    "name": "London Perrantes",
+    "name": "洛恩多恩·佩尔拉恩特斯",
     "name_en": "London Perrantes",
     "position": "SG",
     "height": 188,
@@ -76585,7 +76585,7 @@ module.exports = [
   },
   {
     "id": "lauri-markkanen",
-    "name": "Lauri·马尔卡宁",
+    "name": "拉尔伊·马尔克卡内恩",
     "name_en": "Lauri Markkanen",
     "position": "PF",
     "height": 213,
@@ -76663,7 +76663,7 @@ module.exports = [
   },
   {
     "id": "kyle-collinsworth",
-    "name": "凯尔·Collinsworth",
+    "name": "凯勒·科尔斯沃尔斯",
     "name_en": "Kyle Collinsworth",
     "position": "SG",
     "height": 198,
@@ -76699,7 +76699,7 @@ module.exports = [
   },
   {
     "id": "kobi-simmons",
-    "name": "Kobi·西蒙斯",
+    "name": "科比·西姆莫恩斯",
     "name_en": "Kobi Simmons",
     "position": "SG",
     "height": 196,
@@ -76739,7 +76739,7 @@ module.exports = [
   },
   {
     "id": "wes-iwundu",
-    "name": "Wes Iwundu",
+    "name": "韦斯·尤德乌",
     "name_en": "Wes Iwundu",
     "position": "SF",
     "height": 198,
@@ -76779,7 +76779,7 @@ module.exports = [
   },
   {
     "id": "tyler-cavanaugh",
-    "name": "泰勒·Cavanaugh",
+    "name": "蒂勒尔·卡瓦纳夫",
     "name_en": "Tyler Cavanaugh",
     "position": "SF",
     "height": 206,
@@ -76817,7 +76817,7 @@ module.exports = [
   },
   {
     "id": "trey-mckinney-jones",
-    "name": "Trey McKinney-Jones",
+    "name": "特伊·麦克金尼-乔内斯",
     "name_en": "Trey McKinney-Jones",
     "position": "SG",
     "height": 196,
@@ -76853,7 +76853,7 @@ module.exports = [
   },
   {
     "id": "torrey-craig",
-    "name": "Torrey·克雷格",
+    "name": "托尔雷·克阿格",
     "name_en": "Torrey Craig",
     "position": "SF",
     "height": 201,
@@ -76891,7 +76891,7 @@ module.exports = [
   },
   {
     "id": "tyler-dorsey",
-    "name": "泰勒·Dorsey",
+    "name": "蒂勒尔·多尔塞伊",
     "name_en": "Tyler Dorsey",
     "position": "SG",
     "height": 193,
@@ -77049,7 +77049,7 @@ module.exports = [
   },
   {
     "id": "tyler-lydon",
-    "name": "泰勒·Lydon",
+    "name": "蒂勒尔·利多恩",
     "name_en": "Tyler Lydon",
     "position": "SF",
     "height": 208,
@@ -77123,7 +77123,7 @@ module.exports = [
   },
   {
     "id": "xavier-rathan-mayes",
-    "name": "Xavier Rathan-Mayes",
+    "name": "克斯夫尔·拉斯恩-马耶斯",
     "name_en": "Xavier Rathan-Mayes",
     "position": "SG",
     "height": 193,
@@ -77197,7 +77197,7 @@ module.exports = [
   },
   {
     "id": "walt-lemon-jr",
-    "name": "Walt·二世",
+    "name": "瓦尔特·杰尔",
     "name_en": "Walt Lemon Jr.",
     "position": "SG",
     "height": 190,
@@ -77235,7 +77235,7 @@ module.exports = [
   },
   {
     "id": "vincent-hunter",
-    "name": "Vincent·亨特",
+    "name": "维恩塞恩特·胡恩特尔",
     "name_en": "Vincent Hunter",
     "position": "SF",
     "height": 203,
@@ -77271,7 +77271,7 @@ module.exports = [
   },
   {
     "id": "tyrone-wallace",
-    "name": "Tyrone·华莱士",
+    "name": "蒂罗内·瓦尔克埃",
     "name_en": "Tyrone Wallace",
     "position": "SG",
     "height": 196,
@@ -77311,7 +77311,7 @@ module.exports = [
   },
   {
     "id": "omari-johnson",
-    "name": "Omari·约翰逊",
+    "name": "姆尔伊·乔赫恩森",
     "name_en": "Omari Johnson",
     "position": "SF",
     "height": 206,
@@ -77347,7 +77347,7 @@ module.exports = [
   },
   {
     "id": "tj-leaf",
-    "name": "TJ·Leaf",
+    "name": "特杰·勒夫",
     "name_en": "TJ Leaf",
     "position": "SF",
     "height": 208,
@@ -77383,7 +77383,7 @@ module.exports = [
   },
   {
     "id": "reggie-hearn",
-    "name": "雷吉·Hearn",
+    "name": "雷格吉埃·赫尔恩",
     "name_en": "Reggie Hearn",
     "position": "PG",
     "height": 196,
@@ -77419,7 +77419,7 @@ module.exports = [
   },
   {
     "id": "pj-dozier",
-    "name": "PJ Dozier",
+    "name": "普杰·多齐尔",
     "name_en": "PJ Dozier",
     "position": "SG",
     "height": 198,
@@ -77461,7 +77461,7 @@ module.exports = [
   },
   {
     "id": "rodney-purvis",
-    "name": "Rodney Purvis",
+    "name": "罗德尼·普尔维斯",
     "name_en": "Rodney Purvis",
     "position": "SG",
     "height": 193,
@@ -77539,7 +77539,7 @@ module.exports = [
   },
   {
     "id": "sindarius-thornwell",
-    "name": "Sindarius Thornwell",
+    "name": "辛达里斯·斯恩韦尔",
     "name_en": "Sindarius Thornwell",
     "position": "SG",
     "height": 193,
@@ -77623,7 +77623,7 @@ module.exports = [
   },
   {
     "id": "semi-ojeleye",
-    "name": "Semi Ojeleye",
+    "name": "塞米·奥杰利埃",
     "name_en": "Semi Ojeleye",
     "position": "SF",
     "height": 198,
@@ -77661,7 +77661,7 @@ module.exports = [
   },
   {
     "id": "ryan-arcidiacono",
-    "name": "Ryan Arcidiacono",
+    "name": "里恩·尔西迪克昂奥",
     "name_en": "Ryan Arcidiacono",
     "position": "PG",
     "height": 190,
@@ -77701,7 +77701,7 @@ module.exports = [
   },
   {
     "id": "royce-oneale",
-    "name": "罗伊斯·O'Neale",
+    "name": "罗斯·奥内尔",
     "name_en": "Royce O'Neale",
     "position": "SF",
     "height": 198,
@@ -77739,7 +77739,7 @@ module.exports = [
   },
   {
     "id": "edmond-sumner",
-    "name": "Edmond Sumner",
+    "name": "德莫恩德·苏姆内尔",
     "name_en": "Edmond Sumner",
     "position": "PG",
     "height": 193,
@@ -77777,7 +77777,7 @@ module.exports = [
   },
   {
     "id": "daniel-theis",
-    "name": "丹尼尔·Theis",
+    "name": "达尼尔·斯埃斯",
     "name_en": "Daniel Theis",
     "position": "PF",
     "height": 203,
@@ -77855,7 +77855,7 @@ module.exports = [
   },
   {
     "id": "damyean-dotson",
-    "name": "Damyean Dotson",
+    "name": "达迈安·多特森",
     "name_en": "Damyean Dotson",
     "position": "SG",
     "height": 196,
@@ -77933,7 +77933,7 @@ module.exports = [
   },
   {
     "id": "dakari-johnson",
-    "name": "Dakari·约翰逊",
+    "name": "达卡里·乔赫恩森",
     "name_en": "Dakari Johnson",
     "position": "C",
     "height": 213,
@@ -77969,7 +77969,7 @@ module.exports = [
   },
   {
     "id": "dj-wilson",
-    "name": "D.J·威尔逊",
+    "name": "德杰·威尔森",
     "name_en": "D.J. Wilson",
     "position": "SF",
     "height": 208,
@@ -78047,7 +78047,7 @@ module.exports = [
   },
   {
     "id": "charles-cooke",
-    "name": "查尔斯·Cooke",
+    "name": "奇尔勒斯·科克",
     "name_en": "Charles Cooke",
     "position": "SG",
     "height": 196,
@@ -78083,7 +78083,7 @@ module.exports = [
   },
   {
     "id": "danuel-house-jr",
-    "name": "Danuel·二世",
+    "name": "达努尔·杰尔",
     "name_en": "Danuel House Jr.",
     "position": "SF",
     "height": 198,
@@ -78281,7 +78281,7 @@ module.exports = [
   },
   {
     "id": "deaaron-fox",
-    "name": "De'Aaron·福克斯",
+    "name": "德阿尔昂·福克斯",
     "name_en": "De'Aaron Fox",
     "position": "PG",
     "height": 190,
@@ -78317,7 +78317,7 @@ module.exports = [
   },
   {
     "id": "davon-reed",
-    "name": "Davon·里德",
+    "name": "达沃恩·雷德",
     "name_en": "Davon Reed",
     "position": "PG",
     "height": 196,
@@ -78359,7 +78359,7 @@ module.exports = [
   },
   {
     "id": "cedi-osman",
-    "name": "Cedi·奥斯曼",
+    "name": "塞迪·斯曼",
     "name_en": "Cedi Osman",
     "position": "SF",
     "height": 201,
@@ -78395,7 +78395,7 @@ module.exports = [
   },
   {
     "id": "ante-zizic",
-    "name": "Ante Zizic",
+    "name": "特埃·齐克",
     "name_en": "Ante Zizic",
     "position": "C",
     "height": 208,
@@ -78431,7 +78431,7 @@ module.exports = [
   },
   {
     "id": "andrew-white-iii",
-    "name": "Andrew·三世",
+    "name": "德雷沃·伊",
     "name_en": "Andrew White III",
     "position": "SF",
     "height": 201,
@@ -78503,7 +78503,7 @@ module.exports = [
   },
   {
     "id": "alfonzo-mckinnie",
-    "name": "阿方索·Mckinnie",
+    "name": "尔福恩佐·麦克基恩尼埃",
     "name_en": "Alfonzo McKinnie",
     "position": "SF",
     "height": 201,
@@ -78583,7 +78583,7 @@ module.exports = [
   },
   {
     "id": "abdel-nader",
-    "name": "Abdel Nader",
+    "name": "布德尔·纳德尔",
     "name_en": "Abdel Nader",
     "position": "SF",
     "height": 196,
@@ -78659,7 +78659,7 @@ module.exports = [
   },
   {
     "id": "alex-caruso",
-    "name": "亚历克斯·Caruso",
+    "name": "尔克斯·卡鲁索",
     "name_en": "Alex Caruso",
     "position": "PG",
     "height": 196,
@@ -78697,7 +78697,7 @@ module.exports = [
   },
   {
     "id": "antonius-cleveland",
-    "name": "Antonius Cleveland",
+    "name": "特昂厄斯·克夫兰",
     "name_en": "Antonius Cleveland",
     "position": "PG",
     "height": 196,
@@ -78735,7 +78735,7 @@ module.exports = [
   },
   {
     "id": "caleb-swanigan",
-    "name": "卡莱布·Swanigan",
+    "name": "卡勒布·斯恩格恩",
     "name_en": "Caleb Swanigan",
     "position": "SF",
     "height": 206,
@@ -78773,7 +78773,7 @@ module.exports = [
   },
   {
     "id": "cj-williams",
-    "name": "C.J·威廉姆斯",
+    "name": "克杰·威尔伊姆斯",
     "name_en": "C.J. Williams",
     "position": "PG",
     "height": 196,
@@ -78847,7 +78847,7 @@ module.exports = [
   },
   {
     "id": "antonio-blakeney",
-    "name": "Antonio Blakeney",
+    "name": "特昂伊奥·布拉肯伊",
     "name_en": "Antonio Blakeney",
     "position": "PG",
     "height": 193,
@@ -78921,7 +78921,7 @@ module.exports = [
   },
   {
     "id": "ben-simmons",
-    "name": "Ben·西蒙斯",
+    "name": "贝恩·西姆莫恩斯",
     "name_en": "Ben Simmons",
     "position": "SG",
     "height": 208,
@@ -78959,7 +78959,7 @@ module.exports = [
   },
   {
     "id": "ben-moore",
-    "name": "Ben·摩尔",
+    "name": "贝恩·莫尔",
     "name_en": "Ben Moore",
     "position": "SF",
     "height": 203,
@@ -79071,7 +79071,7 @@ module.exports = [
   },
   {
     "id": "jawun-evans",
-    "name": "Jawun·埃文斯",
+    "name": "贾吴恩·夫恩斯",
     "name_en": "Jawun Evans",
     "position": "PG",
     "height": 183,
@@ -79109,7 +79109,7 @@ module.exports = [
   },
   {
     "id": "jarrett-allen",
-    "name": "贾勒特·Allen",
+    "name": "贾尔雷特·尔恩",
     "name_en": "Jarrett Allen",
     "position": "C",
     "height": 206,
@@ -79147,7 +79147,7 @@ module.exports = [
   },
   {
     "id": "jamil-wilson",
-    "name": "Jamil·威尔逊",
+    "name": "贾米尔·威尔森",
     "name_en": "Jamil Wilson",
     "position": "SF",
     "height": 201,
@@ -79255,7 +79255,7 @@ module.exports = [
   },
   {
     "id": "jamel-artis",
-    "name": "Jamel Artis",
+    "name": "贾梅尔·特斯",
     "name_en": "Jamel Artis",
     "position": "SG",
     "height": 201,
@@ -79291,7 +79291,7 @@ module.exports = [
   },
   {
     "id": "jameel-warney",
-    "name": "Jameel Warney",
+    "name": "贾梅尔·瓦恩伊",
     "name_en": "Jameel Warney",
     "position": "SF",
     "height": 203,
@@ -79365,7 +79365,7 @@ module.exports = [
   },
   {
     "id": "jacob-wiley",
-    "name": "Jacob Wiley",
+    "name": "贾科布·威利",
     "name_en": "Jacob Wiley",
     "position": "SF",
     "height": 203,
@@ -79401,7 +79401,7 @@ module.exports = [
   },
   {
     "id": "jacob-pullen",
-    "name": "Jacob Pullen",
+    "name": "贾科布·普尔恩",
     "name_en": "Jacob Pullen",
     "position": "SG",
     "height": 185,
@@ -79437,7 +79437,7 @@ module.exports = [
   },
   {
     "id": "jordan-bell",
-    "name": "Jordan·贝尔",
+    "name": "乔尔达恩·贝尔",
     "name_en": "Jordan Bell",
     "position": "SF",
     "height": 201,
@@ -79513,7 +79513,7 @@ module.exports = [
   },
   {
     "id": "johnathan-motley",
-    "name": "Johnathan Motley",
+    "name": "乔赫纳斯恩·莫特利",
     "name_en": "Johnathan Motley",
     "position": "SF",
     "height": 203,
@@ -79623,7 +79623,7 @@ module.exports = [
   },
   {
     "id": "jabari-bird",
-    "name": "Jabari Bird",
+    "name": "贾巴里·比尔德",
     "name_en": "Jabari Bird",
     "position": "PG",
     "height": 198,
@@ -79659,7 +79659,7 @@ module.exports = [
   },
   {
     "id": "furkan-korkmaz",
-    "name": "Furkan Korkmaz",
+    "name": "富尔卡恩·科尔克马兹",
     "name_en": "Furkan Korkmaz",
     "position": "SG",
     "height": 201,
@@ -79695,7 +79695,7 @@ module.exports = [
   },
   {
     "id": "frank-ntilikina",
-    "name": "Frank Ntilikina",
+    "name": "弗克·恩蒂利基纳",
     "name_en": "Frank Ntilikina",
     "position": "PG",
     "height": 193,
@@ -79733,7 +79733,7 @@ module.exports = [
   },
   {
     "id": "frank-mason",
-    "name": "Frank·梅森",
+    "name": "弗克·马森",
     "name_en": "Frank Mason",
     "position": "PG",
     "height": 180,
@@ -79773,7 +79773,7 @@ module.exports = [
   },
   {
     "id": "erik-mccree",
-    "name": "Erik McCree",
+    "name": "里克·麦克埃",
     "name_en": "Erik McCree",
     "position": "SF",
     "height": 203,
@@ -79809,7 +79809,7 @@ module.exports = [
   },
   {
     "id": "dwayne-bacon",
-    "name": "Dwayne Bacon",
+    "name": "德瓦因·巴科恩",
     "name_en": "Dwayne Bacon",
     "position": "SG",
     "height": 198,
@@ -79885,7 +79885,7 @@ module.exports = [
   },
   {
     "id": "ivan-rabb",
-    "name": "Ivan Rabb",
+    "name": "夫恩·拉布",
     "name_en": "Ivan Rabb",
     "position": "SF",
     "height": 208,
@@ -79957,7 +79957,7 @@ module.exports = [
   },
   {
     "id": "ike-anigbogu",
-    "name": "Ike Anigbogu",
+    "name": "克·恩格博古",
     "name_en": "Ike Anigbogu",
     "position": "PF",
     "height": 208,
@@ -79993,7 +79993,7 @@ module.exports = [
   },
   {
     "id": "guerschon-yabusele",
-    "name": "Guerschon Yabusele",
+    "name": "古斯奇昂·亚布塞勒",
     "name_en": "Guerschon Yabusele",
     "position": "SF",
     "height": 203,
@@ -80029,7 +80029,7 @@ module.exports = [
   },
   {
     "id": "gian-clavell",
-    "name": "Gian Clavell",
+    "name": "吉恩·克夫尔",
     "name_en": "Gian Clavell",
     "position": "PG",
     "height": 193,
@@ -80065,7 +80065,7 @@ module.exports = [
   },
   {
     "id": "zhou-qi",
-    "name": "周·Qi",
+    "name": "兹霍乌·奎伊",
     "name_en": "Zhou Qi",
     "position": "PF",
     "height": 216,
@@ -80255,7 +80255,7 @@ module.exports = [
   },
   {
     "id": "grayson-allen",
-    "name": "Grayson Allen",
+    "name": "格伊森·尔恩",
     "name_en": "Grayson Allen",
     "position": "PG",
     "height": 193,
@@ -80295,7 +80295,7 @@ module.exports = [
   },
   {
     "id": "hamidou-diallo",
-    "name": "Hamidou Diallo",
+    "name": "哈米多乌·迪尔奥",
     "name_en": "Hamidou Diallo",
     "position": "SG",
     "height": 196,
@@ -80333,7 +80333,7 @@ module.exports = [
   },
   {
     "id": "harry-giles-iii",
-    "name": "Harry·三世",
+    "name": "哈尔里·伊",
     "name_en": "Harry Giles III",
     "position": "PF",
     "height": 211,
@@ -80371,7 +80371,7 @@ module.exports = [
   },
   {
     "id": "haywood-highsmith",
-    "name": "Haywood Highsmith",
+    "name": "哈尤德·希格斯",
     "name_en": "Haywood Highsmith",
     "position": "SF",
     "height": 196,
@@ -80409,7 +80409,7 @@ module.exports = [
   },
   {
     "id": "frank-jackson",
-    "name": "Frank·杰克逊",
+    "name": "弗克·贾克森",
     "name_en": "Frank Jackson",
     "position": "PG",
     "height": 190,
@@ -80449,7 +80449,7 @@ module.exports = [
   },
   {
     "id": "donte-divincenzo",
-    "name": "Donte DiVincenzo",
+    "name": "多恩特·迪维恩塞恩佐",
     "name_en": "Donte DiVincenzo",
     "position": "SG",
     "height": 193,
@@ -80489,7 +80489,7 @@ module.exports = [
   },
   {
     "id": "donte-grantham",
-    "name": "Donte Grantham",
+    "name": "多恩特·格特哈姆",
     "name_en": "Donte Grantham",
     "position": "SF",
     "height": 203,
@@ -80525,7 +80525,7 @@ module.exports = [
   },
   {
     "id": "drew-eubanks",
-    "name": "Drew Eubanks",
+    "name": "德尤·埃布克斯",
     "name_en": "Drew Eubanks",
     "position": "PF",
     "height": 208,
@@ -80563,7 +80563,7 @@ module.exports = [
   },
   {
     "id": "duncan-robinson",
-    "name": "Duncan·罗宾逊",
+    "name": "杜恩卡恩·罗比恩森",
     "name_en": "Duncan Robinson",
     "position": "SF",
     "height": 201,
@@ -80599,7 +80599,7 @@ module.exports = [
   },
   {
     "id": "dusty-hannahs",
-    "name": "Dusty Hannahs",
+    "name": "杜斯特伊·哈恩纳赫斯",
     "name_en": "Dusty Hannahs",
     "position": "PG",
     "height": 190,
@@ -80635,7 +80635,7 @@ module.exports = [
   },
   {
     "id": "dzanan-musa",
-    "name": "Dzanan Musa",
+    "name": "德扎纳恩·穆萨",
     "name_en": "Dzanan Musa",
     "position": "SG",
     "height": 206,
@@ -80671,7 +80671,7 @@ module.exports = [
   },
   {
     "id": "elie-okobo",
-    "name": "Elie Okobo",
+    "name": "尔伊埃·克布奥",
     "name_en": "Elie Okobo",
     "position": "SF",
     "height": 190,
@@ -80707,7 +80707,7 @@ module.exports = [
   },
   {
     "id": "emanuel-terry",
-    "name": "伊曼纽尔·Terry",
+    "name": "姆恩乌尔·特尔里",
     "name_en": "Emanuel Terry",
     "position": "SF",
     "height": 206,
@@ -80745,7 +80745,7 @@ module.exports = [
   },
   {
     "id": "isaac-bonga",
-    "name": "Isaac·邦加",
+    "name": "斯阿克·博恩加",
     "name_en": "Isaac Bonga",
     "position": "SG",
     "height": 203,
@@ -80785,7 +80785,7 @@ module.exports = [
   },
   {
     "id": "isaac-humphries",
-    "name": "Isaac Humphries",
+    "name": "斯阿克·胡姆菲里斯",
     "name_en": "Isaac Humphries",
     "position": "C",
     "height": 213,
@@ -80821,7 +80821,7 @@ module.exports = [
   },
   {
     "id": "jarred-vanderbilt",
-    "name": "Jarred Vanderbilt",
+    "name": "贾尔雷德·瓦恩德尔比尔特",
     "name_en": "Jarred Vanderbilt",
     "position": "SF",
     "height": 203,
@@ -80899,7 +80899,7 @@ module.exports = [
   },
   {
     "id": "jemerrio-jones",
-    "name": "Jemerrio·琼斯",
+    "name": "杰梅尔里奥·乔内斯",
     "name_en": "Jemerrio Jones",
     "position": "SF",
     "height": 196,
@@ -80935,7 +80935,7 @@ module.exports = [
   },
   {
     "id": "jerome-robinson",
-    "name": "Jerome·罗宾逊",
+    "name": "杰罗梅·罗比恩森",
     "name_en": "Jerome Robinson",
     "position": "SG",
     "height": 193,
@@ -80973,7 +80973,7 @@ module.exports = [
   },
   {
     "id": "jevon-carter",
-    "name": "Jevon·卡特",
+    "name": "杰沃恩·卡尔特尔",
     "name_en": "Jevon Carter",
     "position": "SG",
     "height": 185,
@@ -81013,7 +81013,7 @@ module.exports = [
   },
   {
     "id": "joe-chealey",
-    "name": "乔·Chealey",
+    "name": "乔埃·奇埃尔伊",
     "name_en": "Joe Chealey",
     "position": "PG",
     "height": 193,
@@ -81049,7 +81049,7 @@ module.exports = [
   },
   {
     "id": "jaron-blossomgame",
-    "name": "Jaron Blossomgame",
+    "name": "贾罗恩·布洛斯索姆加梅",
     "name_en": "Jaron Blossomgame",
     "position": "SF",
     "height": 203,
@@ -81085,7 +81085,7 @@ module.exports = [
   },
   {
     "id": "jaren-jackson-jr",
-    "name": "Jaren·二世",
+    "name": "贾雷恩·杰尔",
     "name_en": "Jaren Jackson Jr.",
     "position": "PF",
     "height": 208,
@@ -81121,7 +81121,7 @@ module.exports = [
   },
   {
     "id": "jared-terrell",
-    "name": "Jared Terrell",
+    "name": "贾雷德·特尔雷尔",
     "name_en": "Jared Terrell",
     "position": "PG",
     "height": 190,
@@ -81157,7 +81157,7 @@ module.exports = [
   },
   {
     "id": "isaiah-briscoe",
-    "name": "以赛亚·Briscoe",
+    "name": "斯阿伊赫·布斯科埃",
     "name_en": "Isaiah Briscoe",
     "position": "SG",
     "height": 190,
@@ -81193,7 +81193,7 @@ module.exports = [
   },
   {
     "id": "isaiah-hartenstein",
-    "name": "以赛亚·Hartenstein",
+    "name": "斯阿伊赫·哈尔特恩斯特因",
     "name_en": "Isaiah Hartenstein",
     "position": "PF",
     "height": 213,
@@ -81235,7 +81235,7 @@ module.exports = [
   },
   {
     "id": "jp-macura",
-    "name": "J.P. Macura",
+    "name": "杰普·马库拉",
     "name_en": "J.P. Macura",
     "position": "SG",
     "height": 193,
@@ -81273,7 +81273,7 @@ module.exports = [
   },
   {
     "id": "jacob-evans",
-    "name": "Jacob·埃文斯",
+    "name": "贾科布·夫恩斯",
     "name_en": "Jacob Evans",
     "position": "SG",
     "height": 193,
@@ -81349,7 +81349,7 @@ module.exports = [
   },
   {
     "id": "bj-johnson",
-    "name": "Bj·约翰逊",
+    "name": "布杰·乔赫恩斯昂",
     "name_en": "BJ Johnson",
     "position": "SF",
     "height": 198,
@@ -81387,7 +81387,7 @@ module.exports = [
   },
   {
     "id": "billy-garrett",
-    "name": "Billy·加勒特",
+    "name": "比尔伊·加尔雷特",
     "name_en": "Billy Garrett",
     "position": "SG",
     "height": 198,
@@ -81423,7 +81423,7 @@ module.exports = [
   },
   {
     "id": "bonzie-colson",
-    "name": "Bonzie Colson",
+    "name": "邦齐埃·科尔森",
     "name_en": "Bonzie Colson",
     "position": "SF",
     "height": 198,
@@ -81459,7 +81459,7 @@ module.exports = [
   },
   {
     "id": "brad-wanamaker",
-    "name": "Brad Wanamaker",
+    "name": "布德·瓦纳马凯尔",
     "name_en": "Brad Wanamaker",
     "position": "PG",
     "height": 190,
@@ -81499,7 +81499,7 @@ module.exports = [
   },
   {
     "id": "brandon-goodwin",
-    "name": "布兰登·Goodwin",
+    "name": "布德昂·戈德威恩",
     "name_en": "Brandon Goodwin",
     "position": "SG",
     "height": 183,
@@ -81539,7 +81539,7 @@ module.exports = [
   },
   {
     "id": "brandon-sampson",
-    "name": "布兰登·Sampson",
+    "name": "布德昂·萨姆普森",
     "name_en": "Brandon Sampson",
     "position": "PG",
     "height": 196,
@@ -81575,7 +81575,7 @@ module.exports = [
   },
   {
     "id": "bruce-brown",
-    "name": "Bruce·布朗",
+    "name": "布斯·布恩",
     "name_en": "Bruce Brown",
     "position": "SG",
     "height": 193,
@@ -81615,7 +81615,7 @@ module.exports = [
   },
   {
     "id": "cameron-reynolds",
-    "name": "卡梅伦·Reynolds",
+    "name": "卡梅龙·雷诺尔德斯",
     "name_en": "Cameron Reynolds",
     "position": "SG",
     "height": 201,
@@ -81653,7 +81653,7 @@ module.exports = [
   },
   {
     "id": "zhaire-smith",
-    "name": "Zhaire·史密斯",
+    "name": "兹哈尔·斯",
     "name_en": "Zhaire Smith",
     "position": "PG",
     "height": 190,
@@ -81729,7 +81729,7 @@ module.exports = [
   },
   {
     "id": "alize-johnson",
-    "name": "Alize·约翰逊",
+    "name": "尔兹·乔赫恩森",
     "name_en": "Alize Johnson",
     "position": "SF",
     "height": 203,
@@ -81771,7 +81771,7 @@ module.exports = [
   },
   {
     "id": "allonzo-trier",
-    "name": "Allonzo Trier",
+    "name": "尔昂佐·特尔",
     "name_en": "Allonzo Trier",
     "position": "PG",
     "height": 193,
@@ -81807,7 +81807,7 @@ module.exports = [
   },
   {
     "id": "amile-jefferson",
-    "name": "Amile·杰弗森",
+    "name": "姆尔·杰弗费尔森",
     "name_en": "Amile Jefferson",
     "position": "SF",
     "height": 206,
@@ -81843,7 +81843,7 @@ module.exports = [
   },
   {
     "id": "anfernee-simons",
-    "name": "Anfernee·西蒙斯",
+    "name": "恩费尔内埃·西莫恩斯",
     "name_en": "Anfernee Simons",
     "position": "PG",
     "height": 190,
@@ -81879,7 +81879,7 @@ module.exports = [
   },
   {
     "id": "angel-delgado",
-    "name": "Angel·德尔加多",
+    "name": "格尔·德尔加多",
     "name_en": "Angel Delgado",
     "position": "C",
     "height": 208,
@@ -81915,7 +81915,7 @@ module.exports = [
   },
   {
     "id": "chandler-hutchison",
-    "name": "Chandler Hutchison",
+    "name": "奇德勒尔·胡特奇斯昂",
     "name_en": "Chandler Hutchison",
     "position": "SF",
     "height": 198,
@@ -81955,7 +81955,7 @@ module.exports = [
   },
   {
     "id": "deanthony-melton",
-    "name": "De'Anthony Melton",
+    "name": "德特霍尼·梅尔特昂",
     "name_en": "De'Anthony Melton",
     "position": "SG",
     "height": 188,
@@ -81995,7 +81995,7 @@ module.exports = [
   },
   {
     "id": "devaughn-akoon-purcell",
-    "name": "DeVaughn Akoon-Purcell",
+    "name": "德瓦夫恩·克恩-普尔塞尔",
     "name_en": "DeVaughn Akoon-Purcell",
     "position": "SG",
     "height": 198,
@@ -82067,7 +82067,7 @@ module.exports = [
   },
   {
     "id": "deng-adel",
-    "name": "Deng Adel",
+    "name": "德恩格·德尔",
     "name_en": "Deng Adel",
     "position": "SF",
     "height": 201,
@@ -82103,7 +82103,7 @@ module.exports = [
   },
   {
     "id": "deonte-burton",
-    "name": "Deonte·伯顿",
+    "name": "德特埃·布特昂",
     "name_en": "Deonte Burton",
     "position": "SG",
     "height": 193,
@@ -82141,7 +82141,7 @@ module.exports = [
   },
   {
     "id": "devonte-graham",
-    "name": "Devonte'·格雷厄姆",
+    "name": "德沃恩特'·格赫姆",
     "name_en": "Devonte' Graham",
     "position": "SG",
     "height": 185,
@@ -82181,7 +82181,7 @@ module.exports = [
   },
   {
     "id": "chimezie-metu",
-    "name": "Chimezie·梅图",
+    "name": "奇姆齐埃·梅图",
     "name_en": "Chimezie Metu",
     "position": "PF",
     "height": 206,
@@ -82219,7 +82219,7 @@ module.exports = [
   },
   {
     "id": "chris-chiozza",
-    "name": "克里斯·Chiozza",
+    "name": "奇里斯·奇伊兹扎",
     "name_en": "Chris Chiozza",
     "position": "SG",
     "height": 180,
@@ -82259,7 +82259,7 @@ module.exports = [
   },
   {
     "id": "collin-sexton",
-    "name": "Collin·塞克斯顿",
+    "name": "科尔因·塞克斯顿",
     "name_en": "Collin Sexton",
     "position": "PG",
     "height": 188,
@@ -82297,7 +82297,7 @@ module.exports = [
   },
   {
     "id": "dairis-bertans",
-    "name": "Dairis·贝尔坦斯",
+    "name": "达尔斯·贝尔塔恩斯",
     "name_en": "Dairis Bertans",
     "position": "SG",
     "height": 193,
@@ -82333,7 +82333,7 @@ module.exports = [
   },
   {
     "id": "daryl-macon",
-    "name": "Daryl Macon",
+    "name": "达里尔·马科恩",
     "name_en": "Daryl Macon",
     "position": "PG",
     "height": 188,
@@ -82371,7 +82371,7 @@ module.exports = [
   },
   {
     "id": "johnathan-williams",
-    "name": "Johnathan·威廉姆斯",
+    "name": "乔赫纳斯恩·威尔伊姆斯",
     "name_en": "Johnathan Williams",
     "position": "SF",
     "height": 206,
@@ -82409,7 +82409,7 @@ module.exports = [
   },
   {
     "id": "ryan-broekhoff",
-    "name": "Ryan Broekhoff",
+    "name": "里恩·布奥克霍弗",
     "name_en": "Ryan Broekhoff",
     "position": "SG",
     "height": 198,
@@ -82485,7 +82485,7 @@ module.exports = [
   },
   {
     "id": "shake-milton",
-    "name": "Shake Milton",
+    "name": "什克·米尔顿",
     "name_en": "Shake Milton",
     "position": "SG",
     "height": 196,
@@ -82521,7 +82521,7 @@ module.exports = [
   },
   {
     "id": "svi-mykhailiuk",
-    "name": "斯维亚托斯拉夫·Mykhailiuk",
+    "name": "斯维·迈克阿尔伊克",
     "name_en": "Svi Mykhailiuk",
     "position": "SG",
     "height": 201,
@@ -82563,7 +82563,7 @@ module.exports = [
   },
   {
     "id": "tahjere-mccall",
-    "name": "Tahjere McCall",
+    "name": "塔赫杰雷·麦克卡尔",
     "name_en": "Tahjere McCall",
     "position": "PG",
     "height": 196,
@@ -82599,7 +82599,7 @@ module.exports = [
   },
   {
     "id": "rawle-alkins",
-    "name": "Rawle Alkins",
+    "name": "拉沃勒·尔基恩斯",
     "name_en": "Rawle Alkins",
     "position": "PG",
     "height": 196,
@@ -82635,7 +82635,7 @@ module.exports = [
   },
   {
     "id": "ray-spalding",
-    "name": "雷·Spalding",
+    "name": "拉伊·斯尔丁格",
     "name_en": "Ray Spalding",
     "position": "SF",
     "height": 206,
@@ -82709,7 +82709,7 @@ module.exports = [
   },
   {
     "id": "rodions-kurucs",
-    "name": "Rodions Kurucs",
+    "name": "罗迪斯·库鲁克斯",
     "name_en": "Rodions Kurucs",
     "position": "SF",
     "height": 206,
@@ -82747,7 +82747,7 @@ module.exports = [
   },
   {
     "id": "vincent-edwards",
-    "name": "Vincent·爱德华兹",
+    "name": "维恩塞恩特·德瓦尔德斯",
     "name_en": "Vincent Edwards",
     "position": "SF",
     "height": 203,
@@ -82783,7 +82783,7 @@ module.exports = [
   },
   {
     "id": "wendell-carter-jr",
-    "name": "Wendell·二世",
+    "name": "韦恩德尔·杰尔",
     "name_en": "Wendell Carter Jr.",
     "position": "PF",
     "height": 208,
@@ -82821,7 +82821,7 @@ module.exports = [
   },
   {
     "id": "yante-maten",
-    "name": "Yante Maten",
+    "name": "亚恩特·马特恩",
     "name_en": "Yante Maten",
     "position": "SF",
     "height": 203,
@@ -82857,7 +82857,7 @@ module.exports = [
   },
   {
     "id": "yuta-watanabe",
-    "name": "Yuta Watanabe",
+    "name": "尤塔·瓦塔纳贝",
     "name_en": "Yuta Watanabe",
     "position": "SG",
     "height": 203,
@@ -82897,7 +82897,7 @@ module.exports = [
   },
   {
     "id": "zach-lofton",
-    "name": "扎克·Lofton",
+    "name": "扎奇·洛弗顿",
     "name_en": "Zach Lofton",
     "position": "SG",
     "height": 193,
@@ -82933,7 +82933,7 @@ module.exports = [
   },
   {
     "id": "theo-pinson",
-    "name": "西奥·Pinson",
+    "name": "斯埃奥·平森",
     "name_en": "Theo Pinson",
     "position": "SG",
     "height": 201,
@@ -82973,7 +82973,7 @@ module.exports = [
   },
   {
     "id": "thomas-welsh",
-    "name": "托马斯·Welsh",
+    "name": "斯姆斯·韦尔什",
     "name_en": "Thomas Welsh",
     "position": "C",
     "height": 213,
@@ -83045,7 +83045,7 @@ module.exports = [
   },
   {
     "id": "trevon-duval",
-    "name": "Trevon Duval",
+    "name": "特夫昂·杜瓦尔",
     "name_en": "Trevon Duval",
     "position": "PG",
     "height": 188,
@@ -83081,7 +83081,7 @@ module.exports = [
   },
   {
     "id": "troy-brown-jr",
-    "name": "Troy·二世",
+    "name": "特伊·杰尔",
     "name_en": "Troy Brown Jr.",
     "position": "SG",
     "height": 201,
@@ -83121,7 +83121,7 @@ module.exports = [
   },
   {
     "id": "troy-caupain",
-    "name": "Troy Caupain",
+    "name": "特伊·卡普恩",
     "name_en": "Troy Caupain",
     "position": "SG",
     "height": 193,
@@ -83193,7 +83193,7 @@ module.exports = [
   },
   {
     "id": "omari-spellman",
-    "name": "Omari Spellman",
+    "name": "姆尔伊·斯尔曼",
     "name_en": "Omari Spellman",
     "position": "SF",
     "height": 203,
@@ -83231,7 +83231,7 @@ module.exports = [
   },
   {
     "id": "kenrich-williams",
-    "name": "Kenrich·威廉姆斯",
+    "name": "凯恩里奇·威尔伊姆斯",
     "name_en": "Kenrich Williams",
     "position": "SG",
     "height": 198,
@@ -83269,7 +83269,7 @@ module.exports = [
   },
   {
     "id": "kevin-huerter",
-    "name": "凯文·Huerter",
+    "name": "凯文·胡特尔",
     "name_en": "Kevin Huerter",
     "position": "SG",
     "height": 201,
@@ -83307,7 +83307,7 @@ module.exports = [
   },
   {
     "id": "kevin-knox-ii",
-    "name": "凯文·Ii",
+    "name": "凯文·伊",
     "name_en": "Kevin Knox II",
     "position": "SF",
     "height": 201,
@@ -83347,7 +83347,7 @@ module.exports = [
   },
   {
     "id": "khyri-thomas",
-    "name": "Khyri·托马斯",
+    "name": "克尔伊·斯姆斯",
     "name_en": "Khyri Thomas",
     "position": "SG",
     "height": 190,
@@ -83385,7 +83385,7 @@ module.exports = [
   },
   {
     "id": "kostas-antetokounmpo",
-    "name": "Kostas·阿德托昆博",
+    "name": "科斯特斯·特克奥恩姆波",
     "name_en": "Kostas Antetokounmpo",
     "position": "SF",
     "height": 208,
@@ -83423,7 +83423,7 @@ module.exports = [
   },
   {
     "id": "landry-shamet",
-    "name": "Landry·沙梅特",
+    "name": "兰里·什姆特",
     "name_en": "Landry Shamet",
     "position": "PG",
     "height": 193,
@@ -83463,7 +83463,7 @@ module.exports = [
   },
   {
     "id": "keita-bates-diop",
-    "name": "Keita Bates-Diop",
+    "name": "凯特阿·巴特斯-迪普",
     "name_en": "Keita Bates-Diop",
     "position": "SF",
     "height": 203,
@@ -83503,7 +83503,7 @@ module.exports = [
   },
   {
     "id": "jonah-bolden",
-    "name": "Jonah Bolden",
+    "name": "乔纳赫·博尔德恩",
     "name_en": "Jonah Bolden",
     "position": "SF",
     "height": 203,
@@ -83541,7 +83541,7 @@ module.exports = [
   },
   {
     "id": "jordan-loyd",
-    "name": "Jordan Loyd",
+    "name": "乔德恩·洛伊德",
     "name_en": "Jordan Loyd",
     "position": "SG",
     "height": 193,
@@ -83577,7 +83577,7 @@ module.exports = [
   },
   {
     "id": "jordan-sibert",
-    "name": "Jordan Sibert",
+    "name": "乔尔达恩·西贝尔特",
     "name_en": "Jordan Sibert",
     "position": "SG",
     "height": 193,
@@ -83613,7 +83613,7 @@ module.exports = [
   },
   {
     "id": "julian-washburn",
-    "name": "Julian Washburn",
+    "name": "朱利恩·瓦什布恩",
     "name_en": "Julian Washburn",
     "position": "SF",
     "height": 203,
@@ -83761,7 +83761,7 @@ module.exports = [
   },
   {
     "id": "mitchell-creek",
-    "name": "Mitchell Creek",
+    "name": "米特奇尔·克",
     "name_en": "Mitchell Creek",
     "position": "SF",
     "height": 198,
@@ -83797,7 +83797,7 @@ module.exports = [
   },
   {
     "id": "mitchell-robinson",
-    "name": "Mitchell·罗宾逊",
+    "name": "米特奇尔·罗比恩森",
     "name_en": "Mitchell Robinson",
     "position": "PF",
     "height": 213,
@@ -83871,7 +83871,7 @@ module.exports = [
   },
   {
     "id": "moritz-wagner",
-    "name": "Moritz·瓦格纳",
+    "name": "莫里特兹·瓦格内尔",
     "name_en": "Moritz Wagner",
     "position": "PF",
     "height": 211,
@@ -83911,7 +83911,7 @@ module.exports = [
   },
   {
     "id": "lonnie-walker-iv",
-    "name": "Lonnie Walker IV",
+    "name": "隆尼埃·夫",
     "name_en": "Lonnie Walker IV",
     "position": "SG",
     "height": 193,
@@ -83949,7 +83949,7 @@ module.exports = [
   },
   {
     "id": "melvin-frazier-jr",
-    "name": "Melvin·二世",
+    "name": "梅尔维恩·杰尔",
     "name_en": "Melvin Frazier Jr.",
     "position": "SG",
     "height": 196,
@@ -84023,7 +84023,7 @@ module.exports = [
   },
   {
     "id": "marcus-derrickson",
-    "name": "马库斯·Derrickson",
+    "name": "马尔库斯·德尔里克森",
     "name_en": "Marcus Derrickson",
     "position": "SF",
     "height": 201,
@@ -84059,7 +84059,7 @@ module.exports = [
   },
   {
     "id": "marvin-bagley-iii",
-    "name": "Marvin·三世",
+    "name": "马尔维恩·伊",
     "name_en": "Marvin Bagley III",
     "position": "SF",
     "height": 208,
@@ -84097,7 +84097,7 @@ module.exports = [
   },
   {
     "id": "jalen-mcdaniels",
-    "name": "贾伦·Mcdaniels",
+    "name": "贾勒恩·麦克达尼斯",
     "name_en": "Jalen McDaniels",
     "position": "SF",
     "height": 206,
@@ -84135,7 +84135,7 @@ module.exports = [
   },
   {
     "id": "jalen-lecque",
-    "name": "贾伦·Lecque",
+    "name": "贾伦·勒克奎乌埃",
     "name_en": "Jalen Lecque",
     "position": "PG",
     "height": 193,
@@ -84173,7 +84173,7 @@ module.exports = [
   },
   {
     "id": "jared-harper",
-    "name": "Jared·哈珀",
+    "name": "贾雷德·哈尔佩尔",
     "name_en": "Jared Harper",
     "position": "PG",
     "height": 178,
@@ -84211,7 +84211,7 @@ module.exports = [
   },
   {
     "id": "jeremiah-martin",
-    "name": "Jeremiah·马丁",
+    "name": "杰雷米赫·马特因",
     "name_en": "Jeremiah Martin",
     "position": "PG",
     "height": 188,
@@ -84249,7 +84249,7 @@ module.exports = [
   },
   {
     "id": "jaylen-nowell",
-    "name": "杰伦·Nowell",
+    "name": "贾尔恩·诺韦尔",
     "name_en": "Jaylen Nowell",
     "position": "PG",
     "height": 193,
@@ -84285,7 +84285,7 @@ module.exports = [
   },
   {
     "id": "jaylen-hoard",
-    "name": "杰伦·Hoard",
+    "name": "贾尔恩·霍德",
     "name_en": "Jaylen Hoard",
     "position": "SF",
     "height": 203,
@@ -84323,7 +84323,7 @@ module.exports = [
   },
   {
     "id": "jaxson-hayes",
-    "name": "Jaxson·海耶斯",
+    "name": "贾克斯森·哈耶斯",
     "name_en": "Jaxson Hayes",
     "position": "PF",
     "height": 213,
@@ -84359,7 +84359,7 @@ module.exports = [
   },
   {
     "id": "javonte-green",
-    "name": "Javonte·格林",
+    "name": "贾沃恩特·格恩",
     "name_en": "Javonte Green",
     "position": "PG",
     "height": 196,
@@ -84397,7 +84397,7 @@ module.exports = [
   },
   {
     "id": "jarrett-culver",
-    "name": "贾勒特·Culver",
+    "name": "贾尔雷特·库尔维尔",
     "name_en": "Jarrett Culver",
     "position": "SG",
     "height": 198,
@@ -84437,7 +84437,7 @@ module.exports = [
   },
   {
     "id": "jarrell-brantley",
-    "name": "Jarrell Brantley",
+    "name": "贾尔雷尔·布特利",
     "name_en": "Jarrell Brantley",
     "position": "SF",
     "height": 196,
@@ -84509,7 +84509,7 @@ module.exports = [
   },
   {
     "id": "goga-bitadze",
-    "name": "Goga Bitadze",
+    "name": "戈加·比塔德泽",
     "name_en": "Goga Bitadze",
     "position": "PF",
     "height": 211,
@@ -84583,7 +84583,7 @@ module.exports = [
   },
   {
     "id": "garrison-mathews",
-    "name": "Garrison Mathews",
+    "name": "加尔里森·马斯尤斯",
     "name_en": "Garrison Mathews",
     "position": "SG",
     "height": 198,
@@ -84623,7 +84623,7 @@ module.exports = [
   },
   {
     "id": "grant-williams",
-    "name": "Grant·威廉姆斯",
+    "name": "格特·威尔伊姆斯",
     "name_en": "Grant Williams",
     "position": "SF",
     "height": 198,
@@ -84659,7 +84659,7 @@ module.exports = [
   },
   {
     "id": "isaiah-roby",
-    "name": "以赛亚·Roby",
+    "name": "斯阿伊赫·罗拜",
     "name_en": "Isaiah Roby",
     "position": "SF",
     "height": 203,
@@ -84697,7 +84697,7 @@ module.exports = [
   },
   {
     "id": "ignas-brazdeikis",
-    "name": "Ignas Brazdeikis",
+    "name": "因斯·布兹德克斯",
     "name_en": "Ignas Brazdeikis",
     "position": "SF",
     "height": 198,
@@ -84773,7 +84773,7 @@ module.exports = [
   },
   {
     "id": "kevin-hervey",
-    "name": "凯文·Hervey",
+    "name": "凯文·赫尔维伊",
     "name_en": "Kevin Hervey",
     "position": "SF",
     "height": 206,
@@ -84845,7 +84845,7 @@ module.exports = [
   },
   {
     "id": "kelan-martin",
-    "name": "Kelan·马丁",
+    "name": "凯拉恩·马尔蒂恩",
     "name_en": "Kelan Martin",
     "position": "SF",
     "height": 196,
@@ -84885,7 +84885,7 @@ module.exports = [
   },
   {
     "id": "kendrick-nunn",
-    "name": "Kendrick Nunn",
+    "name": "凯恩德克·努恩",
     "name_en": "Kendrick Nunn",
     "position": "SG",
     "height": 190,
@@ -84923,7 +84923,7 @@ module.exports = [
   },
   {
     "id": "kyle-guy",
-    "name": "凯尔·Guy",
+    "name": "凯勒·古伊",
     "name_en": "Kyle Guy",
     "position": "SG",
     "height": 185,
@@ -84961,7 +84961,7 @@ module.exports = [
   },
   {
     "id": "kyle-alexander",
-    "name": "凯尔·Alexander",
+    "name": "凯勒·尔克斯德尔",
     "name_en": "Kyle Alexander",
     "position": "PF",
     "height": 208,
@@ -84997,7 +84997,7 @@ module.exports = [
   },
   {
     "id": "ky-bowman",
-    "name": "Ky Bowman",
+    "name": "凯·博沃曼",
     "name_en": "Ky Bowman",
     "position": "SG",
     "height": 185,
@@ -85033,7 +85033,7 @@ module.exports = [
   },
   {
     "id": "kz-okpala",
-    "name": "KZ Okpala",
+    "name": "克兹·克帕拉",
     "name_en": "KZ Okpala",
     "position": "SF",
     "height": 203,
@@ -85071,7 +85071,7 @@ module.exports = [
   },
   {
     "id": "juwan-morgan",
-    "name": "Juwan Morgan",
+    "name": "朱瓦恩·莫尔加恩",
     "name_en": "Juwan Morgan",
     "position": "SF",
     "height": 201,
@@ -85109,7 +85109,7 @@ module.exports = [
   },
   {
     "id": "jordan-mclaughlin",
-    "name": "Jordan·麦克劳林",
+    "name": "乔尔达恩·麦克拉夫利恩",
     "name_en": "Jordan McLaughlin",
     "position": "SG",
     "height": 183,
@@ -85145,7 +85145,7 @@ module.exports = [
   },
   {
     "id": "jordan-bone",
-    "name": "Jordan Bone",
+    "name": "乔尔达恩·博内",
     "name_en": "Jordan Bone",
     "position": "PG",
     "height": 188,
@@ -85183,7 +85183,7 @@ module.exports = [
   },
   {
     "id": "john-konchar",
-    "name": "约翰·Konchar",
+    "name": "乔赫恩·科恩奇尔",
     "name_en": "John Konchar",
     "position": "SG",
     "height": 196,
@@ -85219,7 +85219,7 @@ module.exports = [
   },
   {
     "id": "jordan-poole",
-    "name": "Jordan·普尔",
+    "name": "乔尔达恩·波尔",
     "name_en": "Jordan Poole",
     "position": "SG",
     "height": 193,
@@ -85255,7 +85255,7 @@ module.exports = [
   },
   {
     "id": "justin-wright-foreman",
-    "name": "Justin Wright-Foreman",
+    "name": "朱斯特因·尔伊特-福尔姆恩",
     "name_en": "Justin Wright-Foreman",
     "position": "PG",
     "height": 183,
@@ -85291,7 +85291,7 @@ module.exports = [
   },
   {
     "id": "justin-robinson",
-    "name": "Justin·罗宾逊",
+    "name": "朱斯特因·罗比恩斯昂",
     "name_en": "Justin Robinson",
     "position": "SG",
     "height": 185,
@@ -85331,7 +85331,7 @@ module.exports = [
   },
   {
     "id": "justin-james",
-    "name": "Justin·詹姆斯",
+    "name": "朱斯特因·贾梅斯",
     "name_en": "Justin James",
     "position": "SG",
     "height": 201,
@@ -85367,7 +85367,7 @@ module.exports = [
   },
   {
     "id": "juan-toscano-anderson",
-    "name": "Juan Toscano-Anderson",
+    "name": "朱恩·托斯恩奥-德斯昂",
     "name_en": "Juan Toscano-Anderson",
     "position": "SF",
     "height": 198,
@@ -85405,7 +85405,7 @@ module.exports = [
   },
   {
     "id": "josh-reaves",
-    "name": "约什·Reaves",
+    "name": "乔什·雷夫斯",
     "name_en": "Josh Reaves",
     "position": "SG",
     "height": 193,
@@ -85517,7 +85517,7 @@ module.exports = [
   },
   {
     "id": "brian-bowen-ii",
-    "name": "Brian Bowen II",
+    "name": "布伊恩·伊",
     "name_en": "Brian Bowen II",
     "position": "SF",
     "height": 198,
@@ -85553,7 +85553,7 @@ module.exports = [
   },
   {
     "id": "brandon-clarke",
-    "name": "布兰登·Clarke",
+    "name": "布德昂·克埃",
     "name_en": "Brandon Clarke",
     "position": "SF",
     "height": 203,
@@ -85589,7 +85589,7 @@ module.exports = [
   },
   {
     "id": "cam-reddish",
-    "name": "Cam Reddish",
+    "name": "卡姆·雷德迪什",
     "name_en": "Cam Reddish",
     "position": "SF",
     "height": 201,
@@ -85707,7 +85707,7 @@ module.exports = [
   },
   {
     "id": "chris-clemons",
-    "name": "克里斯·Clemons",
+    "name": "奇里斯·克姆斯",
     "name_en": "Chris Clemons",
     "position": "SG",
     "height": 175,
@@ -85743,7 +85743,7 @@ module.exports = [
   },
   {
     "id": "charlie-brown-jr",
-    "name": "Charlie·二世",
+    "name": "奇尔利埃·杰尔",
     "name_en": "Charlie Brown Jr.",
     "position": "SG",
     "height": 198,
@@ -85783,7 +85783,7 @@ module.exports = [
   },
   {
     "id": "carsen-edwards",
-    "name": "Carsen·爱德华兹",
+    "name": "卡尔塞恩·德瓦尔德斯",
     "name_en": "Carsen Edwards",
     "position": "PG",
     "height": 180,
@@ -85821,7 +85821,7 @@ module.exports = [
   },
   {
     "id": "bol-bol",
-    "name": "Bol·波尔",
+    "name": "博尔·博尔",
     "name_en": "Bol Bol",
     "position": "PF",
     "height": 218,
@@ -85859,7 +85859,7 @@ module.exports = [
   },
   {
     "id": "coby-white",
-    "name": "Coby·怀特",
+    "name": "科拜·惠特",
     "name_en": "Coby White",
     "position": "SG",
     "height": 196,
@@ -85895,7 +85895,7 @@ module.exports = [
   },
   {
     "id": "alen-smailagic",
-    "name": "Alen Smailagic",
+    "name": "尔恩·斯阿尔格克",
     "name_en": "Alen Smailagic",
     "position": "SF",
     "height": 208,
@@ -85931,7 +85931,7 @@ module.exports = [
   },
   {
     "id": "admiral-schofield",
-    "name": "Admiral Schofield",
+    "name": "德米拉尔·斯霍菲德",
     "name_en": "Admiral Schofield",
     "position": "SF",
     "height": 196,
@@ -85969,7 +85969,7 @@ module.exports = [
   },
   {
     "id": "adam-mokoka",
-    "name": "Adam Mokoka",
+    "name": "德姆·莫科卡",
     "name_en": "Adam Mokoka",
     "position": "SG",
     "height": 193,
@@ -86005,7 +86005,7 @@ module.exports = [
   },
   {
     "id": "amir-coffey",
-    "name": "Amir Coffey",
+    "name": "姆尔·科弗费伊",
     "name_en": "Amir Coffey",
     "position": "SG",
     "height": 201,
@@ -86041,7 +86041,7 @@ module.exports = [
   },
   {
     "id": "anzejs-pasecniks",
-    "name": "Anzejs Pasecniks",
+    "name": "恩泽杰斯·帕塞克尼克斯",
     "name_en": "Anzejs Pasecniks",
     "position": null,
     "height": 216,
@@ -86113,7 +86113,7 @@ module.exports = [
   },
   {
     "id": "donta-hall",
-    "name": "Donta·霍尔",
+    "name": "多恩塔·哈尔",
     "name_en": "Donta Hall",
     "position": "SF",
     "height": 208,
@@ -86151,7 +86151,7 @@ module.exports = [
   },
   {
     "id": "dewan-hernandez",
-    "name": "Dewan·埃尔南德斯",
+    "name": "德瓦恩·赫尔纳恩德兹",
     "name_en": "Dewan Hernandez",
     "position": "PF",
     "height": 208,
@@ -86187,7 +86187,7 @@ module.exports = [
   },
   {
     "id": "devontae-cacok",
-    "name": "Devontae Cacok",
+    "name": "德沃恩特阿埃·卡科克",
     "name_en": "Devontae Cacok",
     "position": "SF",
     "height": 201,
@@ -86225,7 +86225,7 @@ module.exports = [
   },
   {
     "id": "devon-hall",
-    "name": "Devon·霍尔",
+    "name": "德沃恩·哈尔",
     "name_en": "Devon Hall",
     "position": "SG",
     "height": 196,
@@ -86261,7 +86261,7 @@ module.exports = [
   },
   {
     "id": "eric-paschall",
-    "name": "埃里克·Paschall",
+    "name": "里克·帕斯哈尔",
     "name_en": "Eric Paschall",
     "position": "SF",
     "height": 198,
@@ -86299,7 +86299,7 @@ module.exports = [
   },
   {
     "id": "eric-mika",
-    "name": "埃里克·Mika",
+    "name": "里克·米卡",
     "name_en": "Eric Mika",
     "position": "PF",
     "height": 208,
@@ -86335,7 +86335,7 @@ module.exports = [
   },
   {
     "id": "daniel-gafford",
-    "name": "丹尼尔·Gafford",
+    "name": "达尼尔·加弗福德",
     "name_en": "Daniel Gafford",
     "position": "PF",
     "height": 208,
@@ -86373,7 +86373,7 @@ module.exports = [
   },
   {
     "id": "daquan-jeffries",
-    "name": "DaQuan Jeffries",
+    "name": "达奎乌恩·杰弗伊斯",
     "name_en": "DaQuan Jeffries",
     "position": "SG",
     "height": 196,
@@ -86413,7 +86413,7 @@ module.exports = [
   },
   {
     "id": "darius-garland",
-    "name": "Darius·加兰",
+    "name": "达里斯·加尔德",
     "name_en": "Darius Garland",
     "position": "SG",
     "height": 185,
@@ -86485,7 +86485,7 @@ module.exports = [
   },
   {
     "id": "deandre-hunter",
-    "name": "De'Andre·亨特",
+    "name": "德雷·胡恩特尔",
     "name_en": "De'Andre Hunter",
     "position": "SF",
     "height": 203,
@@ -86521,7 +86521,7 @@ module.exports = [
   },
   {
     "id": "darius-bazley",
-    "name": "Darius Bazley",
+    "name": "达里斯·巴兹利",
     "name_en": "Darius Bazley",
     "position": "SF",
     "height": 206,
@@ -86559,7 +86559,7 @@ module.exports = [
   },
   {
     "id": "tacko-fall",
-    "name": "Tacko Fall",
+    "name": "塔克奥·法尔",
     "name_en": "Tacko Fall",
     "position": "C",
     "height": 229,
@@ -86597,7 +86597,7 @@ module.exports = [
   },
   {
     "id": "talen-horton-tucker",
-    "name": "Talen·霍顿-塔克",
+    "name": "塔伦·霍特昂-图克尔",
     "name_en": "Talen Horton-Tucker",
     "position": "PG",
     "height": 193,
@@ -86635,7 +86635,7 @@ module.exports = [
   },
   {
     "id": "tariq-owens",
-    "name": "Tariq·欧文斯",
+    "name": "塔里奎·奥恩斯",
     "name_en": "Tariq Owens",
     "position": "SF",
     "height": 208,
@@ -86671,7 +86671,7 @@ module.exports = [
   },
   {
     "id": "terance-mann",
-    "name": "Terance·曼恩",
+    "name": "特拉恩塞·曼恩",
     "name_en": "Terance Mann",
     "position": "SG",
     "height": 196,
@@ -86707,7 +86707,7 @@ module.exports = [
   },
   {
     "id": "terence-davis",
-    "name": "Terence·戴维斯",
+    "name": "特雷恩塞·达维斯",
     "name_en": "Terence Davis",
     "position": "SG",
     "height": 193,
@@ -86745,7 +86745,7 @@ module.exports = [
   },
   {
     "id": "stanton-kidd",
-    "name": "Stanton·基德",
+    "name": "斯特昂·基德",
     "name_en": "Stanton Kidd",
     "position": "SF",
     "height": 198,
@@ -86781,7 +86781,7 @@ module.exports = [
   },
   {
     "id": "romeo-langford",
-    "name": "Romeo Langford",
+    "name": "罗梅奥·兰格福德",
     "name_en": "Romeo Langford",
     "position": "SG",
     "height": 196,
@@ -86819,7 +86819,7 @@ module.exports = [
   },
   {
     "id": "rui-hachimura",
-    "name": "Rui Hachimura",
+    "name": "鲁伊·哈奇姆尔阿",
     "name_en": "Rui Hachimura",
     "position": "SF",
     "height": 203,
@@ -86857,7 +86857,7 @@ module.exports = [
   },
   {
     "id": "sekou-doumbouya",
-    "name": "Sekou Doumbouya",
+    "name": "塞科乌·多姆奥伊阿",
     "name_en": "Sekou Doumbouya",
     "position": "SF",
     "height": 206,
@@ -86895,7 +86895,7 @@ module.exports = [
   },
   {
     "id": "shamorie-ponds",
-    "name": "沙莫里·Ponds",
+    "name": "什姆尔伊埃·波恩德斯",
     "name_en": "Shamorie Ponds",
     "position": "PG",
     "height": 183,
@@ -86931,7 +86931,7 @@ module.exports = [
   },
   {
     "id": "vincent-poirier",
-    "name": "Vincent Poirier",
+    "name": "维恩塞恩特·波尔",
     "name_en": "Vincent Poirier",
     "position": "PF",
     "height": 213,
@@ -86969,7 +86969,7 @@ module.exports = [
   },
   {
     "id": "vlatko-cancar",
-    "name": "弗拉特科·Cancar",
+    "name": "维拉特科·卡恩卡尔",
     "name_en": "Vlatko Cancar",
     "position": null,
     "height": 203,
@@ -87005,7 +87005,7 @@ module.exports = [
   },
   {
     "id": "wenyen-gabriel",
-    "name": "Wenyen Gabriel",
+    "name": "韦尼恩·加布伊尔",
     "name_en": "Wenyen Gabriel",
     "position": "SF",
     "height": 206,
@@ -87153,7 +87153,7 @@ module.exports = [
   },
   {
     "id": "zylan-cheatham",
-    "name": "Zylan Cheatham",
+    "name": "兹伊尔恩·奇埃特哈姆",
     "name_en": "Zylan Cheatham",
     "position": "SF",
     "height": 196,
@@ -87191,7 +87191,7 @@ module.exports = [
   },
   {
     "id": "vic-law",
-    "name": "Vic Law",
+    "name": "维克·拉沃",
     "name_en": "Vic Law",
     "position": "SF",
     "height": 201,
@@ -87227,7 +87227,7 @@ module.exports = [
   },
   {
     "id": "tremont-waters",
-    "name": "Tremont Waters",
+    "name": "特姆特·瓦特尔斯",
     "name_en": "Tremont Waters",
     "position": "SG",
     "height": 178,
@@ -87265,7 +87265,7 @@ module.exports = [
   },
   {
     "id": "ty-jerome",
-    "name": "Ty Jerome",
+    "name": "蒂·杰罗梅",
     "name_en": "Ty Jerome",
     "position": "SG",
     "height": 196,
@@ -87305,7 +87305,7 @@ module.exports = [
   },
   {
     "id": "tyler-cook",
-    "name": "泰勒·Cook",
+    "name": "蒂勒尔·科克",
     "name_en": "Tyler Cook",
     "position": "SF",
     "height": 203,
@@ -87381,7 +87381,7 @@ module.exports = [
   },
   {
     "id": "matisse-thybulle",
-    "name": "Matisse Thybulle",
+    "name": "马蒂斯塞·斯伊布尔埃",
     "name_en": "Matisse Thybulle",
     "position": "SG",
     "height": 196,
@@ -87419,7 +87419,7 @@ module.exports = [
   },
   {
     "id": "matt-mooney",
-    "name": "Matt Mooney",
+    "name": "马特·莫恩伊",
     "name_en": "Matt Mooney",
     "position": "SG",
     "height": 188,
@@ -87457,7 +87457,7 @@ module.exports = [
   },
   {
     "id": "matt-thomas",
-    "name": "Matt·托马斯",
+    "name": "马特·斯姆斯",
     "name_en": "Matt Thomas",
     "position": "SG",
     "height": 190,
@@ -87535,7 +87535,7 @@ module.exports = [
   },
   {
     "id": "mfiondu-kabengele",
-    "name": "Mfiondu Kabengele",
+    "name": "姆菲德乌·卡贝恩格尔",
     "name_en": "Mfiondu Kabengele",
     "position": "C",
     "height": 208,
@@ -87575,7 +87575,7 @@ module.exports = [
   },
   {
     "id": "michael-frazier-ii",
-    "name": "迈克尔·Ii",
+    "name": "米奇阿尔·伊",
     "name_en": "Michael Frazier II",
     "position": "PG",
     "height": 190,
@@ -87647,7 +87647,7 @@ module.exports = [
   },
   {
     "id": "miye-oni",
-    "name": "Miye Oni",
+    "name": "米耶·昂伊",
     "name_en": "Miye Oni",
     "position": "SG",
     "height": 196,
@@ -87683,7 +87683,7 @@ module.exports = [
   },
   {
     "id": "marko-guduric",
-    "name": "Marko Guduric",
+    "name": "马尔科·古杜里克",
     "name_en": "Marko Guduric",
     "position": "PG",
     "height": 198,
@@ -87719,7 +87719,7 @@ module.exports = [
   },
   {
     "id": "louis-king",
-    "name": "Louis·金",
+    "name": "洛乌斯·基恩格",
     "name_en": "Louis King",
     "position": "SF",
     "height": 201,
@@ -87759,7 +87759,7 @@ module.exports = [
   },
   {
     "id": "luguentz-dort",
-    "name": "Luguentz·多尔特",
+    "name": "卢古特兹·多尔特",
     "name_en": "Luguentz Dort",
     "position": "SG",
     "height": 193,
@@ -87795,7 +87795,7 @@ module.exports = [
   },
   {
     "id": "luka-samanic",
-    "name": "卢卡·Samanic",
+    "name": "卢卡·萨曼克",
     "name_en": "Luka Samanic",
     "position": "SF",
     "height": 208,
@@ -87869,7 +87869,7 @@ module.exports = [
   },
   {
     "id": "marial-shayok",
-    "name": "Marial Shayok",
+    "name": "马里尔·什伊克",
     "name_en": "Marial Shayok",
     "position": "SG",
     "height": 196,
@@ -87905,7 +87905,7 @@ module.exports = [
   },
   {
     "id": "marques-bolden",
-    "name": "Marques Bolden",
+    "name": "马尔奎乌斯·博尔德恩",
     "name_en": "Marques Bolden",
     "position": "C",
     "height": 208,
@@ -87979,7 +87979,7 @@ module.exports = [
   },
   {
     "id": "pj-washington",
-    "name": "P.J·华盛顿",
+    "name": "普杰·瓦什英顿",
     "name_en": "P.J. Washington",
     "position": "SF",
     "height": 201,
@@ -88015,7 +88015,7 @@ module.exports = [
   },
   {
     "id": "quinndary-weatherspoon",
-    "name": "Quinndary Weatherspoon",
+    "name": "奎因恩达里·韦特赫尔斯恩",
     "name_en": "Quinndary Weatherspoon",
     "position": "SG",
     "height": 190,
@@ -88053,7 +88053,7 @@ module.exports = [
   },
   {
     "id": "rayjon-tucker",
-    "name": "Rayjon·塔克",
+    "name": "拉伊乔恩·图克尔",
     "name_en": "Rayjon Tucker",
     "position": "PG",
     "height": 190,
@@ -88093,7 +88093,7 @@ module.exports = [
   },
   {
     "id": "rj-barrett",
-    "name": "RJ Barrett",
+    "name": "尔杰·巴尔雷特",
     "name_en": "RJ Barrett",
     "position": "SF",
     "height": 198,
@@ -88129,7 +88129,7 @@ module.exports = [
   },
   {
     "id": "oshae-brissett",
-    "name": "Oshae Brissett",
+    "name": "什阿埃·布斯特",
     "name_en": "Oshae Brissett",
     "position": "SF",
     "height": 201,
@@ -88209,7 +88209,7 @@ module.exports = [
   },
   {
     "id": "mychal-mulder",
-    "name": "迈克尔·Mulder",
+    "name": "迈奇尔·穆尔德尔",
     "name_en": "Mychal Mulder",
     "position": "SG",
     "height": 190,
@@ -88247,7 +88247,7 @@ module.exports = [
   },
   {
     "id": "nassir-little",
-    "name": "Nassir·利特尔",
+    "name": "纳斯西尔·利特勒",
     "name_en": "Nassir Little",
     "position": "SF",
     "height": 196,
@@ -88283,7 +88283,7 @@ module.exports = [
   },
   {
     "id": "naz-reid",
-    "name": "Naz·里德",
+    "name": "纳兹·雷德",
     "name_en": "Naz Reid",
     "position": "PF",
     "height": 206,
@@ -88319,7 +88319,7 @@ module.exports = [
   },
   {
     "id": "nickeil-alexander-walker",
-    "name": "Nickeil Alexander-Walker",
+    "name": "尼克埃尔·尔克斯德尔-瓦尔克尔",
     "name_en": "Nickeil Alexander-Walker",
     "position": "PG",
     "height": 196,
@@ -88359,7 +88359,7 @@ module.exports = [
   },
   {
     "id": "nicolo-melli",
-    "name": "Nicolo Melli",
+    "name": "尼科洛·梅尔伊",
     "name_en": "Nicolo Melli",
     "position": "SF",
     "height": 206,
@@ -88397,7 +88397,7 @@ module.exports = [
   },
   {
     "id": "nigel-williams-goss",
-    "name": "Nigel Williams-Goss",
+    "name": "尼杰尔·威尔伊姆斯-戈斯",
     "name_en": "Nigel Williams-Goss",
     "position": "PG",
     "height": 188,
@@ -88433,7 +88433,7 @@ module.exports = [
   },
   {
     "id": "norvel-pelle",
-    "name": "Norvel Pelle",
+    "name": "诺尔维尔·佩尔埃",
     "name_en": "Norvel Pelle",
     "position": "C",
     "height": 208,
@@ -88473,7 +88473,7 @@ module.exports = [
   },
   {
     "id": "nicolas-claxton",
-    "name": "尼古拉斯·Claxton",
+    "name": "尼科拉斯·克斯顿",
     "name_en": "Nicolas Claxton",
     "position": "C",
     "height": 211,
@@ -88509,7 +88509,7 @@ module.exports = [
   },
   {
     "id": "freddie-gillespie",
-    "name": "Freddie Gillespie",
+    "name": "弗德迪埃·吉尔斯皮埃",
     "name_en": "Freddie Gillespie",
     "position": "SF",
     "height": 206,
@@ -88547,7 +88547,7 @@ module.exports = [
   },
   {
     "id": "gabriel-deck",
-    "name": "Gabriel Deck",
+    "name": "加布伊尔·德克",
     "name_en": "Gabriel Deck",
     "position": "SF",
     "height": 198,
@@ -88583,7 +88583,7 @@ module.exports = [
   },
   {
     "id": "grant-riller",
-    "name": "Grant Riller",
+    "name": "格特·里尔",
     "name_en": "Grant Riller",
     "position": "SG",
     "height": 188,
@@ -88619,7 +88619,7 @@ module.exports = [
   },
   {
     "id": "greg-whittington",
-    "name": "Greg Whittington",
+    "name": "格·惠特英顿",
     "name_en": "Greg Whittington",
     "position": "SF",
     "height": 203,
@@ -88655,7 +88655,7 @@ module.exports = [
   },
   {
     "id": "facundo-campazzo",
-    "name": "Facundo Campazzo",
+    "name": "法库恩多·卡姆帕兹佐",
     "name_en": "Facundo Campazzo",
     "position": "PG",
     "height": 178,
@@ -88693,7 +88693,7 @@ module.exports = [
   },
   {
     "id": "didi-louzada",
-    "name": "Didi Louzada",
+    "name": "迪·洛兹德阿",
     "name_en": "Didi Louzada",
     "position": "PG",
     "height": 196,
@@ -88731,7 +88731,7 @@ module.exports = [
   },
   {
     "id": "dylan-windler",
-    "name": "Dylan Windler",
+    "name": "迪拉恩·威恩德勒尔",
     "name_en": "Dylan Windler",
     "position": "SG",
     "height": 201,
@@ -88767,7 +88767,7 @@ module.exports = [
   },
   {
     "id": "elijah-bryant",
-    "name": "Elijah·布莱恩特",
+    "name": "尔伊贾赫·布亚恩特",
     "name_en": "Elijah Bryant",
     "position": "SG",
     "height": 196,
@@ -88803,7 +88803,7 @@ module.exports = [
   },
   {
     "id": "elijah-hughes",
-    "name": "Elijah·休斯",
+    "name": "尔伊贾赫·胡格斯",
     "name_en": "Elijah Hughes",
     "position": "PG",
     "height": 196,
@@ -88841,7 +88841,7 @@ module.exports = [
   },
   {
     "id": "jay-scrubb",
-    "name": "Jay Scrubb",
+    "name": "贾伊·斯鲁布",
     "name_en": "Jay Scrubb",
     "position": "SG",
     "height": 196,
@@ -88879,7 +88879,7 @@ module.exports = [
   },
   {
     "id": "jontay-porter",
-    "name": "Jontay·波特",
+    "name": "乔恩特伊·波尔特尔",
     "name_en": "Jontay Porter",
     "position": "PF",
     "height": 211,
@@ -88915,7 +88915,7 @@ module.exports = [
   },
   {
     "id": "devon-dotson",
-    "name": "Devon Dotson",
+    "name": "德沃恩·多特森",
     "name_en": "Devon Dotson",
     "position": "PG",
     "height": 185,
@@ -88953,7 +88953,7 @@ module.exports = [
   },
   {
     "id": "immanuel-quickley",
-    "name": "Immanuel Quickley",
+    "name": "姆恩乌尔·奎乌克利",
     "name_en": "Immanuel Quickley",
     "position": "PG",
     "height": 188,
@@ -88989,7 +88989,7 @@ module.exports = [
   },
   {
     "id": "isaac-okoro",
-    "name": "Isaac Okoro",
+    "name": "斯阿克·克尔奥",
     "name_en": "Isaac Okoro",
     "position": "SF",
     "height": 196,
@@ -89025,7 +89025,7 @@ module.exports = [
   },
   {
     "id": "isaiah-joe",
-    "name": "以赛亚·Joe",
+    "name": "斯阿伊赫·乔埃",
     "name_en": "Isaiah Joe",
     "position": "SG",
     "height": 190,
@@ -89099,7 +89099,7 @@ module.exports = [
   },
   {
     "id": "james-wiseman",
-    "name": "詹姆斯·Wiseman",
+    "name": "贾梅斯·威塞曼",
     "name_en": "James Wiseman",
     "position": "C",
     "height": 213,
@@ -89137,7 +89137,7 @@ module.exports = [
   },
   {
     "id": "jaden-mcdaniels",
-    "name": "杰登·Mcdaniels",
+    "name": "贾德恩·麦克达尼斯",
     "name_en": "Jaden McDaniels",
     "position": "SF",
     "height": 206,
@@ -89173,7 +89173,7 @@ module.exports = [
   },
   {
     "id": "jaesean-tate",
-    "name": "Jae'Sean·塔特",
+    "name": "贾斯安·塔特",
     "name_en": "Jae'Sean Tate",
     "position": "SF",
     "height": 196,
@@ -89209,7 +89209,7 @@ module.exports = [
   },
   {
     "id": "jahmius-ramsey",
-    "name": "Jahmi'Us·拉姆齐",
+    "name": "贾赫米斯·拉姆塞伊",
     "name_en": "Jahmi'us Ramsey",
     "position": "PG",
     "height": 190,
@@ -89355,7 +89355,7 @@ module.exports = [
   },
   {
     "id": "brodric-thomas",
-    "name": "Brodric·托马斯",
+    "name": "布德里克·斯姆斯",
     "name_en": "Brodric Thomas",
     "position": "PG",
     "height": 196,
@@ -89393,7 +89393,7 @@ module.exports = [
   },
   {
     "id": "cj-elleby",
-    "name": "CJ Elleby",
+    "name": "克杰·尔布伊",
     "name_en": "CJ Elleby",
     "position": "SF",
     "height": 198,
@@ -89467,7 +89467,7 @@ module.exports = [
   },
   {
     "id": "aaron-nesmith",
-    "name": "阿龙·Nesmith",
+    "name": "阿尔昂·内斯",
     "name_en": "Aaron Nesmith",
     "position": "SG",
     "height": 196,
@@ -89505,7 +89505,7 @@ module.exports = [
   },
   {
     "id": "aleksej-pokusevski",
-    "name": "Aleksej Pokusevski",
+    "name": "尔克塞杰·波库塞维斯克伊",
     "name_en": "Aleksej Pokusevski",
     "position": "SF",
     "height": 213,
@@ -89541,7 +89541,7 @@ module.exports = [
   },
   {
     "id": "ashton-hagans",
-    "name": "Ashton Hagans",
+    "name": "什顿·哈加恩斯",
     "name_en": "Ashton Hagans",
     "position": "SG",
     "height": 190,
@@ -89613,7 +89613,7 @@ module.exports = [
   },
   {
     "id": "anthony-gill",
-    "name": "安东尼·Gill",
+    "name": "特霍尼·吉尔",
     "name_en": "Anthony Gill",
     "position": "SF",
     "height": 203,
@@ -89687,7 +89687,7 @@ module.exports = [
   },
   {
     "id": "armoni-brooks",
-    "name": "Armoni·布鲁克斯",
+    "name": "尔莫尼·布克斯",
     "name_en": "Armoni Brooks",
     "position": "SG",
     "height": 190,
@@ -89725,7 +89725,7 @@ module.exports = [
   },
   {
     "id": "amida-brimah",
-    "name": "Amida Brimah",
+    "name": "姆德阿·布姆赫",
     "name_en": "Amida Brimah",
     "position": "C",
     "height": 208,
@@ -89761,7 +89761,7 @@ module.exports = [
   },
   {
     "id": "deividas-sirvydis",
-    "name": "Deividas Sirvydis",
+    "name": "德夫德斯·西尔维伊迪斯",
     "name_en": "Deividas Sirvydis",
     "position": "SF",
     "height": 203,
@@ -89797,7 +89797,7 @@ module.exports = [
   },
   {
     "id": "deni-avdija",
-    "name": "Deni Avdija",
+    "name": "德尼·夫迪贾",
     "name_en": "Deni Avdija",
     "position": "SF",
     "height": 206,
@@ -89833,7 +89833,7 @@ module.exports = [
   },
   {
     "id": "desmond-bane",
-    "name": "Desmond Bane",
+    "name": "德斯德·巴内",
     "name_en": "Desmond Bane",
     "position": "PG",
     "height": 196,
@@ -89869,7 +89869,7 @@ module.exports = [
   },
   {
     "id": "daniel-oturu",
-    "name": "丹尼尔·Oturu",
+    "name": "达尼尔·特尔乌",
     "name_en": "Daniel Oturu",
     "position": "C",
     "height": 203,
@@ -89907,7 +89907,7 @@ module.exports = [
   },
   {
     "id": "cassius-stanley",
-    "name": "Cassius Stanley",
+    "name": "卡斯西斯·斯特恩利",
     "name_en": "Cassius Stanley",
     "position": "PG",
     "height": 196,
@@ -89945,7 +89945,7 @@ module.exports = [
   },
   {
     "id": "cassius-winston",
-    "name": "Cassius Winston",
+    "name": "卡斯西斯·温斯特昂",
     "name_en": "Cassius Winston",
     "position": "SG",
     "height": 185,
@@ -89981,7 +89981,7 @@ module.exports = [
   },
   {
     "id": "chuma-okeke",
-    "name": "Chuma Okeke",
+    "name": "奇姆阿·克凯",
     "name_en": "Chuma Okeke",
     "position": "SF",
     "height": 203,
@@ -90017,7 +90017,7 @@ module.exports = [
   },
   {
     "id": "dakota-mathias",
-    "name": "Dakota Mathias",
+    "name": "达科塔·马斯伊斯",
     "name_en": "Dakota Mathias",
     "position": "PG",
     "height": 193,
@@ -90055,7 +90055,7 @@ module.exports = [
   },
   {
     "id": "devin-cannady",
-    "name": "德文·Cannady",
+    "name": "德维恩·卡恩纳迪",
     "name_en": "Devin Cannady",
     "position": "SG",
     "height": 188,
@@ -90091,7 +90091,7 @@ module.exports = [
   },
   {
     "id": "cole-anthony",
-    "name": "科尔·Anthony",
+    "name": "科勒·特霍尼",
     "name_en": "Cole Anthony",
     "position": "SG",
     "height": 190,
@@ -90127,7 +90127,7 @@ module.exports = [
   },
   {
     "id": "jordan-nwora",
-    "name": "Jordan Nwora",
+    "name": "乔尔达恩·恩沃拉",
     "name_en": "Jordan Nwora",
     "position": "SF",
     "height": 206,
@@ -90165,7 +90165,7 @@ module.exports = [
   },
   {
     "id": "trent-forrest",
-    "name": "Trent Forrest",
+    "name": "特·福尔雷斯特",
     "name_en": "Trent Forrest",
     "position": "SG",
     "height": 193,
@@ -90203,7 +90203,7 @@ module.exports = [
   },
   {
     "id": "tre-jones",
-    "name": "Tre·琼斯",
+    "name": "特埃·乔内斯",
     "name_en": "Tre Jones",
     "position": "SG",
     "height": 185,
@@ -90239,7 +90239,7 @@ module.exports = [
   },
   {
     "id": "theo-maledon",
-    "name": "西奥·Maledon",
+    "name": "斯埃奥·马勒登",
     "name_en": "Theo Maledon",
     "position": "SG",
     "height": 196,
@@ -90277,7 +90277,7 @@ module.exports = [
   },
   {
     "id": "ty-shon-alexander",
-    "name": "Ty-Shon Alexander",
+    "name": "蒂-什昂·尔克斯德尔",
     "name_en": "Ty-Shon Alexander",
     "position": "SG",
     "height": 190,
@@ -90313,7 +90313,7 @@ module.exports = [
   },
   {
     "id": "tyler-bey",
-    "name": "泰勒·Bey",
+    "name": "蒂勒尔·贝伊",
     "name_en": "Tyler Bey",
     "position": "SF",
     "height": 201,
@@ -90349,7 +90349,7 @@ module.exports = [
   },
   {
     "id": "zeke-nnaji",
-    "name": "Zeke Nnaji",
+    "name": "泽凯·恩纳吉",
     "name_en": "Zeke Nnaji",
     "position": "PF",
     "height": 206,
@@ -90385,7 +90385,7 @@ module.exports = [
   },
   {
     "id": "xavier-tillman",
-    "name": "Xavier Tillman",
+    "name": "克斯夫尔·蒂尔曼",
     "name_en": "Xavier Tillman",
     "position": "SF",
     "height": 201,
@@ -90421,7 +90421,7 @@ module.exports = [
   },
   {
     "id": "will-magnay",
-    "name": "Will Magnay",
+    "name": "威尔·马格纳伊",
     "name_en": "Will Magnay",
     "position": "C",
     "height": 208,
@@ -90457,7 +90457,7 @@ module.exports = [
   },
   {
     "id": "vernon-carey-jr",
-    "name": "Vernon·二世",
+    "name": "维尔诺恩·杰尔",
     "name_en": "Vernon Carey Jr.",
     "position": "C",
     "height": 208,
@@ -90497,7 +90497,7 @@ module.exports = [
   },
   {
     "id": "udoka-azubuike",
-    "name": "Udoka Azubuike",
+    "name": "德克阿·兹布乌克",
     "name_en": "Udoka Azubuike",
     "position": "PF",
     "height": 211,
@@ -90533,7 +90533,7 @@ module.exports = [
   },
   {
     "id": "tyrese-maxey",
-    "name": "泰雷塞·Maxey",
+    "name": "蒂雷塞·马克斯伊",
     "name_en": "Tyrese Maxey",
     "position": "PG",
     "height": 188,
@@ -90607,7 +90607,7 @@ module.exports = [
   },
   {
     "id": "tyrell-terry",
-    "name": "Tyrell Terry",
+    "name": "蒂雷尔·特尔里",
     "name_en": "Tyrell Terry",
     "position": "PG",
     "height": 188,
@@ -90645,7 +90645,7 @@ module.exports = [
   },
   {
     "id": "robert-franks",
-    "name": "罗伯特·Franks",
+    "name": "罗贝尔特·弗克斯",
     "name_en": "Robert Franks",
     "position": "SF",
     "height": 201,
@@ -90681,7 +90681,7 @@ module.exports = [
   },
   {
     "id": "reggie-perry",
-    "name": "雷吉·Perry",
+    "name": "雷格吉埃·佩尔里",
     "name_en": "Reggie Perry",
     "position": "PF",
     "height": 203,
@@ -90719,7 +90719,7 @@ module.exports = [
   },
   {
     "id": "rj-hampton",
-    "name": "R.J·汉普顿",
+    "name": "尔杰·哈姆普顿",
     "name_en": "R.J. Hampton",
     "position": "PG",
     "height": 193,
@@ -90757,7 +90757,7 @@ module.exports = [
   },
   {
     "id": "robert-woodard-ii",
-    "name": "罗伯特·Ii",
+    "name": "罗贝特·伊",
     "name_en": "Robert Woodard II",
     "position": "SF",
     "height": 198,
@@ -90795,7 +90795,7 @@ module.exports = [
   },
   {
     "id": "precious-achiuwa",
-    "name": "Precious Achiuwa",
+    "name": "普克伊斯·克希尤阿",
     "name_en": "Precious Achiuwa",
     "position": "SF",
     "height": 203,
@@ -90833,7 +90833,7 @@ module.exports = [
   },
   {
     "id": "payton-pritchard",
-    "name": "Payton Pritchard",
+    "name": "帕伊顿·普特奇德",
     "name_en": "Payton Pritchard",
     "position": "SG",
     "height": 185,
@@ -90941,7 +90941,7 @@ module.exports = [
   },
   {
     "id": "skylar-mays",
-    "name": "斯凯拉·Mays",
+    "name": "斯克伊尔·马伊斯",
     "name_en": "Skylar Mays",
     "position": "SG",
     "height": 193,
@@ -90979,7 +90979,7 @@ module.exports = [
   },
   {
     "id": "sean-mcdermott",
-    "name": "Sean McDermott",
+    "name": "塞恩·麦克德姆特",
     "name_en": "Sean McDermott",
     "position": "SF",
     "height": 198,
@@ -91015,7 +91015,7 @@ module.exports = [
   },
   {
     "id": "sam-merrill",
-    "name": "萨姆·Merrill",
+    "name": "萨姆·梅尔里尔",
     "name_en": "Sam Merrill",
     "position": "SG",
     "height": 193,
@@ -91055,7 +91055,7 @@ module.exports = [
   },
   {
     "id": "saddiq-bey",
-    "name": "Saddiq Bey",
+    "name": "萨德迪奎·贝伊",
     "name_en": "Saddiq Bey",
     "position": "SG",
     "height": 201,
@@ -91093,7 +91093,7 @@ module.exports = [
   },
   {
     "id": "saben-lee",
-    "name": "Saben·李",
+    "name": "萨贝恩·勒埃",
     "name_en": "Saben Lee",
     "position": "PG",
     "height": 188,
@@ -91131,7 +91131,7 @@ module.exports = [
   },
   {
     "id": "onyeka-okongwu",
-    "name": "Onyeka·奥孔古",
+    "name": "昂耶卡·克昂吴",
     "name_en": "Onyeka Okongwu",
     "position": "PF",
     "height": 206,
@@ -91167,7 +91167,7 @@ module.exports = [
   },
   {
     "id": "kenyon-martin-jr",
-    "name": "Kenyon·二世",
+    "name": "肯约恩·杰尔",
     "name_en": "Kenyon Martin Jr.",
     "position": "SF",
     "height": 201,
@@ -91203,7 +91203,7 @@ module.exports = [
   },
   {
     "id": "killian-hayes",
-    "name": "Killian·海耶斯",
+    "name": "基尔伊恩·哈耶斯",
     "name_en": "Killian Hayes",
     "position": "PG",
     "height": 196,
@@ -91239,7 +91239,7 @@ module.exports = [
   },
   {
     "id": "killian-tillie",
-    "name": "Killian Tillie",
+    "name": "基尔伊恩·蒂尔伊埃",
     "name_en": "Killian Tillie",
     "position": "PF",
     "height": 206,
@@ -91275,7 +91275,7 @@ module.exports = [
   },
   {
     "id": "kira-lewis-jr",
-    "name": "Kira·二世",
+    "name": "基拉·杰尔",
     "name_en": "Kira Lewis Jr.",
     "position": "SG",
     "height": 185,
@@ -91311,7 +91311,7 @@ module.exports = [
   },
   {
     "id": "obi-toppin",
-    "name": "Obi·托平",
+    "name": "布伊·托普皮恩",
     "name_en": "Obi Toppin",
     "position": "SF",
     "height": 206,
@@ -91383,7 +91383,7 @@ module.exports = [
   },
   {
     "id": "lamar-stevens",
-    "name": "Lamar Stevens",
+    "name": "拉马尔·斯特夫恩斯",
     "name_en": "Lamar Stevens",
     "position": "SF",
     "height": 198,
@@ -91491,7 +91491,7 @@ module.exports = [
   },
   {
     "id": "karim-mane",
-    "name": "Karim Mane",
+    "name": "卡里姆·曼埃",
     "name_en": "Karim Mane",
     "position": "PG",
     "height": 190,
@@ -91527,7 +91527,7 @@ module.exports = [
   },
   {
     "id": "keljin-blevins",
-    "name": "Keljin Blevins",
+    "name": "凯尔吉恩·布勒维恩斯",
     "name_en": "Keljin Blevins",
     "position": "SG",
     "height": 193,
@@ -91599,7 +91599,7 @@ module.exports = [
   },
   {
     "id": "nate-darling",
-    "name": "Nate Darling",
+    "name": "纳特·达尔利恩格",
     "name_en": "Nate Darling",
     "position": "SG",
     "height": 198,
@@ -91635,7 +91635,7 @@ module.exports = [
   },
   {
     "id": "nate-hinton",
-    "name": "Nate Hinton",
+    "name": "纳特·希恩顿",
     "name_en": "Nate Hinton",
     "position": "SG",
     "height": 196,
@@ -91709,7 +91709,7 @@ module.exports = [
   },
   {
     "id": "nico-mannion",
-    "name": "Nico Mannion",
+    "name": "尼科·曼尼昂",
     "name_en": "Nico Mannion",
     "position": "SG",
     "height": 188,
@@ -91745,7 +91745,7 @@ module.exports = [
   },
   {
     "id": "nathan-knight",
-    "name": "Nathan·奈特",
+    "name": "纳斯恩·恩伊特",
     "name_en": "Nathan Knight",
     "position": "PF",
     "height": 203,
@@ -91783,7 +91783,7 @@ module.exports = [
   },
   {
     "id": "malachi-flynn",
-    "name": "Malachi·弗林",
+    "name": "马拉奇伊·弗伊恩",
     "name_en": "Malachi Flynn",
     "position": "PG",
     "height": 185,
@@ -91819,7 +91819,7 @@ module.exports = [
   },
   {
     "id": "malik-fitts",
-    "name": "马利克·Fitts",
+    "name": "马利克·菲特斯",
     "name_en": "Malik Fitts",
     "position": "SF",
     "height": 196,
@@ -91857,7 +91857,7 @@ module.exports = [
   },
   {
     "id": "mamadi-diakite",
-    "name": "Mamadi Diakite",
+    "name": "马迪·迪克特",
     "name_en": "Mamadi Diakite",
     "position": "SF",
     "height": 206,
@@ -91897,7 +91897,7 @@ module.exports = [
   },
   {
     "id": "markus-howard",
-    "name": "Markus·霍华德",
+    "name": "马尔库斯·霍瓦尔德",
     "name_en": "Markus Howard",
     "position": "PG",
     "height": 178,
@@ -91933,7 +91933,7 @@ module.exports = [
   },
   {
     "id": "mason-jones",
-    "name": "Mason·琼斯",
+    "name": "马森·乔内斯",
     "name_en": "Mason Jones",
     "position": "PG",
     "height": 193,
@@ -91971,7 +91971,7 @@ module.exports = [
   },
   {
     "id": "usman-garuba",
-    "name": "Usman Garuba",
+    "name": "斯曼·加鲁巴",
     "name_en": "Usman Garuba",
     "position": "SF",
     "height": 203,
@@ -92007,7 +92007,7 @@ module.exports = [
   },
   {
     "id": "vit-krejci",
-    "name": "Vit Krejci",
+    "name": "维特·克埃杰西",
     "name_en": "Vit Krejci",
     "position": null,
     "height": 203,
@@ -92045,7 +92045,7 @@ module.exports = [
   },
   {
     "id": "ziaire-williams",
-    "name": "Ziaire·威廉姆斯",
+    "name": "齐尔埃·威尔伊姆斯",
     "name_en": "Ziaire Williams",
     "position": "SF",
     "height": 206,
@@ -92117,7 +92117,7 @@ module.exports = [
   },
   {
     "id": "zavier-simpson",
-    "name": "Zavier·辛普森",
+    "name": "扎维尔·西姆普森",
     "name_en": "Zavier Simpson",
     "position": "SG",
     "height": 183,
@@ -92153,7 +92153,7 @@ module.exports = [
   },
   {
     "id": "yves-pons",
-    "name": "Yves Pons",
+    "name": "伊维斯·波恩斯",
     "name_en": "Yves Pons",
     "position": "SF",
     "height": 196,
@@ -92189,7 +92189,7 @@ module.exports = [
   },
   {
     "id": "xavier-tillman-sr",
-    "name": "Xavier Tillman Sr.",
+    "name": "克斯夫尔·斯尔",
     "name_en": "Xavier Tillman Sr.",
     "position": "SF",
     "height": 203,
@@ -92225,7 +92225,7 @@ module.exports = [
   },
   {
     "id": "xavier-sneed",
-    "name": "Xavier Sneed",
+    "name": "克斯夫尔·斯德",
     "name_en": "Xavier Sneed",
     "position": "SF",
     "height": 196,
@@ -92263,7 +92263,7 @@ module.exports = [
   },
   {
     "id": "xavier-moon",
-    "name": "Xavier Moon",
+    "name": "克斯夫尔·莫昂",
     "name_en": "Xavier Moon",
     "position": "SG",
     "height": 183,
@@ -92335,7 +92335,7 @@ module.exports = [
   },
   {
     "id": "feron-hunt",
-    "name": "Feron·亨特",
+    "name": "费罗恩·胡恩特",
     "name_en": "Feron Hunt",
     "position": "SF",
     "height": 203,
@@ -92443,7 +92443,7 @@ module.exports = [
   },
   {
     "id": "gabriel-lundberg",
-    "name": "Gabriel Lundberg",
+    "name": "加布伊尔·卢恩德伯格",
     "name_en": "Gabriel Lundberg",
     "position": "SG",
     "height": 193,
@@ -92479,7 +92479,7 @@ module.exports = [
   },
   {
     "id": "eugene-omoruyi",
-    "name": "Eugene Omoruyi",
+    "name": "埃奇内·姆尔伊",
     "name_en": "Eugene Omoruyi",
     "position": "SF",
     "height": 198,
@@ -92517,7 +92517,7 @@ module.exports = [
   },
   {
     "id": "georgios-kalaitzakis",
-    "name": "Georgios Kalaitzakis",
+    "name": "杰格伊斯·卡拉兹克斯",
     "name_en": "Georgios Kalaitzakis",
     "position": "SF",
     "height": 201,
@@ -92553,7 +92553,7 @@ module.exports = [
   },
   {
     "id": "enes-freedom",
-    "name": "Enes Freedom",
+    "name": "尼斯·弗德姆",
     "name_en": "Enes Freedom",
     "position": "C",
     "height": 208,
@@ -92589,7 +92589,7 @@ module.exports = [
   },
   {
     "id": "duane-washington-jr",
-    "name": "Duane·二世",
+    "name": "杜恩·杰尔",
     "name_en": "Duane Washington Jr.",
     "position": "SG",
     "height": 188,
@@ -92735,7 +92735,7 @@ module.exports = [
   },
   {
     "id": "james-bouknight",
-    "name": "詹姆斯·Bouknight",
+    "name": "贾梅斯·博克尼格特",
     "name_en": "James Bouknight",
     "position": "SG",
     "height": 193,
@@ -92771,7 +92771,7 @@ module.exports = [
   },
   {
     "id": "jamorko-pickett",
-    "name": "Jamorko Pickett",
+    "name": "贾莫尔科·皮克特",
     "name_en": "Jamorko Pickett",
     "position": "SF",
     "height": 206,
@@ -92807,7 +92807,7 @@ module.exports = [
   },
   {
     "id": "jared-butler",
-    "name": "Jared·巴特勒",
+    "name": "贾雷德·布特勒尔",
     "name_en": "Jared Butler",
     "position": "PG",
     "height": 190,
@@ -92845,7 +92845,7 @@ module.exports = [
   },
   {
     "id": "jarron-cumberland",
-    "name": "Jarron Cumberland",
+    "name": "贾尔罗恩·库姆贝尔兰",
     "name_en": "Jarron Cumberland",
     "position": "PG",
     "height": 196,
@@ -92881,7 +92881,7 @@ module.exports = [
   },
   {
     "id": "jeff-dowtin",
-    "name": "杰夫·Dowtin",
+    "name": "杰弗·多沃蒂恩",
     "name_en": "Jeff Dowtin",
     "position": "SG",
     "height": 190,
@@ -92917,7 +92917,7 @@ module.exports = [
   },
   {
     "id": "jaysean-paige",
-    "name": "Jaysean Paige",
+    "name": "贾伊塞恩·帕奇",
     "name_en": "Jaysean Paige",
     "position": "PG",
     "height": 188,
@@ -92953,7 +92953,7 @@ module.exports = [
   },
   {
     "id": "jay-huff",
-    "name": "Jay Huff",
+    "name": "贾伊·胡弗",
     "name_en": "Jay Huff",
     "position": "C",
     "height": 216,
@@ -92991,7 +92991,7 @@ module.exports = [
   },
   {
     "id": "javonte-smart",
-    "name": "Javonte·斯马特",
+    "name": "贾沃恩特·斯特",
     "name_en": "Javonte Smart",
     "position": "SG",
     "height": 193,
@@ -93027,7 +93027,7 @@ module.exports = [
   },
   {
     "id": "javin-delaurier",
-    "name": "Javin DeLaurier",
+    "name": "贾维恩·德拉尔",
     "name_en": "Javin DeLaurier",
     "position": "C",
     "height": 208,
@@ -93063,7 +93063,7 @@ module.exports = [
   },
   {
     "id": "jaime-echenique",
-    "name": "Jaime Echenique",
+    "name": "贾姆·克赫尼奎乌埃",
     "name_en": "Jaime Echenique",
     "position": "C",
     "height": 208,
@@ -93099,7 +93099,7 @@ module.exports = [
   },
   {
     "id": "isaiah-livers",
-    "name": "以赛亚·Livers",
+    "name": "斯阿伊赫·利维尔斯",
     "name_en": "Isaiah Livers",
     "position": "SF",
     "height": 198,
@@ -93171,7 +93171,7 @@ module.exports = [
   },
   {
     "id": "herbert-jones",
-    "name": "Herbert·琼斯",
+    "name": "赫尔贝尔特·乔内斯",
     "name_en": "Herbert Jones",
     "position": "SF",
     "height": 201,
@@ -93207,7 +93207,7 @@ module.exports = [
   },
   {
     "id": "hassani-gravett",
-    "name": "Hassani Gravett",
+    "name": "哈斯萨尼·格夫特",
     "name_en": "Hassani Gravett",
     "position": "SG",
     "height": 188,
@@ -93243,7 +93243,7 @@ module.exports = [
   },
   {
     "id": "greg-brown-iii",
-    "name": "Greg·三世",
+    "name": "格·伊",
     "name_en": "Greg Brown III",
     "position": "SF",
     "height": 201,
@@ -93315,7 +93315,7 @@ module.exports = [
   },
   {
     "id": "jaden-springer",
-    "name": "杰登·Springer",
+    "name": "贾德恩·斯里恩杰尔",
     "name_en": "Jaden Springer",
     "position": "PG",
     "height": 193,
@@ -93351,7 +93351,7 @@ module.exports = [
   },
   {
     "id": "jt-thor",
-    "name": "JT Thor",
+    "name": "杰特·斯尔",
     "name_en": "JT Thor",
     "position": "SF",
     "height": 206,
@@ -93387,7 +93387,7 @@ module.exports = [
   },
   {
     "id": "ish-wainright",
-    "name": "伊什·Wainright",
+    "name": "什·瓦因里格特",
     "name_en": "Ish Wainright",
     "position": "SF",
     "height": 196,
@@ -93423,7 +93423,7 @@ module.exports = [
   },
   {
     "id": "jaquori-mclaughlin",
-    "name": "Jaquori·麦克劳林",
+    "name": "贾奎乌尔伊·麦克拉夫利恩",
     "name_en": "JaQuori McLaughlin",
     "position": "PG",
     "height": 193,
@@ -93459,7 +93459,7 @@ module.exports = [
   },
   {
     "id": "charles-bassey",
-    "name": "查尔斯·Bassey",
+    "name": "奇尔勒斯·巴斯塞伊",
     "name_en": "Charles Bassey",
     "position": "PF",
     "height": 206,
@@ -93497,7 +93497,7 @@ module.exports = [
   },
   {
     "id": "cat-barber",
-    "name": "Cat Barber",
+    "name": "卡特·巴尔贝尔",
     "name_en": "Cat Barber",
     "position": "PG",
     "height": 185,
@@ -93533,7 +93533,7 @@ module.exports = [
   },
   {
     "id": "carlik-jones",
-    "name": "Carlik·琼斯",
+    "name": "卡尔利克·乔内斯",
     "name_en": "Carlik Jones",
     "position": "PG",
     "height": 183,
@@ -93571,7 +93571,7 @@ module.exports = [
   },
   {
     "id": "cameron-mcgriff",
-    "name": "卡梅伦·Mcgriff",
+    "name": "卡梅罗恩·麦克格夫",
     "name_en": "Cameron McGriff",
     "position": "SF",
     "height": 201,
@@ -93607,7 +93607,7 @@ module.exports = [
   },
   {
     "id": "cam-thomas",
-    "name": "Cam·托马斯",
+    "name": "卡姆·斯姆斯",
     "name_en": "Cam Thomas",
     "position": "SG",
     "height": 190,
@@ -93643,7 +93643,7 @@ module.exports = [
   },
   {
     "id": "braxton-key",
-    "name": "Braxton Key",
+    "name": "布克斯顿·凯伊",
     "name_en": "Braxton Key",
     "position": "SF",
     "height": 203,
@@ -93679,7 +93679,7 @@ module.exports = [
   },
   {
     "id": "chaundee-brown-jr",
-    "name": "Chaundee·二世",
+    "name": "奇昂德埃·杰尔",
     "name_en": "Chaundee Brown Jr.",
     "position": "SF",
     "height": 196,
@@ -93751,7 +93751,7 @@ module.exports = [
   },
   {
     "id": "daishen-nix",
-    "name": "Daishen Nix",
+    "name": "达什恩·尼克斯",
     "name_en": "Daishen Nix",
     "position": "PG",
     "height": 193,
@@ -93787,7 +93787,7 @@ module.exports = [
   },
   {
     "id": "dalano-banton",
-    "name": "Dalano Banton",
+    "name": "达拉诺·巴恩顿",
     "name_en": "Dalano Banton",
     "position": "SF",
     "height": 201,
@@ -93823,7 +93823,7 @@ module.exports = [
   },
   {
     "id": "craig-sword",
-    "name": "Craig Sword",
+    "name": "克阿格·斯德",
     "name_en": "Craig Sword",
     "position": "PG",
     "height": 190,
@@ -93895,7 +93895,7 @@ module.exports = [
   },
   {
     "id": "corey-kispert",
-    "name": "Corey Kispert",
+    "name": "科尔伊·基斯特",
     "name_en": "Corey Kispert",
     "position": "SF",
     "height": 198,
@@ -93931,7 +93931,7 @@ module.exports = [
   },
   {
     "id": "brandon-boston",
-    "name": "布兰登·Boston",
+    "name": "布德昂·博斯特昂",
     "name_en": "Brandon Boston",
     "position": "PG",
     "height": 198,
@@ -94075,7 +94075,7 @@ module.exports = [
   },
   {
     "id": "davion-mitchell",
-    "name": "Davion·米切尔",
+    "name": "达维昂·米特奇尔",
     "name_en": "Davion Mitchell",
     "position": "PG",
     "height": 183,
@@ -94147,7 +94147,7 @@ module.exports = [
   },
   {
     "id": "ade-murkey",
-    "name": "Ade Murkey",
+    "name": "德埃·穆尔凯伊",
     "name_en": "Ade Murkey",
     "position": "PG",
     "height": 196,
@@ -94183,7 +94183,7 @@ module.exports = [
   },
   {
     "id": "ahmad-caver",
-    "name": "Ahmad Caver",
+    "name": "赫马德·卡维尔",
     "name_en": "Ahmad Caver",
     "position": "SG",
     "height": 188,
@@ -94219,7 +94219,7 @@ module.exports = [
   },
   {
     "id": "dayron-sharpe",
-    "name": "Day'Ron Sharpe",
+    "name": "达尔昂·什尔佩",
     "name_en": "Day'Ron Sharpe",
     "position": "C",
     "height": 206,
@@ -94255,7 +94255,7 @@ module.exports = [
   },
   {
     "id": "dejon-jarreau",
-    "name": "DeJon Jarreau",
+    "name": "德乔恩·贾尔雷阿乌",
     "name_en": "DeJon Jarreau",
     "position": "PG",
     "height": 196,
@@ -94291,7 +94291,7 @@ module.exports = [
   },
   {
     "id": "aleem-ford",
-    "name": "Aleem·福特",
+    "name": "尔姆·福德",
     "name_en": "Aleem Ford",
     "position": "SF",
     "height": 203,
@@ -94327,7 +94327,7 @@ module.exports = [
   },
   {
     "id": "ayo-dosunmu",
-    "name": "Ayo·多森姆",
+    "name": "伊奥·多苏恩穆",
     "name_en": "Ayo Dosunmu",
     "position": "SG",
     "height": 196,
@@ -94363,7 +94363,7 @@ module.exports = [
   },
   {
     "id": "bones-hyland",
-    "name": "Bones·海兰",
+    "name": "博内斯·海兰",
     "name_en": "Bones Hyland",
     "position": "PG",
     "height": 188,
@@ -94401,7 +94401,7 @@ module.exports = [
   },
   {
     "id": "alekesej-pokusevski",
-    "name": "Alekesej Pokusevski",
+    "name": "尔凯塞杰·波库塞维斯克伊",
     "name_en": "Alekesej Pokusevski",
     "position": "SF",
     "height": 213,
@@ -94437,7 +94437,7 @@ module.exports = [
   },
   {
     "id": "arnoldas-kulboka",
-    "name": "Arnoldas Kulboka",
+    "name": "尔诺尔达斯·库尔博卡",
     "name_en": "Arnoldas Kulboka",
     "position": "SF",
     "height": 208,
@@ -94509,7 +94509,7 @@ module.exports = [
   },
   {
     "id": "austin-reaves",
-    "name": "Austin Reaves",
+    "name": "阿斯特因·雷夫斯",
     "name_en": "Austin Reaves",
     "position": "SG",
     "height": 196,
@@ -94545,7 +94545,7 @@ module.exports = [
   },
   {
     "id": "omer-yurtseven",
-    "name": "Omer Yurtseven",
+    "name": "姆尔·尤尔特塞维恩",
     "name_en": "Omer Yurtseven",
     "position": "C",
     "height": 211,
@@ -94581,7 +94581,7 @@ module.exports = [
   },
   {
     "id": "olivier-sarr",
-    "name": "Olivier Sarr",
+    "name": "尔夫尔·萨尔",
     "name_en": "Olivier Sarr",
     "position": "C",
     "height": 211,
@@ -94617,7 +94617,7 @@ module.exports = [
   },
   {
     "id": "nic-claxton",
-    "name": "Nic Claxton",
+    "name": "尼克·克斯顿",
     "name_en": "Nic Claxton",
     "position": "C",
     "height": 211,
@@ -94761,7 +94761,7 @@ module.exports = [
   },
   {
     "id": "neemias-queta",
-    "name": "Neemias Queta",
+    "name": "内姆伊斯·奎乌塔",
     "name_en": "Neemias Queta",
     "position": "C",
     "height": 213,
@@ -94797,7 +94797,7 @@ module.exports = [
   },
   {
     "id": "paris-bass",
-    "name": "Paris Bass",
+    "name": "帕里斯·巴斯",
     "name_en": "Paris Bass",
     "position": "SF",
     "height": 203,
@@ -94833,7 +94833,7 @@ module.exports = [
   },
   {
     "id": "rob-edwards",
-    "name": "Rob·爱德华兹",
+    "name": "罗布·德瓦尔德斯",
     "name_en": "Rob Edwards",
     "position": "SG",
     "height": 196,
@@ -94869,7 +94869,7 @@ module.exports = [
   },
   {
     "id": "rj-nembhard-jr",
-    "name": "Rj·二世",
+    "name": "尔杰·杰尔",
     "name_en": "RJ Nembhard Jr.",
     "position": "SG",
     "height": 193,
@@ -94905,7 +94905,7 @@ module.exports = [
   },
   {
     "id": "petr-cornelie",
-    "name": "Petr Cornelie",
+    "name": "佩特·科尔内利埃",
     "name_en": "Petr Cornelie",
     "position": "SF",
     "height": 211,
@@ -94941,7 +94941,7 @@ module.exports = [
   },
   {
     "id": "quentin-grimes",
-    "name": "Quentin Grimes",
+    "name": "奎乌特因·格姆斯",
     "name_en": "Quentin Grimes",
     "position": "PG",
     "height": 196,
@@ -94977,7 +94977,7 @@ module.exports = [
   },
   {
     "id": "mac-mcclung",
-    "name": "Mac McClung",
+    "name": "马克·麦克昂",
     "name_en": "Mac McClung",
     "position": "PG",
     "height": 188,
@@ -95015,7 +95015,7 @@ module.exports = [
   },
   {
     "id": "mj-walker",
-    "name": "M.J·沃克",
+    "name": "姆杰·瓦尔克尔",
     "name_en": "M.J. Walker",
     "position": "SG",
     "height": 196,
@@ -95089,7 +95089,7 @@ module.exports = [
   },
   {
     "id": "lindy-waters-iii",
-    "name": "Lindy·三世",
+    "name": "利恩迪·伊",
     "name_en": "Lindy Waters III",
     "position": "SF",
     "height": 198,
@@ -95125,7 +95125,7 @@ module.exports = [
   },
   {
     "id": "lindell-wigginton",
-    "name": "Lindell Wigginton",
+    "name": "利恩德尔·威格吉恩顿",
     "name_en": "Lindell Wigginton",
     "position": "SG",
     "height": 185,
@@ -95161,7 +95161,7 @@ module.exports = [
   },
   {
     "id": "leandro-bolmaro",
-    "name": "Leandro Bolmaro",
+    "name": "勒德罗·博尔马罗",
     "name_en": "Leandro Bolmaro",
     "position": "SF",
     "height": 198,
@@ -95199,7 +95199,7 @@ module.exports = [
   },
   {
     "id": "jeremiah-robinson-earl",
-    "name": "Jeremiah Robinson-Earl",
+    "name": "杰雷米赫·罗比恩斯昂-尔",
     "name_en": "Jeremiah Robinson-Earl",
     "position": "SF",
     "height": 203,
@@ -95235,7 +95235,7 @@ module.exports = [
   },
   {
     "id": "malcolm-hill",
-    "name": "Malcolm·希尔",
+    "name": "马尔科尔姆·希尔",
     "name_en": "Malcolm Hill",
     "position": "SF",
     "height": 198,
@@ -95271,7 +95271,7 @@ module.exports = [
   },
   {
     "id": "mckinley-wright-iv",
-    "name": "McKinley Wright IV",
+    "name": "麦克金利·夫",
     "name_en": "McKinley Wright IV",
     "position": "SG",
     "height": 180,
@@ -95309,7 +95309,7 @@ module.exports = [
   },
   {
     "id": "matt-ryan",
-    "name": "Matt·瑞安",
+    "name": "马特·里恩",
     "name_en": "Matt Ryan",
     "position": "SF",
     "height": 198,
@@ -95347,7 +95347,7 @@ module.exports = [
   },
   {
     "id": "miles-mcbride",
-    "name": "迈尔斯·Mcbride",
+    "name": "米勒斯·麦克布德",
     "name_en": "Miles McBride",
     "position": "SG",
     "height": 188,
@@ -95419,7 +95419,7 @@ module.exports = [
   },
   {
     "id": "marko-simonovic",
-    "name": "Marko Simonovic",
+    "name": "马尔科·西莫诺维克",
     "name_en": "Marko Simonovic",
     "position": "C",
     "height": 213,
@@ -95455,7 +95455,7 @@ module.exports = [
   },
   {
     "id": "micah-potter",
-    "name": "Micah Potter",
+    "name": "米卡赫·波特尔",
     "name_en": "Micah Potter",
     "position": "C",
     "height": 203,
@@ -95493,7 +95493,7 @@ module.exports = [
   },
   {
     "id": "justin-champagnie",
-    "name": "Justin Champagnie",
+    "name": "朱斯特因·奇姆帕格尼埃",
     "name_en": "Justin Champagnie",
     "position": "SG",
     "height": 198,
@@ -95531,7 +95531,7 @@ module.exports = [
   },
   {
     "id": "kai-jones",
-    "name": "Kai·琼斯",
+    "name": "卡伊·乔内斯",
     "name_en": "Kai Jones",
     "position": "PF",
     "height": 211,
@@ -95567,7 +95567,7 @@ module.exports = [
   },
   {
     "id": "keifer-sykes",
-    "name": "Keifer Sykes",
+    "name": "凯夫尔·西凯斯",
     "name_en": "Keifer Sykes",
     "position": "SG",
     "height": 180,
@@ -95603,7 +95603,7 @@ module.exports = [
   },
   {
     "id": "kevin-pangos",
-    "name": "凯文·Pangos",
+    "name": "凯维恩·帕恩戈斯",
     "name_en": "Kevin Pangos",
     "position": "PG",
     "height": 185,
@@ -95639,7 +95639,7 @@ module.exports = [
   },
   {
     "id": "keon-johnson",
-    "name": "Keon·约翰逊",
+    "name": "凯昂·乔赫恩斯昂",
     "name_en": "Keon Johnson",
     "position": "SG",
     "height": 190,
@@ -95713,7 +95713,7 @@ module.exports = [
   },
   {
     "id": "jon-teske",
-    "name": "Jon Teske",
+    "name": "乔恩·特斯克埃",
     "name_en": "Jon Teske",
     "position": "C",
     "height": 216,
@@ -95749,7 +95749,7 @@ module.exports = [
   },
   {
     "id": "joel-ayayi",
-    "name": "乔尔·Ayayi",
+    "name": "乔尔·伊",
     "name_en": "Joel Ayayi",
     "position": "SG",
     "height": 193,
@@ -95785,7 +95785,7 @@ module.exports = [
   },
   {
     "id": "joe-wieskamp",
-    "name": "乔·Wieskamp",
+    "name": "乔埃·威斯卡姆普",
     "name_en": "Joe Wieskamp",
     "position": "SG",
     "height": 198,
@@ -95823,7 +95823,7 @@ module.exports = [
   },
   {
     "id": "jock-landale",
-    "name": "Jock Landale",
+    "name": "乔克·兰尔",
     "name_en": "Jock Landale",
     "position": "C",
     "height": 211,
@@ -95861,7 +95861,7 @@ module.exports = [
   },
   {
     "id": "jericho-sims",
-    "name": "Jericho·西姆斯",
+    "name": "杰里奇奥·西姆斯",
     "name_en": "Jericho Sims",
     "position": "C",
     "height": 208,
@@ -95969,7 +95969,7 @@ module.exports = [
   },
   {
     "id": "jose-alvarado",
-    "name": "Jose Alvarado",
+    "name": "乔塞·尔瓦拉多",
     "name_en": "Jose Alvarado",
     "position": "PG",
     "height": 183,
@@ -96005,7 +96005,7 @@ module.exports = [
   },
   {
     "id": "jordan-schakel",
-    "name": "Jordan Schakel",
+    "name": "乔尔达恩·斯哈凯尔",
     "name_en": "Jordan Schakel",
     "position": "SG",
     "height": 198,
@@ -96041,7 +96041,7 @@ module.exports = [
   },
   {
     "id": "jordan-goodwin",
-    "name": "Jordan Goodwin",
+    "name": "乔尔达恩·戈德威恩",
     "name_en": "Jordan Goodwin",
     "position": "SG",
     "height": 190,
@@ -96077,7 +96077,7 @@ module.exports = [
   },
   {
     "id": "josh-christopher",
-    "name": "约什·Christopher",
+    "name": "乔什·奇里斯特普赫尔",
     "name_en": "Josh Christopher",
     "position": "SG",
     "height": 193,
@@ -96113,7 +96113,7 @@ module.exports = [
   },
   {
     "id": "joshua-primo",
-    "name": "Joshua·普里莫",
+    "name": "乔什乌阿·普姆奥",
     "name_en": "Joshua Primo",
     "position": "PG",
     "height": 198,
@@ -96149,7 +96149,7 @@ module.exports = [
   },
   {
     "id": "shaq-buchanan",
-    "name": "Shaq Buchanan",
+    "name": "什阿奎·布奇恩",
     "name_en": "Shaq Buchanan",
     "position": "PG",
     "height": 190,
@@ -96185,7 +96185,7 @@ module.exports = [
   },
   {
     "id": "sharife-cooper",
-    "name": "Sharife·库珀",
+    "name": "什尔夫·科普尔",
     "name_en": "Sharife Cooper",
     "position": "SG",
     "height": 185,
@@ -96221,7 +96221,7 @@ module.exports = [
   },
   {
     "id": "sam-hauser",
-    "name": "萨姆·Hauser",
+    "name": "萨姆·哈斯尔",
     "name_en": "Sam Hauser",
     "position": "SF",
     "height": 201,
@@ -96257,7 +96257,7 @@ module.exports = [
   },
   {
     "id": "sandro-mamukelashvili",
-    "name": "Sandro Mamukelashvili",
+    "name": "萨恩德罗·马穆凯拉什维利",
     "name_en": "Sandro Mamukelashvili",
     "position": "PF",
     "height": 208,
@@ -96295,7 +96295,7 @@ module.exports = [
   },
   {
     "id": "santi-aldama",
-    "name": "Santi Aldama",
+    "name": "萨恩蒂·尔达马",
     "name_en": "Santi Aldama",
     "position": "PF",
     "height": 213,
@@ -96403,7 +96403,7 @@ module.exports = [
   },
   {
     "id": "tre-mann",
-    "name": "Tre·曼恩",
+    "name": "特埃·曼恩",
     "name_en": "Tre Mann",
     "position": "SG",
     "height": 190,
@@ -96439,7 +96439,7 @@ module.exports = [
   },
   {
     "id": "trendon-watford",
-    "name": "Trendon Watford",
+    "name": "特德昂·瓦特福德",
     "name_en": "Trendon Watford",
     "position": "SG",
     "height": 203,
@@ -96475,7 +96475,7 @@ module.exports = [
   },
   {
     "id": "trevelin-queen",
-    "name": "Trevelin Queen",
+    "name": "特夫利恩·奎乌恩",
     "name_en": "Trevelin Queen",
     "position": "SG",
     "height": 198,
@@ -96513,7 +96513,7 @@ module.exports = [
   },
   {
     "id": "trayvon-palmer",
-    "name": "Trayvon Palmer",
+    "name": "特伊沃恩·帕尔梅尔",
     "name_en": "Trayvon Palmer",
     "position": "PG",
     "height": 198,
@@ -96549,7 +96549,7 @@ module.exports = [
   },
   {
     "id": "trevon-scott",
-    "name": "Trevon Scott",
+    "name": "特夫昂·斯特",
     "name_en": "Trevon Scott",
     "position": "SF",
     "height": 203,
@@ -96585,7 +96585,7 @@ module.exports = [
   },
   {
     "id": "trey-murphy-iii",
-    "name": "Trey·三世",
+    "name": "特伊·伊",
     "name_en": "Trey Murphy III",
     "position": "SF",
     "height": 203,
@@ -96659,7 +96659,7 @@ module.exports = [
   },
   {
     "id": "quenton-jackson",
-    "name": "Quenton·杰克逊",
+    "name": "奎乌特昂·贾克森",
     "name_en": "Quenton Jackson",
     "position": "PG",
     "height": 196,
@@ -96695,7 +96695,7 @@ module.exports = [
   },
   {
     "id": "raiquan-gray",
-    "name": "Raiquan·格雷",
+    "name": "拉伊奎乌恩·格伊",
     "name_en": "RaiQuan Gray",
     "position": "SF",
     "height": 201,
@@ -96731,7 +96731,7 @@ module.exports = [
   },
   {
     "id": "peyton-watson",
-    "name": "Peyton·沃森",
+    "name": "佩伊顿·瓦特森",
     "name_en": "Peyton Watson",
     "position": "SG",
     "height": 201,
@@ -96767,7 +96767,7 @@ module.exports = [
   },
   {
     "id": "patrick-baldwin",
-    "name": "帕特里克·Baldwin",
+    "name": "帕特克·巴尔德威恩",
     "name_en": "Patrick Baldwin",
     "position": "SF",
     "height": 206,
@@ -96803,7 +96803,7 @@ module.exports = [
   },
   {
     "id": "paolo-banchero",
-    "name": "Paolo Banchero",
+    "name": "帕尔奥·巴恩奇罗",
     "name_en": "Paolo Banchero",
     "position": "SF",
     "height": 208,
@@ -96839,7 +96839,7 @@ module.exports = [
   },
   {
     "id": "ryan-rollins",
-    "name": "Ryan Rollins",
+    "name": "里恩·罗尔斯",
     "name_en": "Ryan Rollins",
     "position": "PG",
     "height": 190,
@@ -96875,7 +96875,7 @@ module.exports = [
   },
   {
     "id": "ron-harper-jr",
-    "name": "Ron·二世",
+    "name": "罗恩·杰尔",
     "name_en": "Ron Harper Jr.",
     "position": "SG",
     "height": 196,
@@ -96911,7 +96911,7 @@ module.exports = [
   },
   {
     "id": "moussa-diabate",
-    "name": "Moussa Diabate",
+    "name": "莫斯阿·迪布特埃",
     "name_en": "Moussa Diabate",
     "position": null,
     "height": 208,
@@ -96947,7 +96947,7 @@ module.exports = [
   },
   {
     "id": "ousmane-dieng",
-    "name": "Ousmane·迪昂",
+    "name": "斯曼埃·迪恩格",
     "name_en": "Ousmane Dieng",
     "position": "SF",
     "height": 206,
@@ -96983,7 +96983,7 @@ module.exports = [
   },
   {
     "id": "orlando-robinson",
-    "name": "Orlando·罗宾逊",
+    "name": "尔兰奥·罗比恩森",
     "name_en": "Orlando Robinson",
     "position": "C",
     "height": 208,
@@ -97019,7 +97019,7 @@ module.exports = [
   },
   {
     "id": "ochai-agbaji",
-    "name": "Ochai Agbaji",
+    "name": "克哈伊·格巴吉",
     "name_en": "Ochai Agbaji",
     "position": "SG",
     "height": 196,
@@ -97055,7 +97055,7 @@ module.exports = [
   },
   {
     "id": "nikola-jovic",
-    "name": "尼古拉·Jovic",
+    "name": "尼科拉·乔维克",
     "name_en": "Nikola Jovic",
     "position": null,
     "height": 208,
@@ -97127,7 +97127,7 @@ module.exports = [
   },
   {
     "id": "tyty-washington-jr",
-    "name": "Tyty·二世",
+    "name": "蒂·杰尔",
     "name_en": "TyTy Washington Jr.",
     "position": "PG",
     "height": 190,
@@ -97163,7 +97163,7 @@ module.exports = [
   },
   {
     "id": "trevor-keels",
-    "name": "Trevor Keels",
+    "name": "特夫尔·凯斯",
     "name_en": "Trevor Keels",
     "position": "SG",
     "height": 193,
@@ -97199,7 +97199,7 @@ module.exports = [
   },
   {
     "id": "trevor-hudgins",
-    "name": "Trevor Hudgins",
+    "name": "特夫尔·胡德吉恩斯",
     "name_en": "Trevor Hudgins",
     "position": "PG",
     "height": 183,
@@ -97271,7 +97271,7 @@ module.exports = [
   },
   {
     "id": "xavier-cooks",
-    "name": "Xavier Cooks",
+    "name": "克斯夫尔·科克斯",
     "name_en": "Xavier Cooks",
     "position": "SF",
     "height": 203,
@@ -97307,7 +97307,7 @@ module.exports = [
   },
   {
     "id": "wendell-moore-jr",
-    "name": "Wendell·二世",
+    "name": "韦恩德尔·杰尔",
     "name_en": "Wendell Moore Jr.",
     "position": "SG",
     "height": 196,
@@ -97343,7 +97343,7 @@ module.exports = [
   },
   {
     "id": "walker-kessler",
-    "name": "Walker Kessler",
+    "name": "瓦尔克尔·凯斯尔",
     "name_en": "Walker Kessler",
     "position": "C",
     "height": 213,
@@ -97379,7 +97379,7 @@ module.exports = [
   },
   {
     "id": "stanley-umude",
-    "name": "Stanley Umude",
+    "name": "斯特恩利·姆德",
     "name_en": "Stanley Umude",
     "position": "PG",
     "height": 198,
@@ -97415,7 +97415,7 @@ module.exports = [
   },
   {
     "id": "simone-fontecchio",
-    "name": "Simone Fontecchio",
+    "name": "西蒙埃·福恩特克奇伊奥",
     "name_en": "Simone Fontecchio",
     "position": "SF",
     "height": 201,
@@ -97451,7 +97451,7 @@ module.exports = [
   },
   {
     "id": "shaedon-sharpe",
-    "name": "Shaedon Sharpe",
+    "name": "什阿德昂·什尔佩",
     "name_en": "Shaedon Sharpe",
     "position": "SG",
     "height": 196,
@@ -97523,7 +97523,7 @@ module.exports = [
   },
   {
     "id": "tari-eason",
-    "name": "Tari Eason",
+    "name": "塔里·斯昂",
     "name_en": "Tari Eason",
     "position": "SF",
     "height": 203,
@@ -97595,7 +97595,7 @@ module.exports = [
   },
   {
     "id": "dereon-seabron",
-    "name": "Dereon Seabron",
+    "name": "德雷昂·塞布罗恩",
     "name_en": "Dereon Seabron",
     "position": "PG",
     "height": 196,
@@ -97631,7 +97631,7 @@ module.exports = [
   },
   {
     "id": "dominick-barlow",
-    "name": "Dominick Barlow",
+    "name": "多米尼克·巴尔洛沃",
     "name_en": "Dominick Barlow",
     "position": "SF",
     "height": 206,
@@ -97703,7 +97703,7 @@ module.exports = [
   },
   {
     "id": "darius-days",
-    "name": "Darius Days",
+    "name": "达里斯·达伊斯",
     "name_en": "Darius Days",
     "position": "SF",
     "height": 201,
@@ -97739,7 +97739,7 @@ module.exports = [
   },
   {
     "id": "david-roddy",
-    "name": "大卫·Roddy",
+    "name": "达维德·罗德迪",
     "name_en": "David Roddy",
     "position": "SF",
     "height": 193,
@@ -97775,7 +97775,7 @@ module.exports = [
   },
   {
     "id": "dru-smith",
-    "name": "Dru·史密斯",
+    "name": "德乌·斯",
     "name_en": "Dru Smith",
     "position": "PG",
     "height": 190,
@@ -97811,7 +97811,7 @@ module.exports = [
   },
   {
     "id": "dyson-daniels",
-    "name": "Dyson·丹尼尔斯",
+    "name": "迪森·达尼斯",
     "name_en": "Dyson Daniels",
     "position": "PG",
     "height": 201,
@@ -97847,7 +97847,7 @@ module.exports = [
   },
   {
     "id": "bennedict-mathurin",
-    "name": "Bennedict Mathurin",
+    "name": "贝恩内迪克特·马斯尔因",
     "name_en": "Bennedict Mathurin",
     "position": "SG",
     "height": 196,
@@ -97883,7 +97883,7 @@ module.exports = [
   },
   {
     "id": "blake-wesley",
-    "name": "布雷克·Wesley",
+    "name": "布拉凯·韦斯伊",
     "name_en": "Blake Wesley",
     "position": "PG",
     "height": 193,
@@ -97955,7 +97955,7 @@ module.exports = [
   },
   {
     "id": "aj-lawson",
-    "name": "A.J·劳森",
+    "name": "阿杰·拉沃森",
     "name_en": "A.J. Lawson",
     "position": "PG",
     "height": 198,
@@ -97991,7 +97991,7 @@ module.exports = [
   },
   {
     "id": "aj-green",
-    "name": "Aj·格林",
+    "name": "阿杰·格恩",
     "name_en": "AJ Green",
     "position": "PG",
     "height": 196,
@@ -98027,7 +98027,7 @@ module.exports = [
   },
   {
     "id": "aj-griffin",
-    "name": "Aj·格里芬",
+    "name": "阿杰·格夫因",
     "name_en": "AJ Griffin",
     "position": "SF",
     "height": 198,
@@ -98063,7 +98063,7 @@ module.exports = [
   },
   {
     "id": "alondes-williams",
-    "name": "Alondes·威廉姆斯",
+    "name": "尔德斯·威尔伊姆斯",
     "name_en": "Alondes Williams",
     "position": "PG",
     "height": 193,
@@ -98099,7 +98099,7 @@ module.exports = [
   },
   {
     "id": "andrew-nembhard",
-    "name": "Andrew Nembhard",
+    "name": "德雷沃·内姆布哈尔德",
     "name_en": "Andrew Nembhard",
     "position": "SG",
     "height": 190,
@@ -98135,7 +98135,7 @@ module.exports = [
   },
   {
     "id": "christian-braun",
-    "name": "Christian·布劳恩",
+    "name": "奇里斯特伊恩·布昂",
     "name_en": "Christian Braun",
     "position": "PG",
     "height": 198,
@@ -98171,7 +98171,7 @@ module.exports = [
   },
   {
     "id": "christian-koloko",
-    "name": "Christian Koloko",
+    "name": "奇里斯特伊恩·科洛科",
     "name_en": "Christian Koloko",
     "position": "C",
     "height": 213,
@@ -98207,7 +98207,7 @@ module.exports = [
   },
   {
     "id": "cole-swider",
-    "name": "科尔·Swider",
+    "name": "科勒·斯德尔",
     "name_en": "Cole Swider",
     "position": "SF",
     "height": 206,
@@ -98243,7 +98243,7 @@ module.exports = [
   },
   {
     "id": "dalen-terry",
-    "name": "Dalen Terry",
+    "name": "达勒恩·特尔里",
     "name_en": "Dalen Terry",
     "position": "SF",
     "height": 201,
@@ -98279,7 +98279,7 @@ module.exports = [
   },
   {
     "id": "bryce-mcgowens",
-    "name": "Bryce McGowens",
+    "name": "布斯·麦克戈韦恩斯",
     "name_en": "Bryce McGowens",
     "position": "PG",
     "height": 198,
@@ -98315,7 +98315,7 @@ module.exports = [
   },
   {
     "id": "buddy-boeheim",
-    "name": "巴迪·Boeheim",
+    "name": "布德迪·博赫埃姆",
     "name_en": "Buddy Boeheim",
     "position": "SF",
     "height": 198,
@@ -98351,7 +98351,7 @@ module.exports = [
   },
   {
     "id": "caleb-houstan",
-    "name": "卡莱布·Houstan",
+    "name": "卡勒布·霍斯特恩",
     "name_en": "Caleb Houstan",
     "position": "PG",
     "height": 203,
@@ -98387,7 +98387,7 @@ module.exports = [
   },
   {
     "id": "chance-comanche",
-    "name": "Chance Comanche",
+    "name": "奇恩塞·科曼奇埃",
     "name_en": "Chance Comanche",
     "position": "C",
     "height": 208,
@@ -98423,7 +98423,7 @@ module.exports = [
   },
   {
     "id": "chima-moneke",
-    "name": "Chima Moneke",
+    "name": "奇姆阿·莫内凯",
     "name_en": "Chima Moneke",
     "position": "SF",
     "height": 196,
@@ -98495,7 +98495,7 @@ module.exports = [
   },
   {
     "id": "keon-ellis",
-    "name": "Keon·埃利斯",
+    "name": "凯昂·尔斯",
     "name_en": "Keon Ellis",
     "position": "SG",
     "height": 190,
@@ -98531,7 +98531,7 @@ module.exports = [
   },
   {
     "id": "kevon-harris",
-    "name": "Kevon·哈里斯",
+    "name": "凯沃恩·哈尔里斯",
     "name_en": "Kevon Harris",
     "position": "PG",
     "height": 198,
@@ -98567,7 +98567,7 @@ module.exports = [
   },
   {
     "id": "kennedy-chandler",
-    "name": "Kennedy Chandler",
+    "name": "凯恩内迪·奇德勒尔",
     "name_en": "Kennedy Chandler",
     "position": "PG",
     "height": 180,
@@ -98603,7 +98603,7 @@ module.exports = [
   },
   {
     "id": "justin-minaya",
-    "name": "Justin Minaya",
+    "name": "朱斯特因·明伊阿",
     "name_en": "Justin Minaya",
     "position": "SF",
     "height": 201,
@@ -98639,7 +98639,7 @@ module.exports = [
   },
   {
     "id": "keegan-murray",
-    "name": "Keegan·穆雷",
+    "name": "凯格恩·穆尔拉伊",
     "name_en": "Keegan Murray",
     "position": "SF",
     "height": 203,
@@ -98675,7 +98675,7 @@ module.exports = [
   },
   {
     "id": "kendall-brown",
-    "name": "Kendall·布朗",
+    "name": "凯恩达尔·布恩",
     "name_en": "Kendall Brown",
     "position": "SG",
     "height": 201,
@@ -98711,7 +98711,7 @@ module.exports = [
   },
   {
     "id": "kenneth-lofton-jr",
-    "name": "Kenneth·二世",
+    "name": "凯恩内斯·杰尔",
     "name_en": "Kenneth Lofton Jr.",
     "position": "SF",
     "height": 198,
@@ -98747,7 +98747,7 @@ module.exports = [
   },
   {
     "id": "marjon-beauchamp",
-    "name": "MarJon Beauchamp",
+    "name": "马尔乔恩·贝阿奇姆普",
     "name_en": "MarJon Beauchamp",
     "position": "SF",
     "height": 201,
@@ -98819,7 +98819,7 @@ module.exports = [
   },
   {
     "id": "max-christie",
-    "name": "马克斯·Christie",
+    "name": "马克斯·奇里斯特伊埃",
     "name_en": "Max Christie",
     "position": "SG",
     "height": 196,
@@ -98855,7 +98855,7 @@ module.exports = [
   },
   {
     "id": "lester-quinones",
-    "name": "Lester Quinones",
+    "name": "勒斯特·奎因恩斯",
     "name_en": "Lester Quinones",
     "position": "SG",
     "height": 193,
@@ -98891,7 +98891,7 @@ module.exports = [
   },
   {
     "id": "julian-champagnie",
-    "name": "Julian Champagnie",
+    "name": "朱利恩·奇姆帕格尼埃",
     "name_en": "Julian Champagnie",
     "position": "SF",
     "height": 201,
@@ -98927,7 +98927,7 @@ module.exports = [
   },
   {
     "id": "malaki-branham",
-    "name": "Malaki Branham",
+    "name": "马拉基·布恩哈姆",
     "name_en": "Malaki Branham",
     "position": "SF",
     "height": 193,
@@ -98999,7 +98999,7 @@ module.exports = [
   },
   {
     "id": "jamal-cain",
-    "name": "贾马尔·Cain",
+    "name": "贾马尔·卡因",
     "name_en": "Jamal Cain",
     "position": "SF",
     "height": 198,
@@ -99035,7 +99035,7 @@ module.exports = [
   },
   {
     "id": "jamaree-bouyea",
-    "name": "Jamaree Bouyea",
+    "name": "贾马雷埃·博伊埃阿",
     "name_en": "Jamaree Bouyea",
     "position": "PG",
     "height": 188,
@@ -99071,7 +99071,7 @@ module.exports = [
   },
   {
     "id": "jared-rhoden",
-    "name": "Jared Rhoden",
+    "name": "贾雷德·尔德恩",
     "name_en": "Jared Rhoden",
     "position": "SG",
     "height": 198,
@@ -99107,7 +99107,7 @@ module.exports = [
   },
   {
     "id": "jason-preston",
-    "name": "杰森·Preston",
+    "name": "贾森·普斯特昂",
     "name_en": "Jason Preston",
     "position": "SG",
     "height": 190,
@@ -99143,7 +99143,7 @@ module.exports = [
   },
   {
     "id": "jalen-duren",
-    "name": "贾伦·Duren",
+    "name": "贾勒恩·杜雷恩",
     "name_en": "Jalen Duren",
     "position": "C",
     "height": 211,
@@ -99179,7 +99179,7 @@ module.exports = [
   },
   {
     "id": "jd-davison",
-    "name": "JD Davison",
+    "name": "杰德·达维森",
     "name_en": "JD Davison",
     "position": "PG",
     "height": 185,
@@ -99215,7 +99215,7 @@ module.exports = [
   },
   {
     "id": "jabari-smith-jr",
-    "name": "Jabari·二世",
+    "name": "贾巴里·杰尔",
     "name_en": "Jabari Smith Jr.",
     "position": "SF",
     "height": 211,
@@ -99251,7 +99251,7 @@ module.exports = [
   },
   {
     "id": "jabari-walker",
-    "name": "Jabari·沃克",
+    "name": "贾巴里·瓦尔凯尔",
     "name_en": "Jabari Walker",
     "position": "SF",
     "height": 201,
@@ -99287,7 +99287,7 @@ module.exports = [
   },
   {
     "id": "jacob-gilyard",
-    "name": "Jacob Gilyard",
+    "name": "贾科布·吉利德",
     "name_en": "Jacob Gilyard",
     "position": "PG",
     "height": 175,
@@ -99359,7 +99359,7 @@ module.exports = [
   },
   {
     "id": "jaden-ivey",
-    "name": "杰登·Ivey",
+    "name": "贾登·夫伊",
     "name_en": "Jaden Ivey",
     "position": "SG",
     "height": 193,
@@ -99395,7 +99395,7 @@ module.exports = [
   },
   {
     "id": "jake-laravia",
-    "name": "Jake LaRavia",
+    "name": "贾凯·拉维阿",
     "name_en": "Jake LaRavia",
     "position": "SF",
     "height": 201,
@@ -99431,7 +99431,7 @@ module.exports = [
   },
   {
     "id": "jack-white",
-    "name": "Jack·怀特",
+    "name": "贾克·惠特",
     "name_en": "Jack White",
     "position": "SF",
     "height": 201,
@@ -99467,7 +99467,7 @@ module.exports = [
   },
   {
     "id": "jordan-hall",
-    "name": "Jordan·霍尔",
+    "name": "乔尔达恩·哈尔",
     "name_en": "Jordan Hall",
     "position": "PG",
     "height": 201,
@@ -99503,7 +99503,7 @@ module.exports = [
   },
   {
     "id": "josh-minott",
-    "name": "约什·Minott",
+    "name": "乔什·米诺特",
     "name_en": "Josh Minott",
     "position": "SF",
     "height": 203,
@@ -99539,7 +99539,7 @@ module.exports = [
   },
   {
     "id": "johnny-juzang",
-    "name": "Johnny Juzang",
+    "name": "乔赫恩尼·朱扎恩格",
     "name_en": "Johnny Juzang",
     "position": "PG",
     "height": 198,
@@ -99575,7 +99575,7 @@ module.exports = [
   },
   {
     "id": "johnny-davis",
-    "name": "Johnny·戴维斯",
+    "name": "乔赫恩尼·达维斯",
     "name_en": "Johnny Davis",
     "position": "PG",
     "height": 193,
@@ -99611,7 +99611,7 @@ module.exports = [
   },
   {
     "id": "jaylin-williams",
-    "name": "Jaylin·威廉姆斯",
+    "name": "贾伊尔因·威尔伊姆斯",
     "name_en": "Jaylin Williams",
     "position": "SF",
     "height": 206,
@@ -99647,7 +99647,7 @@ module.exports = [
   },
   {
     "id": "jeenathan-williams",
-    "name": "Jeenathan·威廉姆斯",
+    "name": "杰纳斯恩·威尔伊姆斯",
     "name_en": "Jeenathan Williams",
     "position": "SG",
     "height": 196,
@@ -99719,7 +99719,7 @@ module.exports = [
   },
   {
     "id": "jeremy-sochan",
-    "name": "杰里米·Sochan",
+    "name": "杰雷迈·索奇恩",
     "name_en": "Jeremy Sochan",
     "position": "SF",
     "height": 203,

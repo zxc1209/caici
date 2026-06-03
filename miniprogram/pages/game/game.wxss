@@ -71,6 +71,17 @@
   color: white;
 }
 
+.give-up-btn {
+  background-color: transparent;
+  color: #e94560;
+  border: 2rpx solid #e94560;
+  border-radius: 12rpx;
+  padding: 20rpx 0;
+  text-align: center;
+  font-size: 28rpx;
+  margin-top: 16rpx;
+}
+
 .success-banner {
   text-align: center;
   padding: 40rpx 0;
