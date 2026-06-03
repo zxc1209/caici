@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>NBA 猜谜游戏</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="app">
+    <!-- Home Screen -->
+    <div id="home-screen" class="screen active">
+      <div class="home-content">
+        <h1 class="home-title">NBA 猜谜游戏</h1>
+        <p class="home-subtitle">猜一位 NBA 球员，根据相似度提示找出答案</p>
+
+        <div class="section-label">游戏模式</div>
+        <div class="mode-selector" id="mode-selector">
+          <div class="mode-card selected" data-mode="daily">
+            <span class="mode-icon">&#128197;</span>
+            <span class="mode-name">每日挑战</span>
+            <span class="mode-desc">每天同一个答案</span>
+          </div>
+          <div class="mode-card" data-mode="unlimited">
+            <span class="mode-icon">&#127936;</span>
+            <span class="mode-name">无限模式</span>
+            <span class="mode-desc">随机球员无限玩</span>
+          </div>
+        </div>
+
+        <div class="section-label">难度选择</div>
+        <div class="difficulty-selector" id="difficulty-selector">
+          <button class="diff-btn selected" data-diff="1">简单</button>
+          <button class="diff-btn" data-diff="2">中等</button>
+          <button class="diff-btn" data-diff="3">困难</button>
+        </div>
+
+        <button id="start-btn" class="btn-primary">开始游戏</button>
+      </div>
+    </div>
+
+    <!-- Game Screen -->
+    <div id="game-screen" class="screen">
+      <div class="game-header">
+        <button id="back-home-btn" class="btn-text">&#8592; 返回</button>
+        <span id="mode-label" class="mode-label"></span>
+        <button id="give-up-btn" class="btn-give-up">放弃</button>
+        <button id="new-game-btn" class="btn-text">新游戏</button>
+      </div>
+
+      <div class="game-body">
+        <div class="guess-input-area">
+          <div class="input-wrapper">
+            <input
+              id="player-input"
+              type="text"
+              class="player-input"
+              placeholder="输入球员名称（中英文皆可）..."
+              autocomplete="off"
+              autocorrect="off"
+              autocapitalize="off"
+              spellcheck="false"
+            >
+            <button id="submit-btn" class="btn-submit">猜测</button>
+          </div>
+          <div id="autocomplete-dropdown" class="autocomplete-dropdown hidden"></div>
+        </div>
+
+        <div id="history-section" class="history-section hidden">
+          <h2 class="section-title">猜测历史</h2>
+          <div id="history-list" class="history-list"></div>
+        </div>
+
+        <div id="success-banner" class="success-banner hidden">
+          <div class="success-icon">&#127942;</div>
+          <h2>恭喜！你猜对了！</h2>
+          <p id="success-player-name" class="success-player-name"></p>
+          <p id="success-guess-count" class="success-guess-count"></p>
+          <div class="success-buttons">
+            <button id="view-result-btn" class="btn-primary">查看详情</button>
+            <button id="play-again-btn" class="btn-secondary">再来一局</button>
+            <button id="back-home-2-btn" class="btn-text">返回首页</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Result Screen -->
+    <div id="result-screen" class="screen">
+      <div class="result-header">
+        <h1 class="result-title">&#127942; 答案揭晓</h1>
+      </div>
+      <div id="player-detail-card" class="player-detail-card"></div>
+      <p id="guess-count-info" class="guess-count-info"></p>
+      <div class="result-buttons">
+        <button id="result-play-again" class="btn-primary">再来一局</button>
+        <button id="result-back-home" class="btn-secondary">返回首页</button>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
