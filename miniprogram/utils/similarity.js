@@ -43,11 +43,17 @@ function heightWeightScore(h1, w1, h2, w2) {
 function teammateScore(teams1, teams2) {
   for (const t1 of teams1) {
     for (const t2 of teams2) {
-      if (t1.team === t2.team) {
+      const name1 = typeof t1 === 'string' ? t1 : t1.team
+      const name2 = typeof t2 === 'string' ? t2 : t2.team
+      if (name1 === name2) {
+        // If both are strings (bulk data), we can't check time overlap, assume shared team
+        if (typeof t1 === 'string' || typeof t2 === 'string') {
+          return 0.5  // Shared team, can't verify time overlap
+        }
         const start1 = t1.start, end1 = t1.end || 2026
         const start2 = t2.start, end2 = t2.end || 2026
         if (start1 <= end2 && start2 <= end1) {
-          return 1.0
+          return 1.0  // Confirmed teammate (time overlap)
         }
       }
     }
@@ -56,8 +62,8 @@ function teammateScore(teams1, teams2) {
 }
 
 function sameTeamScore(teams1, teams2) {
-  const teamsSet1 = new Set(teams1.map(t => t.team))
-  const teamsSet2 = new Set(teams2.map(t => t.team))
+  const teamsSet1 = new Set(teams1.map(t => typeof t === 'string' ? t : t.team))
+  const teamsSet2 = new Set(teams2.map(t => typeof t === 'string' ? t : t.team))
   let count = 0
   for (const team of teamsSet1) {
     if (teamsSet2.has(team)) count++
@@ -185,9 +191,17 @@ const HINT_TEMPLATES = [
   { dim: 'teammate', gen: (g, a) => {
     for (const t1 of g.teams) {
       for (const t2 of a.teams) {
-        const s1 = t1.start, e1 = t1.end || 2026, s2 = t2.start, e2 = t2.end || 2026
-        if (t1.team === t2.team && s1 <= e2 && s2 <= e1) {
-          return `曾与答案在${t1.team}当过队友`
+        const name1 = typeof t1 === 'string' ? t1 : t1.team
+        const name2 = typeof t2 === 'string' ? t2 : t2.team
+        if (name1 === name2) {
+          // If both strings, we can't check time overlap
+          if (typeof t1 === 'string' || typeof t2 === 'string') {
+            return `曾在同一球队效力：${name1}`
+          }
+          const s1 = t1.start, e1 = t1.end || 2026, s2 = t2.start, e2 = t2.end || 2026
+          if (s1 <= e2 && s2 <= e1) {
+            return `曾与答案在${name1}当过队友`
+          }
         }
       }
     }
@@ -201,8 +215,8 @@ const HINT_TEMPLATES = [
     return `位置不同：${g.position} vs ${a.position}`
   }},
   { dim: 'sameTeam', gen: (g, a) => {
-    const teams1 = new Set(g.teams.map(t => t.team))
-    const teams2 = new Set(a.teams.map(t => t.team))
+    const teams1 = new Set(g.teams.map(t => typeof t === 'string' ? t : t.team))
+    const teams2 = new Set(a.teams.map(t => typeof t === 'string' ? t : t.team))
     for (const team of teams1) {
       if (teams2.has(team)) return `也曾效力于${team}`
     }
@@ -250,14 +264,17 @@ function generateHint(guess, answer, scores) {
     .filter(([, v]) => v >= 0.3)
     .sort(([, a], [, b]) => b - a)
 
+  const hints = []
   for (const [dim] of sorted) {
+    if (hints.length >= 3) break
     const template = HINT_TEMPLATES.find(t => t.dim === dim)
     if (!template) continue
     const hint = template.gen(guess, answer)
-    if (hint) return hint
+    if (hint && !hints.includes(hint)) hints.push(hint)
   }
 
-  return '暂无更多提示'
+  if (hints.length === 0) hints.push('暂无更多提示')
+  return hints
 }
 
 function calculateSimilarity(guess, answer) {
@@ -299,9 +316,9 @@ function calculateSimilarity(guess, answer) {
     return { score: 0, hint: '数据异常', details: scores }
   }
 
-  const hint = generateHint(guess, answer, scores)
+  const hints = generateHint(guess, answer, scores)
 
-  return { score: percentage, hint, details: scores }
+  return { score: percentage, hint: hints[0], hints, details: scores }
 }
 
 module.exports = { calculateSimilarity }

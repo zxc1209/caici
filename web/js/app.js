@@ -191,6 +191,7 @@ function processGuess(player) {
       player: player,
       similarity: result.score,
       hint: '这就是正确答案！',
+      hints: ['这就是正确答案！'],
     });
     state.gameOver = true;
     renderHistory();
@@ -202,9 +203,11 @@ function processGuess(player) {
       player: player,
       similarity: result.score,
       hint: result.hint,
+      hints: result.hints || [result.hint],
     });
     renderHistory();
-    showToast('相似度：' + result.score + '% — ' + result.hint);
+    var hintMsg = result.hints ? result.hints.join(' | ') : result.hint;
+    showToast('相似度：' + result.score + '% — ' + hintMsg);
   }
 
   // Clear input and suggestions
@@ -362,7 +365,8 @@ function renderHistory() {
 
     var hintEl = document.createElement('div');
     hintEl.className = 'history-hint';
-    hintEl.textContent = entry.hint;
+    var hintText = entry.hints ? entry.hints.join(' · ') : entry.hint;
+    hintEl.textContent = '💡 ' + hintText;
 
     info.appendChild(nameEl);
     info.appendChild(hintEl);

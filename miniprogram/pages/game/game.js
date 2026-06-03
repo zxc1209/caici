@@ -88,11 +88,12 @@ Page({
     const result = calculateSimilarity(player, this.data.answer)
     const isCorrect = player.id === this.data.answer.id
 
+    const hintStr = isCorrect ? '🎉 恭喜猜中！' : (result.hints || [result.hint]).join(' · ')
     const newGuess = {
       id: player.id,
       player,
       score: isCorrect ? 100.0 : result.score,
-      hint: isCorrect ? '🎉 恭喜猜中！' : result.hint
+      hint: hintStr
     }
 
     const guesses = [...this.data.guesses, newGuess]
