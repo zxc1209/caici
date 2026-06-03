@@ -26,7 +26,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -150,7 +150,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -305,7 +305,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -349,7 +349,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -391,10 +391,10 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -598,7 +598,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -750,11 +750,11 @@ export default [
       "TOR"
     ],
     "honors": {
-      "mvp": 0,
+      "mvp": 1,
       "championships": 0,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -908,10 +908,10 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -1409,7 +1409,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -1536,7 +1536,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -1698,7 +1698,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -1810,7 +1810,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -1889,7 +1889,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -1966,7 +1966,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -2007,7 +2007,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -2053,7 +2053,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -2105,7 +2105,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -2339,7 +2339,7 @@ export default [
       "championships": 0,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -2375,7 +2375,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -2417,7 +2417,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -2619,7 +2619,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -2661,7 +2661,7 @@ export default [
       "championships": 0,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -2787,7 +2787,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -2835,7 +2835,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -2919,7 +2919,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -3219,7 +3219,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -3336,7 +3336,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -3494,7 +3494,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -3572,7 +3572,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -3612,7 +3612,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -3653,10 +3653,10 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -3842,7 +3842,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -3884,7 +3884,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -4190,10 +4190,10 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -4271,7 +4271,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -4485,7 +4485,7 @@ export default [
       "championships": 0,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -4524,7 +4524,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -4567,7 +4567,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -4607,7 +4607,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -4720,7 +4720,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -4802,7 +4802,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -4925,7 +4925,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -5008,7 +5008,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -5051,7 +5051,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -5130,7 +5130,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -5247,7 +5247,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -5557,11 +5557,11 @@ export default [
       "HOU"
     ],
     "honors": {
-      "mvp": 0,
+      "mvp": 1,
       "championships": 0,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -5634,7 +5634,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -5677,7 +5677,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -5718,7 +5718,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -5760,7 +5760,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -5803,7 +5803,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -5991,7 +5991,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -6035,7 +6035,7 @@ export default [
       "championships": 0,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -6112,7 +6112,7 @@ export default [
       "championships": 0,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -6420,7 +6420,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -6773,7 +6773,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -6812,7 +6812,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -6890,7 +6890,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -6929,7 +6929,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -7138,7 +7138,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -7177,11 +7177,11 @@ export default [
       "SAS"
     ],
     "honors": {
-      "mvp": 0,
-      "championships": 0,
+      "mvp": 1,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -7414,7 +7414,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -7532,10 +7532,10 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -7615,7 +7615,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -7849,7 +7849,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -7931,7 +7931,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -8018,10 +8018,10 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -8056,7 +8056,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -8095,7 +8095,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -8213,7 +8213,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -8253,11 +8253,11 @@ export default [
       "PHX"
     ],
     "honors": {
-      "mvp": 0,
-      "championships": 0,
+      "mvp": 1,
+      "championships": 7,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -8494,7 +8494,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -8843,7 +8843,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -8959,7 +8959,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -9109,7 +9109,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 7,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -9190,10 +9190,10 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -9353,7 +9353,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -9704,7 +9704,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -9817,11 +9817,11 @@ export default [
       "PHX"
     ],
     "honors": {
-      "mvp": 0,
-      "championships": 0,
+      "mvp": 2,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -9894,7 +9894,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -10140,7 +10140,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -10262,7 +10262,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -10350,7 +10350,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -10514,7 +10514,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -10556,7 +10556,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -10599,7 +10599,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -10865,7 +10865,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -11142,7 +11142,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -11186,7 +11186,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 7,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -11549,7 +11549,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -11595,7 +11595,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -11678,7 +11678,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -11721,7 +11721,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -11805,7 +11805,7 @@ export default [
       "championships": 0,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -11842,7 +11842,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 8,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -12230,7 +12230,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -12309,7 +12309,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -12474,7 +12474,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -12553,7 +12553,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -12864,7 +12864,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -13135,11 +13135,11 @@ export default [
       "MIN"
     ],
     "honors": {
-      "mvp": 0,
-      "championships": 0,
+      "mvp": 1,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -13251,7 +13251,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -13294,7 +13294,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -13331,11 +13331,11 @@ export default [
       "LAL"
     ],
     "honors": {
-      "mvp": 0,
-      "championships": 0,
+      "mvp": 1,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -13375,7 +13375,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 10,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -13817,7 +13817,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -13946,7 +13946,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -14035,7 +14035,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -14082,7 +14082,7 @@ export default [
       "championships": 0,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -14388,7 +14388,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -14429,7 +14429,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -14471,10 +14471,10 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -14658,11 +14658,11 @@ export default [
       "UTA"
     ],
     "honors": {
-      "mvp": 0,
-      "championships": 0,
+      "mvp": 2,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -15038,7 +15038,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -15076,7 +15076,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -15189,7 +15189,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -15230,7 +15230,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -15310,11 +15310,11 @@ export default [
       "WAS"
     ],
     "honors": {
-      "mvp": 0,
-      "championships": 0,
+      "mvp": 5,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -15426,7 +15426,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -15507,7 +15507,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -15710,7 +15710,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -15755,7 +15755,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -15906,7 +15906,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -15947,7 +15947,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -16028,10 +16028,10 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -16149,7 +16149,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -16231,7 +16231,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -16631,7 +16631,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 8,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -16675,7 +16675,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -16716,7 +16716,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -16756,7 +16756,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -16956,7 +16956,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -17067,11 +17067,11 @@ export default [
       "PHI"
     ],
     "honors": {
-      "mvp": 0,
-      "championships": 0,
+      "mvp": 1,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -17227,10 +17227,10 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -17432,7 +17432,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -17515,7 +17515,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -17557,7 +17557,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -17760,7 +17760,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -18002,7 +18002,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -18121,7 +18121,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -18236,7 +18236,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -18351,10 +18351,10 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -18435,7 +18435,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -18482,7 +18482,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -18523,11 +18523,11 @@ export default [
       "SAS"
     ],
     "honors": {
-      "mvp": 0,
-      "championships": 0,
+      "mvp": 2,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -18678,7 +18678,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -18717,7 +18717,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -18792,7 +18792,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -18832,7 +18832,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -18874,7 +18874,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -18917,7 +18917,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -19390,7 +19390,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -19591,7 +19591,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -19635,7 +19635,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -19907,7 +19907,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -20067,7 +20067,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 8,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -20256,7 +20256,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -20299,7 +20299,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -20749,7 +20749,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -20977,11 +20977,11 @@ export default [
       "DAL"
     ],
     "honors": {
-      "mvp": 0,
-      "championships": 0,
+      "mvp": 1,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -21064,7 +21064,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -21147,7 +21147,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -21191,7 +21191,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -21339,7 +21339,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -21573,7 +21573,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -21701,7 +21701,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -21815,7 +21815,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -21947,7 +21947,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -22105,7 +22105,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -22184,7 +22184,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -22269,7 +22269,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -22389,10 +22389,10 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -22591,7 +22591,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -22635,7 +22635,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -22679,7 +22679,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -22796,7 +22796,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -22921,10 +22921,10 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -23040,7 +23040,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -23232,7 +23232,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -23273,7 +23273,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -23431,7 +23431,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -23480,7 +23480,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -23528,7 +23528,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -23613,7 +23613,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -23851,7 +23851,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -23901,7 +23901,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 7,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -24067,7 +24067,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -24275,7 +24275,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -24505,7 +24505,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 8,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -24583,7 +24583,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -24624,7 +24624,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -24964,7 +24964,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -25080,7 +25080,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -25158,7 +25158,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -25200,7 +25200,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -25565,7 +25565,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -25612,7 +25612,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -25697,7 +25697,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -25745,7 +25745,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -25957,7 +25957,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -26122,7 +26122,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -26244,7 +26244,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -26432,7 +26432,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -26472,7 +26472,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -26512,7 +26512,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -26557,7 +26557,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -26804,7 +26804,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -26888,7 +26888,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -26934,7 +26934,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -27139,7 +27139,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -27219,7 +27219,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -27259,7 +27259,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -27410,7 +27410,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -27452,7 +27452,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -27496,7 +27496,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -27620,7 +27620,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -27869,7 +27869,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -27912,7 +27912,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -28307,7 +28307,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -28352,7 +28352,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -28397,7 +28397,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -28629,7 +28629,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -28956,7 +28956,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -29037,7 +29037,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -29078,7 +29078,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -29193,7 +29193,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -29235,7 +29235,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -29468,7 +29468,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -29549,7 +29549,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 8,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -29596,10 +29596,10 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 8,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -29678,7 +29678,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -29722,7 +29722,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -29774,7 +29774,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -29898,7 +29898,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -29980,7 +29980,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -30026,7 +30026,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -30071,10 +30071,10 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -30146,7 +30146,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -30272,7 +30272,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -30316,7 +30316,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -30359,7 +30359,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -30405,7 +30405,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -30449,7 +30449,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -30653,7 +30653,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -30855,7 +30855,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -30978,7 +30978,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -31102,7 +31102,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -31147,7 +31147,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -31514,7 +31514,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -31673,7 +31673,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -31719,7 +31719,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -31799,7 +31799,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -31840,7 +31840,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -31917,7 +31917,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -32116,7 +32116,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -32271,7 +32271,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -32314,7 +32314,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -32396,7 +32396,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -32476,7 +32476,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -32712,7 +32712,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -32790,7 +32790,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -32909,7 +32909,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -32948,10 +32948,10 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -33105,7 +33105,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -33188,7 +33188,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 7,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -33324,7 +33324,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -33445,7 +33445,7 @@ export default [
       "championships": 0,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -33518,7 +33518,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -33723,7 +33723,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 8,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -33769,7 +33769,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -34008,7 +34008,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -34051,7 +34051,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -34206,7 +34206,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -34251,7 +34251,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -34568,7 +34568,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -34616,7 +34616,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -34743,7 +34743,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -34824,7 +34824,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -34865,10 +34865,10 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -34907,7 +34907,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -34952,7 +34952,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -35042,7 +35042,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -35124,7 +35124,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -35204,7 +35204,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -35286,7 +35286,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -35327,7 +35327,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -35404,7 +35404,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -35446,7 +35446,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -35490,7 +35490,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -35535,7 +35535,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -35579,7 +35579,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -35773,10 +35773,10 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
-      "hall_of_fame": false
+      "hall_of_fame": true
     },
     "play_style": null,
     "career_stats": {
@@ -35887,7 +35887,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -35936,7 +35936,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -35984,7 +35984,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -36180,7 +36180,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -36226,7 +36226,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -36268,7 +36268,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -36391,7 +36391,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -36507,7 +36507,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -36785,7 +36785,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -36866,7 +36866,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -36909,7 +36909,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -36951,7 +36951,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -36993,7 +36993,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -37039,7 +37039,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -37125,7 +37125,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -37167,8 +37167,8 @@ export default [
       "MIA"
     ],
     "honors": {
-      "mvp": 0,
-      "championships": 0,
+      "mvp": 4,
+      "championships": 7,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -37210,7 +37210,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -37290,7 +37290,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -37480,7 +37480,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -37641,7 +37641,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -37826,7 +37826,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -37870,7 +37870,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -37958,7 +37958,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -38002,7 +38002,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -38044,7 +38044,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -38264,7 +38264,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -38383,7 +38383,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -38551,7 +38551,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -38600,7 +38600,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -38683,7 +38683,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -38767,7 +38767,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -38809,7 +38809,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -38890,7 +38890,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -38934,7 +38934,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -39089,7 +39089,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 8,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -39170,7 +39170,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -39211,7 +39211,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -39409,7 +39409,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -39453,7 +39453,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -39570,7 +39570,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -39686,7 +39686,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -39763,7 +39763,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -39805,7 +39805,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -39849,7 +39849,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -40010,7 +40010,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -40052,7 +40052,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -40092,7 +40092,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -40321,7 +40321,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -40441,7 +40441,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -40485,7 +40485,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -40531,7 +40531,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -40730,7 +40730,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -40811,7 +40811,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -40900,7 +40900,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -40946,7 +40946,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -40988,7 +40988,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -41028,7 +41028,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -41347,7 +41347,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -41465,7 +41465,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -41665,7 +41665,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -41711,7 +41711,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -41830,7 +41830,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -41951,7 +41951,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -42026,7 +42026,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -42068,7 +42068,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -42113,7 +42113,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -42193,7 +42193,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -42309,7 +42309,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -42353,7 +42353,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -42400,7 +42400,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -42481,7 +42481,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -42520,7 +42520,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -42873,7 +42873,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -42913,7 +42913,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -43065,7 +43065,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -43108,7 +43108,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -43153,7 +43153,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -43200,7 +43200,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -43318,7 +43318,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -43660,7 +43660,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -43739,7 +43739,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -43817,7 +43817,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -44233,7 +44233,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -44271,7 +44271,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -44587,7 +44587,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -44756,7 +44756,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -45287,7 +45287,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -45523,7 +45523,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -45570,7 +45570,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -45655,7 +45655,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -45702,7 +45702,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -45793,7 +45793,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -45839,7 +45839,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -45885,7 +45885,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -45927,7 +45927,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -46084,7 +46084,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -46195,7 +46195,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -46278,7 +46278,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -46318,7 +46318,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -46359,7 +46359,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -46404,7 +46404,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -46488,7 +46488,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -46678,7 +46678,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -46795,7 +46795,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -46870,7 +46870,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -46908,7 +46908,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -47105,7 +47105,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -47189,7 +47189,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -47234,7 +47234,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -47320,7 +47320,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -47404,7 +47404,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -47572,7 +47572,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -47692,7 +47692,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -47771,7 +47771,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -47814,7 +47814,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -47932,7 +47932,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -47974,7 +47974,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -48018,7 +48018,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -48221,7 +48221,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -48347,7 +48347,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -48476,7 +48476,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -48611,7 +48611,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -48691,8 +48691,8 @@ export default [
       "SEA"
     ],
     "honors": {
-      "mvp": 0,
-      "championships": 0,
+      "mvp": 1,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -48732,7 +48732,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -48879,7 +48879,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -48996,7 +48996,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -49113,7 +49113,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -49197,7 +49197,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -49395,7 +49395,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -49442,7 +49442,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -49756,7 +49756,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -49838,7 +49838,7 @@ export default [
       "NYK"
     ],
     "honors": {
-      "mvp": 0,
+      "mvp": 1,
       "championships": 0,
       "all_star": 0,
       "all_nba_first": 0,
@@ -49988,7 +49988,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -50152,7 +50152,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -50232,7 +50232,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -50271,7 +50271,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -50355,7 +50355,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 9,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -50397,7 +50397,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -50438,7 +50438,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -50525,7 +50525,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -50646,7 +50646,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -50763,7 +50763,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -50807,8 +50807,8 @@ export default [
       "WAS"
     ],
     "honors": {
-      "mvp": 0,
-      "championships": 0,
+      "mvp": 1,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -50958,7 +50958,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -51004,7 +51004,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -51054,7 +51054,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -51170,7 +51170,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -51209,7 +51209,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -51362,7 +51362,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -51443,7 +51443,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -51491,7 +51491,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -51535,7 +51535,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -51577,7 +51577,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -51663,7 +51663,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -51710,7 +51710,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -51800,7 +51800,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -51929,7 +51929,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -52010,7 +52010,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -52090,7 +52090,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -52173,7 +52173,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -52254,7 +52254,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -52331,8 +52331,8 @@ export default [
       "GSW"
     ],
     "honors": {
-      "mvp": 0,
-      "championships": 0,
+      "mvp": 2,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -52524,7 +52524,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -52645,7 +52645,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -52687,7 +52687,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -52772,7 +52772,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -52861,7 +52861,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -52948,7 +52948,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -53036,7 +53036,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -53082,8 +53082,8 @@ export default [
       "PHI"
     ],
     "honors": {
-      "mvp": 0,
-      "championships": 0,
+      "mvp": 1,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -53319,7 +53319,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -53362,7 +53362,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -53402,7 +53402,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -53483,7 +53483,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -53530,7 +53530,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -53576,7 +53576,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 6,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -53857,7 +53857,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -53981,7 +53981,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -54022,7 +54022,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -54063,7 +54063,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -54143,7 +54143,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -54227,7 +54227,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 7,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -54275,7 +54275,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -54319,7 +54319,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -54365,7 +54365,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -54450,7 +54450,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -54492,7 +54492,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -54534,7 +54534,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -54659,7 +54659,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -54782,7 +54782,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -54826,7 +54826,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -54911,7 +54911,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -55033,7 +55033,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -55197,7 +55197,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -55240,7 +55240,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -55280,7 +55280,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -55367,7 +55367,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -55444,7 +55444,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -55486,7 +55486,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -55526,7 +55526,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -55602,7 +55602,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -55641,7 +55641,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -55682,7 +55682,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -55723,7 +55723,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -55952,7 +55952,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -56030,7 +56030,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -56107,7 +56107,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -56224,7 +56224,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -56415,7 +56415,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -56454,7 +56454,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -56530,7 +56530,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -56610,7 +56610,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -56766,7 +56766,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -56808,7 +56808,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -56926,7 +56926,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -56972,7 +56972,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -57015,7 +57015,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -57246,7 +57246,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -57360,7 +57360,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -57477,7 +57477,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -57672,7 +57672,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -57787,7 +57787,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -57908,7 +57908,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -57950,7 +57950,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -58028,7 +58028,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -58184,7 +58184,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -58226,7 +58226,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -58382,7 +58382,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -58536,7 +58536,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -58655,7 +58655,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -58858,7 +58858,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -59066,7 +59066,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -59181,7 +59181,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -59294,7 +59294,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -59562,7 +59562,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -59605,7 +59605,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -59648,7 +59648,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -59802,7 +59802,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -59885,7 +59885,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -60007,7 +60007,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -60047,7 +60047,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -60090,7 +60090,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -60326,7 +60326,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -60404,7 +60404,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -60556,7 +60556,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -60596,7 +60596,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -60787,7 +60787,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -60862,7 +60862,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -61022,7 +61022,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -61100,7 +61100,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -61145,7 +61145,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -61371,7 +61371,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -61685,7 +61685,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -61840,7 +61840,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -61880,7 +61880,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -61994,7 +61994,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -62069,7 +62069,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -62113,7 +62113,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -62196,7 +62196,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -62236,7 +62236,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -62705,7 +62705,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -62817,7 +62817,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -62905,7 +62905,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -63068,7 +63068,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -63149,7 +63149,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -63235,7 +63235,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -63457,8 +63457,8 @@ export default [
       "MIL"
     ],
     "honors": {
-      "mvp": 0,
-      "championships": 0,
+      "mvp": 2,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -63911,7 +63911,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -63990,7 +63990,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -64032,7 +64032,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -64075,7 +64075,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -64118,7 +64118,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -64272,7 +64272,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -64462,7 +64462,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -64544,7 +64544,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -64705,7 +64705,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -64745,7 +64745,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -64787,7 +64787,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -65069,7 +65069,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -65188,7 +65188,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -65308,7 +65308,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -65502,7 +65502,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -65544,7 +65544,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -65587,7 +65587,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -65738,7 +65738,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -65821,7 +65821,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -65864,7 +65864,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -65906,7 +65906,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -65949,7 +65949,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -66224,7 +66224,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -66346,7 +66346,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -66390,7 +66390,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -66504,7 +66504,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -66618,7 +66618,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -66662,7 +66662,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -66937,7 +66937,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -66977,7 +66977,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -67252,7 +67252,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -67369,7 +67369,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -67634,7 +67634,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -67791,7 +67791,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -68057,7 +68057,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -68208,7 +68208,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -68400,7 +68400,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -68440,7 +68440,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -68554,7 +68554,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -68594,7 +68594,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -68633,7 +68633,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -68710,7 +68710,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -68825,7 +68825,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -68903,7 +68903,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -68981,7 +68981,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -69188,7 +69188,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -69305,7 +69305,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -69419,7 +69419,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -69861,7 +69861,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -70238,7 +70238,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -70355,7 +70355,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -70435,7 +70435,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -70634,7 +70634,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -70711,7 +70711,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -70827,7 +70827,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -70939,7 +70939,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -71021,7 +71021,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -71180,7 +71180,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -71260,7 +71260,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -71339,7 +71339,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -71413,7 +71413,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -71528,7 +71528,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -71805,7 +71805,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -71844,7 +71844,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -71922,7 +71922,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -72001,7 +72001,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -72039,8 +72039,8 @@ export default [
       "DEN"
     ],
     "honors": {
-      "mvp": 0,
-      "championships": 0,
+      "mvp": 3,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -72078,7 +72078,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -72305,7 +72305,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -72418,7 +72418,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -72456,7 +72456,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -72606,7 +72606,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -72645,7 +72645,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -72685,7 +72685,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -72806,7 +72806,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -72955,7 +72955,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -73152,7 +73152,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -73193,7 +73193,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -73471,7 +73471,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -73847,7 +73847,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -73965,7 +73965,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -74006,7 +74006,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -74238,7 +74238,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -74319,7 +74319,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -74361,7 +74361,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -74477,7 +74477,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -74703,7 +74703,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -74776,7 +74776,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -74850,7 +74850,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -74887,7 +74887,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -74999,7 +74999,7 @@ export default [
       "PHI"
     ],
     "honors": {
-      "mvp": 0,
+      "mvp": 1,
       "championships": 0,
       "all_star": 0,
       "all_nba_first": 0,
@@ -75072,7 +75072,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -75109,7 +75109,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -75186,7 +75186,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -75335,7 +75335,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -75413,7 +75413,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -75533,7 +75533,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 5,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -75719,7 +75719,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -75756,7 +75756,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -75794,7 +75794,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -76015,7 +76015,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -76166,7 +76166,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -76289,7 +76289,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -76328,7 +76328,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -76408,7 +76408,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -76448,7 +76448,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -76528,7 +76528,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -76643,7 +76643,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -76871,7 +76871,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -76950,7 +76950,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -76990,7 +76990,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -77439,7 +77439,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -77517,7 +77517,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -77600,7 +77600,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -77796,7 +77796,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -77912,7 +77912,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -77988,7 +77988,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -78027,7 +78027,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -78179,7 +78179,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -78337,7 +78337,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -78524,7 +78524,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 4,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -78677,7 +78677,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -79050,7 +79050,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -79236,7 +79236,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -79456,7 +79456,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -80197,7 +80197,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -80274,7 +80274,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -80313,7 +80313,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -80468,7 +80468,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 3,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -80764,7 +80764,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -80840,7 +80840,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -80916,7 +80916,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -80992,7 +80992,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -81291,7 +81291,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -81594,7 +81594,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -82121,7 +82121,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -82238,7 +82238,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -82465,7 +82465,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -82541,7 +82541,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -82690,7 +82690,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -82876,7 +82876,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -83100,7 +83100,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -83249,7 +83249,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -83403,7 +83403,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -83482,7 +83482,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -83851,7 +83851,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -83890,7 +83890,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -83929,7 +83929,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -84040,7 +84040,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -84377,7 +84377,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -84640,7 +84640,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -84677,7 +84677,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -85236,7 +85236,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -85385,7 +85385,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -85839,7 +85839,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -86168,7 +86168,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -86205,7 +86205,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -86539,7 +86539,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -86615,7 +86615,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -86725,7 +86725,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -86799,7 +86799,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -86837,7 +86837,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -86875,7 +86875,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -86912,7 +86912,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -86986,7 +86986,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -87024,7 +87024,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -87284,7 +87284,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -87476,7 +87476,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -87554,7 +87554,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -87628,7 +87628,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -87776,7 +87776,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -87959,7 +87959,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -88072,7 +88072,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -88147,7 +88147,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -88187,7 +88187,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -88673,7 +88673,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -89043,7 +89043,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -89117,7 +89117,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -89485,7 +89485,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -89522,7 +89522,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -89667,7 +89667,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -90145,7 +90145,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -90257,7 +90257,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -90366,7 +90366,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -90850,7 +90850,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -91034,7 +91034,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -91876,7 +91876,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 2,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -91951,7 +91951,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -92025,7 +92025,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -92825,7 +92825,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -93044,7 +93044,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -93551,7 +93551,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -94128,7 +94128,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -94381,7 +94381,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -94598,7 +94598,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -94670,7 +94670,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -95106,7 +95106,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -95142,7 +95142,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -95216,7 +95216,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -95327,7 +95327,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -95511,7 +95511,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -95914,7 +95914,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -95950,7 +95950,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -96238,7 +96238,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -96275,7 +96275,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -96420,7 +96420,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -96748,7 +96748,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -96784,7 +96784,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -96856,7 +96856,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -96964,7 +96964,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -98152,7 +98152,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -98872,7 +98872,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -98980,7 +98980,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -99196,7 +99196,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -99448,7 +99448,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false
@@ -99628,7 +99628,7 @@ export default [
     ],
     "honors": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "all_star": 0,
       "all_nba_first": 0,
       "hall_of_fame": false

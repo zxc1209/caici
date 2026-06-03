@@ -237,7 +237,13 @@ const HINT_TEMPLATES = [
     if (g.college && g.college === a.college) return `同为${g.college}校友`
     return null
   }},
-  { dim: 'allStarLevel', gen: () => '全明星次数相近' },
+  { dim: 'allStarLevel', gen: (g, a) => {
+    // Only show if at least one player has actual All-Star appearances
+    if ((g.honors?.all_star || 0) > 0 || (a.honors?.all_star || 0) > 0) {
+      return '全明星次数相近'
+    }
+    return null
+  }},
   { dim: 'playStyle', gen: (g, a) => {
     if (g.play_style === a.play_style) return `球风相似：${g.play_style}`
     return null
@@ -246,8 +252,20 @@ const HINT_TEMPLATES = [
     if (g.honors.hall_of_fame && a.honors.hall_of_fame) return '同为名人堂成员'
     return null
   }},
-  { dim: 'heightWeight', gen: () => '身高体重接近' },
-  { dim: 'honors', gen: () => '荣誉级别接近' },
+  { dim: 'heightWeight', gen: (g, a) => {
+    // Only if actually close (score computation uses gaussian decay, threshold in generateHint handles this)
+    return '身高体重接近'
+  }},
+  { dim: 'honors', gen: (g, a) => {
+    // Only show if at least one player has real honors
+    const h1 = g.honors || {}, h2 = a.honors || {}
+    if ((h1.mvp || 0) > 0 || (h2.mvp || 0) > 0 ||
+        (h1.championships || 0) > 0 || (h2.championships || 0) > 0 ||
+        (h1.all_nba_first || 0) > 0 || (h2.all_nba_first || 0) > 0) {
+      return '荣誉级别接近'
+    }
+    return null
+  }},
   { dim: 'careerOverlap', gen: () => '职业生涯同时期' },
   { dim: 'careerStats', gen: () => '生涯场均数据相近' },
   { dim: 'notableRelations', gen: (g, a) => {
@@ -260,17 +278,48 @@ const HINT_TEMPLATES = [
 ]
 
 function generateHint(guess, answer, scores) {
+  // Specific hints (priority 1): teammate, sameTeam, position, draft, jerseyNumber,
+  // nationalityCollege, notableRelations
+  const SPECIFIC = ['teammate', 'sameTeam', 'position', 'draft', 'jerseyNumber',
+    'nationalityCollege', 'notableRelations']
+
   const sorted = Object.entries(scores)
     .filter(([, v]) => v >= 0.3)
     .sort(([, a], [, b]) => b - a)
 
   const hints = []
+  const seen = new Set()
+  let hasTeamHint = false  // Track if we already showed a team-related hint
+
+  // First pass: collect specific hints (max 3)
   for (const [dim] of sorted) {
     if (hints.length >= 3) break
+    if (!SPECIFIC.includes(dim)) continue
     const template = HINT_TEMPLATES.find(t => t.dim === dim)
     if (!template) continue
     const hint = template.gen(guess, answer)
-    if (hint && !hints.includes(hint)) hints.push(hint)
+    if (!hint || seen.has(hint)) continue
+
+    // Dedup team hints
+    const isTeamDim = (dim === 'teammate' || dim === 'sameTeam')
+    if (isTeamDim && hasTeamHint) continue
+
+    hints.push(hint)
+    seen.add(hint)
+    if (isTeamDim) hasTeamHint = true
+  }
+
+  // Second pass: fill remaining slots with generic hints
+  for (const [dim] of sorted) {
+    if (hints.length >= 3) break
+    if (SPECIFIC.includes(dim)) continue
+    const template = HINT_TEMPLATES.find(t => t.dim === dim)
+    if (!template) continue
+    const hint = template.gen(guess, answer)
+    if (hint && !seen.has(hint)) {
+      hints.push(hint)
+      seen.add(hint)
+    }
   }
 
   if (hints.length === 0) hints.push('暂无更多提示')
